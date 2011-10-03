@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:54-0700\n"
+"PO-Revision-Date: 2011-10-03 21:59+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: NetworkTray#1
+msgid "Configure "
+msgstr "Postavi "
+
+#: NetworkTray#2
+msgid "Start the Network Manager"
+msgstr "Pokreni upravljač mreže"
+
+#: NetworkTray#3
+msgid "Restart the Network"
+msgstr "Ponovno pokreni mrežu"
+
+#: NetworkTray#4
+msgid "IP:"
+msgstr "IP:"
+
+#: NetworkTray#5
+msgid "IPv6:"
+msgstr "IPv6:"
+
+#: NetworkTray#6
+msgid "Mac/Ether:"
+msgstr "Mac/Ether:"
+
+#: NetworkTray#7
+msgid "Media:"
+msgstr "Media:"
+
+#: NetworkTray#8
+msgid "Status:"
+msgstr "Stanje:"
+
+#: NetworkTray#9
+msgid "No connection detected.<br> Check your cable connection and try again!"
+msgstr "Nije otkrivena veza.<br> Provjerite kabele i pokušajte ponovno!"
+
+#: NetworkTray#10
+msgid "SSID:"
+msgstr "SSID:"
+
+#: NetworkTray#11
+msgid "Connection Strength:"
+msgstr "Snaga povezivanja:"
+
+#: NetworkTray#12
+msgid "Connection Speed:"
+msgstr "Brzina povezivanja:"
+
+#: NetworkTray#13
+msgid ""
+"No wireless connection detected.<br> Double-click to start the wireless "
+"configuration wizard."
+msgstr ""
+"Nije otkrivena niti jedna bežična mreža.<br> Dvostruko kliknite za "
+"pokretanje čarobnjaka bežične mreže."
+
+#: NetworkTray#14
+msgid "Unknown Wireless Device"
+msgstr "Nepoznati bežični uređaj"
+
+#: NetworkTray#15
+msgid "Device Name:"
+msgstr "Ime uređaja:"
+
+#: NetworkTray#16
+msgid "Unknown"
+msgstr "Nepozato"
+
+#: NetworkTray#17
+msgid "Close the Network Monitor"
+msgstr "Zatvori monitor mreže"
+
+#: NetworkTray#18
+msgid "Click here to configure wireless connections"
+msgstr "Kliknite ovdje za namještanje bežične veze"
+
+#: NetworkTray#19
+msgid "No Wireless Network Connection"
+msgstr "Nema bežične mrežne veze"
+
+#: NetworkTray#20
+msgid "Connecting to "
+msgstr "Spajanje sa "
+
+#: NetworkTray#21
+msgid "Please Wait"
+msgstr "Molimo pričekajte"
+
+#: NetworkTray#22
+msgid "Restarting Network"
+msgstr "Ponovno pokretanje mreže"
+
+#: netKey#1
+msgid "Please Enter Network Key"
+msgstr "Molimo unesite mrežni ključ"
+
+#: netKey#2
+msgid "SSID"
+msgstr "SSID"
+
+#: netKey#3
+msgid "Network Key"
+msgstr "Mrežni ključ"
+
+#: netKey#4
+msgid "Network Key (Repeat)"
+msgstr "Mrežni ključ (ponovno)"
+
+#: netKey#5
+msgid "Apply"
+msgstr "Primijeni"
+
+#: netKey#6
+msgid "Cancel"
+msgstr "Odustani"
+
+#: netKey#7
+msgid "Network Key Error"
+msgstr "Greška pri korištenju mrežnog ključa"
+
+#: netKey#8
+msgid "Error: The entered network keys do not match!\n"
+msgstr "Greška: Uneseni mrežni ključevi se ne podudaraju!\n"
+
+#: netKey#9
+msgid "Show network key as text"
+msgstr "Pokaži mrežni ključ kao tekst"

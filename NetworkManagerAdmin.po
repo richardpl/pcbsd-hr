@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 02:22-0700\n"
+"PO-Revision-Date: 2011-06-28 14:54+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: NetworkManAdmin#1
+msgid "System Networking Config"
+msgstr "Upravljač Postavkama Mreže"
+
+#: NetworkManAdmin#2
+msgid "System-wide configuration"
+msgstr "Postavke cijelog sustava"
+
+#: NetworkManAdmin#3
+msgid "DNS 1:"
+msgstr "DNS 1:"
+
+#: NetworkManAdmin#4
+msgid "999\\.999\\.999\\.999; "
+msgstr "999\\.999\\.999\\.999; "
+
+#: NetworkManAdmin#5
+msgid "Hostname:"
+msgstr "Ime računala:"
+
+#: NetworkManAdmin#6
+msgid "DNS 2:"
+msgstr "DNS 2:"
+
+#: NetworkManAdmin#7
+msgid "Gateway:"
+msgstr "Gateway:"
+
+#: NetworkManAdmin#8
+msgid "Enable IPv6 on this system"
+msgstr "Omogući IPv6 na ovom sustavu"
+
+#: NetworkManAdmin#9
+msgid "IPv6 gateway:"
+msgstr "IPv6 gateway:"
+
+#: NetworkManAdmin#10
+msgid "Enable PPPoE on this system"
+msgstr "Omogući PPPoE na ovom sustavu"
+
+#: NetworkManAdmin#11
+msgid "PPPOE Configuration"
+msgstr "PPPOE Postavke"
+
+#: NetworkManAdmin#12
+msgid "Username:"
+msgstr "Korisničko ime:"
+
+#: NetworkManAdmin#13
+msgid "PPPoE Device"
+msgstr "PPPoE Uređaj"
+
+#: NetworkManAdmin#14
+msgid "Password:"
+msgstr "Zaporka:"
+
+#: NetworkManAdmin#15
+msgid "Alwa&ys on connection"
+msgstr "U&vijek na vezi"
+
+#: NetworkManAdmin#16
+msgid "Alt+Y"
+msgstr "Alt+V"
+
+#: NetworkManAdmin#17
+msgid "Service name (optional):"
+msgstr "Ime servisa (neobavezno):"
+
+#: NetworkManAdmin#18
+msgid "Internet Connection Sharing"
+msgstr "Zajedničko korištenje internetske veze"
+
+#: NetworkManAdmin#19
+msgid "&Save"
+msgstr "&Sačuvaj"
+
+#: NetworkManAdmin#20
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: NetworkManAdmin#21
+msgid "Warning"
+msgstr "Upozorenje"
+
+#: NetworkManAdmin#22
+msgid "DNS #1 is out of range! ("
+msgstr "DNS #1 je izvan dosega! ("
+
+#: NetworkManAdmin#23
+msgid ") Fields must be between 0-255."
+msgstr ") Polja moraju biti između 0-255."
+
+#: NetworkManAdmin#24
+msgid "DNS #2 is out of range! ("
+msgstr "DNS #2 je izvan dosega! ("
+
+#: NetworkManAdmin#25
+msgid "Gateway is out of range! ("
+msgstr "Gateway je izvan dosega! ("
+
+#: NetworkManAdmin#26
+msgid "Please enter a hostname"
+msgstr "Molimo unesite ime računala"
+
+#: NetworkManAdmin#27
+msgid "Hostname may only contain letters and numbers"
+msgstr "Ime računala može se sastojati samo od slova i brojki"
+
+#: NetworkManAdmin#28
+msgid "Missing a PPPOE username!"
+msgstr "Nedostaje PPPOE korisničko ime!"
+
+#: NetworkManAdmin#29
+msgid "Missing a PPPOE password!"
+msgstr "Nedostaje PPPOE zaporka!"
+
+#: NetworkManAdmin#30
+msgid "Search Domain:"
+msgstr "Pretraži domenu:"
+
+#: NetworkManAdmin#31
+msgid "IPv6 Configuration"
+msgstr "IPv6 Postavke"
+
+#: NetworkManAdmin#32
+msgid "Misc"
+msgstr "Opcije"
+
+#: NetworkManAdmin#33
+msgid "Enable Lagg wired / wireless failover"
+msgstr "Omogući Lagg žični / bežični failover"

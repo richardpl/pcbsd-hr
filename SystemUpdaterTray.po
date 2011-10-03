@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:57-0700\n"
+"PO-Revision-Date: 2011-10-03 21:53+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: UpdaterTray#1
+msgid "Check for updates"
+msgstr "Provjeri za ažuriranja"
+
+#: UpdaterTray#2
+msgid "Run at startup"
+msgstr "Pokreni prilikom podizanja"
+
+#: UpdaterTray#3
+msgid "PC-BSD Update Manager"
+msgstr "PC-BSD Upravljač ažuriranja"
+
+#: UpdaterTray#4
+msgid "Checking for updates..."
+msgstr "Provjera ažuriranja..."
+
+#: UpdaterTray#5
+msgid "Failed to contact the update server!"
+msgstr "Neuspješno kontaktiranje poslužitelja ažuriranja!"
+
+#: UpdaterTray#6
+msgid "Update available"
+msgstr "Ažuriranje dostupno"
+
+#: UpdaterTray#7
+msgid "Your system is fully updated"
+msgstr "Vaš sustav je u potpunosti ažuriran"
+
+#: UpdaterTray#8
+msgid "System updates available"
+msgstr "Ažuriranje sustava dostupno"
+
+#: UpdaterTray#9
+msgid "PBI updates available"
+msgstr "PBI ažuriranje dostupno"
+
+#: UpdaterTray#10
+msgid "Start the AppCafe"
+msgstr "Pokreni AppCafe"
+
+#: UpdaterTray#11
+msgid "Quit"
+msgstr "Zatvori"
+
+#: UpdaterTray#12
+msgid "System Updates Available"
+msgstr "Ažuriranje Sustava Dostupno"
+
+#: UpdaterTray#13
+msgid "Software Updates Available"
+msgstr "Softverska Ažuriranja Dostupna"
+
+#: UpdaterTray#14
+msgid "Start the Update Manager"
+msgstr "Pokreni upravitelja ažuriranja"
+
+#: UpdaterTray#15
+msgid "Important system updates are available. Click here to install them!"
+msgstr ""
+"Važna ažuriranja sustava su dostupna. Pritisnite ovdje za njihovu "
+"instalaciju!"
+
+#: UpdaterTray#16
+msgid "Software updates are available. Click here to install them!"
+msgstr ""
+"Softverska ažuriranja su dostupna. Pritisnite ovdje za njihovu instalaciju!"

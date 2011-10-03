@@ -1,0 +1,510 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:55-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: dialogWPAEnterprise#1
+msgid "WPA-Enterprise Configuration"
+msgstr "WPA-Enterprise postavke"
+
+#: dialogWPAEnterprise#2
+msgctxt "dialogWPAEnterprise#2"
+msgid "&Close"
+msgstr "&Zatvori"
+
+#: dialogWPAEnterprise#3
+msgctxt "dialogWPAEnterprise#3"
+msgid "Alt+C"
+msgstr "Alt+Z"
+
+#: dialogWPAEnterprise#4
+msgid "WPA Enterprise Configuration"
+msgstr "WPA Enterprise postavke"
+
+#: dialogWPAEnterprise#5
+msgid "EAP authentication method"
+msgstr "EAP metoda utvrđivanja vjerodostojnosti"
+
+#: dialogWPAEnterprise#6
+msgid "EAP Identity:"
+msgstr "EAP Identitet:"
+
+#: dialogWPAEnterprise#7
+msgid "CA Certificate:"
+msgstr "CA Certifikat:"
+
+#: dialogWPAEnterprise#8
+msgid "Client Certificate:"
+msgstr "Korisnikov Certifikat:"
+
+#: dialogWPAEnterprise#9
+msgid "Private Key File:"
+msgstr "Datoteka osobnog ključa:"
+
+#: dialogWPAEnterprise#10
+msgid "Password:"
+msgstr "Zaporka:"
+
+#: dialogWPAEnterprise#11
+msgid "Repeat Password:"
+msgstr "Ponovi zaporku:"
+
+#: dialogWPAEnterprise#12
+msgid "EAP-TLS"
+msgstr "EAP-TLS"
+
+#: dialogWPAEnterprise#13
+msgid "EAP-TTLS"
+msgstr "EAP-TTLS"
+
+#: dialogWPAEnterprise#14
+msgid "EAP-PEAP"
+msgstr "EAP-PEAP"
+
+#: dialogWPAEnterprise#15
+msgctxt "dialogWPAEnterprise#15"
+msgid "Show Key"
+msgstr "Pokaži ključ"
+
+#: dialogWPAPersonal#1
+msgid "WPA Personal Config"
+msgstr "WPA osobne postavke"
+
+#: dialogWPAPersonal#2
+msgctxt "dialogWPAPersonal#2"
+msgid "&Close"
+msgstr "&Zatvori"
+
+#: dialogWPAPersonal#3
+msgctxt "dialogWPAPersonal#3"
+msgid "Alt+C"
+msgstr "Alt+Z"
+
+#: dialogWPAPersonal#4
+msgctxt "dialogWPAPersonal#4"
+msgid "Network Key"
+msgstr "Mrežni ključ"
+
+#: dialogWPAPersonal#5
+msgctxt "dialogWPAPersonal#5"
+msgid "Network Key (Repeat)"
+msgstr "Mrežni ključ (ponovi)"
+
+#: dialogWPAPersonal#6
+msgctxt "dialogWPAPersonal#6"
+msgid "Show Key"
+msgstr "Pokaži ključ"
+
+#: dialogWPAPersonal#7
+msgid "WPA Personal Configuration"
+msgstr "WPA osobne postavke"
+
+#: wepConfig#1
+msgid "WEP Configuration"
+msgstr "WEP postavke"
+
+#: wepConfig#2
+msgctxt "wepConfig#2"
+msgid "Network Key"
+msgstr "Mrežni ključ"
+
+#: wepConfig#3
+msgctxt "wepConfig#3"
+msgid "Network Key (Repeat)"
+msgstr "Mrežni ključ (ponovi)"
+
+#: wepConfig#4
+msgid "Key Index"
+msgstr "Indeks ključa"
+
+#: wepConfig#5
+msgctxt "wepConfig#5"
+msgid "&Close"
+msgstr "&Zatvori"
+
+#: wepConfig#6
+msgctxt "wepConfig#6"
+msgid "Alt+C"
+msgstr "Alt+Z"
+
+#: wepConfig#7
+msgid "Hex Key"
+msgstr "Hex Ključ"
+
+#: wepConfig#8
+msgid "Plaintext"
+msgstr "Otvoreni tekst"
+
+#: wepConfig#9
+msgctxt "wepConfig#9"
+msgid "Show Key"
+msgstr "Pokaži ključ"
+
+#: wepConfig#10
+msgid "Wireless Network Key"
+msgstr "Ključ bežične mreže"
+
+#: wificonfigwidgetbase#1
+msgid "Wireless Configuration"
+msgstr "Bežične postavke"
+
+#: wificonfigwidgetbase#2
+msgid "&General"
+msgstr "&Osnovno"
+
+#: wificonfigwidgetbase#3
+msgid "O&btain IP automatically (DHCP)"
+msgstr "Automatski do&bavi IP (DHCP)"
+
+#: wificonfigwidgetbase#4
+msgid "Alt+B"
+msgstr "Alt+B"
+
+#: wificonfigwidgetbase#5
+msgid "Alt+S"
+msgstr "Alt+S"
+
+#: wificonfigwidgetbase#6
+msgid "Assign static IP address"
+msgstr "Dodijeli statičku IP adresu"
+
+#: wificonfigwidgetbase#7
+msgid "IP:"
+msgstr "IP:"
+
+#: wificonfigwidgetbase#8
+msgid "Netmask:"
+msgstr "Netmask:"
+
+#: wificonfigwidgetbase#9
+msgid "999\\.999\\.999\\.999; "
+msgstr "999\\.999\\.999\\.999; "
+
+#: wificonfigwidgetbase#10
+msgid "Advanced"
+msgstr "Napredno"
+
+#: wificonfigwidgetbase#11
+msgid "Use hardware defau&lt MAC address"
+msgstr "Koristi &tvorničku MAC adresu"
+
+#: wificonfigwidgetbase#12
+msgid "Alt+L"
+msgstr "Alt+T"
+
+#: wificonfigwidgetbase#13
+msgid "Custom MAC address"
+msgstr "Korisnička MAC adresa"
+
+#: wificonfigwidgetbase#14
+msgid "Info"
+msgstr "Informacije"
+
+#: wificonfigwidgetbase#15
+msgid "Configuration info"
+msgstr "Informacije o postavkama"
+
+#: wificonfigwidgetbase#16
+msgid "Mac/Ether:"
+msgstr "Mac/Ether:"
+
+#: wificonfigwidgetbase#17
+msgid "Gateway:"
+msgstr "Poveznik:"
+
+#: wificonfigwidgetbase#18
+msgid "IPv6:"
+msgstr "IPv6:"
+
+#: wificonfigwidgetbase#19
+msgid "Status:"
+msgstr "Stanje:"
+
+#: wificonfigwidgetbase#20
+msgid "Media:"
+msgstr "Media:"
+
+#: wificonfigwidgetbase#21
+msgid "Traffic info"
+msgstr "Promet info"
+
+#: wificonfigwidgetbase#22
+msgid "Packets:"
+msgstr "Paketi:"
+
+#: wificonfigwidgetbase#23
+msgid "Errors:"
+msgstr "Greške:"
+
+#: wificonfigwidgetbase#24
+msgid "In:"
+msgstr "Ulaz:"
+
+#: wificonfigwidgetbase#25
+msgid "Out:"
+msgstr "Izlaz:"
+
+#: wificonfigwidgetbase#26
+msgid "Close"
+msgstr "Zatvori"
+
+#: wificonfigwidgetbase#27
+msgid "Disable this wireless device"
+msgstr "Deaktiviraj ovaj bežični uređaj"
+
+#: wificonfigwidgetbase#28
+msgid "&Apply"
+msgstr "&Primijeni"
+
+#: wificonfigwidgetbase#29
+msgid "Alt+A"
+msgstr "Alt+P"
+
+#: wificonfigwidgetbase#30
+msgid "&OK"
+msgstr "&U redu"
+
+#: wificonfigwidgetbase#31
+msgid "Alt+O"
+msgstr "Alt+U"
+
+#: wificonfigwidgetbase#32
+msgid "Missing Fields"
+msgstr "Nedostajuća polja"
+
+#: wificonfigwidgetbase#33
+msgid "You must enter an IP and Netmask to continue!\n"
+msgstr "Morate navesti IP i Netmask za nastavak!\n"
+
+#: wificonfigwidgetbase#34
+msgctxt "wificonfigwidgetbase#34"
+msgid "Warning"
+msgstr "Upozorenje"
+
+#: wificonfigwidgetbase#35
+msgid "IP Address is out of range! ("
+msgstr "IP Adresa je izvan dometa! ("
+
+#: wificonfigwidgetbase#36
+msgid ") Fields must be between 0-255."
+msgstr ") Polja moraju biti između 0-255."
+
+#: wificonfigwidgetbase#37
+msgid "Netmask is out of range! ("
+msgstr "Netmask je izvan dometa! ("
+
+#: wificonfigwidgetbase#38
+msgid "Remove"
+msgstr "Izbaci"
+
+#: wificonfigwidgetbase#39
+msgid "Error"
+msgstr "Greška"
+
+#: wificonfigwidgetbase#40
+msgid "You already have a wireless network with this SSID! Please remove it first.\n"
+msgstr "Već imate bežičnu mrežu sa ovim SSID-om! Uklonite ga.\n"
+
+#: wificonfigwidgetbase#41
+msgid "Edit"
+msgstr "Urediti"
+
+#: wificonfigwidgetbase#42
+msgid "Unknown Wireless Device"
+msgstr "Nepoznati bežični uređaj"
+
+#: wificonfigwidgetbase#43
+msgid "(Higher connections are given priority)"
+msgstr "(Više veze imaju prioritet)"
+
+#: wificonfigwidgetbase#44
+msgid "Configured Wireless Network Profiles"
+msgstr "Nemješteni profili bežične mreže"
+
+#: wificonfigwidgetbase#45
+msgid "Available Wireless Networks"
+msgstr "Dostupne bežične mreže"
+
+#: wificonfigwidgetbase#46
+msgid "Add To Profiles"
+msgstr "Dodaj u profile"
+
+#: wificonfigwidgetbase#47
+msgctxt "wificonfigwidgetbase#47"
+msgid "Scan"
+msgstr "Pretraži"
+
+#: wifiscanssid#1
+msgid "Scan for Wireless networks"
+msgstr "Pretraži bežične mreže"
+
+#: wifiscanssid#2
+msgid "Available wireless networks"
+msgstr "Dostupne bežične mreže"
+
+#: wifiscanssid#3
+msgid "&Rescan"
+msgstr "&Ponovi pretraživanje"
+
+#: wifiscanssid#4
+msgid "Alt+R"
+msgstr "Alt+R"
+
+#: wifiscanssid#5
+msgid "Select"
+msgstr "Izaberi"
+
+#: wifiscanssid#6
+msgctxt "wifiscanssid#6"
+msgid "Alt+C"
+msgstr "Alt+O"
+
+#: wifiscanssid#7
+msgctxt "wifiscanssid#7"
+msgid "Cancel"
+msgstr "Odustani"
+
+#: wifiscanssid#8
+msgid "Scanning for wireless networks..."
+msgstr "Pretraživanje bežične mreže..."
+
+#: wifiscanssid#9
+msgid "Select a wireless network to connect."
+msgstr "Izaberi bežičnu mrežu za povezivanje."
+
+#: wifiscanssid#10
+msgid "No wireless networks found!"
+msgstr "Nije pronađena nijedna bežična mreža!"
+
+#: wifiscanssid#11
+msgid "No selection"
+msgstr "Ništa nije izabrano"
+
+#: wifiscanssid#12
+msgid "Error: You must select a network to connect!\n"
+msgstr "Greška: Morate izabrati bežičnu mrežu za povezivanje!\n"
+
+#: wifiselectiondialog#1
+msgid "Select Wireless Network"
+msgstr "Izaberi Bežičnu Mrežu"
+
+#: wifiselectiondialog#2
+msgctxt "wifiselectiondialog#2"
+msgid "Alt+C"
+msgstr "Alt+O"
+
+#: wifiselectiondialog#3
+msgctxt "wifiselectiondialog#3"
+msgid "Cancel"
+msgstr "Odustani"
+
+#: wifiselectiondialog#4
+msgid "Selected Wireless Network"
+msgstr "Izabrana Bežična Mreža"
+
+#: wifiselectiondialog#5
+msgctxt "wifiselectiondialog#5"
+msgid "Scan"
+msgstr "Pretraži"
+
+#: wifiselectiondialog#6
+msgid "Using BSSID"
+msgstr "Koristim BSSID"
+
+#: wifiselectiondialog#7
+msgid "Disabled"
+msgstr "Onemogućeno"
+
+#: wifiselectiondialog#8
+msgid "WEP"
+msgstr "WEP"
+
+#: wifiselectiondialog#9
+msgid "WPA Personal"
+msgstr "Privatni WPA"
+
+#: wifiselectiondialog#10
+msgid "WPA Enterprise"
+msgstr "WPA Enterprise"
+
+#: wifiselectiondialog#11
+msgid "Configure"
+msgstr "Namjesti"
+
+#: wifiselectiondialog#12
+msgid "Add"
+msgstr "Dodaj"
+
+#: wifiselectiondialog#13
+msgid "No SSID!"
+msgstr "Nedostaje SSID!"
+
+#: wifiselectiondialog#14
+msgid "Error: You must select a wireless network to connect!\n"
+msgstr "Greška: Morate izabrati bežičnu mrežu za povezivanje!\n"
+
+#: wifiselectiondialog#15
+msgid "Invalid BSSID!"
+msgstr "Neispravan BSSID!"
+
+#: wifiselectiondialog#16
+msgid "Error: The specified BSSID appears invalid. It must be in the format "
+"xx:xx:xx:xx:xx:xx\n"
+msgstr "Greška: Navedeni BSSID je neispravan. Mora biti u formatu xx:xx:xx:xx:xx:xx\n"
+
+#: wifiselectiondialog#17
+msgctxt "wifiselectiondialog#17"
+msgid "Warning"
+msgstr "Upozorenje"
+
+#: wifiselectiondialog#18
+msgid ""
+"WEP is selected, but not configured!\n"
+"Please configure your WEP key before saving!"
+msgstr ""
+"WEP je izabran, ali nije postavljen!\n"
+"Molimo da postavite vaš WEP ključ prije čuvanja!"
+
+#: wifiselectiondialog#19
+msgid ""
+"WPA-Personal is selected, but not configured!\n"
+"Please configure your WPA key before saving!"
+msgstr ""
+"WPA-Privatan je izabran, ali nije postavljen!\n"
+"Molimo da postavite vaš WPA ključ prije čuvanja!"
+
+#: wifiselectiondialog#20
+msgid ""
+"WPA-Enterprise is selected, but not configured!\n"
+"Please configure your WPA settings before saving!"
+msgstr ""
+"WPA-Enterprise je izabran, ali nije postavljen!\n"
+"Molimo da postavite vaš WPA ključ prije čuvanja!"
+
+#: wifiselectiondialog#21
+msgid "WEP (Configured)"
+msgstr "WEP (Postavljen)"
+
+#: wifiselectiondialog#22
+msgid "WPA Personal (Configured)"
+msgstr "WPA Privatan (Postavljen)"
+
+#: wifiselectiondialog#23
+msgid "WPA Enterprise (Configured)"
+msgstr "WPA Enterprise (Postavljen)"
+
+#: wifiselectiondialog#24
+msgid "Save"
+msgstr "Sačuvaj"
+
+#: wifiselectiondialog#25
+msgid "Network Security"
+msgstr "Mrežna sigurnost"

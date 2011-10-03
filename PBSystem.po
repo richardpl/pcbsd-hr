@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:55-0700\n"
+"PO-Revision-Date: 2011-10-03 21:51+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: CVSUpProgress#1
+msgid "Please wait..."
+msgstr "Molimo pričekajte..."
+
+#: CVSUpProgress#2
+msgctxt "CVSUpProgress#2"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: CVSUpProgress#3
+msgctxt "CVSUpProgress#3"
+msgid "&Close"
+msgstr "&Zatvori"
+
+#: CVSUpProgress#4
+msgid "CSup Progress"
+msgstr "CSup napredak"
+
+#: CVSUpProgress#5
+msgctxt "CVSUpProgress#5"
+msgid "&Start"
+msgstr "&Kreni"
+
+#: CVSUpProgress#6
+msgid "&Find Fastest..."
+msgstr "&Pronađi najbrži..."
+
+#: CVSUpProgress#7
+msgid "Alt+F"
+msgstr "Alt+F"
+
+#: CVSUpProgress#8
+msgid "Selected CVSup server: "
+msgstr "Odabrani CVSup poslužitelj: "
+
+#: CVSUpProgress#9
+msgid "Unable to open file"
+msgstr "Ne mogu otvoriti datoteku"
+
+#: CVSUpProgress#10
+msgctxt "CVSUpProgress#10"
+msgid "Error"
+msgstr "Greška"
+
+#: CVSUpProgress#11
+msgid "Please set CVSup server before proceeding"
+msgstr "Molimo postavite CVSup poslužitelj prije nastavka"
+
+#: CVSUpProgress#12
+msgid "Confirm server selection"
+msgstr "Potvrdite odabir poslužitelja"
+
+#: CVSUpProgress#13
+msgctxt "CVSUpProgress#13"
+msgid "Alt+S"
+msgstr "Alt+S"
+
+#: CVSUpProgress#14
+msgid "Parts of source code to download:"
+msgstr "Dijelovi izvornog koda koje treba skinuti:"
+
+#: CVSUpProgress#15
+msgid ""
+"CVSup server not set. To set your CVSup server, please click the 'Find "
+"Fastest...' button and follow the instructions. Alternatively, the CVSup "
+"server for this operation may be set manually from the following file"
+msgstr ""
+"CVSup poslužitelj nije postavljen. Za postavljanje vašeg CVSup poslužitelja "
+"kliknite 'Potraži najbržeg...' i pratite upute. Alternativno, CVSup "
+"poslužitelj za ovu operaciju se može postaviti ručno iz slijedeće datoteke"
+
+#: CVSUpProgress#16
+msgid "PC-BSD has detected the fastest server to be:"
+msgstr "PC-BSD je otkrio najbrži poslužitelj:"
+
+#: CVSUpProgress#17
+msgid "Would you like to use this server in future?"
+msgstr "Da li želite ubuduće koristiti ovaj poslužitelj?"
+
+#: FastestCvsup#1
+msgid "Change CVSup server"
+msgstr "Promijenite CVSup poslužitelj"
+
+#: FastestCvsup#2
+msgid "All"
+msgstr "Sve"
+
+#: FastestCvsup#3
+msgctxt "FastestCvsup#3"
+msgid "&Start"
+msgstr "&Kreni"
+
+#: FastestCvsup#4
+msgctxt "FastestCvsup#4"
+msgid "Error"
+msgstr "Greška"
+
+#: FastestCvsup#5
+msgctxt "FastestCvsup#5"
+msgid "Alt+S"
+msgstr "Alt+S"
+
+#: FastestCvsup#6
+msgid ""
+"This dialog will detect the fastest CVSup server for your location. "
+"Detection may take several minutes if all countries are selected. To narrow "
+"down the search, and speed up detection, please unselect 'All' below, and "
+"select your country, and a couple of its neighbours from the list below."
+msgstr ""
+"Ovaj dijaloški okvir će pronaći najbrži CVSup poslužitelj za vašu lokaciju. "
+"Pronalazak može potrajati nekoliko minuta ako su sve zemlje izabrane. Kako "
+"bi ograničili traženje, i ubrzali pronalazak, ukinite odabir na 'Sve' niže, "
+"i odaberite vašu zemlju, i nekoliko njezinih susjeda iz donje liste."
+
+#: FastestCvsup#7
+msgctxt "FastestCvsup#7"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: FastestCvsup#8
+msgctxt "FastestCvsup#8"
+msgid "Alt+C"
+msgstr "Alt+C"
+
+#: FastestCvsup#9
+msgid ""
+"Unable to reach any server. This could be because all selected servers are "
+"down, or because your internet connection is improperly configured. You may "
+"wish to try testing other servers."
+msgstr ""
+"Nije moguće dohvatiti niti jedan poslužitelj. Razlog može biti da su svi "
+"označeni poslužitelji nedostupni, ili je vaša internet veza nepravilno "
+"namještena. Možete pokušati testirati druge poslužitelje."
+
+#: FastestCvsup#10
+msgid "Available:"
+msgstr "Dostupni:"
+
+#: FastestCvsup#11
+msgid "Selected:"
+msgstr "Označen:"
+
+#: FastestCvsup#12
+msgid ""
+"Please wait while PC-BSD attempts to find the fastest CVSup server available "
+"for your location."
+msgstr ""
+"Molimo pričekajte dok PC-BSD ne pokuša pronaći najbrže CVSup poslužitelje "
+"dostupne za vašu lokaciju."
+
+#: PBSystemTab#1
+msgid "PC-BSD System Configuration"
+msgstr "PC-BSD podešavanje sustava"
+
+#: PBSystemTab#2
+msgctxt "PBSystemTab#2"
+msgid "Alt+C"
+msgstr "Alt+C"
+
+#: PBSystemTab#3
+msgid "General"
+msgstr "Općenito"
+
+#: PBSystemTab#4
+msgid "Generate"
+msgstr "Napravi"
+
+#: PBSystemTab#5
+msgid "PC-BSD Version:"
+msgstr "PC-BSD verzija:"
+
+#: PBSystemTab#6
+msgid "Base Version:"
+msgstr "Osnovna verzija:"
+
+#: PBSystemTab#7
+msgctxt "PBSystemTab#7"
+msgid "Alt+S"
+msgstr "Alt+S"
+
+#: PBSystemTab#8
+msgid "Tasks"
+msgstr "Zadaci"
+
+#: PBSystemTab#9
+msgid "Fetch &System Source"
+msgstr "Skini izvorni kod &sustava"
+
+#: PBSystemTab#10
+msgid "Alt+P"
+msgstr "Alt+P"
+
+#: PBSystemTab#11
+msgid "System Source"
+msgstr "Izvorni kod sustava"
+
+#: PBSystemTab#12
+msgid "CPU Type:"
+msgstr "Vrsta procesora:"
+
+#: PBSystemTab#13
+msgid "System Memory:"
+msgstr "Memorija sustava:"
+
+#: PBSystemTab#14
+msgid "Misc"
+msgstr "Razno"
+
+#: PBSystemTab#15
+msgid "Boot Screen"
+msgstr "Ekran podizanja sustava"
+
+#: PBSystemTab#16
+msgid "S&how splash image on boot"
+msgstr "Prikaži splash sliku pri pokretanju"
+
+#: PBSystemTab#17
+msgid "Alt+H"
+msgstr "Alt+H"
+
+#: PBSystemTab#18
+msgid "&Custom..."
+msgstr "&Posebno..."
+
+#: PBSystemTab#19
+msgid "Invalid Image"
+msgstr "Neispravna slika"
+
+#: PBSystemTab#20
+msgid "The file supplied does not appear to be a valid PCX image."
+msgstr "Priložena datoteka izgleda nije ispravna PCX slika."
+
+#: PBSystemTab#21
+msgid ""
+"The splash screen image cannot be any larger than 1024x768, or any greater "
+"than 8-bit (256 colours) depth."
+msgstr ""
+"Slika splash prikaza ne može biti veća od 1024x768, i imati više od 8bitne "
+"boje (256 boja)"
+
+#: PBSystemTab#22
+msgid "Custom"
+msgstr "Posebno"
+
+#: PBSystemTab#23
+msgid "Ports Console"
+msgstr "Ports konzola"
+
+#: PBSystemTab#24
+msgid "Fetch &Ports Tree"
+msgstr "Skini &Ports stablo"
+
+#: PBSystemTab#25
+msgid "Fetch System P&orts Tree"
+msgstr "Skini sistemsko P&orts stablo"
+
+#: PBSystemTab#26
+msgid ""
+"You may also generate a diagnostic sheet, with information about your "
+"system. This sheet can be used by technicians for troubleshooting purposes."
+msgstr ""
+"Možete također napraviti dijagnostiku, sa informacijama o vašem sistemu. "
+"Stranica se kasnije može koristiti za uklanjanje grešaka."
+
+#: PBSystemTab#27
+msgid "&Save"
+msgstr "&Sačuvaj"
+
+#: PBSystemTab#28
+msgid "Mirrors"
+msgstr "Zrcala"
+
+#: PBSystemTab#29
+msgid "Mirror Configuration"
+msgstr "Namještanje zrcala"
+
+#: PBSystemTab#30
+msgid "Select Mirror from list"
+msgstr "Odaberite zrcalo iz liste"
+
+#: PBSystemTab#31
+msgid "Refresh Mirror Listing"
+msgstr "Osvježi listu zrcala"
+
+#: PBSystemTab#32
+msgid "Specify a custom Mirror"
+msgstr "Navedite vlastito zrcalo"
+
+#: PBSystemTab#33
+msgid "System Packages"
+msgstr "Sistemski paketi"
+
+#: PBSystemTab#34
+msgid "Available System Packages"
+msgstr "Dostupni sistemski paketi"
+
+#: PBSystemTab#35
+msgid ""
+"Above you may select the base system packages you wish to have installed. "
+"Adding new packages will require your original installation medium, or a "
+"properly configured mirror server."
+msgstr ""
+"Iznad možete odabrati osnovne sistemske pakete koje želite instalirati. "
+"Dodavanje novih paketa će zahtijevati vaš originalni instalacijski medij, "
+"ili prikladno namješten zrcalni poslužitelj."
+
+#: PBSystemTab#36
+msgid "&Apply Changes"
+msgstr "&Primijeni promjene"
+
+#: PBSystemTab#37
+msgid "System Tasks - Advanced Users"
+msgstr "Sistemski zadaci - Napredni korisnici"
+
+#: PBSystemTab#38
+msgid "Other Options"
+msgstr "Druge opcije"
+
+#: PBSystemTab#39
+msgid "Force IBUS keyboard input"
+msgstr "Prisililte na IBUS ulaz tipkovnice"
+
+#: PBSystemTab#40
+msgid "Select Splash"
+msgstr "Odaberi Splash"
+
+#: PBSystemTab#41
+msgid "Refresh Mirrors"
+msgstr "Osvježi zrcala"
+
+#: PBSystemTab#42
+msgid "doesn't exist!"
+msgstr "ne postoji!"
+
+#: PBSystemTab#43
+msgid ""
+"Error fetching mirror list! Check your internet connection, or try again "
+"later."
+msgstr ""
+"Greška prilikom skidanja liste zrcala! Provjerite vašu internet vezu, ili "
+"pokušajte ponovno."
+
+#: PBSystemTab#44
+msgid "Config Error"
+msgstr "Greška u postavkama"
+
+#: PBSystemTab#45
+msgid "Error: Your custom mirror needs to begin with ftp:// or http://"
+msgstr "Greška: Vaše vlastito zrcalo treba započeti sa ftp:// ili http://"
+
+#: PBSystemTab#46
+msgid "Loading... Please wait..."
+msgstr "Učitavanje... Molimo pričekajte..."
+
+#: PBSystemTab#47
+msgid "Performing system-package changes."
+msgstr "Izvršavanje promjena na sistemskim paketima."
+
+#: PBSystemTab#48
+msgid ""
+"The meta-pkg manager returned an error. For more details please look at the "
+"log file:"
+msgstr ""
+"Meta-pkg upravitelj je vratio grešku. Za više detalja pogledajte u datoteku "
+"zapisa:"
+
+#: PBSystemTab#49
+msgid "System packages updated successfully."
+msgstr "Uspješno ažuriranje sistemskih paketa."
+
+#: PBSystemTab#50
+msgid "No Desktop"
+msgstr "Nema grafičkog sučelja"
+
+#: PBSystemTab#51
+msgid ""
+"No desktops have been selected! Please choose at least one desktop before "
+"saving."
+msgstr ""
+"Nije odabrano nijedno grafičko sučelje! Molimo izaberite barem jedno prije "
+"spremanja."
+
+#: PBSystemTab#52
+msgid ""
+"The selected mirror above will be used for fetching system updates and new "
+"system packages. If you experience download failures, or slow performace, "
+"please try another mirror."
+msgstr ""
+"Gore izabrano zrcalo će se koristiti za skidanje sistemskih ažuriranja i "
+"novih sistemskih paketa. Ako se susretnete za greškama u skidanju, ili "
+"sporim izvođenjem, izaberite drugo zrcalo."
+
+#: PBSystemTab#53
+msgid "View Packages"
+msgstr "Pregled paketa"
+
+#: PBSystemTab#54
+msgid "Package Listing for:"
+msgstr "Lista paketa za:"
+
+#: PortsnapProgress#1
+msgid "Portsnap Progress"
+msgstr "Portsnap Napredak"
+
+#: PortsnapProgress#2
+msgctxt "PortsnapProgress#2"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: PortsnapProgress#3
+msgctxt "PortsnapProgress#3"
+msgid "Alt+C"
+msgstr "Alt+C"
+
+#: PortsnapProgress#4
+msgid "Task Progress..."
+msgstr "Napredak zadatka..."
+
+#: PortsnapProgress#5
+msgid "Update Failed!"
+msgstr "Ažuriranje neuspješno!"
+
+#: PortsnapProgress#6
+msgid ""
+"Unable to connect to server. Possible causes:\n"
+"- Your network is down\n"
+"- Target server is unresponsive."
+msgstr ""
+"Neuspješno uspostavljanje veze sa poslužiteljem. Mogući razlozi:\n"
+"- Vaša mreža nije podignuta\n"
+"- Ciljani poslužitelj ne reagira."
+
+#: PortsnapProgress#7
+msgid "Fetching Ports, this may take a while..."
+msgstr "Skidanje Portova, ovo može potrajati..."
+
+#: dialogInfoBox#1
+msgid "Dialog"
+msgstr "Dijalog"
+
+#: dialogInfoBox#2
+msgctxt "dialogInfoBox#2"
+msgid "&Close"
+msgstr "&Zatvori"
+
+#: dialogMetaProgress#1
+msgid "System-Packages"
+msgstr "Sistemski paketi"
+
+#: dialogMetaProgress#2
+msgid "Total Progress"
+msgstr "Ukupni napredak"
+
+#: dialogMetaProgress#3
+msgctxt "dialogMetaProgress#3"
+msgid "Update Progress"
+msgstr "Napredak ažuriranja"
+
+#: updaterStatus#1
+msgid "Installing Updates"
+msgstr "Instalacija ažuriranja"
+
+#: updaterStatus#2
+msgid "The system is currently installing the following updates:"
+msgstr "Sistem trenutačno instalira slijedeća ažuriranja:"
+
+#: updaterStatus#3
+msgid "Update"
+msgstr "Ažuriranje"
+
+#: updaterStatus#4
+msgid "Size"
+msgstr "Veličina"
+
+#: updaterStatus#5
+msgid "Status"
+msgstr "Stanje"
+
+#: updaterStatus#6
+msgid "ID"
+msgstr "ID"
+
+#: updaterStatus#7
+msgctxt "updaterStatus#7"
+msgid "Update Progress"
+msgstr "Napredak ažuriranja"
+
+#: updaterStatus#8
+msgid " of "
+msgstr " od "

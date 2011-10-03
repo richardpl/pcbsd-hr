@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 02:21-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.8.1\n"
+
+#: NotRoot#1
+msgid "Root Access Required"
+msgstr "Traži se pristup korisnika root"
+
+#: NotRoot#2
+msgid ""
+"This program must be run as root. Click the \"Administrator Mode\" button "
+"below or restart the program as root."
+msgstr ""
+"Ovaj program mora biti pokrenut od strane korisnika root. Kliknite na gumb "
+"\"Administratorski način\" ispod ili ponovno pokrenite program kao korisnik "
+"root."
+
+#: NotRoot#3
+msgid "Run in Administrator Mode"
+msgstr "Pokreni u administratorskom načinu"

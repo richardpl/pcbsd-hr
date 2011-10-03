@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:55-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: ethernetconfig#1
+msgid "Network Configuration"
+msgstr "Mrežne postavke"
+
+#: ethernetconfig#2
+msgid "&OK"
+msgstr "&U redu"
+
+#: ethernetconfig#3
+msgid "Alt+O"
+msgstr "Alt+U"
+
+#: ethernetconfig#4
+msgid "&Apply"
+msgstr "&Primijeni"
+
+#: ethernetconfig#5
+msgid "Alt+A"
+msgstr "Alt+P"
+
+#: ethernetconfig#6
+msgid "&Close"
+msgstr "&Zatvori"
+
+#: ethernetconfig#7
+msgid "Alt+C"
+msgstr "Alt+Z"
+
+#: ethernetconfig#8
+msgid "Disable this networ&k device"
+msgstr "Onemogući &ovaj mrežni uređaj"
+
+#: ethernetconfig#9
+msgid "Alt+K"
+msgstr "Alt+O"
+
+#: ethernetconfig#10
+msgid "&General"
+msgstr "&Općenito"
+
+#: ethernetconfig#11
+msgid "Obtain IP automaticall&y (DHCP)"
+msgstr "Dohvati &IP adresu automatski (DHCP)"
+
+#: ethernetconfig#12
+msgid "Alt+Y"
+msgstr "Alt+I"
+
+#: ethernetconfig#13
+msgid "Network address configuration"
+msgstr "Postavke mrežne adrese"
+
+#: ethernetconfig#14
+msgid "Assign static IP address"
+msgstr "Dodijeli statičku IP adresu"
+
+#: ethernetconfig#15
+msgid "Netmask:"
+msgstr "Mrežna maska:"
+
+#: ethernetconfig#16
+msgid "IP:"
+msgstr "IP:"
+
+#: ethernetconfig#17
+msgid "999\\.999\\.999\\.999; "
+msgstr "999\\.999\\.999\\.999; "
+
+#: ethernetconfig#18
+msgid "Advanced"
+msgstr "Napredno"
+
+#: ethernetconfig#19
+msgid "Use hardware defau&lt MAC address"
+msgstr "Koristi pretpostavljenu sklopovsku MAC adre&su"
+
+#: ethernetconfig#20
+msgid "Alt+L"
+msgstr "Alt+S"
+
+#: ethernetconfig#21
+msgid "Custom MAC address"
+msgstr "Korisnički definirana MAC adresa"
+
+#: ethernetconfig#22
+msgid "IPv6 static address"
+msgstr "IPv6 statička adresa"
+
+#: ethernetconfig#23
+msgid "Address:"
+msgstr "Adresa:"
+
+#: ethernetconfig#24
+msgid "Obtain IPv6 address automaticall&y"
+msgstr "Do&hvati IPv6 adresu automatski"
+
+#: ethernetconfig#25
+msgid "I&nfo"
+msgstr "I&nfo"
+
+#: ethernetconfig#26
+msgid "Configuration info"
+msgstr "Informacije o postavkama"
+
+#: ethernetconfig#27
+msgid "Gateway:"
+msgstr "Mreži prolaz:"
+
+#: ethernetconfig#28
+msgid "IPv6:"
+msgstr "IPv6:"
+
+#: ethernetconfig#29
+msgid "Mac:"
+msgstr "Mac:"
+
+#: ethernetconfig#30
+msgid "Media:"
+msgstr "Medij:"
+
+#: ethernetconfig#31
+msgid "Status:"
+msgstr "Stanje:"
+
+#: ethernetconfig#32
+msgid "Traffic info"
+msgstr "Informacije o prometu"
+
+#: ethernetconfig#33
+msgid "Packets:"
+msgstr "Paketi:"
+
+#: ethernetconfig#34
+msgid "Errors:"
+msgstr "Greške:"
+
+#: ethernetconfig#35
+msgid "In:"
+msgstr "Ulaz:"
+
+#: ethernetconfig#36
+msgid "Out:"
+msgstr "Izlaz:"
+
+#: ethernetconfig#37
+msgid "Missing Fields"
+msgstr "Polja koja nedostaju"
+
+#: ethernetconfig#38
+msgid "You must enter an IP and Netmask to continue!\n"
+msgstr "Za nastavak morate unijeti IP adresu i mrežnu masku!\n"
+
+#: ethernetconfig#39
+msgid "Warning"
+msgstr "Upozorenje"
+
+#: ethernetconfig#40
+msgid "IP Address is out of range! ("
+msgstr "IP adresa je izvan raspona! ("
+
+#: ethernetconfig#41
+msgid ") Fields must be between 0-255."
+msgstr ") Polja moraju biti između 0-255."
+
+#: ethernetconfig#42
+msgid "Netmask is out of range! ("
+msgstr "Mrežna maska je izvan raspona! ("
+
+#: ethernetconfig#43
+msgid "configuration"
+msgstr "postavke"

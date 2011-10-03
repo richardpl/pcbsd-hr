@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:57-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: XGUI#1
+msgid "Display Settings"
+msgstr "Postavke zaslona"
+
+#: XGUI#2
+msgid "Apply"
+msgstr "Primijeni"
+
+#: XGUI#3
+msgid "Skip"
+msgstr "Preskoči"
+
+#: XGUI#4
+msgid "General"
+msgstr "Općenito"
+
+#: XGUI#5
+msgid "Screen Resolution:"
+msgstr "Razlučivost ekrana:"
+
+#: XGUI#6
+msgid "1024x768"
+msgstr "1024x768"
+
+#: XGUI#7
+msgid "Color Depth:"
+msgstr "Dubina boja:"
+
+#: XGUI#8
+msgid "24bits"
+msgstr "24 bita"
+
+#: XGUI#9
+msgid "Video Driver"
+msgstr "Video upravljački program"
+
+#: XGUI#10
+msgid "Advanced"
+msgstr "Napredno"
+
+#: XGUI#11
+msgid "Monitor Settings"
+msgstr "Postavke monitora"
+
+#: XGUI#12
+msgid "Horizontal Sync:"
+msgstr "Horizontalna sinkronizacija:"
+
+#: XGUI#13
+msgid "28.0-78.0"
+msgstr "28.0-78.0"
+
+#: XGUI#14
+msgid "Vertical Refresh:"
+msgstr "Vertikalno osvježavanje:"
+
+#: XGUI#15
+msgid "50.0-76.0"
+msgstr "50.0-76.0"
+
+#: XGUI#16
+msgid ""
+"The settings you have specified will now be tested.\n"
+"If your screen does not appear, please wait and you will be returned to this "
+"screen."
+msgstr ""
+"Postavke koje ste naveli će sada biti testirane.\n"
+"Ako se ne pojavi novi ekran, pričekajte i vratit će se ovaj."
+
+#: XGUI#17
+msgid "Video Card:"
+msgstr "Video kartica:"
+
+#: XGUI#18
+msgid "Monitor:"
+msgstr "Monitor:"
+
+#: XGUI#19
+msgid "Enable Dual-Head support"
+msgstr "Omogući dva zaslona"
+
+#: XGUI#20
+msgid "Monitor Resolution:"
+msgstr "Razlučivost monitora:"
+
+#: XGUI#21
+msgid "Unknown Monitor"
+msgstr "Nepoznati monitor"
+
+#: XGUI#22
+msgid "Warning!"
+msgstr "Upozorenje!"
+
+#: XGUI#23
+msgid ""
+"PC-BSD was unable to autodetect your monitor. You may need to specify this "
+"monitor's Horizontal and Vertical refresh rates in the 'Advanced' tab."
+msgstr ""
+"PC-BSD nije mogao automatski otkriti vaš monitor. Možda ćete morati navesti "
+"horizontalnu i vertikalnu frekvenciju u kartici 'Napredno'."
+
+#: XGUI#24
+msgid ""
+"Dual-Head support is designed for systems with one video card and two "
+"monitors. Other setups may be achieved by editing /etc/X11/xorg.conf"
+msgstr ""
+"Prikaz na dva monitora je napravljen za sustave s jednom video karticom i "
+"dva monitora. Ostale postavke se mogu postići uređivanjem datoteke "
+"/etc/X11/xorg.conf"
+
+#: dialogConfirm#1
+msgid "Confirm Resolution"
+msgstr "Potvrdi rezoluciju"
+
+#: dialogConfirm#2
+msgid "Do you wish to use this resolution?"
+msgstr "Da li želite koristiti ovu razlučivost?"
+
+#: dialogConfirm#3
+msgid "Yes"
+msgstr "Da"
+
+#: dialogConfirm#4
+msgid "No"
+msgstr "Ne"
+
+#: dialogConfirm#5
+msgid "Auto-close in 10 seconds..."
+msgstr "Automatski zatvori za 10 sekundi..."
+
+#: dialogConfirm#6
+msgid "Auto-close in "
+msgstr "Automatski zatvori za "
+
+#: dialogConfirm#7
+msgid " seconds..."
+msgstr " sekundi..."

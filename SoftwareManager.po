@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:56-0700\n"
+"PO-Revision-Date: 2011-10-03 22:02+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: PBM#1
+msgid "You currently have PBIs downloading! Exit anyway?"
+msgstr "Trenutačno skidate PBI-je! Ipak izađi?"
+
+#: PBM#2
+msgid "Cancel this download?"
+msgstr "Zaustavi ovo skidanje?"
+
+#: PBM#3
+msgid "Remove this application?"
+msgstr "Ukloni ovu aplikaciju?"
+
+#: PBM#4
+msgid "Error!"
+msgstr "Greška!"
+
+#: PBM#5
+msgid "This program must be run as root!"
+msgstr "Ovaj program morate pokrenuti kao root!"
+
+#: PBM#6
+msgid "..."
+msgstr "..."
+
+#: PBM#7
+msgid "Installed Software"
+msgstr "Instalirani softver"
+
+#: PBM#8
+msgid "Program Name"
+msgstr "Ime Programa"
+
+#: PBM#9
+msgid "Status"
+msgstr "Stanje"
+
+#: PBM#10
+msgid "Update"
+msgstr "Ažuriraj"
+
+#: PBM#11
+msgctxt "PBM#11"
+msgid "&Remove"
+msgstr "&Ukloni"
+
+#: PBM#12
+msgid "Alt+R"
+msgstr "Alt+U"
+
+#: PBM#13
+msgid "Checking for Updates..."
+msgstr "Provjera ažuriranja..."
+
+#: PBM#14
+msgid "Pending Upgrade"
+msgstr "Nadogradnja u tijeku"
+
+#: PBM#15
+msgid "Update Manager"
+msgstr "Upravitelj Ažuriranja"
+
+#: PBM#16
+msgid "No software selected to update!"
+msgstr "Nije označen softver za ažuriranje!"
+
+#: PBM#17
+msgid "Starting Download"
+msgstr "Počinjem Skidati"
+
+#: PBM#18
+msgid "Download failed! Please try again later."
+msgstr "Skidanje neuspješno! Pokušajte ponovno nešto kasnije."
+
+#: PBM#19
+msgid "Download failed... Attempting to re-download..."
+msgstr "Skidanje neuspješno... Pokušavam ponovno skidati..."
+
+#: PBM#20
+msgid "Downloading..."
+msgstr "Skidam..."
+
+#: PBM#21
+msgid "Installing..."
+msgstr "Instaliram..."
+
+#: PBM#22
+msgid "Online Update"
+msgstr "Online Ažuriranja"
+
+#: PBM#23
+msgid "Uninstall"
+msgstr "Deinstaliraj"
+
+#: PBM#24
+msgid "Retry Download"
+msgstr "Ponovi Skidanje"
+
+#: PBM#25
+msgid "Pending Download..."
+msgstr "Skidanje u tijeku..."
+
+#: PBM#26
+msgid "Install Software?"
+msgstr "Instaliraj Softver?"
+
+#: PBM#27
+msgid "Cancel Download"
+msgstr "Prekini Skidanje"
+
+#: PBM#28
+msgid "AppCafe"
+msgstr "AppCafe"
+
+#: PBM#29
+msgid "Browse"
+msgstr "Pregledaj"
+
+#: PBM#30
+msgid "Search"
+msgstr "Traži"
+
+#: PBM#31
+msgid "&Installed"
+msgstr "&Instalirano"
+
+#: PBM#32
+msgid "&File"
+msgstr "&Datoteka"
+
+#: PBM#33
+msgid "&Quit"
+msgstr "&Zatvori"
+
+#: PBM#34
+msgid "Confirm"
+msgstr "Potvrdi"
+
+#: PBM#35
+msgid "Please wait, removing:"
+msgstr "Molim pričekajte, uklanjam:"
+
+#: PBM#36
+msgid "Please wait.. Loading repositories..."
+msgstr "Molim pričekajte... Učitavanje repozitorija..."
+
+#: PBM#37
+msgid "Do you want to download and install"
+msgstr "Da li želite skinuti i instalirati"
+
+#: PBM#38
+msgid "&OK"
+msgstr "&U redu"
+
+#: PBM#39
+msgctxt "PBM#39"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: PBM#40
+msgid "No PBIs for category:"
+msgstr "Nema PBI-ija za ovu kategoriju:"
+
+#: PBM#41
+msgid "Invalid PBI selected:"
+msgstr "Neispravan PBI označen:"
+
+#: PBM#42
+msgid "Installed"
+msgstr "Instaliran"
+
+#: PBM#43
+msgid "Download"
+msgstr "Skidanje"
+
+#: PBM#44
+msgid "Version:"
+msgstr "Verzija:"
+
+#: PBM#45
+msgid "Platform:"
+msgstr "Platforma:"
+
+#: PBM#46
+msgid "License:"
+msgstr "Licenca:"
+
+#: PBM#47
+msgid "No applications found!"
+msgstr "Nije pronađena nijedna aplikacija!"
+
+#: PBM#48
+msgid "Downloading:"
+msgstr "Skidam:"
+
+#: PBM#49
+msgid "An error occurred while installing"
+msgstr "Greška prilikom instaliranja"
+
+#: PBM#50
+msgid "You may need to update this PBI manually."
+msgstr "Možda će te morati ažurirati ovaj PBI ručno."
+
+#: PBM#51
+msgid "View details"
+msgstr "Pogledaj detalje"
+
+#: PBM#52
+msgid "Automatic Updating"
+msgstr "Automatsko Ažuriranje"
+
+#: PBM#53
+msgid "&Repositories"
+msgstr "&Repositoriji"
+
+#: PBM#54
+msgid "Application Categories"
+msgstr "Kategorije Aplikacija"
+
+#: PBM#55
+msgid "Latest Releases"
+msgstr "Zadnja Izdanja"
+
+#: PBM#56
+msgid "Configure Repository"
+msgstr "Postavi Repozitorij"
+
+#: PBM#57
+msgid "Install Desktop Icons"
+msgstr "Instaliraj Ikone na radnu površinu"
+
+#: PBM#58
+msgid "Install Menu Icons"
+msgstr "Instaliraj Meni Ikone"
+
+#: PBM#59
+msgid "Install Menu Icons (All Users)"
+msgstr "Instaliraj Meni Ikone (Svim Korisnicima)"
+
+#: PBM#60
+msgid "Select Repository"
+msgstr "Odaberi Repozitorij"
+
+#: PBM#61
+msgid "Add Repository"
+msgstr "Dodaj Repozitorij"
+
+#: PBM#62
+msgid "Requires Root:"
+msgstr "Zahtijeva Root:"
+
+#: PBM#63
+msgid ""
+"Installing applications has been disabled for this user. Please add the user "
+"to the operator group or restart as root."
+msgstr ""
+"Instaliranje aplikacije je onemogućeno za ovog korisnika. Molimo dodajte "
+"korisnika u grupu operatora ili ponovno pokrenite kao root."
+
+#: PBM#64
+msgid "Warning!"
+msgstr "Upozorenje!"
+
+#: PBM#65
+msgid "Missing meta-files for RepoID:"
+msgstr "Nedostaju meta-datoteke za RepoID:"
+
+#: PBM#66
+msgid ""
+"This is normally due to the internet connection being offline or mis-"
+"configured."
+msgstr "Ovo je normalno ako internet veza nije uključena ili krivo postavljena."
+
+#: PBM#67
+msgid "Pending"
+msgstr "U toku"
+
+#: softwareConfigWidget#1
+msgid "&Save"
+msgstr "&Sačuvaj"
+
+#: softwareConfigWidget#2
+msgctxt "softwareConfigWidget#2"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: softwareConfigWidget#3
+msgid "Repository Configuration"
+msgstr "Postavke Repozitorija"
+
+#: softwareConfigWidget#4
+msgid "Repository Mirrors"
+msgstr "Zrcala Repozitorija"
+
+#: softwareConfigWidget#5
+msgid "&Add"
+msgstr "Dod&aj"
+
+#: softwareConfigWidget#6
+msgctxt "softwareConfigWidget#6"
+msgid "&Remove"
+msgstr "Izb&riši"
+
+#: softwareConfigWidget#7
+msgid "Add Mirror"
+msgstr "Dodaj Zrcalo"
+
+#: softwareConfigWidget#8
+msgid "Mirror URL:"
+msgstr "URL Zrcala:"

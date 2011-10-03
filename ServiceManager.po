@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:56-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: ServiceManager#1
+msgid "Service Manager"
+msgstr "Upravljač usluga"
+
+#: ServiceManager#2
+msgid ""
+"The following services are setup on this system. You may enable / disable "
+"them below."
+msgstr ""
+"Sljedeće usluge su postavljene na ovom sustavu. Niže ih možete omogućiti / "
+"onemogućiti."
+
+#: ServiceManager#3
+msgid "Service Name"
+msgstr "Ime usluge"
+
+#: ServiceManager#4
+msgid "Start"
+msgstr "Pokreni"
+
+#: ServiceManager#5
+msgid "Stop"
+msgstr "Zaustavi"
+
+#: ServiceManager#6
+msgid "Restart"
+msgstr "Ponovno pokreni"
+
+#: ServiceManager#7
+msgid "Running"
+msgstr "Pokrenut"
+
+#: ServiceManager#8
+msgid "Stopped"
+msgstr "Zaustavljen"
+
+#: ServiceManager#9
+msgid "Please Wait..."
+msgstr "Molimo pričekajte..."
+
+#: ServiceManager#10
+msgid "SDIR"
+msgstr "SDIR"
+
+#: ServiceManager#11
+msgid "TAG"
+msgstr "TAG"
+
+#: ServiceManager#12
+msgid "Enabled"
+msgstr "Omogućen"
+
+#: ServiceManager#13
+msgid "Enable Service"
+msgstr "Omogući uslugu"
+
+#: ServiceManager#14
+msgid "Disable Service"
+msgstr "Onemogući uslugu"
+
+#: ServiceManager#15
+msgid "Disabled"
+msgstr "Onemogućen"
+
+#: ServiceManager#16
+msgid "Unknown"
+msgstr "Nepoznato"
+
+#: progressUI#1
+msgid "Service"
+msgstr "Usluga"
+
+#: progressUI#2
+msgid "Service Action in progress..."
+msgstr "Radnja usluge je u tijeku..."
+
+#: progressUI#3
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: progressUI#4
+msgid "Failed"
+msgstr "Neuspješno"
+
+#: progressUI#5
+msgid "The specified command failed."
+msgstr "Navedena naredba nije uspjela."
+
+#: progressUI#6
+msgid "Finished"
+msgstr "Završeno"
+
+#: progressUI#7
+msgid "Close"
+msgstr "Zatvori"

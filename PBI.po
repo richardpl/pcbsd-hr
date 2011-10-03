@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:55-0700\n"
+"PO-Revision-Date: 2011-10-03 21:50+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: PBI#1
+msgid "<Author>"
+msgstr "<Author>"
+
+#: PBI#2
+msgid "<Web>"
+msgstr "<Web>"
+
+#: PBI#3
+msgid "I Agree"
+msgstr "Slažem se"
+
+#: PBI#4
+msgid "<Status>"
+msgstr "<Status>"
+
+#: PBI#5
+msgid "Error!"
+msgstr "Greška!"
+
+#: PBI#6
+msgid "Installation Finished!"
+msgstr "Instalacija uspješna!"
+
+#: PBI#7
+msgid "Warning!"
+msgstr "Upozorenje!"
+
+#: PBI#8
+msgid "OK"
+msgstr "U redu"
+
+#: PBI#9
+msgid "Cancel"
+msgstr "Odustani"
+
+#: PBI#10
+msgid "<progress>"
+msgstr "<progress>"
+
+#: PBI#11
+msgid "Preparing to install PROGNAME"
+msgstr "Priprema za instalaciju PROGNAME"
+
+#: PBI#12
+msgid "Cancel Confirmation"
+msgstr "Poništi potvrdu"
+
+#: PBI#13
+msgid "Are you sure you wish to cancel?"
+msgstr "Da li ste sigurni u poništenje potvrde?"
+
+#: PBI#14
+msgid "Yes"
+msgstr "Da"
+
+#: PBI#15
+msgid "No"
+msgstr "Ne"
+
+#: PBI#16
+msgid "The program is now being installed. This may take a few moments."
+msgstr "Program se sada instalira. Ovo će možda potrajati nekoliko trenutaka."
+
+#: PBI#17
+msgid ""
+"<b><font size=\"+1\">Installation complete! </font></b><br><br>Click \"Finish\" "
+"to exit."
+msgstr ""
+"<b><font size=\"+1\">Instalacija završena! </font></b><br><br>Kliknite "
+"\"Završi\" za izlaz."
+
+#: PBI#18
+msgid "The program"
+msgstr "Program"
+
+#: PBI#19
+msgid "is already installed. Overwrite it?"
+msgstr "je već instaliran. Prepisati preko postojećeg?"
+
+#: PBI#20
+msgid "PBI Installer"
+msgstr "PBI instalacijski program"
+
+#: PBI#21
+msgid "Vendor: "
+msgstr "Isporučitelj: "
+
+#: PBI#22
+msgid "URL: "
+msgstr "URL: "
+
+#: PBI#23
+msgid "Valid Digital Signature"
+msgstr "Valjani Elektronički Potpis"
+
+#: PBI#24
+msgid "Cannot locate PBI file:"
+msgstr "Nemogu pronaći PBI datoteku:"
+
+#: PBI#25
+msgid "Error while running pbi_add!"
+msgstr "Greška pri pokretanju pbi_add!"
+
+#: PBI#26
+msgid "Cannot load meta data from this PBI. File corrupt / invalid."
+msgstr ""
+"Nemogu učitatati meta podatke iz ovog PBI-ja. Datoteka pokvarena / "
+"neispravna."
+
+#: PBI#27
+msgid "Click Next to begin the installation."
+msgstr "Kliknite Dalje da bi ste započeli instalaciju."
+
+#: PBI#28
+msgid ""
+"The pbi_add command returned an error, the source file may be corrupt or "
+"invalid."
+msgstr ""
+"pbi_add naredba je javila grešku, izvorna datoteka je možda pokvarena ili "
+"neispravna."
+
+#: PBI#29
+msgid "Creating menu icons and links..."
+msgstr "Stvaranje meni ikona i poveznica..."
+
+#: PBI#30
+msgid "Merging Files..."
+msgstr "Povezivanje datoteka..."
+
+#: PBI#31
+msgid "Registering installation and cleanup..."
+msgstr "Registriranje instalacije i čišćenje..."
+
+#: PBI#32
+msgid "Preparing to install..."
+msgstr "Priprema instalacije..."
+
+#: PBI#33
+msgid "No digital signature"
+msgstr "Bez elekroničkog potpisa"
+
+#: PBI#34
+msgid ""
+"This application has no digital signature. Installing applications from "
+"unknown sources can be dangerous. Continue with the install? "
+msgstr ""
+"Ova aplikacija nema elekronički potpis. Instaliranje aplikacija iz "
+"nepoznatih izvora može biti opasno. Nastaviti sa instalacijom? "
+
+#: PBI#35
+msgid "Invalid digital signature"
+msgstr "Neispravan elektronički potpis"
+
+#: PBI#36
+msgid ""
+"This application has a bad or unknown digital signature. Installing "
+"applications from unknown sources can be dangerous. Continue with the "
+"install? "
+msgstr ""
+"Ova aplikacija ima netočan ili nepoznat elektronički potpis. Instaliranje "
+"aplikacija iz nepoznatih izvora može biti opasno. Nastavitit sa "
+"instalacijom? "
+
+#: PBI#37
+msgid "Error, This application must be installed as root!"
+msgstr "Greška, ova aplikacija se mora instalirati sa root ovlastima!"

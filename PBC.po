@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-24 02:22-0700\n"
+"PO-Revision-Date: 2011-06-29 19:08+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: ExeDialog#1
+msgid "Package Executable"
+msgstr "Izvršna datoteka paketa"
+
+#: ExeDialog#2
+msgid "Executable Icon"
+msgstr "Izvršna ikona"
+
+#: ExeDialog#3
+msgid "Program Name"
+msgstr "Ime programa"
+
+#: ExeDialog#4
+msgid "Program Executable"
+msgstr "Izvršna datoteka programa"
+
+#: ExeDialog#5
+msgid "Run as root"
+msgstr "Pokreni kao root"
+
+#: ExeDialog#6
+msgid "Run in shell prompt"
+msgstr "Pokreni u ljusci"
+
+#: ExeDialog#7
+msgctxt "ExeDialog#7"
+msgid "&Save"
+msgstr "&Sačuvaj"
+
+#: ExeDialog#8
+msgctxt "ExeDialog#8"
+msgid "Alt+S"
+msgstr "Alt+S"
+
+#: ExeDialog#9
+msgctxt "ExeDialog#9"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: ExeDialog#10
+msgctxt "ExeDialog#10"
+msgid "Alt+C"
+msgstr "Alt+O"
+
+#: ExeDialog#11
+msgid "No desktop icon"
+msgstr "Nema ikone na radnoj površini"
+
+#: ExeDialog#12
+msgctxt "ExeDialog#12"
+msgid "Choose an Icon"
+msgstr "Odaberi ikonu"
+
+#: ExeDialog#13
+msgid "Select Executable"
+msgstr "Odaberi izvršnu datoteku"
+
+#: ExeDialog#14
+msgid "Startup notify"
+msgstr "Obavjesti pri pokretanju"
+
+#: ExeDialog#15
+msgid "Open as a link (Local documents)"
+msgstr "Otvori kao poveznicu (lokalni dokumenti)"
+
+#: ExeDialog#16
+msgid "Open as a web link (http:// or ftp://)"
+msgstr "Otvori kao web poveznicu (http:// ili ftp://)"
+
+#: ExeDialog#17
+msgid "No Kmenu icon"
+msgstr "Nema Kmenu ikone"
+
+#: ExeDialog#18
+msgid "Taskbar Icon"
+msgstr "Ikona programske trake"
+
+#: ExeDialog#19
+msgid "Kmenu Icon Placement"
+msgstr "Položaj Kmenu ikone"
+
+#: ExeDialog#20
+msgid "Create sub-directory in KDE Kmenu directory selected below"
+msgstr "Napravi pod-direktorij u KDE Izborničkom direktriju označenom niže"
+
+#: ExeDialog#21
+msgid "Insert icon directly into KDE Kmenu directory selected below"
+msgstr "Neposredno ubaci ikonu u niže označen KDE Kmenu direktorij"
+
+#: ExeDialog#22
+msgid "Create top-level Kmenu program directory"
+msgstr "Napravi direktroij programa na vrhovnoj-razini Kmenu-a"
+
+#: ExeDialog#23
+msgctxt "ExeDialog#23"
+msgid "Images (*.png)"
+msgstr "Slike (*.png)"
+
+#: MimeDialog#1
+msgid "Add a MIME Type"
+msgstr "Dodaj MIME tip"
+
+#: MimeDialog#2
+msgid "File Icon"
+msgstr "Ikona datoteke"
+
+#: MimeDialog#3
+msgid "File Extensions"
+msgstr "Ekstenzija datoteke"
+
+#: MimeDialog#4
+msgid "Example (*.html; *.htm )"
+msgstr "Primjer (*.html; *.htm)"
+
+#: MimeDialog#5
+msgid "Open with program"
+msgstr "Otvori sa programom"
+
+#: MimeDialog#6
+msgctxt "MimeDialog#6"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: MimeDialog#7
+msgctxt "MimeDialog#7"
+msgid "Alt+C"
+msgstr "Alt+O"
+
+#: MimeDialog#8
+msgctxt "MimeDialog#8"
+msgid "&Save"
+msgstr "&Spremi"
+
+#: MimeDialog#9
+msgctxt "MimeDialog#9"
+msgid "Alt+S"
+msgstr "Alt+S"
+
+#: MimeDialog#10
+msgctxt "MimeDialog#10"
+msgid "Choose an Icon"
+msgstr "Odaberi ikonu"
+
+#: MimeDialog#11
+msgctxt "MimeDialog#11"
+msgid "Images (*.png)"
+msgstr "Slike (*.png)"
+
+#: PBCwizard#1
+msgid "Package Info"
+msgstr "Informacije o paketu"
+
+#: PBCwizard#2
+msgid "Package Name:"
+msgstr "Ime paketa:"
+
+#: PBCwizard#3
+msgid "Author:"
+msgstr "Autor:"
+
+#: PBCwizard#4
+msgid "Website:"
+msgstr "Web stranica:"
+
+#: PBCwizard#5
+msgid "Package Version:"
+msgstr "Verzija paketa:"
+
+#: PBCwizard#6
+msgid "License Text"
+msgstr "Tekst licence"
+
+#: PBCwizard#7
+msgid "Display License"
+msgstr "Pokaži licencu"
+
+#: PBCwizard#8
+msgid "No"
+msgstr "Ne"
+
+#: PBCwizard#9
+msgid "Yes"
+msgstr "Da"
+
+#: PBCwizard#10
+msgid "Directory"
+msgstr "Direktorij"
+
+#: PBCwizard#11
+msgid "Package Directory"
+msgstr "Direktorij paketa"
+
+#: PBCwizard#12
+msgid "Library Support"
+msgstr "Podrška biblioteka"
+
+#: PBCwizard#13
+msgid "Specify library directory"
+msgstr "Navedi direktorij biblioteke"
+
+#: PBCwizard#14
+msgid "Do not include library directory"
+msgstr "Ne ukjučuj direktorij biblioteke"
+
+#: PBCwizard#15
+msgid "Auto populate library directory"
+msgstr "Automatski napuni direktorij biblioteke"
+
+#: PBCwizard#16
+msgid "Package Options"
+msgstr "Opcije paketa"
+
+#: PBCwizard#17
+msgid "Package Executables"
+msgstr "Izvršne datoteke paketa"
+
+#: PBCwizard#18
+msgid "Remove"
+msgstr "Ukloni"
+
+#: PBCwizard#19
+msgid "Edit"
+msgstr "Uredi"
+
+#: PBCwizard#20
+msgid "Add"
+msgstr "Dodaj"
+
+#: PBCwizard#21
+msgid "Default Program Icon"
+msgstr "Početna ikona programa"
+
+#: PBCwizard#22
+msgid "Register MIME Types"
+msgstr "Registriraj MIME tipove"
+
+#: PBCwizard#23
+msgid "Mime Types"
+msgstr "Mime tipovi"
+
+#: PBCwizard#24
+msgid "Creating Package"
+msgstr "Stvaranje paketa"
+
+#: PBCwizard#25
+msgid "<p align=\"center\">Creating Package</p>"
+msgstr "<p align=\"center\">Stvaranje paketa</p>"
+
+#: PBCwizard#26
+msgctxt "PBCwizard#26"
+msgid "Choose an Icon"
+msgstr "Odaberi ikonu"
+
+#: PBCwizard#27
+msgid "PBI Version:"
+msgstr "PBI Verzija:"
+
+#: PBCwizard#28
+msgid "Load saved preset"
+msgstr "Učitaj sačuvano postavljanje"
+
+#: PBCwizard#29
+msgid "Save preset"
+msgstr "Sačuvaj postavljanje"
+
+#: PBCwizard#30
+msgid ""
+"Error, this .pbc file is corrupt, or for the wrong version of Package "
+"Creator."
+msgstr ""
+"Greška, ova .pbc datoteka je neispravna, ili za drugu verziju Kreatora "
+"Paketa."
+
+#: PBCwizard#31
+msgid "Update URL:"
+msgstr "Ažuriraj URL:"
+
+#: PBCwizard#32
+msgid "Edit Firstrun Script"
+msgstr "Uredi Firstrun skriptu"
+
+#: PBCwizard#33
+msgid "Edit Setup Script"
+msgstr "Uredi skriptu instalacije"
+
+#: PBCwizard#34
+msgid "Edit Remove Script"
+msgstr "Uredi skriptu uklanjanja"
+
+#: PBCwizard#35
+msgid "Creating PBI file..."
+msgstr "Pravljenje PBI datoteke..."
+
+#: PBCwizard#36
+msgid "Unable to write preset file to '"
+msgstr "Neuspješno zapisivanje datoteke postavljanja u '"
+
+#: PBCwizard#37
+msgid "'. Check the location exists, and is writeable."
+msgstr "'. Provjerite da lokacija postoji, i da je zapisiva."
+
+#: PBCwizard#38
+msgid "Unable to save preset"
+msgstr "Neuspješno sačuvavanje postavljanja"
+
+#: PBCwizard#39
+msgid "Invalid File"
+msgstr "Neispravna datoteka"
+
+#: PBCwizard#40
+msgid "PBI Creator"
+msgstr "PBI Kreator"
+
+#: PBCwizard#41
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">This information will be "
+"used during the installation, as well as in the package manager for "
+"administration.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">If you have a preset file, "
+"you may load it below.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">If you wish to run an "
+"\"update\" service for this PBI, enter the full URL for version check script. "
+"Please see the README for more information.</p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Ovi podaci će se koristiti "
+"tijekom instalacije, kao i u upravitelju paketa za administriranje.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Ako imate datoteku "
+"postavljanja, možete je učitati niže.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Ako želite pokrenuti servis "
+"\"ažuriranja\" za ovaj PBI, unesite čitavi URL za skriptu provjere verzije. "
+"Pročitajte README za više informacija.</p></body></html>"
+
+#: PBCwizard#42
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">If \"Display License\" is set "
+"to \"Yes\", then during the installation, the software will require the user "
+"to accept the license agreement before going further. Setting this to \"No\" "
+"will simply skip the license screen, and continue on with "
+"installation.</p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Ako \"Prikaži Licencu\" je "
+"postavljeno na \"Da\", tada će tijekom instalacije, softver tražiti od "
+"korisnika prihvaćanje licencnog ugovora prije nastavka instalacije. "
+"Postavljanje na \"Ne\" će jednostavno preskočiti prikazivanje licence, i "
+"nastaviti sa instalacijom.</p></body></html>"
+
+#: PBCwizard#43
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Specify the program "
+"directory you wish to include, then choose an option for library files.  You "
+"will need to choose an option for your libraries also. We recommend to use "
+"the \"Auto\" option, as this will include the necessary libraries for your "
+"program to operate on a variety of systems.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">WARNING: Not including a "
+"library directory may render this program inoperable on systems without the "
+"required libraries.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">You may also edit your "
+"initial FirstRun script, and Setup / Remove Scripts here. </p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Navedite direktorij "
+"programa kojeg želite uključiti, onda odaberite opciju za biblioteke.  "
+"Morati će te također odabrati opciju za vaše biblioteke. Preporučamo \"Auto\" "
+"opciju, jer će ovo uključiti potrebne biblioteke kako bi vaš program mogao "
+"raditi na raznim sistemima.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">UPOZORENJE: Ne uključivanje "
+"direktorija biblioteke može učiniti ovaj program ne operativnim na "
+"sistemima bez potrebnih biblioteka.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Također ovdje možete "
+"urediti prvotnu FirstRun skriptu, i skriptu Instaliranje / Uklanjanje. "
+"</p></body></html>"
+
+#: PBCwizard#44
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Next you need to set a "
+"default icon for your program, which will be used for the KDE interface. "
+"Program Executables are the files you wish to show up as icons on the "
+"desktop, or in the \"K\" menu. At least one executable must be added, but if "
+"your program has multiple binaries, you may add more.</p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Sljedeće što morate "
+"postaviti je početna ikona za vaš program, koja će se koristiti u KDE "
+"sučelju. Izvršne datoteke programa su datoteke koje želite prikazati kao "
+"ikone na radnoj površini, ili u \"K\" izborniku. Najmanje jedna izvršna "
+"datoteka treba biti navedena, ako vaš program ima više izvršnih datoteka "
+"možete ih navesti više.</p></body></html>"
+
+#: PBCwizard#45
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Some programs need to "
+"register file-types to function fully. You may specifiy up to 100 file "
+"extensions and the programs they are opened with.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">If you do not wish to "
+"register any file-types, you can safely ignore this section, and click "
+"next.</p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Neki programi trebaju "
+"registrirati tipove datoteka kako bi u potpunosti radili. Možete navesti do "
+"100 nastavaka datoteka i programe koji ih otvaraju.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Ako ne želite registrirati "
+"niti jedan tip datoteka, možete sa sigurnošću preskočiti ovu dionicu, i "
+"kliknuti dalje.</p></body></html>"
+
+#: PBCwizard#46
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Your software package is "
+"now being created! Please wait, this may take a few moments, depending on "
+"the size of your package.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">In addition, you may also "
+"save a \"preset\" file, which may be loaded in the package creator for "
+"modification. </p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Vaš softverski paket se "
+"sada oblikuje! Molimo pričekajte, ovo može potrajati nekoliko trenutaka, "
+"ovisno o veličini vašeg paketa.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Povrh toga, možete također "
+"sačuvati datoteku \"postavljanja\", koju možete učitati u kreator paketa za "
+"dodatne preinake. </p></body></html>"
+
+#: PBCwizard#47
+msgid "Open Directory"
+msgstr "Otvori direktorij"
+
+#: PBCwizard#48
+msgid "Icon Files (*.png)"
+msgstr "Datoteke ikona (*.png)"
+
+#: PBCwizard#49
+msgid "Package Creator preset"
+msgstr "Postavljanje za Kreator Paketa"
+
+#: PBCwizard#50
+msgid "PBI Creator preset (*.pbc)"
+msgstr "PBI Kreator postavljanje (*.pbc)"
+
+#: PBCwizard#51
+msgid "Open File"
+msgstr "Otvori datoteku"

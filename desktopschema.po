@@ -1,0 +1,905 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-18 12:24-0700\n"
+"PO-Revision-Date: 2011-07-07 22:58+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: Desktop Files - Backup and Restore your system
+msgid "Backup and Restore your system"
+msgstr ""
+
+#: Desktop Files - PBI
+msgid "PBI"
+msgstr "PBI"
+
+#: Desktop Files - User Manager
+msgid "User Manager"
+msgstr "Upravitelj korisnika"
+
+#: Desktop Files - Manage users and groups
+msgid "Manage users and groups"
+msgstr "Upravlja korisnicima i grupama"
+
+#: Desktop Files - Software Manager
+msgid "Software Manager"
+msgstr ""
+
+#: Desktop Files - Password & User Account
+msgid "Password & User Account"
+msgstr "Zaporka & Korisnički Račun"
+
+#: Desktop Files - User information such as password, name and email
+msgid "User information such as password, name and email"
+msgstr "Korisničke informacije kao što su zaporka. ime i e-pošta"
+
+#: Desktop Files - Services Manager
+msgid "Services Manager"
+msgstr "Upravitelj servisima"
+
+#: Desktop Files - Firewall
+msgid "Firewall"
+msgstr "Vatrozid"
+
+#: Desktop Files - System Manager
+msgid "System Manager"
+msgstr "Upravitelj sustava"
+
+#: Desktop Files - Software & Updates
+msgid "Software & Updates"
+msgstr "Softver & Ažuriranja"
+
+#: Desktop Files - Ports Jail
+msgid "Ports Jail"
+msgstr ""
+
+#: Desktop Files - PC-BSD Website
+msgid "PC-BSD Website"
+msgstr "PC-BSD web stranica"
+
+#: Desktop Files - Users Handbook
+msgid "Users Handbook"
+msgstr "Korisnički Priručnik"
+
+#: Desktop Files - Software Manager
+msgid "Software Manager"
+msgstr "Upravitelj softvera"
+
+#: Desktop Files - Manage Printing
+msgid "Manage Printing"
+msgstr "Upravljanje printanjem"
+
+#: Desktop Files - CUPS Web Interface
+msgid "CUPS Web Interface"
+msgstr "CUPS Web Sučelje"
+
+#: Desktop Files - HP Device Manager
+msgid "HP Device Manager"
+msgstr ""
+
+#: Desktop Files - HP Device Manager
+msgid "HP Device Manager"
+msgstr "HP upravitelj uređaja"
+
+#: Desktop Files - View device status, ink levels and perform maintenance.
+msgid "View device status, ink levels and perform maintenance."
+msgstr "Pogledaj stanje uređaja, nivo tinte i obavi održavanje."
+
+#: Desktop Files - IBus
+msgid "IBus"
+msgstr "IBus"
+
+#: Desktop Files - IBus input method framework
+msgid "IBus input method framework"
+msgstr ""
+
+#: Desktop Files - IBus input method framework
+msgid "IBus input method framework"
+msgstr "IBus okvir načina unosa"
+
+#: Desktop Files - PBI Launcher
+msgid "PBI Launcher"
+msgstr ""
+
+#: Desktop Files - Nitrogen
+msgid "Nitrogen"
+msgstr "Nitrogen"
+
+#: Desktop Files - Hubble
+msgid "Hubble"
+msgstr "Hubble"
+
+#: Desktop Files - Galileo
+msgid "Galileo"
+msgstr "Galileo"
+
+#: Desktop Files - PC-BSD7
+msgid "PC-BSD7"
+msgstr "PC-BSD7"
+
+#: Desktop Files - PC-BSD Theme done in the Oxygen style
+msgid "PC-BSD Theme done in the Oxygen style"
+msgstr "PC-BSD Tema u Oxygen stilu"
+
+#: Desktop Files - PBI Launcher
+msgid "PBI Launcher"
+msgstr "PBI Pokretač"
+
+#: Desktop Files - KPPPLogview
+msgid "KPPPLogview"
+msgstr "KPPPLogview"
+
+#: Desktop Files - Internet Dial-Up Tool Log Viewer
+msgid "Internet Dial-Up Tool Log Viewer"
+msgstr "Pregled zapisa internet Dial-Up alata"
+
+#: Desktop Files - KIconEdit
+msgid "KIconEdit"
+msgstr "KIconEdit"
+
+#: Desktop Files - Icon Editor
+msgid "Icon Editor"
+msgstr "Editor Ikona"
+
+#: Desktop Files - Login Manager Settings (KDM)
+msgid "Login Manager Settings (KDM)"
+msgstr ""
+
+#: Desktop Files - Login Manager Settings (KDM)
+msgid "Login Manager Settings (KDM)"
+msgstr "Postavke upravljača prijavljivanja (KDM)"
+
+#: Desktop Files - Sweeper
+msgid "Sweeper"
+msgstr "Sweeper"
+
+#: Desktop Files - System Cleaner
+msgid "System Cleaner"
+msgstr "Čistač Sustava"
+
+#: Desktop Files - Skanlite
+msgid "Skanlite"
+msgstr "Skanlite"
+
+#: Desktop Files - Image Scanning Application
+msgid "Image Scanning Application"
+msgstr "Aplikacija Skeniranja Slika"
+
+#: Desktop Files - Scan and save images
+msgid "Scan and save images"
+msgstr "Skeniraj i sačuvaj slike"
+
+#: Desktop Files - KColorChooser
+msgid "KColorChooser"
+msgstr "KColorChooser"
+
+#: Desktop Files - Color Chooser
+msgid "Color Chooser"
+msgstr "Birač Boja"
+
+#: Desktop Files - KonsoleKalendar
+msgid "KonsoleKalendar"
+msgstr "KonsoleKalendar"
+
+#: Desktop Files - KwikDisk
+msgid "KwikDisk"
+msgstr "KwikDisk"
+
+#: Desktop Files - Removable Media Utility
+msgid "Removable Media Utility"
+msgstr "Pomoćnik odstranjivog medija"
+
+#: Desktop Files - Samba Manager
+msgid "Samba Manager"
+msgstr ""
+
+#: Desktop Files - Samba Manager
+msgid "Samba Manager"
+msgstr "Samba Upravitelj"
+
+#: Desktop Files - KMPlayer
+msgid "KMPlayer"
+msgstr "KMPlayer"
+
+#: Desktop Files - Media Player
+msgid "Media Player"
+msgstr "Izvođač medija"
+
+#: Desktop Files - KDE interface for MPlayer
+msgid "KDE interface for MPlayer"
+msgstr "KDE sučelje za MPlayer"
+
+#: Desktop Files - KCharSelect
+msgid "KCharSelect"
+msgstr "KCharSelect"
+
+#: Desktop Files - Character Selector
+msgid "Character Selector"
+msgstr "Izbornik znakova"
+
+#: Desktop Files - KGpg
+msgid "KGpg"
+msgstr "KGpg"
+
+#: Desktop Files - Encryption Tool
+msgid "Encryption Tool"
+msgstr "Enkripcijski Alat"
+
+#: Desktop Files - A GnuPG frontend
+msgid "A GnuPG frontend"
+msgstr "Sučelje za GnuPG"
+
+#: Desktop Files - Ports Jail
+msgid "Ports Jail"
+msgstr "Ports Jail"
+
+#: Desktop Files - Vim
+msgid "Vim"
+msgstr "Vim"
+
+#: Desktop Files - Vim Editor
+msgid "Vim Editor"
+msgstr "Vim Uređivač"
+
+#: Desktop Files - KTimer
+msgid "KTimer"
+msgstr "KTimer"
+
+#: Desktop Files - Countdown Launcher
+msgid "Countdown Launcher"
+msgstr "Pokretač odbrojavanja"
+
+#: Desktop Files - File Manager - Super User Mode
+msgid "File Manager - Super User Mode"
+msgstr "Upravitelj datotekama - Super korisnički način"
+
+#: Desktop Files - KRuler
+msgid "KRuler"
+msgstr "KRuler"
+
+#: Desktop Files - Screen Ruler
+msgid "Screen Ruler"
+msgstr "Rukovodilac zaslona"
+
+#: Desktop Files - KDiskFree
+msgid "KDiskFree"
+msgstr "KDiskFree"
+
+#: Desktop Files - View Disk Usage
+msgid "View Disk Usage"
+msgstr "Pogledaj iskoristivost diska"
+
+#: Desktop Files - File Manager (Administrator)
+msgid "File Manager (Administrator)"
+msgstr "Upravitelj datotekama (Administrator)"
+
+#: Desktop Files - Rocs
+msgid "Rocs"
+msgstr "Rocs"
+
+#: Desktop Files - Rocs Graph Theory
+msgid "Rocs Graph Theory"
+msgstr "Rocs teorija grafova"
+
+#: Desktop Files - Graph Theory Tool for Professors and Students.
+msgid "Graph Theory Tool for Professors and Students."
+msgstr "Alat teorije grafova za profesore i studente."
+
+#: Desktop Files - Fibonacci
+msgid "Fibonacci"
+msgstr "Fibonacci"
+
+#: Desktop Files - Install PC-BSD
+msgid "Install PC-BSD"
+msgstr "Instaliraj PC-BSD"
+
+#: Desktop Files - Install PC-BSD to Disk
+msgid "Install PC-BSD to Disk"
+msgstr "Instaliraj PC-BSD na disk"
+
+#: Desktop Files - Online Update Notifier
+msgid "Online Update Notifier"
+msgstr "Online obavještivač ažuriranja"
+
+#: Desktop Files - System Network Configuration
+msgid "System Network Configuration"
+msgstr "Postavljanje sistemske mreže"
+
+#: Desktop Files - Configure Network Settings
+msgid "Configure Network Settings"
+msgstr "Postavi mrežne postavke"
+
+#: Desktop Files - Life Preserver
+msgid "Life Preserver"
+msgstr "Life Preserver"
+
+#: Desktop Files - Life Preserver Backup
+msgid "Life Preserver Backup"
+msgstr "Life Preserver sigurnosne kopije"
+
+#: Desktop Files - Backup and Restore your system
+msgid "Backup and Restore your system"
+msgstr "Sigurnosna kopija i obnova vašeg sistema"
+
+#: Desktop Files - PC-BSD Handbook
+msgid "PC-BSD Handbook"
+msgstr "PC-BSD Priručnik"
+
+#: Desktop Files - Online Wiki
+msgid "Online Wiki"
+msgstr "Online Wiki"
+
+#: Desktop Files - FireFox
+msgid "FireFox"
+msgstr "FireFox"
+
+#: Desktop Files - gimp
+msgid "gimp"
+msgstr "gimp"
+
+#: Desktop Files - Gimp
+msgid "Gimp"
+msgstr "Gimp"
+
+#: Desktop Files - PC-BSD Control Panel
+msgid "PC-BSD Control Panel"
+msgstr "PC-BSD Upravljačka ploča"
+
+#: Desktop Files - LXDE
+msgid "LXDE"
+msgstr "LXDE"
+
+#: Desktop Files - Fluxbox
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+#: Desktop Files - A small and fast window manager
+msgid "A small and fast window manager"
+msgstr "Mali i brz upravljač prozora"
+
+#: Desktop Files - KDE
+msgid "KDE"
+msgstr "KDE"
+
+#: Desktop Files - The K Desktop Environment
+msgid "The K Desktop Environment"
+msgstr "K grafičko sučelje"
+
+#: Desktop Files - GNOME/Openbox
+msgid "GNOME/Openbox"
+msgstr "GNOME/Openbox"
+
+#: Desktop Files - Use the Openbox window manager inside of the GNOME desktop environment
+msgid "Use the Openbox window manager inside of the GNOME desktop environment"
+msgstr "Koristite Openbox upravljač prozora unutar GNOME grafičkog sučelja"
+
+#: Desktop Files - Awesome
+msgid "Awesome"
+msgstr "Awesome"
+
+#: Desktop Files - Highly configurable framework window manager
+msgid "Highly configurable framework window manager"
+msgstr "Veoma prilagodljiv okvirni upravljač prozora"
+
+#: Desktop Files - IceWM
+msgid "IceWM"
+msgstr "IceWM"
+
+#: Desktop Files - Window Manager designed for speed, usability and consistency
+msgid "Window Manager designed for speed, usability and consistency"
+msgstr "Upravljač prozora projektiran za brzinu, uporabnost i postojanost"
+
+#: Desktop Files - GNOME
+msgid "GNOME"
+msgstr "GNOME"
+
+#: Desktop Files - This session logs you into GNOME
+msgid "This session logs you into GNOME"
+msgstr "Ova sesija vas prijavljuje u GNOME"
+
+#: Desktop Files - WindowMaker
+msgid "WindowMaker"
+msgstr "WindowMaker"
+
+#: Desktop Files - A GNUstep-compliant NeXTstep Window Manager clone
+msgid "A GNUstep-compliant NeXTstep Window Manager clone"
+msgstr "GNUstep usuglašeni NeXTstep klon upravljač prozora"
+
+#: Desktop Files - AppCafe
+msgid "AppCafe"
+msgstr "AppCafe"
+
+#: Desktop Files - Service Manager
+msgid "Service Manager"
+msgstr "Upravitelj servisa"
+
+#: Desktop Files - Firewall Manager
+msgid "Firewall Manager"
+msgstr "Upravitelj vatrozida"
+
+#: Desktop Files - KBackup (Backup Program)
+msgid "KBackup (Backup Program)"
+msgstr "KBackup (program izrade sigurnosnih kopija)"
+
+#: Desktop Files - Backup your data with an easy to use user interface
+msgid "Backup your data with an easy to use user interface"
+msgstr ""
+"Napravite sigurnosne kopije vaših datoteka sa sučeljem koji je jednostavan "
+"za korištenje"
+
+#: Desktop Files - Warden
+msgid "Warden"
+msgstr "Warden"
+
+#: Desktop Files - Jails management
+msgid "Jails management"
+msgstr "Namještanje jails-a"
+
+#: Desktop Files - Lucky backup
+msgid "Lucky backup"
+msgstr "Lucky backup"
+
+#: Desktop Files -  Backup tool
+msgid " Backup tool"
+msgstr " Alat za izradu sigurnosnih kopija"
+
+#: Desktop Files - PC-BSD system management
+msgid "PC-BSD system management"
+msgstr "Upravitelj PC-BSD sustava"
+
+#: Desktop Files - PC-BSD services management
+msgid "PC-BSD services management"
+msgstr "Upravljanje PC-BSD servisima"
+
+#: Desktop Files - Webmin
+msgid "Webmin"
+msgstr "Webmin"
+
+#: Desktop Files - Web based interface for system management for Unix
+msgid "Web based interface for system management for Unix"
+msgstr "Web zasnovano sučelje za upravljanje sustavima za Unix"
+
+#: Desktop Files - The fish
+msgid "The fish"
+msgstr "The fish"
+
+#: Desktop Files -  The fish: rc.conf editor
+msgid " The fish: rc.conf editor"
+msgstr " The fish: rc.conf uređivač"
+
+#: Desktop Files - Tork
+msgid "Tork"
+msgstr "Tork"
+
+#: Desktop Files - Powerful anonymity and network services manager for KDE desktop
+msgid "Powerful anonymity and network services manager for KDE desktop"
+msgstr "Moćan upravitelj anonimnim i mrežnim servisima za KDE sučelje"
+
+#: Desktop Files - Configure firewall settings
+msgid "Configure firewall settings"
+msgstr "Namjestite vatrozid postavke"
+
+#: Desktop Files - Wine Configuration
+msgid "Wine Configuration"
+msgstr "Wine postavke"
+
+#: Desktop Files - Wine configuration
+msgid "Wine configuration"
+msgstr "Wine postavke"
+
+#: Desktop Files - Open ports jail console
+msgid "Open ports jail console"
+msgstr "Otvorite ports jail u konzoli"
+
+#: Desktop Files - Q4Wine
+msgid "Q4Wine"
+msgstr "Q4Wine"
+
+#: Desktop Files - Wine menagement tool writen on Qt
+msgid "Wine menagement tool writen on Qt"
+msgstr "Alat za upravljanje Wine-om napisan u Qt-u"
+
+#: Desktop Files - DesktopBSD Tools
+msgid "DesktopBSD Tools"
+msgstr "DesktopBSD Alati"
+
+#: Desktop Files - DesktopBSD software management tool
+msgid "DesktopBSD software management tool"
+msgstr "Alat za upravljanje DesktopBSD-a softvera"
+
+#: Desktop Files - nVidia settings
+msgid "nVidia settings"
+msgstr "nVidia postavke"
+
+#: Desktop Files - nVidia video card settings
+msgid "nVidia video card settings"
+msgstr "nVidia postavke grafičke kartice"
+
+#: Desktop Files - Printing
+msgid "Printing"
+msgstr "Printanje"
+
+#: Desktop Files - Configure printers
+msgid "Configure printers"
+msgstr "Postavi printere"
+
+#: Desktop Files - CUPS
+msgid "CUPS"
+msgstr "CUPS"
+
+#: Desktop Files - Common UNIX printing system web GUI
+msgid "Common UNIX printing system web GUI"
+msgstr "Web sučelje za zajednički sustav printanja na UNIX-u"
+
+#: Desktop Files - Display
+msgid "Display"
+msgstr "Zaslon"
+
+#: Desktop Files - Setup display properties
+msgid "Setup display properties"
+msgstr "Namjestite postavke zaslona"
+
+#: Desktop Files -  "Are you sure you want to run the display setup wizard? Doing so will exit the current desktop session and any unsaved files will be lost."
+msgid " "Are you sure you want to run the display setup wizard? Doing so will exit the current desktop session and any unsaved files will be lost.""
+msgstr " "
+
+#: Desktop Files - Network Configuration
+msgid "Network Configuration"
+msgstr "Mrežne postavke"
+
+#: Desktop Files - AMOR
+msgid "AMOR"
+msgstr "AMOR"
+
+#: Desktop Files - On-Screen Creature
+msgid "On-Screen Creature"
+msgstr "Beštija na vašem zaslonu"
+
+#: Desktop Files - GTK Styles and Fonts
+msgid "GTK Styles and Fonts"
+msgstr "GTK stilovi i fontovi"
+
+#: Desktop Files - Control the style and fonts used by GTK applications
+msgid "Control the style and fonts used by GTK applications"
+msgstr "Upravljanje stilovima i fontovima koje koriste GTK aplikacije"
+
+#: Desktop Files - MPlayer
+msgid "MPlayer"
+msgstr "MPlayer"
+
+#: Desktop Files - High performance media player
+msgid "High performance media player"
+msgstr "Visoko djelotvoran izvođač medija"
+
+#: Desktop Files - Xfce Session
+msgid "Xfce Session"
+msgstr "Xfce sesija"
+
+#: Desktop Files - Use this session to run Xfce as your desktop environment
+msgid "Use this session to run Xfce as your desktop environment"
+msgstr "Koristite ovu sesiju za pokretanje Xfce kao vaše grafičko sučelje"
+
+#: Desktop Files - Enlightenment
+msgid "Enlightenment"
+msgstr "Enlightenment"
+
+#: Desktop Files - Log in using Enlightenment (Version 0.16.999.52995)
+msgid "Log in using Enlightenment (Version 0.16.999.52995)"
+msgstr "Prijavite se koristeći Enligtenment (Verzija 0.16.999.52995)"
+
+#: Desktop Files - LXDE - Lightweight X11 desktop environment
+msgid "LXDE - Lightweight X11 desktop environment"
+msgstr "LXDE - Lagano X11 grafičko sučelje"
+
+#: Desktop Files - MythTV
+msgid "MythTV"
+msgstr "MythTV"
+
+#: Desktop Files - Task Manager
+msgid "Task Manager"
+msgstr "Upravitelj zadataka"
+
+#: Desktop Files - Process manager
+msgid "Process manager"
+msgstr "Upravitelj procesa"
+
+#: Desktop Files - Manage running processes
+msgid "Manage running processes"
+msgstr "Upravljanje pokrenutim procesima"
+
+#: Desktop Files - KSystemLog
+msgid "KSystemLog"
+msgstr "KSystemLog"
+
+#: Desktop Files - System Log Viewer
+msgid "System Log Viewer"
+msgstr "Prikaz sistemskih zapisa"
+
+#: Desktop Files - System log viewer tool
+msgid "System log viewer tool"
+msgstr "Alat za prikazivanje sistemskih zapisa"
+
+#: Desktop Files - Log File Viewer
+msgid "Log File Viewer"
+msgstr "Prikaz zapisa"
+
+#: Desktop Files - View or monitor system log files
+msgid "View or monitor system log files"
+msgstr "Prikazivanje ili nadgledanje sistemskih zapisa"
+
+#: Desktop Files - KInfoCenter
+msgid "KInfoCenter"
+msgstr "KInfoCenter"
+
+#: Desktop Files - Info Center
+msgid "Info Center"
+msgstr "Informacijsko sjedište"
+
+#: Desktop Files - Sound
+msgid "Sound"
+msgstr "Zvuk"
+
+#: Desktop Files - Change sound volume and sound events
+msgid "Change sound volume and sound events"
+msgstr "Promjeni glasnoću zvuka i zvučne efekte"
+
+#: Desktop Files - Mouse
+msgid "Mouse"
+msgstr "Miš"
+
+#: Desktop Files - Set your mouse preferences
+msgid "Set your mouse preferences"
+msgstr "Namjestite postavke vašeg miša"
+
+#: Desktop Files - Configure pointer device behavior and appearance
+msgid "Configure pointer device behavior and appearance"
+msgstr "Namjestite ponašanje i izgled uređaja za pokazivanje"
+
+#: Desktop Files - Keyboard and Mouse
+msgid "Keyboard and Mouse"
+msgstr "Tipkovnica i Miš"
+
+#: Desktop Files - Configure keyboard, mouse, and other input devices
+msgid "Configure keyboard, mouse, and other input devices"
+msgstr "Namjestite tipkovnicu, miš i druge ulazne uređaje"
+
+#: Desktop Files - Power Management
+msgid "Power Management"
+msgstr "Upravljanje energijom"
+
+#: Desktop Files - Configure power management
+msgid "Configure power management"
+msgstr "Namjestite kako upravljati energijom"
+
+#: Desktop Files - Keyboard
+msgid "Keyboard"
+msgstr "Tipkovnica"
+
+#: Desktop Files - Edit keyboard settings and application shortcuts
+msgid "Edit keyboard settings and application shortcuts"
+msgstr "Namjestite postavke tipkovnice i prečace aplikacija"
+
+#: Desktop Files - Set your keyboard preferences
+msgid "Set your keyboard preferences"
+msgstr "Namjestite postavke vaše tipkovnice"
+
+#: Desktop Files - Openbox Configuration Manager
+msgid "Openbox Configuration Manager"
+msgstr "Openbox upravitelj postavkama"
+
+#: Desktop Files - Openbox configuration manager
+msgid "Openbox configuration manager"
+msgstr "Upravljajte Openbox postavkama"
+
+#: Desktop Files - Preferred Applications
+msgid "Preferred Applications"
+msgstr "Preferirane aplikacije"
+
+#: Desktop Files - Select your default applications
+msgid "Select your default applications"
+msgstr "Odaberite vaše uobičajne aplikacije"
+
+#: Desktop Files - Startup Applications
+msgid "Startup Applications"
+msgstr "Aplikacije pri podizanju"
+
+#: Desktop Files - Choose what applications to start when you log in
+msgid "Choose what applications to start when you log in"
+msgstr "Odaberite aplikacije koje će se pokrenuti kada se prijavite"
+
+#: Desktop Files - Main Menu
+msgid "Main Menu"
+msgstr "Glavni izbornik"
+
+#: Desktop Files - Change which applications are shown on the main menu
+msgid "Change which applications are shown on the main menu"
+msgstr "Namjestite koje aplikacije se prikazuju na glavnom izborniku"
+
+#: Desktop Files - Configuration Editor
+msgid "Configuration Editor"
+msgstr "Uređivač postavki"
+
+#: Desktop Files - Directly edit your entire configuration database
+msgid "Directly edit your entire configuration database"
+msgstr "Neposredno uredite cjeloukupnu bazu podataka postavki"
+
+#: Desktop Files - Window Manager Tweaks
+msgid "Window Manager Tweaks"
+msgstr "Uštimavač upravljača prozora"
+
+#: Desktop Files - Fine-tune window behaviour and effects
+msgid "Fine-tune window behaviour and effects"
+msgstr "Fino podešavanje ponašanja prozora i efekte"
+
+#: Desktop Files - Settings Editor
+msgid "Settings Editor"
+msgstr "Uređivač postavki"
+
+#: Desktop Files - Graphical settings editor for Xfconf
+msgid "Graphical settings editor for Xfconf"
+msgstr "Grafički uređivač postavki za Xfconf"
+
+#: Desktop Files - Settings Manager
+msgid "Settings Manager"
+msgstr "Upravitelj postavkama"
+
+#: Desktop Files - Graphical Settings Manager for Xfce 4
+msgid "Graphical Settings Manager for Xfce 4"
+msgstr "Grafički upravitelj postavkama za Xfce 4"
+
+#: Desktop Files - Accessibility
+msgid "Accessibility"
+msgstr "Pristupačnost"
+
+#: Desktop Files - Improve keyboard and mouse accessibility
+msgid "Improve keyboard and mouse accessibility"
+msgstr "Poboljšajte pristupačnost tipkovnice i miša"
+
+#: Desktop Files - Appearance
+msgid "Appearance"
+msgstr "Izgled"
+
+#: Desktop Files - Customize the look of the desktop
+msgid "Customize the look of the desktop"
+msgstr "Prilagodite izgled radne površine"
+
+#: Desktop Files - Keyboard Shortcuts
+msgid "Keyboard Shortcuts"
+msgstr "Prečaci tipkovnice"
+
+#: Desktop Files - Assign shortcut keys to commands
+msgid "Assign shortcut keys to commands"
+msgstr "Dodijelite tipkovne prečace za naredbe"
+
+#: Desktop Files - Customize the look of your desktop
+msgid "Customize the look of your desktop"
+msgstr "Uredite izgled vaše radne površine"
+
+#: Desktop Files - Assistive Technologies
+msgid "Assistive Technologies"
+msgstr "Pomoćne tehnologije"
+
+#: Desktop Files - Choose which accessibility features to enable when you log in
+msgid "Choose which accessibility features to enable when you log in"
+msgstr "Odaberite koje značajke pristupačnosti omogućiti pri vašoj prijavi"
+
+#: Desktop Files - Workspaces
+msgid "Workspaces"
+msgstr "Radni prostori"
+
+#: Desktop Files - Set number and names of workspaces
+msgid "Set number and names of workspaces"
+msgstr "Postavi broj i imena radnih prostora"
+
+#: Desktop Files - Window Manager
+msgid "Window Manager"
+msgstr "Upravljač prozora"
+
+#: Desktop Files - Configure window behavior and shortcuts
+msgid "Configure window behavior and shortcuts"
+msgstr "Postavi ponašanje prozora i prečace"
+
+#: Desktop Files - Session and Startup
+msgid "Session and Startup"
+msgstr "Sesija i pokretanje"
+
+#: Desktop Files - Customize desktop startup and splash screen
+msgid "Customize desktop startup and splash screen"
+msgstr "Prilagodi pokretanje radne površine i pozdravni ekran"
+
+#: Desktop Files - Windows
+msgid "Windows"
+msgstr "Prozori"
+
+#: Desktop Files - Set your window properties
+msgid "Set your window properties"
+msgstr "Namjestite svojstva prozora"
+
+#: Desktop Files - System Settings
+msgid "System Settings"
+msgstr "Sistemske Postavke"
+
+#: Desktop Files - Xfce
+msgid "Xfce"
+msgstr "Xfce"
+
+#: Desktop Files - PC-BSD Welcome
+msgid "PC-BSD Welcome"
+msgstr "PC-BSD Dobrodošli"
+
+#: Desktop Files - Time and Date
+msgid "Time and Date"
+msgstr "Vrijeme i datum"
+
+#: Desktop Files - Change system time, date, and timezone
+msgid "Change system time, date, and timezone"
+msgstr "Promijeni vrijeme, datum i vremensku zonu sustava"
+
+#: Desktop Files - Scrotwm
+msgid "Scrotwm"
+msgstr "Scrotwm"
+
+#: Desktop Files - A small dynamic tiling window manager
+msgid "A small dynamic tiling window manager"
+msgstr "Mali dinamički popločavajući upravljač prozora"
+
+#: Desktop Files - Update Manager
+msgid "Update Manager"
+msgstr "Upravitelj ažuriranja"
+
+#: Desktop Files - Root Terminal
+msgid "Root Terminal"
+msgstr ""
+
+#: Desktop Files - Opens a terminal as the root user, using gksu to ask for the password
+msgid "Opens a terminal as the root user, using gksu to ask for the password"
+msgstr ""
+
+#: Desktop Files - AppCafe™
+msgid "AppCafe™"
+msgstr ""
+
+#: Desktop Files - AppCafe ™
+msgid "AppCafe ™"
+msgstr ""
+
+#: Desktop Files - Update Manager Tray
+msgid "Update Manager Tray"
+msgstr ""
+
+#: Desktop Files - Adobe Flash Player preferences
+msgid "Adobe Flash Player preferences"
+msgstr ""
+
+#: Desktop Files - Preferences for Adobe Flash Player
+msgid "Preferences for Adobe Flash Player"
+msgstr ""
+
+#: Desktop Files - File Manager
+msgid "File Manager"
+msgstr ""
+
+#: Desktop Files - Configure the Thunar file manager
+msgid "Configure the Thunar file manager"
+msgstr ""
+
+#: Desktop Files - Customize Look and Feel
+msgid "Customize Look and Feel"
+msgstr ""
+
+#: Desktop Files - Customizes look and feel of your desktop and applications
+msgid "Customizes look and feel of your desktop and applications"
+msgstr ""
+
+#: Desktop Files - Openbox
+msgid "Openbox"
+msgstr ""

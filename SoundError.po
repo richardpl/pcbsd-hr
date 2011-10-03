@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:56-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: sndDialog#1
+msgid "No sound card detected"
+msgstr "Niti jedna zvučna kartica nije pronađena"
+
+#: sndDialog#2
+msgid ""
+"PC-BSD was unable to detect a sound card. If this system has a sound card, "
+"please generate the diagnostic below and send it to support@pcbsd.org. "
+msgstr ""
+"PC-BSD nije pronašao niti jednu zvučnu karticu. Ako sustav ima zvučnu "
+"karticu, molimo vas da napravite dijagnostiku dolje i pošaljete je na "
+"support@pcbsd.org. "
+
+#: sndDialog#3
+msgid "&Generate Diagnostic"
+msgstr "&Napravi dijagnostiku"
+
+#: sndDialog#4
+msgid "Never Show"
+msgstr "Nikada ne prikazuj"
+
+#: sndDialog#5
+msgid "&Close"
+msgstr "&Zatvori"
+
+#: sndDialog#6
+msgid "Your diagnostic has been saved at: "
+msgstr "Vaša dijagnostika je sačuvana u: "
+
+#: sndDialog#7
+msgid "Diagnostic Saved"
+msgstr "Dijagnostika je sačuvana"

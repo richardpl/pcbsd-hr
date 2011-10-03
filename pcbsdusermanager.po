@@ -1,0 +1,801 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:57-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: AddDlgCode#1
+msgctxt "AddDlgCode#1"
+msgid "New Group"
+msgstr "Nova grupa"
+
+#: AddDlgCode#2
+msgctxt "AddDlgCode#2"
+msgid "Good Input"
+msgstr "Dobar unos"
+
+#: AddDlgCode#3
+msgctxt "AddDlgCode#3"
+msgid "This field can only accept letters and numbers"
+msgstr "Ovo polje može prihvatiti samo slova i brojeve"
+
+#: AddDlgCode#4
+msgctxt "AddDlgCode#4"
+msgid "This username is already in use, please choose another."
+msgstr "Korisničko ime je već u upotrebi, izaberite neko drugo."
+
+#: AddDlgCode#5
+msgctxt "AddDlgCode#5"
+msgid "Passwords match"
+msgstr "Zaporke se podudaraju"
+
+#: AddDlgCode#6
+msgctxt "AddDlgCode#6"
+msgid "Passwords do not match"
+msgstr "Zaporke se ne podudaraju"
+
+#: AddDlgCode#7
+msgctxt "AddDlgCode#7"
+msgid "Invalid input"
+msgstr "Neispravan unos"
+
+#: AddDlgCode#8
+msgctxt "AddDlgCode#8"
+msgid "This field may not contain ! @ or :"
+msgstr "Ovo polje ne može sadržavati ! @ ili :"
+
+#: AddDlgCode#9
+msgctxt "AddDlgCode#9"
+msgid "Directory will be used"
+msgstr "Direktorij će se koristiti"
+
+#: AddDlgCode#10
+msgctxt "AddDlgCode#10"
+msgid "Invalid Path!"
+msgstr "Neispravan put!"
+
+#: AddDlgCode#11
+msgctxt "AddDlgCode#11"
+msgid "Directory does not exist, but will be made"
+msgstr "Direktorij ne postoji, ali će se napraviti"
+
+#: AddDlgCode#12
+msgctxt "AddDlgCode#12"
+msgid "Requested path is a file (not a directory!)"
+msgstr "Traženi put je datoteka (a ne direktorij!)"
+
+#: AddDlgCode#13
+msgctxt "AddDlgCode#13"
+msgid ""
+"\n"
+"- The 'Username' field has not been filled in."
+msgstr ""
+"\n"
+"- Polje 'Korisničko ime' je prazno."
+
+#: AddDlgCode#14
+msgctxt "AddDlgCode#14"
+msgid ""
+"\n"
+"- The 'Username' field may only contain letters and numbers (not spaces)."
+msgstr ""
+"\n"
+"- Polje 'Korisničko ime' može sadržavati samo slova i brojke (ne i razmake)."
+
+#: AddDlgCode#15
+msgctxt "AddDlgCode#15"
+msgid ""
+"\n"
+"- The username you have chosen is already in use, please choose another."
+msgstr ""
+"\n"
+"- Navedeno korisničko ime je već u upotrebi, navedite neko drugo."
+
+#: AddDlgCode#16
+msgctxt "AddDlgCode#16"
+msgid ""
+"\n"
+"- The 'Full Name' field has not been filled in."
+msgstr ""
+"\n"
+"- Polje 'Ime i prezime' je prazno."
+
+#: AddDlgCode#17
+msgctxt "AddDlgCode#17"
+msgid ""
+"\n"
+"- The 'Full Name' field may not contain ! @ or :"
+msgstr ""
+"\n"
+"- Polje 'Ime i prezime' ne može sadržavati ! @ ili :"
+
+#: AddDlgCode#18
+msgctxt "AddDlgCode#18"
+msgid ""
+"\n"
+"- Both password fields must be filled in."
+msgstr ""
+"\n"
+"- Oba polja zaporki moraju biti ispunjena."
+
+#: AddDlgCode#19
+msgctxt "AddDlgCode#19"
+msgid ""
+"\n"
+"- Passwords don't match, please try again."
+msgstr ""
+"\n"
+"- Zaporke se ne podudaraju, pokušajte ponovno."
+
+#: AddDlgCode#20
+msgctxt "AddDlgCode#20"
+msgid ""
+"\n"
+"- Invalid password"
+msgstr ""
+"\n"
+"- Neispravna zaporka"
+
+#: AddDlgCode#21
+msgctxt "AddDlgCode#21"
+msgid "Error!"
+msgstr "Greška!"
+
+#: AddDlgCode#22
+msgctxt "AddDlgCode#22"
+msgid "Warning!"
+msgstr "Upozorenje!"
+
+#: AddDlgCode#23
+msgctxt "AddDlgCode#23"
+msgid "The field is empty"
+msgstr "Ovo polje je prazno"
+
+#: AddDlgCode#24
+msgctxt "AddDlgCode#24"
+msgid ""
+"Placing home directory outside '/home/' can cause compatibility problems "
+"with some programs. NOT RECOMMENDED"
+msgstr ""
+"Smještanje početnog direktorija izvan '/home/' može prouzročiti probleme sa "
+"kompatibilnošću sa nekim programima. NIJE PREPORUČLJIVO"
+
+#: AddDlgCode#25
+msgid "- The 'Home Directory' field has not been filled in."
+msgstr "- Polje 'Početni direktorij' je prazno."
+
+#: AddDlgCode#26
+msgid "- The value entered as 'Home Directory' is not a valid path."
+msgstr "- Vrijednost unesena u 'Početni direktorij' nije valjan put."
+
+#: AddDlgCode#27
+msgid ""
+"- Placing home directory outside '/home/' can cause compatibility problems "
+"with some programs and is NOT RECOMMENDED."
+msgstr ""
+"- Smještanje početnog direktorija izvan '/home/' može prouzročiti probleme "
+"sa kompatibilnošću sa nekim programima i NIJE PREPORUČLJIVO."
+
+#: AddDlgCode#28
+msgid ""
+"- A file was selected as 'Home Directory', this value must be a directory."
+msgstr ""
+"- Datoteka je navedena kao 'Početni direktorij', ova vrijednost mora biti "
+"direktorij."
+
+#: AddDlgCode#29
+msgctxt "AddDlgCode#29"
+msgid "The following errors occurred while trying to add a new user:\n"
+msgstr "Slijedeće greške su se pojavile pri pokušaju dodavanja novog korisnika:\n"
+
+#: AddDlgCode#30
+msgctxt "AddDlgCode#30"
+msgid "The following non-critical errors occurred while trying to add a new user, "
+"do you wish to continue?\n"
+msgstr "Slijedeće greške od ne presudne važnosti su se pojavile pri pokušaju "
+"dodavanja novog korisnika, želite li nastaviti?\n"
+
+#: AddUserUI#1
+msgctxt "AddUserUI#1"
+msgid "Add User"
+msgstr "Dodaj korisnika"
+
+#: AddUserUI#2
+msgctxt "AddUserUI#2"
+msgid "The field is empty"
+msgstr "Ovo polje je prazno"
+
+#: AddUserUI#3
+msgctxt "AddUserUI#3"
+msgid "Home Directory:"
+msgstr "Početni direktorij:"
+
+#: AddUserUI#4
+msgctxt "AddUserUI#4"
+msgid "Shell:"
+msgstr "Ljuska:"
+
+#: AddUserUI#5
+msgctxt "AddUserUI#5"
+msgid "Full Name:"
+msgstr "Ime i prezime:"
+
+#: AddUserUI#6
+msgid "New &Group"
+msgstr "Nova &grupa"
+
+#: AddUserUI#7
+msgctxt "AddUserUI#7"
+msgid "Alt+G"
+msgstr "Alt+G"
+
+#: AddUserUI#8
+msgctxt "AddUserUI#8"
+msgid "Username:"
+msgstr "Korisničko ime:"
+
+#: AddUserUI#9
+msgctxt "AddUserUI#9"
+"AddUserUI#9"
+msgid "Confirm Password:"
+msgstr "Potvrdi zaporku:"
+
+#: AddUserUI#10
+msgctxt "AddUserUI#10"
+msgid "Primary Group:"
+msgstr "Izvorna grupa:"
+
+#: AddUserUI#11
+msgctxt "AddUserUI#11"
+msgid "Password:"
+msgstr "Zaporka:"
+
+#: AddUserUI#12
+msgid "&Ok"
+msgstr "&U redu"
+
+#: AddUserUI#13
+msgid "Alt+O"
+msgstr "Alt+O"
+
+#: AddUserUI#14
+msgctxt "AddUserUI#14"
+msgid "&Cancel"
+msgstr "O&dustani"
+
+#: AddUserUI#15
+msgctxt "AddUserUI#15"
+"AddUserUI#15"
+msgid "Alt+C"
+msgstr "Alt+D"
+
+#: ChangePassCode#1
+msgid "Change Password for '"
+msgstr "Promijeni zaporku za '"
+
+#: ChangePassCode#2
+msgid "'"
+msgstr "'"
+
+#: ChangePassCode#3
+msgid "You must specify a password"
+msgstr "Morate navesti zaporku"
+
+#: ChangePassCode#4
+msgid "Error changing password..."
+msgstr "Greška pri promijeni zaporke..."
+
+#: ChangePassCode#5
+msgid "The passwords didn't match. Both boxes most contain the same value."
+msgstr "Zaporke se ne podudaraju. Oba polja moraju sadržavati iste vrijednosti."
+
+#: ChangePassCode#6
+msgid "Invalid password, please choose another."
+msgstr "Neispravna zaporka, molimo izaberite neku drugu."
+
+#: ChangePassCode#7
+msgctxt "ChangePassCode#7"
+msgid "Passwords match"
+msgstr "Zaporke se podudaraju"
+
+#: ChangePassCode#8
+msgctxt "ChangePassCode#8"
+msgid "Passwords do not match"
+msgstr "Zaporke se ne podudaraju"
+
+#: ChangePassCode#9
+msgctxt "ChangePassCode#9"
+msgid "Invalid input"
+msgstr "Neispravan unos"
+
+#: ChangePassDialog#1
+msgid "Change Password"
+msgstr "Promijeni zaporku"
+
+#: ChangePassDialog#2
+msgctxt "ChangePassDialog#2"
+msgid "Password:"
+msgstr "Zaporka:"
+
+#: ChangePassDialog#3
+msgctxt "ChangePassDialog#3"
+msgid "Confirm Password:"
+msgstr "Potvrdite zaporku:"
+
+#: ChangePassDialog#4
+msgctxt "ChangePassDialog#4"
+msgid "O&k"
+msgstr "U&redu"
+
+#: ChangePassDialog#5
+msgctxt "ChangePassDialog#5"
+msgid "Alt+K"
+msgstr "Alt+R"
+
+#: ChangePassDialog#6
+msgctxt "ChangePassDialog#6"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: ChangePassDialog#7
+msgctxt "ChangePassDialog#7"
+msgid "Alt+C"
+msgstr "Alt+O"
+
+#: MainDlg#1
+msgctxt "MainDlg#1"
+msgid "PC-BSD User Manager"
+msgstr "PC-BSD Upravitelj korisnika"
+
+#: MainDlg#2
+msgid "&Users"
+msgstr "&Korisnici"
+
+#: MainDlg#3
+msgctxt "MainDlg#3"
+msgid "&Add"
+msgstr "&Dodaj"
+
+#: MainDlg#4
+msgctxt "MainDlg#4"
+msgid "Alt+A"
+msgstr "Alt+A"
+
+#: MainDlg#5
+msgctxt "MainDlg#5"
+msgid "&Remove"
+msgstr "&Ukloni"
+
+#: MainDlg#6
+msgctxt "MainDlg#6"
+msgid "Alt+R"
+msgstr "Alt+U"
+
+#: MainDlg#7
+msgctxt "MainDlg#7"
+msgid "Home Directory:"
+msgstr "Početni direktorij:"
+
+#: MainDlg#8
+msgctxt "MainDlg#8"
+msgid "Primary Group:"
+msgstr "Izvorna grupa:"
+
+#: MainDlg#9
+msgctxt "MainDlg#9"
+msgid "Shell:"
+msgstr "Ljuska:"
+
+#: MainDlg#10
+msgid "User ID:"
+msgstr "Korisnička legitimacija:"
+
+#: MainDlg#11
+msgctxt "MainDlg#11"
+msgid "Full Name:"
+msgstr "Ime i prezime:"
+
+#: MainDlg#12
+msgid "Chan&ge Password..."
+msgstr "Pro&mijeni zaporku..."
+
+#: MainDlg#13
+msgctxt "MainDlg#13"
+msgid "Alt+G"
+msgstr "Alt+M"
+
+#: MainDlg#14
+msgid "&Groups"
+msgstr "&Grupe"
+
+#: MainDlg#15
+msgid "A&dd"
+msgstr "&Dodaj"
+
+#: MainDlg#16
+msgctxt "MainDlg#16"
+msgid "Alt+D"
+msgstr "Alt+D"
+
+#: MainDlg#17
+msgid "Available:  "
+msgstr "Dostupno:  "
+
+#: MainDlg#18
+msgid "Members:"
+msgstr "Članovi:"
+
+#: MainDlg#19
+msgid "PC-BSD User Manager - Advanced Mode"
+msgstr "PC-BSD Upravitelj korisnika - Napredni način"
+
+#: MainDlg#20
+msgid "Simple &View"
+msgstr "&Jednostavan prikaz"
+
+#: MainDlg#21
+msgid "Alt+V"
+msgstr "Alt+J"
+
+#: PCBSDUserManager#1
+msgctxt "PCBSDUserManager#1"
+msgid "PC-BSD User Manager"
+msgstr "PC-BSD Upravitelj korisnika"
+
+#: PCBSDUserManager#2
+msgid "Close"
+msgstr "Zatvori"
+
+#: PCBSDUserManager#3
+msgid "Apply"
+msgstr "Primijeni"
+
+#: SimpleAddCode#1
+msgctxt "SimpleAddCode#1"
+msgid "Good Input"
+msgstr "Dobar unos"
+
+#: SimpleAddCode#2
+msgctxt "SimpleAddCode#2"
+msgid "This field can only accept letters and numbers"
+msgstr "Prvo polje može primiti samo slova i brojke"
+
+#: SimpleAddCode#3
+msgctxt "SimpleAddCode#3"
+msgid "This username is already in use, please choose another."
+msgstr "Korisničko ime je već u upotrebi, molimo odaberite neko drugo."
+
+#: SimpleAddCode#4
+msgctxt "SimpleAddCode#4"
+msgid "Passwords match"
+msgstr "Zaporke se podudaraju"
+
+#: SimpleAddCode#5
+msgctxt "SimpleAddCode#5"
+msgid "Passwords do not match"
+msgstr "Zaporke se ne podudaraju"
+
+#: SimpleAddCode#6
+msgctxt "SimpleAddCode#6"
+msgid "Invalid input"
+msgstr "Neispravan unos"
+
+#: SimpleAddCode#7
+msgctxt "SimpleAddCode#7"
+msgid "This field may not contain ! @ or :"
+msgstr "Ovo polje ne može sadržavati ! @ ili :"
+
+#: SimpleAddCode#8
+msgctxt "SimpleAddCode#8"
+msgid ""
+"\n"
+"- The 'Username' field has not been filled in."
+msgstr ""
+"\n"
+"- Polje 'Korisničko ime' je prazno."
+
+#: SimpleAddCode#9
+msgctxt "SimpleAddCode#9"
+msgid ""
+"\n"
+"- The 'Username' field may only contain letters and numbers (not spaces)."
+msgstr ""
+"\n"
+"- Polje 'Korisničko ime' može sadržavati samo slova i brojke (ne i razmake)."
+
+#: SimpleAddCode#10
+msgctxt "SimpleAddCode#10"
+msgid ""
+"\n"
+"- The username you have chosen is already in use, please choose another."
+msgstr ""
+"\n"
+"- Korisničko ime koje ste izabrali je već u upotrebi, molimo odaberite neko "
+"drugo."
+
+#: SimpleAddCode#11
+msgctxt "SimpleAddCode#11"
+msgid ""
+"\n"
+"- The 'Full Name' field has not been filled in."
+msgstr ""
+"\n"
+"- Polje 'Ime i prezime' je prazno."
+
+#: SimpleAddCode#12
+msgctxt "SimpleAddCode#12"
+msgid ""
+"\n"
+"- The 'Full Name' field may not contain ! @ or :"
+msgstr ""
+"\n"
+"- Polje 'Ime i prezime' ne može sadržavati ! @ ili :"
+
+#: SimpleAddCode#13
+msgctxt "SimpleAddCode#13"
+msgid ""
+"\n"
+"- Both password fields must be filled in."
+msgstr ""
+"\n"
+"- Oba polja zaporki moraju biti popunjena."
+
+#: SimpleAddCode#14
+msgctxt "SimpleAddCode#14"
+msgid ""
+"\n"
+"- Passwords don't match, please try again."
+msgstr ""
+"\n"
+"- Zaporke se ne podudaraju, pokušajte ponovno."
+
+#: SimpleAddCode#15
+msgctxt "SimpleAddCode#15"
+msgid ""
+"\n"
+"- Invalid password"
+msgstr ""
+"\n"
+"- Neispravna zaporka"
+
+#: SimpleAddCode#16
+msgctxt "SimpleAddCode#16"
+msgid "Error!"
+msgstr "Greška!"
+
+#: SimpleAddCode#17
+msgctxt "SimpleAddCode#17"
+msgid "Warning!"
+msgstr "Upozorenje!"
+
+#: SimpleAddCode#18
+msgctxt "SimpleAddCode#18"
+msgid "The field is empty"
+msgstr "Polje je prazno"
+
+#: SimpleAddCode#19
+msgctxt "SimpleAddCode#19"
+msgid "The following errors occurred while trying to add a new user:\n"
+msgstr "Slijedeće greške su se pojavile prilikom dodavanja novog korisnika:\n"
+
+#: SimpleAddCode#20
+msgctxt "SimpleAddCode#20"
+msgid "The following non-critical errors occurred while trying to add a new user, "
+"do you wish to continue?\n"
+msgstr "Slijedeće greške od ne presudne važnosti su se pojavile prilikom dodavanja "
+"novog korisnika, želite li nastaviti?\n"
+
+#: SimpleAddDlg#1
+msgctxt "SimpleAddDlg#1"
+msgid "Add User"
+msgstr "Dodaj korisnika"
+
+#: SimpleAddDlg#2
+msgctxt "SimpleAddDlg#2"
+msgid "O&k"
+msgstr "&Uredu"
+
+#: SimpleAddDlg#3
+msgctxt "SimpleAddDlg#3"
+msgid "Alt+K"
+msgstr "Alt+U"
+
+#: SimpleAddDlg#4
+msgid "Ca&ncel"
+msgstr "&Odustani"
+
+#: SimpleAddDlg#5
+msgid "Alt+N"
+msgstr "Alt+O"
+
+#: SimpleAddDlg#6
+msgctxt "SimpleAddDlg#6"
+msgid "Confirm Password:"
+msgstr "Potvrdite zaporku:"
+
+#: SimpleAddDlg#7
+msgctxt "SimpleAddDlg#7"
+msgid "Password:"
+msgstr "Zaporka:"
+
+#: SimpleAddDlg#8
+msgctxt "SimpleAddDlg#8"
+msgid "Full Name:"
+msgstr "Ime i prezime:"
+
+#: SimpleAddDlg#9
+msgctxt "SimpleAddDlg#9"
+msgid "Username:"
+msgstr "Korisničko ime:"
+
+#: SimpleAddDlg#10
+msgctxt "SimpleAddDlg#10"
+msgid "The field is empty"
+msgstr "Ovo polje je prazno"
+
+#: SimpleDlg#1
+msgctxt "SimpleDlg#1"
+msgid "PC-BSD User Manager"
+msgstr "PC-BSD Upravitelj korisnika"
+
+#: SimpleDlg#2
+msgctxt "SimpleDlg#2"
+msgid "&Add"
+msgstr "&Dodaj"
+
+#: SimpleDlg#3
+msgctxt "SimpleDlg#3"
+msgid "Alt+A"
+msgstr "Alt+D"
+
+#: SimpleDlg#4
+msgctxt "SimpleDlg#4"
+msgid "&Remove"
+msgstr "&Ukloni"
+
+#: SimpleDlg#5
+msgctxt "SimpleDlg#5"
+msgid "Alt+R"
+msgstr "Alt+U"
+
+#: SimpleDlg#6
+msgid "&Change Admin Password..."
+msgstr "&Promijeni Admin-ovu zaporku..."
+
+#: SimpleDlg#7
+msgctxt "SimpleDlg#7"
+msgid "Alt+C"
+msgstr "Alt+P"
+
+#: SimpleDlg#8
+msgid "A&dvanced View"
+msgstr "&Napredan prikaz"
+
+#: SimpleDlg#9
+msgctxt "SimpleDlg#9"
+msgid "Alt+D"
+msgstr "Alt+N"
+
+#: SimpleDlg#10
+msgid "Can administrate s&ystem"
+msgstr "Može upravljati sus&tavom"
+
+#: SimpleDlg#11
+msgid "Alt+Y"
+msgstr "Alt+T"
+
+#: SimpleDlg#12
+msgid "C&hange Password..."
+msgstr "&Promijeni zaporku..."
+
+#: SimpleDlg#13
+msgid "Alt+H"
+msgstr "Alt+P"
+
+#: SimpleDlg#14
+msgctxt "SimpleDlg#14"
+msgid "Full Name:"
+msgstr "Ime i prezime:"
+
+#: SimpleDlgCode#1
+msgctxt "SimpleDlgCode#1"
+msgid "Good Input"
+msgstr "Dobar unos"
+
+#: SimpleDlgCode#2
+msgctxt "SimpleDlgCode#2"
+msgid "This field may not contain ! @ or :"
+msgstr "Ovo polje ne može sadržavati ! @ ili :"
+
+#: SimpleDlgCode#3
+msgctxt "SimpleDlgCode#3"
+msgid "The field is empty"
+msgstr "Polje je prazno"
+
+#: mainDlgCode#1
+msgctxt "mainDlgCode#1"
+msgid "The field is empty"
+msgstr "Polje je prazno"
+
+#: mainDlgCode#2
+msgid "New User"
+msgstr "Novi korisnik"
+
+#: mainDlgCode#3
+msgid "You must specify a name for your group"
+msgstr "Morate navesti ime svoje grupe"
+
+#: mainDlgCode#4
+msgid "Error adding group..."
+msgstr "Greška prilikom dodavanja grupe..."
+
+#: mainDlgCode#5
+msgid ""
+"Invalid group name specified. Group names may contain only letters and "
+"number. Spaces are NOT permitted"
+msgstr ""
+"Neispravno ime grupe. Ime grupe može sadržavati samo slova i brojke. Razmaci "
+"NISU dozvoljeni"
+
+#: mainDlgCode#6
+msgid "The group '"
+msgstr "Grupa '"
+
+#: mainDlgCode#7
+msgid "' already exists, please choose a different name"
+msgstr "' već postoji, odaberite nako drugo ime"
+
+#: mainDlgCode#8
+msgctxt "mainDlgCode#8"
+msgid "New Group"
+msgstr "Nova grupa"
+
+#: mainDlgCode#9
+msgid "Please enter a name for your new group"
+msgstr "Molimo unesite ime vaše nove grupe"
+
+#: mainDlgCode#10
+msgctxt "mainDlgCode#10"
+msgid "Directory will be used"
+msgstr "Direktorij će se koristiti"
+
+#: mainDlgCode#11
+msgctxt "mainDlgCode#11"
+msgid "Invalid Path!"
+msgstr "Neispravan put!"
+
+#: mainDlgCode#12
+msgctxt "mainDlgCode#12"
+msgid "Directory does not exist, but will be made"
+msgstr "Direktorij ne postoji, ali će se napraviti"
+
+#: mainDlgCode#13
+msgctxt "mainDlgCode#13"
+msgid "Requested path is a file (not a directory!)"
+msgstr "Traženi put je datoteka (a ne direktorij!)"
+
+#: mainDlgCode#14
+msgctxt "mainDlgCode#14"
+msgid "Good Input"
+msgstr "Dobar unos"
+
+#: mainDlgCode#15
+msgctxt "mainDlgCode#15"
+msgid "This field may not contain ! @ or :"
+msgstr "Ovo polje ne može sadržavati ! @ ili :"
+
+#: mainDlgCode#16
+msgctxt "mainDlgCode#16"
+msgid ""
+"Placing home directory outside '/home/' can cause compatibility problems "
+"with some programs. NOT RECOMMENDED"
+msgstr ""
+"Smještanje početnog direktorija van '/home/' može uzrokovati probleme sa "
+"kompatibilnošću sa nekim programima. NIJE PREPORUČLJIVO"

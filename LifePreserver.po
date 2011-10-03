@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 06:54-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: PRESERVER#1
+msgid "No Previous Backup"
+msgstr "Nema prethodnih sigurnosnih kopija"
+
+#: lifeListBackups#1
+msgid "No Backups Found"
+msgstr "Niti jedna sigurnosna kopija nije pronađena"
+
+#: lifeListBackups#2
+msgid "No backups could be found on this server!"
+msgstr "Niti jedna sigurnosna kopija nije pronađena na ovom poslužitelju!"
+
+#: lifeListBackups#3
+msgid "Failed connecting to server"
+msgstr "Spajanje na poslužitelj nije uspjelo"
+
+#: lifeListBackups#4
+msgid "Failed connecting to the server! Check connection and try again!"
+msgstr ""
+"Spajanje na poslužitelj nije uspjelo! Provjerite vezu i pokušajte ponovno!"
+
+#: lifeListBackups#5
+msgid "The following backups are available:"
+msgstr "Slijedeće sigurnosne kopije su dostupne:"
+
+#: lifeListBackups#6
+msgid "Select Backup"
+msgstr "Odaberite sigurnosnu kopiju"
+
+#: lifeListBackups#7
+msgid "Fetching backup list from server, please wait..."
+msgstr "Dohvaćam listu sigurnosnih kopija sa poslužitelja, molim pričekajte..."
+
+#: lifeListBackups#8
+msgid "Available Backups"
+msgstr "Dostupne sigurnosne kopije"
+
+#: lifeListBackups#9
+msgid "&Select Backup"
+msgstr "&Odaberi sigurnosnu kopiju"
+
+#: lifeListBackups#10
+msgctxt "lifeListBackups#10"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: lifePreserver#1
+msgid "Edit"
+msgstr "Uredi"
+
+#: lifePreserver#2
+msgid "Restore From"
+msgstr "Vrati iz"
+
+#: lifePreserver#3
+msgid "Remove"
+msgstr "Ukloni"
+
+#: lifePreserver#4
+msgid "Start"
+msgstr "Pokreni"
+
+#: lifePreserver#5
+msgid "Not running"
+msgstr "Ne radi"
+
+#: lifePreserver#6
+msgid "Stop"
+msgstr "Zaustavi"
+
+#: lifePreserver#7
+msgctxt "lifePreserver#7"
+msgid "Life Preserver"
+msgstr "Life Preserver"
+
+#: lifePreserver#8
+msgid "Last Backup"
+msgstr "Zadnja sigurnosna kopija"
+
+#: lifePreserver#9
+msgid "Status"
+msgstr "Stanje"
+
+#: lifePreserver#10
+msgid "&File"
+msgstr "&Datoteka"
+
+#: lifePreserver#11
+msgid "&Preservers"
+msgstr "&Sačuvani"
+
+#: lifePreserver#12
+msgid "&New Preserver"
+msgstr "&Novo čuvanje"
+
+#: lifePreserver#13
+msgid "&Quit"
+msgstr "&Zatvori"
+
+#: lifePreserver#14
+msgid "&Edit"
+msgstr "&Uredi"
+
+#: lifePreserver#15
+msgctxt "lifePreserver#15"
+msgid "&Remove"
+msgstr "&Izbriši"
+
+#: lifePreserver#16
+msgid "Mi&nimize"
+msgstr "Sma&nji"
+
+#: lifePreserver#17
+msgctxt "lifePreserver#17"
+msgid "&Restore"
+msgstr "&Vrati"
+
+#: lifePreserver#18
+msgid "Backup Server"
+msgstr "Poslužitelj sigurnosnih kopija"
+
+#: lifePreserver#19
+msgid "Schedule"
+msgstr "Raspored"
+
+#: lifePreserver#20
+msgid "Life Preserver Backups"
+msgstr "Life Preserver sigurnosne kopije"
+
+#: lifePreserver#21
+msgid "Running..."
+msgstr "Radi..."
+
+#: lifePreserver#22
+msgid "Backup in progress..."
+msgstr "Izrada sigurnosne kopije u tijeku..."
+
+#: lifePreserverWelcome#1
+msgctxt "lifePreserverWelcome#1"
+msgid "Life Preserver"
+msgstr "Life Preserver"
+
+#: lifePreserverWelcome#2
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-size:11pt; font-weight:600;\">Welcome to Life Preserver! "
+"</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Life Preserver allows you "
+"to easily setup offsite backups of your user data to a <span style=\" font-"
+"weight:600;\">FreeNAS</span> server, or other system running SSH and rsync. "
+"To get started, you will need the IP address and username / password for "
+"your remote system. When you have these items, click on &quot;Get "
+"Started&quot; below. </p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Bitstream Vera Sans'; font-"
+"size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-"
+"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+"style=\" font-size:11pt; font-weight:600;\">Welcome to Life Preserver! "
+"</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Life Preserver vam "
+"dozvoljava jednostavno podešavanje vanjskih sigurnosnih kopija prema <span "
+"style=\" font-weight:600;\">FreeNAS</span> poslužitelju, ili drugim sistemima "
+"sa pokrenutim SSH i rsync. Za početak, trebate IP adresu i korisničko ime / "
+"zaporku za vaš udaljeni sistem. Kada dobijete ine, kliknite na "
+"&quot;Započmi&quot; niže. </p></body></html>"
+
+#: lifePreserverWelcome#3
+msgid "Get Started"
+msgstr "Započmi"
+
+#: lifePreserverWizard#1
+msgid "Duplicate Preserver"
+msgstr "Podvostruči čuvanje"
+
+#: lifePreserverWizard#2
+msgid ""
+"A preserver for this user + host already exists! Please select a different "
+"username / host when creating a new lifePreserver."
+msgstr ""
+"Čuvanje za ovog korisnika + računalo domaćina već postoji! Molimo odaberite "
+"drugo korisničko ime / računalo domaćina pri stvaranju novog čuvanja."
+
+#: lifePreserverWizard#3
+msgid "Failed setting up SSH keys"
+msgstr "Neuspješno postavljanje SSH ključeva"
+
+#: lifePreserverWizard#4
+msgid ""
+"Failed setting up the SSH keys for this server. Please click Back to check "
+"your settings and try again."
+msgstr ""
+"Neuspješno postavljanje SSH ključeva za ovaj poslužitelj. Molimo kliknite "
+"nazad kako bi ste provjerili svoje postavke i pokušali ponovno."
+
+#: lifePreserverWizard#5
+msgid "Add new Life Preserver"
+msgstr "Dodaj novi Life Preserver"
+
+#: lifePreserverWizard#6
+msgid ""
+"This wizard will walk you through the process of setting up a new Life "
+"Preserver backup on a remote storage device."
+msgstr ""
+"Ovaj čarobnjak vas vodi kroz proces namještanja nove Life Preserver "
+"sigurnosne kopije na udaljenom uređaju za pohranu."
+
+#: lifePreserverWizard#7
+msgid "To get started, click next. "
+msgstr "Za početak, kliknite dalje. "
+
+#: lifePreserverWizard#8
+msgid "Remote Device"
+msgstr "Udaljeni uređaj"
+
+#: lifePreserverWizard#9
+msgid "Server information"
+msgstr "Informacije o poslužitelju"
+
+#: lifePreserverWizard#10
+msgid "Host Name"
+msgstr "Naziv računala"
+
+#: lifePreserverWizard#11
+msgid "User Name"
+msgstr "Korisničko ime"
+
+#: lifePreserverWizard#12
+msgid "SSH Port"
+msgstr "SSH port"
+
+#: lifePreserverWizard#13
+msgctxt "lifePreserverWizard#13"
+msgid "Scheduled Backups"
+msgstr "Raspored sigurnosnog kopiranja"
+
+#: lifePreserverWizard#14
+msgctxt "lifePreserverWizard#14"
+msgid "Disable automatic backups"
+msgstr "Onemogući automatsku izradu sigurnosne kopije"
+
+#: lifePreserverWizard#15
+msgid ""
+"You are now ready to setup the connection to your remote backup server. When "
+"you click finish, a window will popup, and you will need to enter the "
+"password for the server."
+msgstr ""
+"Spremni ste uspostaviti vezu sa vašim udaljenim poslužiteljem sigurnosnih "
+"kopija. Kada kliknete završi, prozor će se pojaviti, i biti ćete upitani za "
+"pristupnu zaporku."
+
+#: lifePreserverWizard#16
+msgid "Note: The remote server should be running SSH and have rsync installed."
+msgstr ""
+"Napomena: Udaljeni poslužitelj treba imati pokrenut SSH i instaliran rsync."
+
+#: lifePreserverWizard#17
+msgctxt "lifePreserverWizard#17"
+msgid "Backup daily"
+msgstr "Napravi sigurnosnu kopiju svaki dan"
+
+#: lifePreserverWizard#18
+msgctxt "lifePreserverWizard#18"
+msgid "Backup weekly"
+msgstr "Sigurnosno kopiraj jednom tjedno"
+
+#: lifeRestore#1
+msgid "Open Directory"
+msgstr "Otvori direktorij"
+
+#: lifeRestore#2
+msgid "Restore Files"
+msgstr "Vrati datoteke"
+
+#: lifeRestore#3
+msgid ""
+"List the files/dirs you wish to restore below, use commas for multiple "
+"files. Files must begin with '/'."
+msgstr ""
+"Izlistajte datoteke/direktorije koje želite povratiti, koristite zareze za "
+"više datoteka. Datoteke moraju započeti sa '/'."
+
+#: lifeRestore#4
+msgid "Relative Restore"
+msgstr "Relativno vraćanje"
+
+#: lifeRestore#5
+msgid "Preserve File Path"
+msgstr "Očuvaj put datoteke"
+
+#: lifeRestore#6
+msgctxt "lifeRestore#6"
+msgid "&Restore"
+msgstr "&Vrati"
+
+#: lifeRestore#7
+msgctxt "lifeRestore#7"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: lifeRestore#8
+msgid "Restore Relative to specified directory"
+msgstr "Vraćaj relativno na odabrani direktorij"
+
+#: lifeRestoreProgress#1
+msgid "Restore Failed"
+msgstr "Vraćanje neuspješno"
+
+#: lifeRestoreProgress#2
+msgid "The restore failed! Please check your settings and try again!"
+msgstr ""
+"Vraćanje neuspješno! Molimo provjerite vaše postavke i pokušajte ponovno!"
+
+#: lifeRestoreProgress#3
+msgid "Restore Finished"
+msgstr "Vraćanje završeno"
+
+#: lifeRestoreProgress#4
+msgid "The restore finished successfully!"
+msgstr "Vraćanje uspješno završeno!"
+
+#: lifeRestoreProgress#5
+msgid "Close"
+msgstr "Zatvori"
+
+#: lifeRestoreProgress#6
+msgid "Restoring"
+msgstr "Vraćanje"
+
+#: lifeRestoreProgress#7
+msgid "Restore in progress... Please wait..."
+msgstr "Vraćanje u tijeku... Molimo pričekajte..."
+
+#: lifeRestoreProgress#8
+msgctxt "lifeRestoreProgress#8"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: pSettings#1
+msgid "Life-Preserver Settings"
+msgstr "Life-Preserver postavke"
+
+#: pSettings#2
+msgid "Backup Options"
+msgstr "Postavke izrade sigurnosnih kopija"
+
+#: pSettings#3
+msgid " Number of backups to keep"
+msgstr " Broj sigurnosnih kopija za čuvanje"
+
+#: pSettings#4
+msgid "Remove incomplete or failed backups"
+msgstr "Ukloni nepotpune ili neuspješne sigurnosne kopije"
+
+#: pSettings#5
+msgctxt "pSettings#5"
+msgid "Scheduled Backups"
+msgstr "Planirane sigurnosne kopije"
+
+#: pSettings#6
+msgctxt "pSettings#6"
+msgid "Disable automatic backups"
+msgstr "Onemogući automatske sigurnosne kopije"
+
+#: pSettings#7
+msgid "&OK"
+msgstr "&U redu"
+
+#: pSettings#8
+msgctxt "pSettings#8"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: pSettings#9
+msgid "Remote Directory"
+msgstr "Udaljeni direktorij"
+
+#: pSettings#10
+msgid "Modify Exclude List"
+msgstr "Promijeni isključujuću listu"
+
+#: pSettings#11
+msgctxt "pSettings#11"
+msgid "Backup daily"
+msgstr "Sigurnosno kopiraj jednom dnevno"
+
+#: pSettings#12
+msgctxt "pSettings#12"
+msgid "Backup weekly"
+msgstr "Sigurnosno kopiraj jednom tjedno"
+
+#: pSettings#13
+msgid "Modify Include List"
+msgstr "Izmjeni listu ukjučenja"
+
+#: pUserExclude#1
+msgid "Custom Exclude List"
+msgstr "Prilagođena isključujuća lista"
+
+#: pUserExclude#2
+msgid "&Add"
+msgstr "&Dodaj"
+
+#: pUserExclude#3
+msgctxt "pUserExclude#3"
+msgid "&Remove"
+msgstr "&Ukloni"
+
+#: pUserExclude#4
+msgid "&Ok"
+msgstr "&U redu"
+
+#: pUserExclude#5
+msgctxt "pUserExclude#5"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: pUserExclude#6
+msgid "List Editor"
+msgstr "Uređivač liste"
+
+#: pUserExclude#7
+msgid "Note: Please use full path names, wildcards such as * are supported"
+msgstr "Napomena: Koristite pune puteve, višeznačnici kao * su podržani"
+
+#: pUserExclude#8
+msgid "Editing exclude list"
+msgstr "Uredi isključujuću listu"
+
+#: pUserExclude#9
+msgid "Editing include list"
+msgstr "Uredi uključujuću listu"
