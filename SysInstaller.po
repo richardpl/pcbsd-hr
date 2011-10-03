@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-10-03 06:56-0700\n"
-"PO-Revision-Date: 2011-10-03 22:34+0200\n"
+"PO-Revision-Date: 2011-10-03 23:08+0200\n"
 "Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -60,7 +60,6 @@ msgstr ""
 "nije podržano."
 
 #: QObject#4
-#, fuzzy
 msgid ""
 "Please select the disk or partition you wish to use for installation. If you "
 "plan to dual-boot with another operating system you will need a MBR primary "
@@ -71,11 +70,16 @@ msgid ""
 "'Encrypt user data' will encrypt the /usr file-system, which includes your "
 "home directories."
 msgstr ""
-"\n"
-"            "
+"Molimo odaberite disk ili particiju koju želite koristiti za instalaciju. "
+"Ako planirate dual-boot sa drugim operacijskim sustavom trebati će te "
+"dostupnu MBR primarnu particiju. Ako želite formatirati disk sa GPT "
+"(Potrebno za diskove veće od 2TB) onda će te trebati označiti 'Koristi "
+"cijeli disk'.<br><br>Početni datotečni sustav je UFS sa journalingom, ali "
+"napredni korisnici mogu instalirati ZFS datotečni sustav.<br><br>Opcija "
+"'Enkriptiraj korisničke podatke' će enkriptirati /usr datotečni sustav, koji "
+"uključuje vaše početne direktorije."
 
 #: QObject#5
-#, fuzzy
 msgid ""
 "On this screen you will need to set the password for the system (root) user. "
 "It is also recommended to setup at least one regular user, which is "
@@ -83,11 +87,13 @@ msgid ""
 "enable the option 'Custom System Hostname' and enter the system nickname. "
 "Otherwise the default pcbsd-xxxx or freebsd-xxxx will be used."
 msgstr ""
-"\n"
-"            "
+"Na ovom ekranu trebate postaviti lozinku za (root) korisnika sustava. "
+"Također se preporuča postavljanje najmanje jednog običnog korisnika, koji je "
+"potreban za prijavu u PC-BSD. <br><br>Ako želite dati ime ovom sustavu, "
+"omogućite opciju 'Korisnički navedeno ime računala' i unesite ime. Inače će "
+"se koristiti pcbsd-xxxx ili freebsd-xxxx."
 
 #: QObject#6
-#, fuzzy
 msgid ""
 "PC-BSD gives you the option of customizing your system with a variety of "
 "Desktops and other 'Meta-pkgs'. If you are unsure what these are, then "
@@ -95,8 +101,10 @@ msgid ""
 "packages post-installation via the 'System Manager' in the PC-BSD control "
 "panel."
 msgstr ""
-"\n"
-"            "
+"PC-BSD nudi opciju namještanja vašeg sustava sa raznolikim radnim površinama "
+"i ostalim 'Meta-paketima'. Ako niste sigurni što su isti, onda molimo "
+"prihvatite početne opcije. Uvije možete dodati/ukloniti te pakete nakon "
+"instalacije preko 'Upravitelja sustava' u PC-BSD upravljačkoj ploči."
 
 #: QObject#7
 msgid ""
@@ -879,32 +887,20 @@ msgid "Often a good choice for servers or high-end systems."
 msgstr "Često dobar izbor za poslužitelje ili zahtjevne sustave."
 
 #: SysInstaller#167
-#, fuzzy
 msgid "PC-BSD (Desktop)"
-msgstr ""
-"\n"
-"            "
+msgstr "PC-BSD (Stolno)"
 
 #: SysInstaller#168
-#, fuzzy
 msgid "FreeBSD (Server)"
-msgstr ""
-"\n"
-"            "
+msgstr "FreeBSD (Poslužitelj)"
 
 #: SysInstaller#169
-#, fuzzy
 msgid "View Packages"
-msgstr ""
-"\n"
-"            "
+msgstr "Pregledaj pakete"
 
 #: SysInstaller#170
-#, fuzzy
 msgid "Package Listing for:"
-msgstr ""
-"\n"
-"            "
+msgstr "Lista paketa za:"
 
 #: dialogFileSystem#1
 msgid "Error: Invalid Mount Point."
@@ -1042,14 +1038,10 @@ msgid "&Close"
 msgstr "&Zatvori"
 
 #: dialogInfoBox#1
-#, fuzzy
 msgid "Dialog"
-msgstr ""
-"\n"
-"            "
+msgstr "Dijalog"
 
 #: dialogInfoBox#2
-#, fuzzy
 msgctxt "dialogInfoBox#2"
 msgid "&Close"
 msgstr "&Zatvori"
