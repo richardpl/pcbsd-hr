@@ -2255,3 +2255,351 @@ msgstr ""
 #: Desktop Files - Alien Arena is a free standalone deathmatch game based on source code released by id Software. Begun by COR Entertainment in 2004, the game combines a 1950s-era sci-fi atmosphere with gameplay similar to the Quake, Doom, and Unreal Tournament series. Alien Arena focuses mainly on online multiplayer action, although it does contain single player campaigns against bots.  Alien Arena has been released for Microsoft Windows, Linux and FreeBSD. Alien Arena has been free-to-play since its inception, and there are currently no plans to change it to pay-to-play.
 msgid "Alien Arena is a free standalone deathmatch game based on source code released by id Software. Begun by COR Entertainment in 2004, the game combines a 1950s-era sci-fi atmosphere with gameplay similar to the Quake, Doom, and Unreal Tournament series. Alien Arena focuses mainly on online multiplayer action, although it does contain single player campaigns against bots.  Alien Arena has been released for Microsoft Windows, Linux and FreeBSD. Alien Arena has been free-to-play since its inception, and there are currently no plans to change it to pay-to-play."
 msgstr ""
+
+#: Desktop Files - Each player controls a team of several hedgehogs. During the course of the game, players take turns with one of their hedgehogs. They then use whatever tools and weapons are available to attack and kill the opponents' hedgehogs, thereby winning the game. Hedgehogs may move around the terrain in a variety of ways, normally by walking and jumping but also by using particular tools such as the "Rope" or "Parachute", to move to otherwise inaccessible areas. Each turn is time-limited to ensure that players do not hold up the game with excessive thinking or moving.  A large variety of tools and weapons are available for players during the game: Grenade, Cluster Bomb, Bazooka, UFO, Shotgun, Desert Eagle, Fire Punch, Baseball Bat, Dynamite, Mine, Rope, Pneumatic pick, Parachute. Most weapons, when used, cause explosions that deform the terrain, removing circular chunks. The landscape is an island floating on a body of water, or a restricted cave with water at the bottom. A hedgehog dies when it enters the water (either by falling off the island, or through a hole in the bottom of it), it is thrown off either side of the arena or when its health is reduced, typically from contact with explosions, to zero (the damage dealt to the attacked hedgehog or hedgehogs after a player's or CPU turn is shown only when all movement on the battlefield has ceased).
+msgid "Each player controls a team of several hedgehogs. During the course of the game, players take turns with one of their hedgehogs. They then use whatever tools and weapons are available to attack and kill the opponents' hedgehogs, thereby winning the game. Hedgehogs may move around the terrain in a variety of ways, normally by walking and jumping but also by using particular tools such as the "Rope" or "Parachute", to move to otherwise inaccessible areas. Each turn is time-limited to ensure that players do not hold up the game with excessive thinking or moving.  A large variety of tools and weapons are available for players during the game: Grenade, Cluster Bomb, Bazooka, UFO, Shotgun, Desert Eagle, Fire Punch, Baseball Bat, Dynamite, Mine, Rope, Pneumatic pick, Parachute. Most weapons, when used, cause explosions that deform the terrain, removing circular chunks. The landscape is an island floating on a body of water, or a restricted cave with water at the bottom. A hedgehog dies when it enters the water (either by falling off the island, or through a hole in the bottom of it), it is thrown off either side of the arena or when its health is reduced, typically from contact with explosions, to zero (the damage dealt to the attacked hedgehog or hedgehogs after a player's or CPU turn is shown only when all movement on the battlefield has ceased)."
+msgstr ""
+
+#: Desktop Files - IceGenerator is a direct streaming generator for Icecast/Shoutcast. It runs as a daemon.Three child processes handle all the stuff. A fourth (optional) child cares about telnet communication. Main idea for this program is radio automation on a Icecast/Shoutcast server. If you have many server processes and CPU saving is your priority, u can use IceGenerator. Obviously mp3s/oggs will be already resampled to allow their streaming on your bandwidth capability. For more information see share/doc/icegenerator/README.
+msgid "IceGenerator is a direct streaming generator for Icecast/Shoutcast. It runs as a daemon.Three child processes handle all the stuff. A fourth (optional) child cares about telnet communication. Main idea for this program is radio automation on a Icecast/Shoutcast server. If you have many server processes and CPU saving is your priority, u can use IceGenerator. Obviously mp3s/oggs will be already resampled to allow their streaming on your bandwidth capability. For more information see share/doc/icegenerator/README."
+msgstr ""
+
+#: Desktop Files - Launchy is a free cross-platform utility designed to help you forget about your start menu, the icons on your desktop, and even your file manager.  Launchy indexes the programs in your start menu and can launch your documents, project files, folders, and bookmarks with just a few keystrokes!
+msgid "Launchy is a free cross-platform utility designed to help you forget about your start menu, the icons on your desktop, and even your file manager.  Launchy indexes the programs in your start menu and can launch your documents, project files, folders, and bookmarks with just a few keystrokes!"
+msgstr ""
+
+#: Desktop Files - ePSXe is a Sony Playstation emulator. It takes advantage of the popular PSEmu Pro plugin system.  This is the Linux version.
+msgid "ePSXe is a Sony Playstation emulator. It takes advantage of the popular PSEmu Pro plugin system.  This is the Linux version."
+msgstr ""
+
+#: Desktop Files - The Mana World (TMW) is a serious effort to create an innovative free and  open source MMORPG. TMW uses 2D graphics and aims to create a large and  diverse interactive world. It is licensed under the GPL, making sure this  game can't ever run away from you.  The project includes the development of both a client and a server,  as well as the development of an online world. 
+msgid "The Mana World (TMW) is a serious effort to create an innovative free and  open source MMORPG. TMW uses 2D graphics and aims to create a large and  diverse interactive world. It is licensed under the GPL, making sure this  game can't ever run away from you.  The project includes the development of both a client and a server,  as well as the development of an online world. "
+msgstr ""
+
+#: Desktop Files - Afternoonstalker is a clone of the Intellivision game Night Stalker. You are in a two-dimensional maze in which you are attacked by robots that shoot at you and that you must shoot down. You must pick up a gun somewhere in the maze in order to have a few bullets to shoot. Avoid the spiders and the bats, which can paralyze you long enough for a robot to come and shoot you. The bunker in the center is your only protection.
+msgid "Afternoonstalker is a clone of the Intellivision game Night Stalker. You are in a two-dimensional maze in which you are attacked by robots that shoot at you and that you must shoot down. You must pick up a gun somewhere in the maze in order to have a few bullets to shoot. Avoid the spiders and the bats, which can paralyze you long enough for a robot to come and shoot you. The bunker in the center is your only protection."
+msgstr ""
+
+#: Desktop Files - Amoebax is a cute and addictive action-puzzle game. Due to an awful mutation, some amoeba's species have started to multiply until they take the world if you can't stop them. Fortunately the mutation made then too unstable and lining up four or more will make them disappear.  Follow Kim or Tom through 6 levels in their quest to prevent the cute multiplying amoebas to take the world and become the new Amoeba Master. Watch out for the cute but amoeba's controlled creatures that will try to put and end to your quest.  Amoebax is designed with levels for everyone, from children to adults. With the training mode everybody will quickly become a master and the tournament mode will let you have a good time with your friends. There is also catchy music, funny sound effects, and beautiful screens that sure appeal to everyone in the family.
+msgid "Amoebax is a cute and addictive action-puzzle game. Due to an awful mutation, some amoeba's species have started to multiply until they take the world if you can't stop them. Fortunately the mutation made then too unstable and lining up four or more will make them disappear.  Follow Kim or Tom through 6 levels in their quest to prevent the cute multiplying amoebas to take the world and become the new Amoeba Master. Watch out for the cute but amoeba's controlled creatures that will try to put and end to your quest.  Amoebax is designed with levels for everyone, from children to adults. With the training mode everybody will quickly become a master and the tournament mode will let you have a good time with your friends. There is also catchy music, funny sound effects, and beautiful screens that sure appeal to everyone in the family."
+msgstr ""
+
+#: Desktop Files - Atomix is a little mind game where you have to build molecules out of single atoms. These are laying around between the walls and obstacles on the playfield. Once you have pushed an atom in one direction it moves until it hits an obstacle or another atom. It needs some thinking how to construct complex molecules with this atom behaviour.
+msgid "Atomix is a little mind game where you have to build molecules out of single atoms. These are laying around between the walls and obstacles on the playfield. Once you have pushed an atom in one direction it moves until it hits an obstacle or another atom. It needs some thinking how to construct complex molecules with this atom behaviour."
+msgstr ""
+
+#: Desktop Files - Barrage is a rather destructive action game that puts you on a shooting range with the objective to hit as many dummy targets as possible within 3 minutes. You control a gun that may either fire small or large grenades at soldiers, jeeps and tanks. Targets are fast paced and require careful aiming as it takes half a second to reload the gun. In addition, you have to keep an eye on your ammo and reload in time.
+msgid "Barrage is a rather destructive action game that puts you on a shooting range with the objective to hit as many dummy targets as possible within 3 minutes. You control a gun that may either fire small or large grenades at soldiers, jeeps and tanks. Targets are fast paced and require careful aiming as it takes half a second to reload the gun. In addition, you have to keep an eye on your ammo and reload in time."
+msgstr ""
+
+#: Desktop Files - Bomns is by far the greatest game to ever grace the face of the earth. It has a HUGE cult following (largely based in Asheville, NC) because of its immense fun factor and its unique ability to increase your sex appeal and significantly lengthen your life. Originally conceived by Charles Lindsay, it has taken many forms since the first "Bomns".
+msgid "Bomns is by far the greatest game to ever grace the face of the earth. It has a HUGE cult following (largely based in Asheville, NC) because of its immense fun factor and its unique ability to increase your sex appeal and significantly lengthen your life. Originally conceived by Charles Lindsay, it has taken many forms since the first "Bomns"."
+msgstr ""
+
+#: Desktop Files - Briquolo is a breakout with 3D representation based on OpenGL.
+msgid "Briquolo is a breakout with 3D representation based on OpenGL."
+msgstr ""
+
+#: Desktop Files - Burgerspace is a BurgerTime clone. You are a chef and must walk over hamburger ingredients (buns, meat and lettuce) to make them fall from floor to floor, until they end up in the plates at the bottom of the screen.
+msgid "Burgerspace is a BurgerTime clone. You are a chef and must walk over hamburger ingredients (buns, meat and lettuce) to make them fall from floor to floor, until they end up in the plates at the bottom of the screen."
+msgstr ""
+
+#: Desktop Files - Chromium B.S.U. is a fast paced, arcade-style, top-scrolling space shooter.
+msgid "Chromium B.S.U. is a fast paced, arcade-style, top-scrolling space shooter."
+msgstr ""
+
+#: Desktop Files - Cosmosmash is a game where you control a base that must destroy rocks before they hit the ground, or you lose points. You must also prevent "spinners" from touching the ground, or your base will explode. This game is a clone of the 1981 Astrosmash(TM) video game by Mattel Electronics(TM).
+msgid "Cosmosmash is a game where you control a base that must destroy rocks before they hit the ground, or you lose points. You must also prevent "spinners" from touching the ground, or your base will explode. This game is a clone of the 1981 Astrosmash(TM) video game by Mattel Electronics(TM)."
+msgstr ""
+
+#: Desktop Files - Crimson Fields is a tactical war game in the tradition of Battle Isle. While not being an exact clone, it tries to keep closer to the very first part of the series than to the later ones, especially with regard to a rather simple rule set and straight forward game play. Right now, the game can only be played by two human adversaries in hot-seat mode or via e-mail. There is no AI player code yet.
+msgid "Crimson Fields is a tactical war game in the tradition of Battle Isle. While not being an exact clone, it tries to keep closer to the very first part of the series than to the later ones, especially with regard to a rather simple rule set and straight forward game play. Right now, the game can only be played by two human adversaries in hot-seat mode or via e-mail. There is no AI player code yet."
+msgstr ""
+
+#: Desktop Files - Cuyo is a tetris-like game which is suprisingly innovative, sometimes challenging, and has a very nice look.
+msgid "Cuyo is a tetris-like game which is suprisingly innovative, sometimes challenging, and has a very nice look."
+msgstr ""
+
+#: Desktop Files - bluedj contains many popular online games in China, such as mahjong, poker and chess. It has a large number of games and game players.
+msgid "bluedj contains many popular online games in China, such as mahjong, poker and chess. It has a large number of games and game players."
+msgstr ""
+
+#: Desktop Files - The idea of dopewars is to deal drugs on the streets of New York,  amassing a huge fortune and paying off the loan shark, while avoiding the ever-annoying police.  The UNIX rewrite, as well as featuring a so-called "antique" mode which closely follows the original, introduces new features such as the ability to take part in multi-player games.
+msgid "The idea of dopewars is to deal drugs on the streets of New York,  amassing a huge fortune and paying off the loan shark, while avoiding the ever-annoying police.  The UNIX rewrite, as well as featuring a so-called "antique" mode which closely follows the original, introduces new features such as the ability to take part in multi-player games."
+msgstr ""
+
+#: Desktop Files - Enigma is a reimplementation of Oxyd, a puzzle game that was very popular on the Atari ST and later on the PC. Equipped with a little black marble, your objective is to locate and uncover matching pairs of Oxyd stones.
+msgid "Enigma is a reimplementation of Oxyd, a puzzle game that was very popular on the Atari ST and later on the PC. Equipped with a little black marble, your objective is to locate and uncover matching pairs of Oxyd stones."
+msgstr ""
+
+#: Desktop Files - Gcompris is educational software and includes over 50 activites and games for kids ages from 2 to 10. Some activities are game oriented, but always educational.  You will find activities in the following topics:  computer discovery: keyboard, mouse, different mouse gesture algebra: table memory, enumeration, double entry table, mirror image science: the canal lock, the water cycle, the submarine geography: place the country on the map games: chess, memory reading: reading practice other: learn to tell time, puzzle of famous paintings, vector drawing
+msgid "Gcompris is educational software and includes over 50 activites and games for kids ages from 2 to 10. Some activities are game oriented, but always educational.  You will find activities in the following topics:  computer discovery: keyboard, mouse, different mouse gesture algebra: table memory, enumeration, double entry table, mirror image science: the canal lock, the water cycle, the submarine geography: place the country on the map games: chess, memory reading: reading practice other: learn to tell time, puzzle of famous paintings, vector drawing"
+msgstr ""
+
+#: Desktop Files - A free program for creating and solving Su Doku puzzles.  You can use GNUDoku to challenge yourself, to compute solutions, or to verify your own solutions.  A Su Doku puzzle is a 9x9 grid which must be filled with numbers between 1 and 9 such that each row, column, and 3x3 square contains all 9 numbers.
+msgid "A free program for creating and solving Su Doku puzzles.  You can use GNUDoku to challenge yourself, to compute solutions, or to verify your own solutions.  A Su Doku puzzle is a 9x9 grid which must be filled with numbers between 1 and 9 such that each row, column, and 3x3 square contains all 9 numbers."
+msgstr ""
+
+#: Desktop Files - GTetrinet is a client program for the popular Tetrinet game, a multiplayer game that is played over the internet. (If you don't know what Tetrinet is, check out http://tetrinet.org)  Features:  -Fully network compatible with Tetrinet v1.13 for Win95/98/NT  -Theme support with sound  -Spectator support on Tetrinet-X servers with the qirc patch by Drslum.
+msgid "GTetrinet is a client program for the popular Tetrinet game, a multiplayer game that is played over the internet. (If you don't know what Tetrinet is, check out http://tetrinet.org)  Features:  -Fully network compatible with Tetrinet v1.13 for Win95/98/NT  -Theme support with sound  -Spectator support on Tetrinet-X servers with the qirc patch by Drslum."
+msgstr ""
+
+#: Desktop Files - Gno3DTet is a funky 3D-ified version of T*tris that reminds me of games I used to play 10 years ago. It'll make for hours of fun if you learn how to move the pieces around right.
+msgid "Gno3DTet is a funky 3D-ified version of T*tris that reminds me of games I used to play 10 years ago. It'll make for hours of fun if you learn how to move the pieces around right."
+msgstr ""
+
+#: Desktop Files - GNOME Breakout is a clone of the classic arcade game Breakout, written for GNOME.  Still in development, but very playable, and very addictive. 
+msgid "GNOME Breakout is a clone of the classic arcade game Breakout, written for GNOME.  Still in development, but very playable, and very addictive. "
+msgstr ""
+
+#: Desktop Files - A GUI chess front-end to crafty, for the GNOME Desktop Environment  It works with chess programs and chess servers - it is also a PGN viewer.
+msgid "A GUI chess front-end to crafty, for the GNOME Desktop Environment  It works with chess programs and chess servers - it is also a PGN viewer."
+msgstr ""
+
+#: Desktop Files - GnomeKiss is an implementation of French-KiSS for the GNOME desktop environment, using GNOME, GTK+ and the X Window System. French KiSS is an enhanced KiSS/GS for scriptable dolls, where KiSS is an abbreviation for Kisekae Set System (or something).
+msgid "GnomeKiss is an implementation of French-KiSS for the GNOME desktop environment, using GNOME, GTK+ and the X Window System. French KiSS is an enhanced KiSS/GS for scriptable dolls, where KiSS is an abbreviation for Kisekae Set System (or something)."
+msgstr ""
+
+#: Desktop Files - This is Gnome version of the memory blocks' game, which originally came from Semantec game pack for Windows 3.11.
+msgid "This is Gnome version of the memory blocks' game, which originally came from Semantec game pack for Windows 3.11."
+msgstr ""
+
+#: Desktop Files - GnomerMind is a puzzle game for Gnome, loosely based on the classic MasterMind game. The author always been fascinated by this game, and spent an heap of time playing the version (Logic) implemented on some Nokia cellular phones... So he told himself, why not to make it available also for PC's?
+msgid "GnomerMind is a puzzle game for Gnome, loosely based on the classic MasterMind game. The author always been fascinated by this game, and spent an heap of time playing the version (Logic) implemented on some Nokia cellular phones... So he told himself, why not to make it available also for PC's?"
+msgstr ""
+
+#: Desktop Files - Dink Smallwood is an adventure/role-playing game, similar to Zelda, made by RTsoft. Besides twisted humour, it includes the actual game editor, allowing players to create hundreds of new adventures called Dink Modules or D-Mods for short.  GNU FreeDink is a new and portable version of the game engine, which runs the original game as well as its D-Mods, with close compatibility, under multiple platforms.
+msgid "Dink Smallwood is an adventure/role-playing game, similar to Zelda, made by RTsoft. Besides twisted humour, it includes the actual game editor, allowing players to create hundreds of new adventures called Dink Modules or D-Mods for short.  GNU FreeDink is a new and portable version of the game engine, which runs the original game as well as its D-Mods, with close compatibility, under multiple platforms."
+msgstr ""
+
+#: Desktop Files - GtkTetcolor is a game that resembles well-known tetris and columns. The rules of the game are simple - you can move or rotate the block which continue to fall. After block landing the sequence of at least three cells horizontally, vertically or diagonally having matching colors is removed and the above blocks will collapse. If two or more sequences will be removed simultaneously the player has got bonus points. The game will be over when new block cannot be placed on screen. 
+msgid "GtkTetcolor is a game that resembles well-known tetris and columns. The rules of the game are simple - you can move or rotate the block which continue to fall. After block landing the sequence of at least three cells horizontally, vertically or diagonally having matching colors is removed and the above blocks will collapse. If two or more sequences will be removed simultaneously the player has got bonus points. The game will be over when new block cannot be placed on screen. "
+msgstr ""
+
+#: Desktop Files - Gweled is a Gnome version of a popular PalmOS/Windows/Java game called "Bejeweled" or "Diamond Mine". The aim of the game is to make alignment of 3 or more gems, both vertically or horizontally by swapping adjacent gems. The game ends when there are no possible moves left.
+msgid "Gweled is a Gnome version of a popular PalmOS/Windows/Java game called "Bejeweled" or "Diamond Mine". The aim of the game is to make alignment of 3 or more gems, both vertically or horizontally by swapping adjacent gems. The game ends when there are no possible moves left."
+msgstr ""
+
+#: Desktop Files - Hexalate is a color matching game. The goal of the game is to rotate and position the circles so that each touching line matches in color. You rotate circles by right clicking, and you move circles by dragging them. The game stores the positions and rotations of the circles across runs.
+msgid "Hexalate is a color matching game. The goal of the game is to rotate and position the circles so that each touching line matches in color. You rotate circles by right clicking, and you move circles by dragging them. The game stores the positions and rotations of the circles across runs."
+msgstr ""
+
+#: Desktop Files - INSTEAD was designed to interpret the games that are the mix of visual novels,  text quests and classical 90'ss quests.
+msgid "INSTEAD was designed to interpret the games that are the mix of visual novels,  text quests and classical 90'ss quests."
+msgstr ""
+
+#: Desktop Files - Collection of games usually included with the KDE4 desktop environment. This collection includes card games, arcade games, strategy games, and other miscellaneous games.
+msgid "Collection of games usually included with the KDE4 desktop environment. This collection includes card games, arcade games, strategy games, and other miscellaneous games."
+msgstr ""
+
+#: Desktop Files - During test the Kanatest displays randomly selected kana char (respecting mode and lesson) and waits for user answer expected as romaji equivalent. This process continues until all questions will be answered or all questions will be answered correctly (depends on options). At the end of test a short info about drilling time and correctness ratio is displayed. The results are stored and user can review his performance in any time.
+msgid "During test the Kanatest displays randomly selected kana char (respecting mode and lesson) and waits for user answer expected as romaji equivalent. This process continues until all questions will be answered or all questions will be answered correctly (depends on options). At the end of test a short info about drilling time and correctness ratio is displayed. The results are stored and user can review his performance in any time."
+msgstr ""
+
+#: Desktop Files - Klavaro is just another free touch typing tutor program. We felt like to do it because we became frustrated with the other options, which relied mostly on some few specific keyboards. Klavaro intends to be keyboard and language independent, saving memory and time (and money).
+msgid "Klavaro is just another free touch typing tutor program. We felt like to do it because we became frustrated with the other options, which relied mostly on some few specific keyboards. Klavaro intends to be keyboard and language independent, saving memory and time (and money)."
+msgstr ""
+
+#: Desktop Files - The polished successor to LBreakout offers you a new challenge in more than 50 levels with loads of new bonuses (goldshower, joker, explosive balls, bonus magnet ...), maluses (chaos, darkness, weak balls, malus magnet ...) and special bricks (growing bricks, explosive bricks, regenerative bricks, indestructible bricks, chaotic bricks).  And if you're through with all the levels you can create complete new levelsets with the integrated easy-to-use level editor!
+msgid "The polished successor to LBreakout offers you a new challenge in more than 50 levels with loads of new bonuses (goldshower, joker, explosive balls, bonus magnet ...), maluses (chaos, darkness, weak balls, malus magnet ...) and special bricks (growing bricks, explosive bricks, regenerative bricks, indestructible bricks, chaotic bricks).  And if you're through with all the levels you can create complete new levelsets with the integrated easy-to-use level editor!"
+msgstr ""
+
+#: Desktop Files - LMarbles is a game similar to Atomix and was heavily inspired by it. The goal is to arrange a figure out of single marbles within a time limit to reach the next level.
+msgid "LMarbles is a game similar to Atomix and was heavily inspired by it. The goal is to arrange a figure out of single marbles within a time limit to reach the next level."
+msgstr ""
+
+#: Desktop Files - LTris is just another clone of Tetris but IMHO a good one, so if you like Tetris, download and play it!  Features:      Tetris clone using SDL      Sound      Menu      Controls can be redefined      Block preview      Starting level between 0 and 9      Various backgrounds      HighScores      Nice graphics      Smooth gameplay      Cool effects (transparency, animations)      Two player mode      Two game modes  Two game modes?  Yes.  The "normal" mode is the one everbody knows well.  You play as long as you can while the blocks are getting faster.  The second one called "advanced" has some additional features.  First there is a new figure in each new level and second later on there are suddenly appearing tiles and rows.
+msgid "LTris is just another clone of Tetris but IMHO a good one, so if you like Tetris, download and play it!  Features:      Tetris clone using SDL      Sound      Menu      Controls can be redefined      Block preview      Starting level between 0 and 9      Various backgrounds      HighScores      Nice graphics      Smooth gameplay      Cool effects (transparency, animations)      Two player mode      Two game modes  Two game modes?  Yes.  The "normal" mode is the one everbody knows well.  You play as long as you can while the blocks are getting faster.  The second one called "advanced" has some additional features.  First there is a new figure in each new level and second later on there are suddenly appearing tiles and rows."
+msgstr ""
+
+#: Desktop Files - LianLianKan is a scarce recreation game. Game playing is very simple, first you are required to choose a pair of same pattern links, but the path of links appeared can not exceed twice turns, after links keep away from other patterns. Only can enter next one when you fulfill task. The difficulty of game can be divided into three levels.
+msgid "LianLianKan is a scarce recreation game. Game playing is very simple, first you are required to choose a pair of same pattern links, but the path of links appeared can not exceed twice turns, after links keep away from other patterns. Only can enter next one when you fulfill task. The difficulty of game can be divided into three levels."
+msgstr ""
+
+#: Desktop Files - A turn-based strategy game where up to 8 players strive for control of as many cities as possible. Produce new armies in cities to conquer nearby cities. Using the income from those cities, make more armies to take more cities. Send a hero to a temple to get a quest, or maybe search a nearby ruin instead. Play with others or against the computer.
+msgid "A turn-based strategy game where up to 8 players strive for control of as many cities as possible. Produce new armies in cities to conquer nearby cities. Using the income from those cities, make more armies to take more cities. Send a hero to a temple to get a quest, or maybe search a nearby ruin instead. Play with others or against the computer."
+msgstr ""
+
+#: Desktop Files - LucidLife is a fast and user-friendly Conway's Life program for Unix. It is derived from GtkLife 4.2.
+msgid "LucidLife is a fast and user-friendly Conway's Life program for Unix. It is derived from GtkLife 4.2."
+msgstr ""
+
+#: Desktop Files - Monster Masher is an action game for the Gnome desktop environment.  The basic idea is that you, as levitation worker gnome, has to clean  the caves for monsters that want to roll over you. You do the cleaning  by mashing the monsters with stone blocks.
+msgid "Monster Masher is an action game for the Gnome desktop environment.  The basic idea is that you, as levitation worker gnome, has to clean  the caves for monsters that want to roll over you. You do the cleaning  by mashing the monsters with stone blocks."
+msgstr ""
+
+#: Desktop Files - The Mud Magic Mud Client is written in GTK+ and supports MXP, MSP, MCCP, and ZMP with PCRE regular expression handling and Python script engine. The plugins shipped with the client currently include an automapper, note system, and database front end.
+msgid "The Mud Magic Mud Client is written in GTK+ and supports MXP, MSP, MCCP, and ZMP with PCRE regular expression handling and Python script engine. The plugins shipped with the client currently include an automapper, note system, and database front end."
+msgstr ""
+
+#: Desktop Files - OpenCity is a full 3D city simulator game project. It is written in standard C++ with OpenGL and SDL from scratch. It is not intended to be a clone of any famous city simulator from Max*s. So, if you are looking to download a free SimCity 4 like, please forget OpenCity.
+msgid "OpenCity is a full 3D city simulator game project. It is written in standard C++ with OpenGL and SDL from scratch. It is not intended to be a clone of any famous city simulator from Max*s. So, if you are looking to download a free SimCity 4 like, please forget OpenCity."
+msgstr ""
+
+#: Desktop Files - Open Yhatzee is an open-source (free) version of the classic dice game Yahtzee. Open Yahtzee is built to be OS portable, that means you can run it on many kinds of different operating systems and platforms. The portability is mainly achived via wxWidgets which also gives Open Yahtzee a native look on each platform.
+msgid "Open Yhatzee is an open-source (free) version of the classic dice game Yahtzee. Open Yahtzee is built to be OS portable, that means you can run it on many kinds of different operating systems and platforms. The portability is mainly achived via wxWidgets which also gives Open Yahtzee a native look on each platform."
+msgstr ""
+
+#: Desktop Files - Peg-E is a peg solitaire game in which you jump over pieces in order to remove them from the board, ultimately trying to eliminate all but one. The boards are randomly generated, with 100 levels of difficulty. The game auto-saves, and has undo-redo capability. Pieces can move horizontally, vertically, and diagonally.
+msgid "Peg-E is a peg solitaire game in which you jump over pieces in order to remove them from the board, ultimately trying to eliminate all but one. The boards are randomly generated, with 100 levels of difficulty. The game auto-saves, and has undo-redo capability. Pieces can move horizontally, vertically, and diagonally."
+msgstr ""
+
+#: Desktop Files - Pink Pony is a Tron-like multiplayer racing game. You control little ponies that leave a trail of flowers everywhere they step. You have to evade these trails and force other ponies into them. The last pony standing wins the game.
+msgid "Pink Pony is a Tron-like multiplayer racing game. You control little ponies that leave a trail of flowers everywhere they step. You have to evade these trails and force other ponies into them. The last pony standing wins the game."
+msgstr ""
+
+#: Desktop Files - Pioneers is an Internet playable implementation of the Settlers of Catan board game. The aim is to remain as faithful to the board game as is possible.
+msgid "Pioneers is an Internet playable implementation of the Settlers of Catan board game. The aim is to remain as faithful to the board game as is possible."
+msgstr ""
+
+#: Desktop Files - PipeWalker is a clone of the NetWalk game.  This is a puzzle game where pieces of a computer network are to be turned in the right/left direction to make all computers connected to the same network.
+msgid "PipeWalker is a clone of the NetWalk game.  This is a puzzle game where pieces of a computer network are to be turned in the right/left direction to make all computers connected to the same network."
+msgstr ""
+
+#: Desktop Files - Plee The Bear will be a 2D platform jump and run game, as fun as the best platform games of the 90's (the golden age of this kind of games). You're a bear, trying to catch his son, which ran away after he ate all your honey.
+msgid "Plee The Bear will be a 2D platform jump and run game, as fun as the best platform games of the 90's (the golden age of this kind of games). You're a bear, trying to catch his son, which ran away after he ate all your honey."
+msgstr ""
+
+#: Desktop Files - PokerTH is a poker game written in C++/QT4. You can play the popular "Texas Hold'em" poker variant against up to six computer-opponents or play network games with people all over the world.
+msgid "PokerTH is a poker game written in C++/QT4. You can play the popular "Texas Hold'em" poker variant against up to six computer-opponents or play network games with people all over the world."
+msgstr ""
+
+#: Desktop Files - gturing is a simple turing machine simulator with  graphical interface. A Turing machine is the simplest possible  computing device which can only perform very simple operations. However, almost everything in programming languages can be written as a program for the Turing machine.  Of course, no one uses the Turing machine for actual computing  work, but it is very useful in theoretical computer science and mathematical logic.  It's a nice complement for students who likes to practice with theory and a nice toy to play with.
+msgid "gturing is a simple turing machine simulator with  graphical interface. A Turing machine is the simplest possible  computing device which can only perform very simple operations. However, almost everything in programming languages can be written as a program for the Turing machine.  Of course, no one uses the Turing machine for actual computing  work, but it is very useful in theoretical computer science and mathematical logic.  It's a nice complement for students who likes to practice with theory and a nice toy to play with."
+msgstr ""
+
+#: Desktop Files - kMancala is an count-and-capture like board game. This game heavily favors the starting player, who will always win the three-seed to five-seed versions with perfect play. This game is sometimes also called "Kalahari", "Kalah", "Kalaha" or "Mancala".
+msgid "kMancala is an count-and-capture like board game. This game heavily favors the starting player, who will always win the three-seed to five-seed versions with perfect play. This game is sometimes also called "Kalahari", "Kalah", "Kalaha" or "Mancala"."
+msgstr ""
+
+#: Desktop Files - nPush is a logic game similar to Sokoban and Boulder Dash. You need to collect all the gold on the level and reach the exit. To make it hard there are some rocks that stand in your way, and you also have some dynamite to blast them away. Main difference from Sokoban, KSokoban and similar games is that you can have multiple player-controlled characters you can move on the screen.  nPush is written in C++. The source code is freely available under GPL license, version 2 or above. The code is very simple, so if you're interested in working on your C++ skills on a simple project, please feel free to join in.
+msgid "nPush is a logic game similar to Sokoban and Boulder Dash. You need to collect all the gold on the level and reach the exit. To make it hard there are some rocks that stand in your way, and you also have some dynamite to blast them away. Main difference from Sokoban, KSokoban and similar games is that you can have multiple player-controlled characters you can move on the screen.  nPush is written in C++. The source code is freely available under GPL license, version 2 or above. The code is very simple, so if you're interested in working on your C++ skills on a simple project, please feel free to join in."
+msgstr ""
+
+#: Desktop Files - BloGTK is a weblog posting client written in Python for any platform that  supports Python and the GTK widget set. BloGTK allows you to connect to your  weblog with XML-RPC and create new posts.  Supported weblogs: MovableType versions 2.5 or later. Blogger WordPress 1.5 or later or WordPress.com Windows Live Spaces Expression Engine (but autoconfiguration does not work) Any blog that uses the MetaWeblog API.
+msgid "BloGTK is a weblog posting client written in Python for any platform that  supports Python and the GTK widget set. BloGTK allows you to connect to your  weblog with XML-RPC and create new posts.  Supported weblogs: MovableType versions 2.5 or later. Blogger WordPress 1.5 or later or WordPress.com Windows Live Spaces Expression Engine (but autoconfiguration does not work) Any blog that uses the MetaWeblog API."
+msgstr ""
+
+#: Desktop Files - PlanetPenguin Racer is an OpenGL racing game featuring Tux, the Linux mascot. The goal of the game is to slide down a snow- and ice-covered mountain as quickly as possible. It is based on the GPL version of TuxRacer.  Differences from TuxRacer include:  * Course progress bar * Themes * New terrain types (lava, etc.) * Actively developed!
+msgid "PlanetPenguin Racer is an OpenGL racing game featuring Tux, the Linux mascot. The goal of the game is to slide down a snow- and ice-covered mountain as quickly as possible. It is based on the GPL version of TuxRacer.  Differences from TuxRacer include:  * Course progress bar * Themes * New terrain types (lava, etc.) * Actively developed!"
+msgstr ""
+
+#: Desktop Files - BooKreader is a KDE twin-panel viewer for text files and e-books.  Features:  * Two page book-like style.  * Custom font selection.  * Multiple bookmarks per book.  * Bookmarks manager.  * Quick access to the first 10 bookmarks via Alt+number.
+msgid "BooKreader is a KDE twin-panel viewer for text files and e-books.  Features:  * Two page book-like style.  * Custom font selection.  * Multiple bookmarks per book.  * Bookmarks manager.  * Quick access to the first 10 bookmarks via Alt+number."
+msgstr ""
+
+#: Desktop Files - (This Wine PBI is designed for 64-bit systems NOT using the nvidia driver) Wine is a Microsoft Windows compatibility layer (or program loader) capable of running Windows applications on i386 and compatible CPUs. Windows programs running in Wine act as native programs would, running without the performance or memory usage penalties of an emulator, with a similar look and feel to other applications on your desktop.  Many applications already work, more or less, including versions of Microsoft Office and several games.
+msgid "(This Wine PBI is designed for 64-bit systems NOT using the nvidia driver) Wine is a Microsoft Windows compatibility layer (or program loader) capable of running Windows applications on i386 and compatible CPUs. Windows programs running in Wine act as native programs would, running without the performance or memory usage penalties of an emulator, with a similar look and feel to other applications on your desktop.  Many applications already work, more or less, including versions of Microsoft Office and several games."
+msgstr ""
+
+#: Desktop Files - Drivel is a GNOME client for working with online journals, also known as weblogs or simply blogs. It retains a simple and elegant design while providing many powerful features, including:      * Support for LiveJournal, Blogger, MovableType, Advogato, and Atom       journals (systems based off these are also supported, including WordPress       and Drupal)     * The ability to post, edit, delete, and view recent entries     * Integrated spellchecking and HTML syntax highlighting     * Offline composition and editing     * Automatic recovery in the event of a crash     * Journal system extensions, including LiveJournal security groups and       MovableType categories
+msgid "Drivel is a GNOME client for working with online journals, also known as weblogs or simply blogs. It retains a simple and elegant design while providing many powerful features, including:      * Support for LiveJournal, Blogger, MovableType, Advogato, and Atom       journals (systems based off these are also supported, including WordPress       and Drupal)     * The ability to post, edit, delete, and view recent entries     * Integrated spellchecking and HTML syntax highlighting     * Offline composition and editing     * Automatic recovery in the event of a crash     * Journal system extensions, including LiveJournal security groups and       MovableType categories"
+msgstr ""
+
+#: Desktop Files - FBReader is a book reader. Main features: * Supported formats: fb2, HTML, CHM, plucker, Palmdoc, zTxt, TCR, RTF,   OEB, OpenReader, mobipocket, plain text. * Direct reading from tar, zip, gzip and bzip2 archives. * Supported encodings: utf-8, us-ascii, windows-1251, windows-1252,   koi8-r, ibm866, iso-8859-*, Big5, GBK. * Automatically generated contents table. * Embedded images support. * Footnotes/hyperlinks support. * Position indicator. * Keeps the last open book and the last read positions for all opened   books between runs. * List of last opened books. * Automatic hyphenations. Liang's algorithm is used. Patterns for Czech,   English, Esperanto, French, German and Russian are included in the   current version. * Text search. * Full-screen mode. * Screen rotation by 90, 180 and 270 degrees.
+msgid "FBReader is a book reader. Main features: * Supported formats: fb2, HTML, CHM, plucker, Palmdoc, zTxt, TCR, RTF,   OEB, OpenReader, mobipocket, plain text. * Direct reading from tar, zip, gzip and bzip2 archives. * Supported encodings: utf-8, us-ascii, windows-1251, windows-1252,   koi8-r, ibm866, iso-8859-*, Big5, GBK. * Automatically generated contents table. * Embedded images support. * Footnotes/hyperlinks support. * Position indicator. * Keeps the last open book and the last read positions for all opened   books between runs. * List of last opened books. * Automatic hyphenations. Liang's algorithm is used. Patterns for Czech,   English, Esperanto, French, German and Russian are included in the   current version. * Text search. * Full-screen mode. * Screen rotation by 90, 180 and 270 degrees."
+msgstr ""
+
+#: Desktop Files - GBirthday is a birthday reminder application that helps you to remember your Evolution, Thunderbird, Sunbird contacts' birthdays or from a MySQL Server or a CSV File. It puts an icon on notification area which will blink when there is any of your contacts' birthday today. You can also check if there is any of your contacts' birthday on next days.
+msgid "GBirthday is a birthday reminder application that helps you to remember your Evolution, Thunderbird, Sunbird contacts' birthdays or from a MySQL Server or a CSV File. It puts an icon on notification area which will blink when there is any of your contacts' birthday today. You can also check if there is any of your contacts' birthday on next days."
+msgstr ""
+
+#: Desktop Files - The overall goal of this project is to provide remote control service on Linux through Bluetooth, InfraRed, Wi-Fi or just TCP/IP connection.  anyRemote supports wide range of modern cell phones like Nokia, SonyEricsson, Motorola and others.  It was developed as thin communication layer between Bluetooth (or IR, Wi-Fi) capabled phone and UNIX, and in principle could be configured to manage almost any software.
+msgid "The overall goal of this project is to provide remote control service on Linux through Bluetooth, InfraRed, Wi-Fi or just TCP/IP connection.  anyRemote supports wide range of modern cell phones like Nokia, SonyEricsson, Motorola and others.  It was developed as thin communication layer between Bluetooth (or IR, Wi-Fi) capabled phone and UNIX, and in principle could be configured to manage almost any software."
+msgstr ""
+
+#: Desktop Files - Genius Calculator is a precision calculator for Gnome Desktop Environment.  Features of Genius:   * arbitrary precision integers (2-36), multiple precision floats  * uses rationals when possible  * will calculate and show half calculated expressions if the calculation    could not be completed  * variables  * user functions  * variable and function references with C like syntax  * anonymous functions  * it will add missing parenthesis on the ends of expressions (only in    the GUI version)  * matrix support  * complex numbers  * more ...
+msgid "Genius Calculator is a precision calculator for Gnome Desktop Environment.  Features of Genius:   * arbitrary precision integers (2-36), multiple precision floats  * uses rationals when possible  * will calculate and show half calculated expressions if the calculation    could not be completed  * variables  * user functions  * variable and function references with C like syntax  * anonymous functions  * it will add missing parenthesis on the ends of expressions (only in    the GUI version)  * matrix support  * complex numbers  * more ..."
+msgstr ""
+
+#: Desktop Files - gLabels is a lightweight program for creating labels and  business cards for the GNOME desktop environment. It is  designed to work with various laser/ink-jet peel-off label  and business card sheets that you'll find at most office  supply stores. 
+msgid "gLabels is a lightweight program for creating labels and  business cards for the GNOME desktop environment. It is  designed to work with various laser/ink-jet peel-off label  and business card sheets that you'll find at most office  supply stores. "
+msgstr ""
+
+#: Desktop Files - Gnome Screen Ruler is an on-screen ruler for measuring horizontal and vertical distances in any application. Features:  * Horizontal and vertical display * Multiple units: pixels, inches, centimeters, picas, points,   percentage * Configurable colors and font * Can be set always-on-top * Measurement lines track mouse cursor to help measure   anything on screen * Move and resize via click-and-drag with the mouse * Align with other windows while dragging (hold SHIFT key) * Move using the keyboard for precision (arrow keys) * Resize using keyboard (ALT+arrow keys) * Speed up keyboard operations (hold SHIFT key)
+msgid "Gnome Screen Ruler is an on-screen ruler for measuring horizontal and vertical distances in any application. Features:  * Horizontal and vertical display * Multiple units: pixels, inches, centimeters, picas, points,   percentage * Configurable colors and font * Can be set always-on-top * Measurement lines track mouse cursor to help measure   anything on screen * Move and resize via click-and-drag with the mouse * Align with other windows while dragging (hold SHIFT key) * Move using the keyboard for precision (arrow keys) * Resize using keyboard (ALT+arrow keys) * Speed up keyboard operations (hold SHIFT key)"
+msgstr ""
+
+#: Desktop Files - GTG is a personal organizer for the GNOME desktop environment, it focuses on ease of use and flexibility, while keeping things simple.
+msgid "GTG is a personal organizer for the GNOME desktop environment, it focuses on ease of use and flexibility, while keeping things simple."
+msgstr ""
+
+#: Desktop Files - Time (formerly GTT, the Gnome Time Tracker) is a desktop utility for  tracking the amount of time spent on projects, and generating  configurable invoices based on that time.
+msgid "Time (formerly GTT, the Gnome Time Tracker) is a desktop utility for  tracking the amount of time spent on projects, and generating  configurable invoices based on that time."
+msgstr ""
+
+#: Desktop Files - Gnote is a port of Tomboy to C++.   It is the same note taking application, including most of the add-ins (more are to come). Synchronization support is being worked on.
+msgid "Gnote is a port of Tomboy to C++.   It is the same note taking application, including most of the add-ins (more are to come). Synchronization support is being worked on."
+msgstr ""
+
+#: Desktop Files - Gourmet allows you to collect, search and organize your recipes, and to automatically generate shopping lists from your collection.  Gourmet's features include:      * Simple searching and sorting     * Easy recipe editing     * Import and export from various formats     * A shopping list creator and organizer
+msgid "Gourmet allows you to collect, search and organize your recipes, and to automatically generate shopping lists from your collection.  Gourmet's features include:      * Simple searching and sorting     * Easy recipe editing     * Import and export from various formats     * A shopping list creator and organizer"
+msgstr ""
+
+#: Desktop Files - Griffith is a movie collection manager application. Adding items to the movie collection is as quick and easy as typing the film title and selecting a supported source. Griffith will then try to fetch all the related information from the Web.  Most important features: * Fetches film information from the Internet based on your locale via a   plug-in * Integrates well with a database (MySQL, PostgreSQL, SQLite3 used by   default) to keep tabs on your library * Can backup/restore your database * Exports to CSV, PDF, XML and HTML files * Imports from CSV files * Generates PDF from cover art * Keeps track of your films that are out on loan * Enables you to sort/filter your library
+msgid "Griffith is a movie collection manager application. Adding items to the movie collection is as quick and easy as typing the film title and selecting a supported source. Griffith will then try to fetch all the related information from the Web.  Most important features: * Fetches film information from the Internet based on your locale via a   plug-in * Integrates well with a database (MySQL, PostgreSQL, SQLite3 used by   default) to keep tabs on your library * Can backup/restore your database * Exports to CSV, PDF, XML and HTML files * Imports from CSV files * Generates PDF from cover art * Keeps track of your films that are out on loan * Enables you to sort/filter your library"
+msgstr ""
+
+#: Desktop Files - gucharmap is a Unicode/ISO10646 character map and font viewer.  It uses GTK+ 2, and supports anti-aliased, scalable fonts.
+msgid "gucharmap is a Unicode/ISO10646 character map and font viewer.  It uses GTK+ 2, and supports anti-aliased, scalable fonts."
+msgstr ""
+
+#: Desktop Files - Katapult is a KDE application that gives you faster access to your applications, bookmarks, and more! It is plugin-based and can launch anything it has a plugin for. Its plugin-driven appearance is completely customizable. Katapult was inspired by Quicksilver for OS X, and it is written in C++.
+msgid "Katapult is a KDE application that gives you faster access to your applications, bookmarks, and more! It is plugin-based and can launch anything it has a plugin for. Its plugin-driven appearance is completely customizable. Katapult was inspired by Quicksilver for OS X, and it is written in C++."
+msgstr ""
+
+#: Desktop Files - gToDo is as the name suggests a todo list application. The goal of the program is to be simple and easy to use. The program is made to fill up the gap of a missing gtk+-2.0 standalone todo list.
+msgid "gToDo is as the name suggests a todo list application. The goal of the program is to be simple and easy to use. The program is made to fill up the gap of a missing gtk+-2.0 standalone todo list."
+msgstr ""
+
+#: Desktop Files - This small application sits in the KDE system tray and patiently checks  a BlogLines account for updates in specified periods, notifying the  user of new entries as they appear. Features bells and whistles!
+msgid "This small application sits in the KDE system tray and patiently checks  a BlogLines account for updates in specified periods, notifying the  user of new entries as they appear. Features bells and whistles!"
+msgstr ""
+
+#: Desktop Files - KLuJe is a LiveJournal client for KDE.  Current features include: - Posting with optional subject or mood - Posting to multiple journals or communities - Editing events in the past - Systray icon, with menu of quick links - Auto polling for friends' posts, w/animated systray icon alert - Integrated spell checking - Fast server support (for paid accounts) - MD5 password storage/transmis
+msgid "KLuJe is a LiveJournal client for KDE.  Current features include: - Posting with optional subject or mood - Posting to multiple journals or communities - Editing events in the past - Systray icon, with menu of quick links - Auto polling for friends' posts, w/animated systray icon alert - Integrated spell checking - Fast server support (for paid accounts) - MD5 password storage/transmis"
+msgstr ""
+
+#: Desktop Files - KTagebuch is a diary program for KDE 3.  Features:     o Word processor like functions    o A toolbar to easily access the entries    o Entries are searchable    o Mood Plugin
+msgid "KTagebuch is a diary program for KDE 3.  Features:     o Word processor like functions    o A toolbar to easily access the entries    o Entries are searchable    o Mood Plugin"
+msgstr ""
+
+#: Desktop Files - KchmViewer is a chm (MS HTML help file format) viewer. Unlike most existing CHM viewers for Unix, it uses Trolltech's Qt widget library, and does not depend on KDE or Gnome. However, it may be compiled with full KDE support, including KDE widgets and KIO/KHTML.  The main advantage of KchmViewer is non-english language support. Unlike others, KchmViewer in most cases correctly detects help file encoding, correctly shows tables of context of russian, korean, chinese and japanese help files, and correctly searches in non-english help files.
+msgid "KchmViewer is a chm (MS HTML help file format) viewer. Unlike most existing CHM viewers for Unix, it uses Trolltech's Qt widget library, and does not depend on KDE or Gnome. However, it may be compiled with full KDE support, including KDE widgets and KIO/KHTML.  The main advantage of KchmViewer is non-english language support. Unlike others, KchmViewer in most cases correctly detects help file encoding, correctly shows tables of context of russian, korean, chinese and japanese help files, and correctly searches in non-english help files."
+msgstr ""
+
+#: Desktop Files - KnowIt is a simple KDE tool for managing notes in a manner similar to TuxCards. Notes are organized in tree-like hierarchy and can store data in a rich text format, so that bold, italics, and lists are supported, as well as any character set.
+msgid "KnowIt is a simple KDE tool for managing notes in a manner similar to TuxCards. Notes are organized in tree-like hierarchy and can store data in a rich text format, so that bold, italics, and lists are supported, as well as any character set."
+msgstr ""
+
+#: Desktop Files - Krefty - Quick Reference sheets for KDE.  A small, lightweight set of pages that summarize the  command line options, hotkeys and cheats for various Unix programs.
+msgid "Krefty - Quick Reference sheets for KDE.  A small, lightweight set of pages that summarize the  command line options, hotkeys and cheats for various Unix programs."
+msgstr ""
+
+#: Desktop Files - GTK frontend for XNeur keyboard layout switcher.  In-place converter of text typed in with a wrong keyboard layout. When users work in multilingual environment (e.g. Russian+English), they sometimes type in text with wrong keyboard layout. In auto mode XNeur can automatically detect language of a word user typed, switch keyboard layout and convert the word from one keyboard layout into another. In manual mode user has ability to convert last typed word or some selected text using hot keys. The idea of this utility is similar to Punto Switcher for Windows. For now XNeur support English, Russian, Ukrainian, Belarusian, French, Romanian, Bulgarian, Czech, Greek, Estonian, Armenian, Lithuanian, Latvian, Poland, Spanish and Uzbek languages.
+msgid "GTK frontend for XNeur keyboard layout switcher.  In-place converter of text typed in with a wrong keyboard layout. When users work in multilingual environment (e.g. Russian+English), they sometimes type in text with wrong keyboard layout. In auto mode XNeur can automatically detect language of a word user typed, switch keyboard layout and convert the word from one keyboard layout into another. In manual mode user has ability to convert last typed word or some selected text using hot keys. The idea of this utility is similar to Punto Switcher for Windows. For now XNeur support English, Russian, Ukrainian, Belarusian, French, Romanian, Bulgarian, Czech, Greek, Estonian, Armenian, Lithuanian, Latvian, Poland, Spanish and Uzbek languages."
+msgstr ""
+
+#: Desktop Files - Labyrinth is a lightweight mind-mapping tool for the GNOME desktop. It is written in Python and uses cairo for its rendering. It is intended to be as light and intuitive as possible, but still provide a wide range of powerful features.
+msgid "Labyrinth is a lightweight mind-mapping tool for the GNOME desktop. It is written in Python and uses cairo for its rendering. It is intended to be as light and intuitive as possible, but still provide a wide range of powerful features."
+msgstr ""
+
+#: Desktop Files - NoteCase is a hierarchical text notes manager (a.k.a. outliner). It helps you organize your everyday text notes into a single document with individual notes placed into a tree-like structure. To ensure your privacy an encrypted document format is supported along with a standard unencrypted one.
+msgid "NoteCase is a hierarchical text notes manager (a.k.a. outliner). It helps you organize your everyday text notes into a single document with individual notes placed into a tree-like structure. To ensure your privacy an encrypted document format is supported along with a standard unencrypted one."
+msgstr ""
+
+#: Desktop Files - Orage provides a calendar which integrates nicely into the Xfce desktop environment. It is highly configurable and supports alerts based on dates. It warns you with popup or audio alarm. As it is an application kind-of every day use it launches itself in the background as a daemon.
+msgid "Orage provides a calendar which integrates nicely into the Xfce desktop environment. It is highly configurable and supports alerts based on dates. It warns you with popup or audio alarm. As it is an application kind-of every day use it launches itself in the background as a daemon."
+msgstr ""
+
+#: Desktop Files - Parcellite is a lightweight GTK+ clipboard manager. This is a stripped down, basic-features-only clipboard manager with a small memory footprint for those who like simplicity.
+msgid "Parcellite is a lightweight GTK+ clipboard manager. This is a stripped down, basic-features-only clipboard manager with a small memory footprint for those who like simplicity."
+msgstr ""
+
+#: Desktop Files - Pinot is a D-Bus service that crawls, indexes your documents and monitors them for changes, with a GTK-based user interface that enables to query the index built by the service or your favourite Web engine, and display and analyze the results.  Features: - advanced queries (probabilistic search, boolean filters, date ranges). - language detection. - listing of indexed documents. - editing of metadata. - automatic results labeling. - stored queries. - results ranking history. - dynamic document summaries. - only crawl and index the directories you choose. - D-Bus interface for easy integration with other applications, eg Deskbar   Applet. - no dependency on GNOME or KDE. - support for common file types. - search your desktop and the Web. - query remote indexes.
+msgid "Pinot is a D-Bus service that crawls, indexes your documents and monitors them for changes, with a GTK-based user interface that enables to query the index built by the service or your favourite Web engine, and display and analyze the results.  Features: - advanced queries (probabilistic search, boolean filters, date ranges). - language detection. - listing of indexed documents. - editing of metadata. - automatic results labeling. - stored queries. - results ranking history. - dynamic document summaries. - only crawl and index the directories you choose. - D-Bus interface for easy integration with other applications, eg Deskbar   Applet. - no dependency on GNOME or KDE. - support for common file types. - search your desktop and the Web. - query remote indexes."
+msgstr ""
+
+#: Desktop Files - Planner is a tool for planning, scheduling and tracking projects for the GNOME Desktop. Planner is an open source project aiming at being a better alternative than the available proprietary tools.  Planner is part of GNOME Office, a productivity suite composed of entirely free software, integrated with the GNOME Desktop.
+msgid "Planner is a tool for planning, scheduling and tracking projects for the GNOME Desktop. Planner is an open source project aiming at being a better alternative than the available proprietary tools.  Planner is part of GNOME Office, a productivity suite composed of entirely free software, integrated with the GNOME Desktop."
+msgstr ""

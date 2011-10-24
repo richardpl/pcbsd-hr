@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-18 12:24-0700\n"
-"PO-Revision-Date: 2011-07-07 22:58+0200\n"
+"PO-Revision-Date: 2011-08-15 16:22+0200\n"
 "Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -156,7 +156,7 @@ msgstr ""
 
 #: Desktop Files - Login Manager Settings (KDM)
 msgid "Login Manager Settings (KDM)"
-msgstr "Postavke upravljača prijavljivanja (KDM)"
+msgstr "Postavke upravitelja prijavljivanja (KDM)"
 
 #: Desktop Files - Sweeper
 msgid "Sweeper"
