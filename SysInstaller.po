@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-10-23 07:28-0700\n"
-"PO-Revision-Date: 2011-10-24 03:07+0200\n"
+"POT-Creation-Date: 2011-11-21 03:37-0700\n"
+"PO-Revision-Date: 2011-11-21 18:18+0200\n"
 "Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -528,38 +528,34 @@ msgid "Not enough free space to create a new slice!"
 msgstr "Nema dovoljno slobodnog prostora za novi slice!"
 
 #: SysInstaller#93
-msgid "Are you sure you want to delete:"
-msgstr "Dali ste sigurni u brisanje:"
-
-#: SysInstaller#94
 msgid "Delete Failed"
 msgstr "Brisanje neuspješno"
 
-#: SysInstaller#95
+#: SysInstaller#94
 msgid "The slice deletion failed with the following message:"
 msgstr "Brisanje slice-a neuspješno sa popratnom porukom:"
 
-#: SysInstaller#96
+#: SysInstaller#95
 msgid "Reload Disk Data"
 msgstr "Ponovno učitaj diskovne podatke"
 
-#: SysInstaller#97
+#: SysInstaller#96
 msgid "No SWAP space has been setup, are you sure you want to continue?"
 msgstr "SWAP nije postavljen, dali ste sigurni da želite nastaviti?"
 
-#: SysInstaller#98
+#: SysInstaller#97
 msgid "No usernames have been specified. Are you sure you want to continue?"
 msgstr "Nije postavljen niti jedan korisnik. Sigurni ste da želite nastaviti?"
 
-#: SysInstaller#99
+#: SysInstaller#98
 msgid "Encrypt the /usr partition or ZFS zpool."
 msgstr "Enkriptiraj /usr particiju ili ZFS zpool."
 
-#: SysInstaller#100
+#: SysInstaller#99
 msgid "Encrypt user data"
 msgstr "Enkriptiraj korisničke podatke"
 
-#: SysInstaller#101
+#: SysInstaller#100
 msgid ""
 "Check to use GPT/EFI partition scheme for dedicated disks.\n"
 "Warning: May not work with older BIOS / Motherboards."
@@ -567,7 +563,7 @@ msgstr ""
 "Provjerite korištenje GPT/EFI particijske sheme za namjenske diskove.\n"
 "Upozorenje: Možda neće raditi sa starijim BIOS / Matičnim pločama."
 
-#: SysInstaller#102
+#: SysInstaller#101
 msgid ""
 "Encryption is enabled! In addition to using passphrase, key files are "
 "randomly generated and will be stored in /boot/keys/ on the system. After "
@@ -580,40 +576,40 @@ msgstr ""
 "kopiju ovih ključeva, ili će u suprotnom doći do gubitka podataka ako se "
 "isti izgubu ili pokvare."
 
-#: SysInstaller#103
+#: SysInstaller#102
 msgid "Disk Encryption"
 msgstr "Enkripcija Diska"
 
-#: SysInstaller#104
+#: SysInstaller#103
 msgid "Do you want to use a passphrase to access the encrypted volume?"
 msgstr "Dali želite koristiti zaporku za pristup enkriptiranom uređaju?"
 
-#: SysInstaller#105
-msgctxt "SysInstaller#105"
+#: SysInstaller#104
+msgctxt "SysInstaller#104"
 msgid "Enter Passphrase"
 msgstr "Unesite zaporku"
 
-#: SysInstaller#106
-msgctxt "SysInstaller#106"
+#: SysInstaller#105
+msgctxt "SysInstaller#105"
 msgid "Enter Passphrase (Confirm)"
 msgstr "Unesite zaporku (Potvrdite)"
 
-#: SysInstaller#107
-msgctxt "SysInstaller#107"
+#: SysInstaller#106
+msgctxt "SysInstaller#106"
 msgid "Confirm the Passphrase for this encrypted disk"
 msgstr "Potvrdite zaporku za ovaj enkriptirani disk"
 
-#: SysInstaller#108
-msgctxt "SysInstaller#108"
+#: SysInstaller#107
+msgctxt "SysInstaller#107"
 msgid "Passphrase mismatch"
 msgstr "Zaporke se ne podudaraju"
 
-#: SysInstaller#109
-msgctxt "SysInstaller#109"
+#: SysInstaller#108
+msgctxt "SysInstaller#108"
 msgid "The entered passphrases do not match!"
 msgstr "Unesene zaporke se ne podudaraju!"
 
-#: SysInstaller#110
+#: SysInstaller#109
 msgid ""
 "Please create a partition using the 'Add Partition' button below, to install "
 "using free space."
@@ -621,35 +617,35 @@ msgstr ""
 "Molimo naprative particiju koristeći dugme 'Dodaj particiju' niže, kako bi "
 "instalirali koristeći slobodan prostor."
 
-#: SysInstaller#111
+#: SysInstaller#110
 msgid "Invalid Hostname"
 msgstr "Neispravno ime računala"
 
-#: SysInstaller#112
+#: SysInstaller#111
 msgid "You must specify a hostname between 2-250 characters!"
 msgstr "Morate navesti ime računala između 2-250 znakova!"
 
-#: SysInstaller#113
+#: SysInstaller#112
 msgid "Using custom hostname:"
 msgstr "Koristim korisničko ime računala:"
 
-#: SysInstaller#114
+#: SysInstaller#113
 msgid "Invalid Password"
 msgstr "Neispravna zaporka"
 
-#: SysInstaller#115
+#: SysInstaller#114
 msgid "The password must be at least 6 characters."
 msgstr "Zaporka mora biti duga najmanje 6 znakova."
 
-#: SysInstaller#116
+#: SysInstaller#115
 msgid "Root password must be at least 4 characters."
 msgstr "Root zaporka mora biti duga najmanje 4 znaka."
 
-#: SysInstaller#117
+#: SysInstaller#116
 msgid "User password must be at least 4 characters."
 msgstr "Korisnička zaporka mora biti duga barem 4 znaka."
 
-#: SysInstaller#118
+#: SysInstaller#117
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
 "html40/strict.dtd\">\n"
@@ -673,11 +669,11 @@ msgstr ""
 "započeti, ili kliknuti na Pomoć za više informacija na svakom prikazu. "
 "</p></body></html>"
 
-#: SysInstaller#119
+#: SysInstaller#118
 msgid "Available System Packages"
 msgstr "Dostupni sistemski paketi"
 
-#: SysInstaller#120
+#: SysInstaller#119
 msgid ""
 "Please select the software you wish to have installed. At least one desktop "
 "must be selected, and changes may be made after installation."
@@ -685,23 +681,23 @@ msgstr ""
 "Molimo označite softver koji želite instalirati. Najmanje jedna radna "
 "površina mora biti označena, i promjene se mogu napraviti nakon instalacije."
 
-#: SysInstaller#121
+#: SysInstaller#120
 msgid "System Package Configuration"
 msgstr "Namještanje sistemskih paketa"
 
-#: SysInstaller#122
+#: SysInstaller#121
 msgid "&Help"
 msgstr "&Pomoć"
 
-#: SysInstaller#123
+#: SysInstaller#122
 msgid "Enter the Passphrase for this encrypted disk. (6 Characters Minimum)"
 msgstr "Unesite zaporku za ovaj enkriptirani disk. (Minimalno 6 znakova)"
 
-#: SysInstaller#124
+#: SysInstaller#123
 msgid "Enter the size for this new slice in Megabytes."
 msgstr "Unesite veličinu za novi slice u megabajtima."
 
-#: SysInstaller#125
+#: SysInstaller#124
 msgid ""
 "Missing '/' filesystem, please add a filesystem for mount-point '/' to "
 "continue."
@@ -709,23 +705,23 @@ msgstr ""
 "Nedostaje '/' datotečni sustav, molimo dodajte ga za mount točku '/' za "
 "nastavak."
 
-#: SysInstaller#126
+#: SysInstaller#125
 msgid "filesystem is below the required minimum:"
 msgstr "datotečni sustav je ispod neophodnog minimuma:"
 
-#: SysInstaller#127
+#: SysInstaller#126
 msgid "Extracting system image..."
 msgstr "Izdvajam sistemski odraz..."
 
-#: SysInstaller#128
+#: SysInstaller#127
 msgid "Installing Desktop-Packages... This may take a while..."
 msgstr "Instaliranje paketa radne površine.. Ovo može potrajati..."
 
-#: SysInstaller#129
+#: SysInstaller#128
 msgid "No Desktop"
 msgstr "Bez radne površine"
 
-#: SysInstaller#130
+#: SysInstaller#129
 msgid ""
 "No desktops have been selected! Please choose at least one desktop to "
 "continue."
@@ -733,174 +729,182 @@ msgstr ""
 "Niti jedno grafičko sučelje nije odabrano! Molimo odaberite bar jedno za "
 "nastavak."
 
-#: SysInstaller#131
+#: SysInstaller#130
 msgid "The following packages will be installed:"
 msgstr "Slijedeći paketi će biti instalirani:"
 
-#: SysInstaller#132
+#: SysInstaller#131
 msgid "Desktop"
 msgstr "Radna površina"
 
-#: SysInstaller#133
+#: SysInstaller#132
 msgid "Meta Package Selection"
 msgstr "Odabir meta paketa"
 
-#: SysInstaller#134
+#: SysInstaller#133
 msgid "Applications"
 msgstr "Aplikacije"
 
-#: SysInstaller#135
+#: SysInstaller#134
 msgid "Custom System Hostname"
 msgstr "Korisnički navedeno ime računala"
 
-#: SysInstaller#136
+#: SysInstaller#135
 msgid "Save Changes"
 msgstr "Sačuvaj izmjene"
 
-#: SysInstaller#137
+#: SysInstaller#136
 msgid "Please select the disk for system installation"
 msgstr "Molimo odaberite disk za instalaciju sistema"
 
-#: SysInstaller#138
+#: SysInstaller#137
 msgid "Basic Mode"
 msgstr "Osnovni način"
 
-#: SysInstaller#139
+#: SysInstaller#138
 msgid "If installing as the only operating system, check \"Use Entire Disk\"."
 msgstr ""
 "Ako instalirate kao jedini operacijski sustav, označite \"Koristi cijeli "
 "disk\"."
 
-#: SysInstaller#140
+#: SysInstaller#139
 msgid "Add Partition"
 msgstr "Dodaj particiju"
 
-#: SysInstaller#141
+#: SysInstaller#140
 msgid "Delete Partition"
 msgstr "Izbriši particiju"
 
-#: SysInstaller#142
+#: SysInstaller#141
 msgid "Additional Options"
 msgstr "Dodatne opcije"
 
-#: SysInstaller#143
+#: SysInstaller#142
 msgid "UFS Filesystem"
 msgstr "UFS datotečni sustav"
 
-#: SysInstaller#144
+#: SysInstaller#143
 msgid "ZFS Filesystem (64bit with 4GB RAM recommended)"
 msgstr "ZFS datotečni sustav (preporučeno: 64bitan sa 4GB radne memorije)"
 
-#: SysInstaller#145
+#: SysInstaller#144
 msgid "Partition disk with GPT"
 msgstr "Particioniraj disk sa GPT-om"
 
-#: SysInstaller#146
+#: SysInstaller#145
 msgid "Advanced Mode"
 msgstr "Napredni način"
 
-#: SysInstaller#147
+#: SysInstaller#146
 msgid "Edit"
 msgstr "Uredi"
 
-#: SysInstaller#148
+#: SysInstaller#147
 msgid "Use default layout"
 msgstr "Koristi početni raspored"
 
-#: SysInstaller#149
+#: SysInstaller#148
 msgid "Partition disks with GPT"
 msgstr "Particiraj disk sa GPT-om"
 
-#: SysInstaller#150
+#: SysInstaller#149
 msgid "System password"
 msgstr "Sistemska zaporka"
 
-#: SysInstaller#151
+#: SysInstaller#150
 msgid "User accounts"
 msgstr "Korisnički računi"
 
-#: SysInstaller#152
+#: SysInstaller#151
 msgid "IPv6 Address"
 msgstr "IPv6 adresa"
 
-#: SysInstaller#153
+#: SysInstaller#152
 msgid "IPv6 Gateway"
 msgstr "IPv6 Gateway"
 
-#: SysInstaller#154
+#: SysInstaller#153
 msgid "IPv6 Nameserver"
 msgstr "IPv6 Imenski poslužitelj"
 
-#: SysInstaller#155
+#: SysInstaller#154
 msgid "Select the system to install"
 msgstr "Odaberite sistem za instalaciju"
 
-#: SysInstaller#156
+#: SysInstaller#155
 msgid "Select your Installation Source"
 msgstr "Izaberite ishodište instalacije"
 
-#: SysInstaller#157
+#: SysInstaller#156
 msgid "Keyboard Settings"
 msgstr "Postavke tipkovnice"
 
-#: SysInstaller#158
+#: SysInstaller#157
 msgid "Model"
 msgstr "Model"
 
-#: SysInstaller#159
+#: SysInstaller#158
 msgid "Users Setup"
 msgstr "Korisničke postavke"
 
-#: SysInstaller#160
+#: SysInstaller#159
 msgid "System Options"
 msgstr "Sistemske opcije"
 
-#: SysInstaller#161
+#: SysInstaller#160
 msgid "System Components"
 msgstr "Komponente sistema"
 
-#: SysInstaller#162
+#: SysInstaller#161
 msgid "Available"
 msgstr "Dostupno"
 
-#: SysInstaller#163
+#: SysInstaller#162
 msgid "Selected"
 msgstr "Izabrano"
 
-#: SysInstaller#164
+#: SysInstaller#163
 msgid ""
 "The default FreeBSD UFS filesystem, with Softupdates and Journaling enabled."
 msgstr ""
 "Podrazumijevan FreeBSD UFS datotečni sustav, sa Softupdates i omogućenim "
 "Journaling-om."
 
-#: SysInstaller#165
+#: SysInstaller#164
 msgid "Often a good choice for servers or high-end systems."
 msgstr "Često dobar izbor za poslužitelje ili zahtjevne sustave."
 
-#: SysInstaller#166
+#: SysInstaller#165
 msgid "PC-BSD (Desktop)"
 msgstr "PC-BSD (Stolno)"
 
-#: SysInstaller#167
+#: SysInstaller#166
 msgid "FreeBSD (Server)"
 msgstr "FreeBSD (Poslužitelj)"
 
-#: SysInstaller#168
+#: SysInstaller#167
 msgid "View Packages"
 msgstr "Pregledaj pakete"
 
-#: SysInstaller#169
+#: SysInstaller#168
 msgid "Package Listing for:"
 msgstr "Lista paketa za:"
 
-#: SysInstaller#170
+#: SysInstaller#169
 msgid "Switch between US layout and user selected layout"
 msgstr "Promjena između US i korisnički odabranog rasporeda tipkovnice"
 
+#: SysInstaller#170
+msgid "On-Screen Keyboard"
+msgstr "Tipkovnica na zaslonu"
+
 #: SysInstaller#171
-msgid "Toggle Keyboard Layout"
-msgstr "Promjena rasporeda tipaka na tipkovnici"
+msgid "Username must contain less than 512 characters!"
+msgstr "Korisničko ime mora imati manje od 512 znakova!"
+
+#: SysInstaller#172
+msgid "Are you sure you want to immediately delete:"
+msgstr "Jeste li sigurni da želite odmah obrisati:"
 
 #: dialogFileSystem#1
 msgid "Error: Invalid Mount Point."

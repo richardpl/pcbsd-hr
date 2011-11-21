@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-18 12:24-0700\n"
-"PO-Revision-Date: 2011-08-15 16:22+0200\n"
+"PO-Revision-Date: 2011-11-21 18:13+0200\n"
 "Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -858,48 +858,60 @@ msgstr "Upravitelj ažuriranja"
 
 #: Desktop Files - Root Terminal
 msgid "Root Terminal"
-msgstr ""
+msgstr "Root Terminal"
 
 #: Desktop Files - Opens a terminal as the root user, using gksu to ask for the password
 msgid "Opens a terminal as the root user, using gksu to ask for the password"
-msgstr ""
-
-#: Desktop Files - AppCafe™
-msgid "AppCafe™"
-msgstr ""
-
-#: Desktop Files - AppCafe ™
-msgid "AppCafe ™"
-msgstr ""
+msgstr "Otvara terminal sa root ovlastima, koristeći gksu za unos lozinke"
 
 #: Desktop Files - Update Manager Tray
 msgid "Update Manager Tray"
-msgstr ""
+msgstr "Traka upravitelja ažuriranja"
 
 #: Desktop Files - Adobe Flash Player preferences
 msgid "Adobe Flash Player preferences"
-msgstr ""
+msgstr "Adobe Flash Player postavke"
 
 #: Desktop Files - Preferences for Adobe Flash Player
 msgid "Preferences for Adobe Flash Player"
-msgstr ""
+msgstr "Postavke za Adobe Flash Player"
 
 #: Desktop Files - File Manager
 msgid "File Manager"
-msgstr ""
+msgstr "Upravitelj datoteka"
 
 #: Desktop Files - Configure the Thunar file manager
 msgid "Configure the Thunar file manager"
-msgstr ""
+msgstr "Namjesti Thunar upravitelj datoteka"
 
 #: Desktop Files - Customize Look and Feel
 msgid "Customize Look and Feel"
-msgstr ""
+msgstr "Prilagodba izgleda i dojma"
 
 #: Desktop Files - Customizes look and feel of your desktop and applications
 msgid "Customizes look and feel of your desktop and applications"
-msgstr ""
+msgstr "Prilagodite izgled i dojam vaše radne površine i aplikacija"
 
 #: Desktop Files - Openbox
 msgid "Openbox"
-msgstr ""
+msgstr "Openbox"
+
+#: Desktop Files - FVWM
+msgid "FVWM"
+msgstr "FVWM"
+
+#: Desktop Files - FVWM-Crystal
+msgid "FVWM-Crystal"
+msgstr "FVWM-Crystal"
+
+#: Desktop Files - Kports
+msgid "Kports"
+msgstr "Kports"
+
+#: Desktop Files - BPM
+msgid "BPM"
+msgstr "BPM"
+
+#: Desktop Files - A BSD ports collection manager
+msgid "A BSD ports collection manager"
+msgstr "Upravljač zbirkom BSD portova"

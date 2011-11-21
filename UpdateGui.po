@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-21 03:38-0700\n"
+"PO-Revision-Date: 2011-11-21 18:55+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: mainWin#1
+msgid "Update Manager"
+msgstr "Upravitelj ažuriranja"
+
+#: mainWin#2
+msgid "Preparing to check for updates... Please Wait..."
+msgstr "Priprema za provjeru ažuriranja... Pričekajte..."
+
+#: mainWin#3
+msgid "Available Updates"
+msgstr "Dostupna ažuriranja"
+
+#: mainWin#4
+msgid "Select / Deselect All"
+msgstr "Odaberite / Poništite sve"
+
+#: mainWin#5
+msgid "Rescan for Updates"
+msgstr "Provjerite nova ažuriranja"
+
+#: mainWin#6
+msgid "Install selected updates"
+msgstr "Instaliraj odabrana ažuriranja"
+
+#: mainWin#7
+msgid "Update Conflict"
+msgstr "Konflikt pri ažuriranju"
+
+#: mainWin#8
+msgid ""
+"More than one stand-alone update has been selected! Please unselect all "
+"other updates and try again."
+msgstr ""
+"Više samostalnih ažuriranja je odabrano! Poništite sva druga ažuriranja i "
+"pokušajte ponovno."
+
+#: mainWin#9
+msgid "Update Failed!"
+msgstr "Ažuriranje neuspješno!"
+
+#: mainWin#10
+msgid "Failed to install:"
+msgstr "Neuspješno instaliranje za:"
+
+#: mainWin#11
+msgid "Possible causes: Dropped internet connection or low disk space."
+msgstr "Mogući razlozi: pad internet veze ili nedovoljan prostor na disku."
+
+#: mainWin#12
+msgid "Update Ready"
+msgstr "Ažuriranje spremno"
+
+#: mainWin#13
+msgid "Please reboot to start the update to PC-BSD version \""
+msgstr "Ponovno pokrenite računalo za početak ažuriranja na PC-BSD verziju \""
+
+#: mainWin#14
+msgid "This process may take a while, please do NOT interrupt the process."
+msgstr "Ovaj proces može potrajati, molimo NE prekidajte proces."
+
+#: mainWin#15
+msgid "Updating:"
+msgstr "Ažuriranje:"
+
+#: mainWin#16
+msgid "Starting Update:"
+msgstr "Pokretanje ažuriranja:"
+
+#: mainWin#17
+msgid "Downloading:"
+msgstr "Skidanje:"
+
+#: mainWin#18
+msgid "Preparing to update system..."
+msgstr "Priprema ažuriranja sustava..."
+
+#: mainWin#19
+msgid "Upgrading"
+msgstr "Nadogradnja"
+
+#: mainWin#20
+msgid "Checking for updates... Please Wait..."
+msgstr "Provjera novih ažuriranja... Pričekajte..."
+
+#: mainWin#21
+msgid "Your system is fully updated!"
+msgstr "Vaš sustav je u potpunosti ažuriran!"
+
+#: mainWin#22
+msgid "System Upgrade:"
+msgstr "Nadogradnja sustava:"
+
+#: mainWin#23
+msgid "PC-BSD Version:"
+msgstr "PC-BSD verzija:"
+
+#: mainWin#24
+msgid "This update must be installed by itself."
+msgstr "Ovo se ažuriranje mora instalirati samostalno."
+
+#: mainWin#25
+msgid "Creating a backup of your data first is recommended."
+msgstr "Stvaranje sigurnosne kopije vaših podataka je preporučljivo."
+
+#: mainWin#26
+msgid "Patch:"
+msgstr "Zakrpa:"
+
+#: mainWin#27
+msgid "This is a patch for your version of PC-BSD"
+msgstr "Ova zakrpa je za vašu verziju PC-BSD-a"
+
+#: mainWin#28
+msgid "Patch Size:"
+msgstr "Veličina zakrpe:"
+
+#: mainWin#29
+msgid "Stand Alone:"
+msgstr "Samostalno:"
+
+#: mainWin#30
+msgid "Requires Reboot:"
+msgstr "Traži ponovno pokretanje:"
+
+#: mainWin#31
+msgid "FreeBSD Security Update"
+msgstr "FreeBSD sigurnosno ažuriranje"
+
+#: mainWin#32
+msgid "The following files need updating:"
+msgstr "Sljedeće datoteke se trebaju ažurirati:"
+
+#: mainWin#33
+msgid "System Package Updates"
+msgstr "Ažuriranje sistemskih paketa"
+
+#: mainWin#34
+msgid "The following package updates are available:"
+msgstr "Sljedeći paketi imaju dostupna ažuriranja:"

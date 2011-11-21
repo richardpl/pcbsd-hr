@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-18 12:24-0700\n"
-"PO-Revision-Date: 2011-07-01 21:11+0200\n"
+"PO-Revision-Date: 2011-11-21 18:43+0200\n"
 "Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -789,7 +789,7 @@ msgid "Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 msgstr ""
 "Deluge je lagan, besplatan, više-platformski BitTorrent klijent.      * "
 "Cijelovita enkripcija     * Web korisničko sučelje     * Dodaci     * I još "
-"mnogo toga."
+"mnogo toga.."
 
 #: Desktop Files - The DesktopBSD Tools are a collection of applications designed to make life easier and increase productivity. Even inexperienced users can easily perform administrative tasks efficiently, such as configuring wireless networks, accessing USB storage devices or installing and upgrading software.
 msgid "The DesktopBSD Tools are a collection of applications designed to make life easier and increase productivity. Even inexperienced users can easily perform administrative tasks efficiently, such as configuring wireless networks, accessing USB storage devices or installing and upgrading software."
@@ -1678,7 +1678,7 @@ msgstr ""
 #: Desktop Files - Secret Maryo Chronicles is a two-dimensional, sidescrolling jump-and-run platform game which utilizes the platform independent multimedia library, SDL. It features a built-in editor which can be used to easily create your own levels and worlds.
 msgid "Secret Maryo Chronicles is a two-dimensional, sidescrolling jump-and-run platform game which utilizes the platform independent multimedia library, SDL. It features a built-in editor which can be used to easily create your own levels and worlds."
 msgstr ""
-"Tajne Maryo Kronike je dvo-dimenzionalna, sklizajuća u stranu, trči i skači "
+"Tajne Maryo Kronike je dvodimenzionalna, sklizajuća u stranu, trči i skači "
 "igra koja koristi platformski neovisnu SDL biblioteku. Uključuje ugrađen "
 "uređivač nivoa koji se može koristiti za jednostavno stvaranje vaših "
 "vlastitih nivoa i svjetova."
@@ -2602,4 +2602,236 @@ msgstr ""
 
 #: Desktop Files - Planner is a tool for planning, scheduling and tracking projects for the GNOME Desktop. Planner is an open source project aiming at being a better alternative than the available proprietary tools.  Planner is part of GNOME Office, a productivity suite composed of entirely free software, integrated with the GNOME Desktop.
 msgid "Planner is a tool for planning, scheduling and tracking projects for the GNOME Desktop. Planner is an open source project aiming at being a better alternative than the available proprietary tools.  Planner is part of GNOME Office, a productivity suite composed of entirely free software, integrated with the GNOME Desktop."
+msgstr ""
+
+#: Desktop Files - QTM is a blogging client which is presently capable of composing, formatting and submitting blog entries to a weblog. QTM will work with blogs based on most of the major blogging systems available today: Wordpress (including wordpress.com), Movable Type, Drupal and so on.
+msgid "QTM is a blogging client which is presently capable of composing, formatting and submitting blog entries to a weblog. QTM will work with blogs based on most of the major blogging systems available today: Wordpress (including wordpress.com), Movable Type, Drupal and so on."
+msgstr ""
+
+#: Desktop Files - Recoll is a personal full text search package with a QT graphical interface. It is based on a very strong backend (Xapian), for which it provides an easy to use and feature-rich interface.  Features:     * Free, GPL license.     * QT-based GUI.     * Supports the following document types (and their compressed versions):        - Natively: text, html, OpenOffice files, maildir and mailbox          (Mozilla and Thunderbird mail ok) with attachments, gaim log files.       - With external helpers:  pdf (pdftotext), postscript (ghostscript),         msword (antiword), excel, ppt (catdoc), rtf (unrtf),      * Powerful query facilities, with boolean searches, phrases, filter on       file types and directory tree.      * Support for multiple charsets. Internal processing and storage uses       Unicode UTF-8.      * Stemming performed at query time (can switch stemming language after       indexing)      * Easy installation. No database daemon, web server or exotic language       necessary.      * An indexer which runs either as a thread inside the GUI or as an       external, cron'able program. 
+msgid "Recoll is a personal full text search package with a QT graphical interface. It is based on a very strong backend (Xapian), for which it provides an easy to use and feature-rich interface.  Features:     * Free, GPL license.     * QT-based GUI.     * Supports the following document types (and their compressed versions):        - Natively: text, html, OpenOffice files, maildir and mailbox          (Mozilla and Thunderbird mail ok) with attachments, gaim log files.       - With external helpers:  pdf (pdftotext), postscript (ghostscript),         msword (antiword), excel, ppt (catdoc), rtf (unrtf),      * Powerful query facilities, with boolean searches, phrases, filter on       file types and directory tree.      * Support for multiple charsets. Internal processing and storage uses       Unicode UTF-8.      * Stemming performed at query time (can switch stemming language after       indexing)      * Easy installation. No database daemon, web server or exotic language       necessary.      * An indexer which runs either as a thread inside the GUI or as an       external, cron'able program. "
+msgstr ""
+
+#: Desktop Files - RedNotebook is a modern journal written by python. It includes a calendar navigation, customizable templates, export functionality and word clouds. You can also format, tag and search your entries. RedNotebook is Free Software under the GPL.
+msgid "RedNotebook is a modern journal written by python. It includes a calendar navigation, customizable templates, export functionality and word clouds. You can also format, tag and search your entries. RedNotebook is Free Software under the GPL."
+msgstr ""
+
+#: Desktop Files - Rubrica is an addressbook for Gnome desktop. Rubrica store personal data  (first name, last name,...), web urls and emails, telepnone numbers (home,...),  job data (company name, company address, assigment in company), notes  (contact is married,...)
+msgid "Rubrica is an addressbook for Gnome desktop. Rubrica store personal data  (first name, last name,...), web urls and emails, telepnone numbers (home,...),  job data (company name, company address, assigment in company), notes  (contact is married,...)"
+msgstr ""
+
+#: Desktop Files - (This Wine PBI is specifically designed for 64-bit systems) Wine is a Microsoft Windows compatibility layer (or program loader) capable of running Windows applications on i386 and compatible CPUs. Windows programs running in Wine act as native programs would, running without the performance or memory usage penalties of an emulator, with a similar look and feel to other applications on your desktop.  Many applications already work, more or less, including versions of Microsoft Office and several games.
+msgid "(This Wine PBI is specifically designed for 64-bit systems) Wine is a Microsoft Windows compatibility layer (or program loader) capable of running Windows applications on i386 and compatible CPUs. Windows programs running in Wine act as native programs would, running without the performance or memory usage penalties of an emulator, with a similar look and feel to other applications on your desktop.  Many applications already work, more or less, including versions of Microsoft Office and several games."
+msgstr ""
+
+#: Desktop Files - EasySok is a sokoban game. In sokoban you are a warehouse keeper which has to push gems on their goals.
+msgid "EasySok is a sokoban game. In sokoban you are a warehouse keeper which has to push gems on their goals."
+msgstr ""
+
+#: Desktop Files - Gbrainy is a brain teaser game and trainer to have fun and to keep your brain trained.
+msgid "Gbrainy is a brain teaser game and trainer to have fun and to keep your brain trained."
+msgstr ""
+
+#: Desktop Files - Task Coach is a simple open source todo manager to manage personal tasks and todo lists. It grew out of a frustration that well-known task managers, such as those provided with Outlook or Lotus Notes, do not provide facilities for composite tasks.
+msgid "Task Coach is a simple open source todo manager to manage personal tasks and todo lists. It grew out of a frustration that well-known task managers, such as those provided with Outlook or Lotus Notes, do not provide facilities for composite tasks."
+msgstr ""
+
+#: Desktop Files - The "Virtual Machine Manager" application (virt-manager for short package name) is a desktop user interface for managing virtual machines. It presents a summary view of running domains, their live performance & resource utilization statistics. The detailed view graphs performance & utilization over time. Wizards enable the creation of new domains, and configuration & adjustment of a domain's resource allocation & virtual hardware. An embedded VNC client viewer presents a full graphical console to the guest domain.
+msgid "The "Virtual Machine Manager" application (virt-manager for short package name) is a desktop user interface for managing virtual machines. It presents a summary view of running domains, their live performance & resource utilization statistics. The detailed view graphs performance & utilization over time. Wizards enable the creation of new domains, and configuration & adjustment of a domain's resource allocation & virtual hardware. An embedded VNC client viewer presents a full graphical console to the guest domain."
+msgstr ""
+
+#: Desktop Files - Wammu Mobile Phone Manager  It works with any phone that Gammu supports, including many models from Nokia, Siemens, and Alcatel. It has complete support (read, edit, delete, copy) for contacts, todo, and calendar. It can read, save, and send SMS. It includes an SMS composer for multi-part SMS messages, and it can display SMS messages that include pictures. Currently, only text and predefined bitmaps or sounds can be edited in the SMS composer. It can export messages to an IMAP4 server (or other email storage).  This program does not support browsing files in phone.
+msgid "Wammu Mobile Phone Manager  It works with any phone that Gammu supports, including many models from Nokia, Siemens, and Alcatel. It has complete support (read, edit, delete, copy) for contacts, todo, and calendar. It can read, save, and send SMS. It includes an SMS composer for multi-part SMS messages, and it can display SMS messages that include pictures. Currently, only text and predefined bitmaps or sounds can be edited in the SMS composer. It can export messages to an IMAP4 server (or other email storage).  This program does not support browsing files in phone."
+msgstr ""
+
+#: Desktop Files - xpad is a sticky note application written using GTK+ 2.0 that strives to be simple, fault-tolerant, and customizable. xpad consists of independent pad windows each is basically a text box in which notes can be written. Despite being called xpad, all that is needed to run or compile it is the GTK+ 2.0 libraries. Here is a list of major features in the current xpad stable release:    * GTK+ 2.0 powered text view.   * Fault tolerant. All information is kept on the hard drive, not memory.   * xpad is very customizable. The color scheme (text, background, and window     borders) and the font can be changed.   * A customizable toolbar puts the most frequently used commands at your     fingertips.   * Support for the X session management protocol.   * Support for the www.freedesktop.org system tray proposal.
+msgid "xpad is a sticky note application written using GTK+ 2.0 that strives to be simple, fault-tolerant, and customizable. xpad consists of independent pad windows each is basically a text box in which notes can be written. Despite being called xpad, all that is needed to run or compile it is the GTK+ 2.0 libraries. Here is a list of major features in the current xpad stable release:    * GTK+ 2.0 powered text view.   * Fault tolerant. All information is kept on the hard drive, not memory.   * xpad is very customizable. The color scheme (text, background, and window     borders) and the font can be changed.   * A customizable toolbar puts the most frequently used commands at your     fingertips.   * Support for the X session management protocol.   * Support for the www.freedesktop.org system tray proposal."
+msgstr ""
+
+#: Desktop Files - Gnash is a GNU Flash movie player. Previously, it was only possible to play flash movies with proprietary software. While there are some other free flash players, none support anything beyond SWF v4. Gnash is based on GameSWF, and supports many SWF v7 features.  - Runs standalone   Gnash can run standalone to play flash movies. - Browser plugin   Gnash can also run as a plugin from within most Mozilla derived   browsers, such as Firefox. Gnash also has support for Konqueror. - SWF v7+ compliant   Gnash can play many current flash movies. - Streaming Video   Gnash supports the viewing of streaming video from popular video   sharing sites like Lulu.tv or YouTube.com. - XML Message server   Gnash also supports an XML based message system as documented in   the Flash Format specification. - High Quality Output   Gnash uses OpenGL for rendering the graphics on the desktop, and   AntiGrain (AGG) for embedded framebuffer only devices. - Free Software   Gnash is 100% free software. For more information on the GPL, go   to the Free Software Foundation web site. - Better Security   Gnash pays extra attention to all network connections, and allows   the user to control access. - Extensible   Gnash supports extending ActionScript by creating your own. You   can write wrappers for any development library, and import them into the player.
+msgid "Gnash is a GNU Flash movie player. Previously, it was only possible to play flash movies with proprietary software. While there are some other free flash players, none support anything beyond SWF v4. Gnash is based on GameSWF, and supports many SWF v7 features.  - Runs standalone   Gnash can run standalone to play flash movies. - Browser plugin   Gnash can also run as a plugin from within most Mozilla derived   browsers, such as Firefox. Gnash also has support for Konqueror. - SWF v7+ compliant   Gnash can play many current flash movies. - Streaming Video   Gnash supports the viewing of streaming video from popular video   sharing sites like Lulu.tv or YouTube.com. - XML Message server   Gnash also supports an XML based message system as documented in   the Flash Format specification. - High Quality Output   Gnash uses OpenGL for rendering the graphics on the desktop, and   AntiGrain (AGG) for embedded framebuffer only devices. - Free Software   Gnash is 100% free software. For more information on the GPL, go   to the Free Software Foundation web site. - Better Security   Gnash pays extra attention to all network connections, and allows   the user to control access. - Extensible   Gnash supports extending ActionScript by creating your own. You   can write wrappers for any development library, and import them into the player."
+msgstr ""
+
+#: Desktop Files - KFreeRings is a small puzzle game
+msgid "KFreeRings is a small puzzle game"
+msgstr ""
+
+#: Desktop Files - KPicFramer is a small card game for the K Desktop Environment.
+msgid "KPicFramer is a small card game for the K Desktop Environment."
+msgstr ""
+
+#: Desktop Files - KPuzzle is a jigsaw puzzle game for the KDE environment.
+msgid "KPuzzle is a jigsaw puzzle game for the KDE environment."
+msgstr ""
+
+#: Desktop Files - KSudoku is a 2D and 3D Sudoku puzzle generator and solver for KDE.  Among its features are:  * 2D boards of various sizes: 9x9, 16x16, 25x25 * 3D boards of various sizes: 3x3x3, 4x4x4, 5x5x5 * Cutom 2D boards, including: 4x4, Jigsaw, Samurai, XSudoku * GUI for playing, saving, printing, solving and dubbing puzzles * Automatic solver that can provide hints should you get stuck
+msgid "KSudoku is a 2D and 3D Sudoku puzzle generator and solver for KDE.  Among its features are:  * 2D boards of various sizes: 9x9, 16x16, 25x25 * 3D boards of various sizes: 3x3x3, 4x4x4, 5x5x5 * Cutom 2D boards, including: 4x4, Jigsaw, Samurai, XSudoku * GUI for playing, saving, printing, solving and dubbing puzzles * Automatic solver that can provide hints should you get stuck"
+msgstr ""
+
+#: Desktop Files - This is a one or two player boardgame for KDE.  One or two player try to occupy a game board of 9 fields containing 9 holes.  Each of the fields as well as the game itself is won by placing 3 pieces of  the same color into one row, coloumn or diagonal (ala Tic-Tac-Toe). However,  the places where to place your pieces is determined by dice adding a  random luck factor to the game.
+msgid "This is a one or two player boardgame for KDE.  One or two player try to occupy a game board of 9 fields containing 9 holes.  Each of the fields as well as the game itself is won by placing 3 pieces of  the same color into one row, coloumn or diagonal (ala Tic-Tac-Toe). However,  the places where to place your pieces is determined by dice adding a  random luck factor to the game."
+msgstr ""
+
+#: Desktop Files - Kwappen is a KDE board game  The goal is the reduction of the 4 columns of stones in minimal time.  The rules of the game are very simple.  You can move symbols (stones) on top of a column or rotate columns.   2 or more equal stones upon the other will be removed  4 equal card symbols in a row (e.g. 4 spades) will be removed   The computer has his own symbol stack in the upper right corner.  This computer symbol will be put on the top of a column after your move.  The computer selects a column by random.   You win, if all columns have only 1 stone or empty. You lose, if one column  has 10 or more stones after the column shrink.
+msgid "Kwappen is a KDE board game  The goal is the reduction of the 4 columns of stones in minimal time.  The rules of the game are very simple.  You can move symbols (stones) on top of a column or rotate columns.   2 or more equal stones upon the other will be removed  4 equal card symbols in a row (e.g. 4 spades) will be removed   The computer has his own symbol stack in the upper right corner.  This computer symbol will be put on the top of a column after your move.  The computer selects a column by random.   You win, if all columns have only 1 stone or empty. You lose, if one column  has 10 or more stones after the column shrink."
+msgstr ""
+
+#: Desktop Files - Kpictorial is a littel logical game for KDE. Goal of the game is to  reconstruct a black & white picture by the number of contiguous black  blocks given for each row and column. Sounds easy but isn't. You can  also use 1bit indexed color palete xmp and xbm files created by the gimp.
+msgid "Kpictorial is a littel logical game for KDE. Goal of the game is to  reconstruct a black & white picture by the number of contiguous black  blocks given for each row and column. Sounds easy but isn't. You can  also use 1bit indexed color palete xmp and xbm files created by the gimp."
+msgstr ""
+
+#: Desktop Files - QNetWalk, the Qt-version of the popular NetWalk game for system administrators.  Features:  * Built-in generator of the levels.  * Novice, Amateur, Expert, and Master levels of the skill.  * Auto saving of settings.  * Turn's animation.  * Highscores.  * Sound Support. 
+msgid "QNetWalk, the Qt-version of the popular NetWalk game for system administrators.  Features:  * Built-in generator of the levels.  * Novice, Amateur, Expert, and Master levels of the skill.  * Auto saving of settings.  * Turn's animation.  * Highscores.  * Sound Support. "
+msgstr ""
+
+#: Desktop Files - Six plays Hex, a game with very simple rules and deep tactical complexity.  Two players, one with black and one with white pieces, alternate placing marks on a rhombic board of hexagonal cells. Black's goal is to  connect the two opposite black sides of the board with black pieces.  White's goal is to connect the white sides of the board with white pieces.
+msgid "Six plays Hex, a game with very simple rules and deep tactical complexity.  Two players, one with black and one with white pieces, alternate placing marks on a rhombic board of hexagonal cells. Black's goal is to  connect the two opposite black sides of the board with black pieces.  White's goal is to connect the white sides of the board with white pieces."
+msgstr ""
+
+#: Desktop Files - SolarWolf is an action/arcade game written entirely in Python. It is entirely opensource and free. It is released under the LGPL license.  It features quick and smooth fullscreen 800x600 graphics. There is alpha transparent blitting, colorkeying, animated sprites, scrolling starfield background, antialiased font rendering, and more. The sound system supports multiple sound channel playback, along with streaming music support. It also supports input from keyboard or joystick.   The game is originally based of SolarFox on the Atari 2600. 
+msgid "SolarWolf is an action/arcade game written entirely in Python. It is entirely opensource and free. It is released under the LGPL license.  It features quick and smooth fullscreen 800x600 graphics. There is alpha transparent blitting, colorkeying, animated sprites, scrolling starfield background, antialiased font rendering, and more. The sound system supports multiple sound channel playback, along with streaming music support. It also supports input from keyboard or joystick.   The game is originally based of SolarFox on the Atari 2600. "
+msgstr ""
+
+#: Desktop Files - Spring is a project aiming to create a new and versatile RTS Engine. It features:      * Large battles limited only by the power of your computer support for up to 5000 units.     * Large, highly detailed maps in which to wage those battles, fully 3D with deformable terrain, forest fires, dynamic and reflective water, and custom skyboxes.     * Several camera modes, allowing for anything to be viewed from almost any angle.     * Fully 3D combat in land, sea, and air, with realistic weapon trajectories (physics engine).     * Many different Games, made just for Spring.     * Complex 3rd party AIs (Bots) that can work very competently in many cases with multiple Spring engine games and mods.     * A powerful GUI designed to minimize unnecessary micromanagement that is easily extensible via a Lua API.     * Frequent engine additions and bugfixes.   REMEMBER: Spring its an ENGINE. You can play this games following their own easy instructions in order to play: <a href="http://spring.clan-sy.com/wiki/Games">Spring Games Wiki</a>
+msgid "Spring is a project aiming to create a new and versatile RTS Engine. It features:      * Large battles limited only by the power of your computer support for up to 5000 units.     * Large, highly detailed maps in which to wage those battles, fully 3D with deformable terrain, forest fires, dynamic and reflective water, and custom skyboxes.     * Several camera modes, allowing for anything to be viewed from almost any angle.     * Fully 3D combat in land, sea, and air, with realistic weapon trajectories (physics engine).     * Many different Games, made just for Spring.     * Complex 3rd party AIs (Bots) that can work very competently in many cases with multiple Spring engine games and mods.     * A powerful GUI designed to minimize unnecessary micromanagement that is easily extensible via a Lua API.     * Frequent engine additions and bugfixes.   REMEMBER: Spring its an ENGINE. You can play this games following their own easy instructions in order to play: <a href="http://spring.clan-sy.com/wiki/Games">Spring Games Wiki</a>"
+msgstr ""
+
+#: Desktop Files - Super Tux is a side-scrolling run-and-jump game with a level editor similar to the original game "Super Mario Bros." from the Nintendo Entertainment System.
+msgid "Super Tux is a side-scrolling run-and-jump game with a level editor similar to the original game "Super Mario Bros." from the Nintendo Entertainment System."
+msgstr ""
+
+#: Desktop Files - Tenes Emapandas Graciela (TEG) is a clone of 'Plan Tactico y Estrategico de la Guerra', which is a pseudo-clone of Risk, a turn-based strategy game. Some rules are different.
+msgid "Tenes Emapandas Graciela (TEG) is a clone of 'Plan Tactico y Estrategico de la Guerra', which is a pseudo-clone of Risk, a turn-based strategy game. Some rules are different."
+msgstr ""
+
+#: Desktop Files - TaxiPilot is based on the Spacetaxi C64game.  The objective is to pick up passengers waiting on a number of platforms and  to drop them where they want to go.
+msgid "TaxiPilot is based on the Spacetaxi C64game.  The objective is to pick up passengers waiting on a number of platforms and  to drop them where they want to go."
+msgstr ""
+
+#: Desktop Files - A jigsaw puzzle game that uses tetrominoes for the pieces. Any image can be imported and used to create puzzles with a wide range of sizes. Games are saved automatically, and you can select between currently in progress games.
+msgid "A jigsaw puzzle game that uses tetrominoes for the pieces. Any image can be imported and used to create puzzles with a wide range of sizes. Games are saved automatically, and you can select between currently in progress games."
+msgstr ""
+
+#: Desktop Files - The target of the game is to reach the target door of each of the 8 towers in currently 2 missions with this little green animal. This door is usually at the very top of the tower.  But finding the way by using elevators and walking trough a maze of doors and platforms is not the only problem you have to solve. There is a bunch of other creatures living on the tower that will hinder you to reach your target by pushing you over the edge of the platforms.  The only weapon of defence you have is to throw a little snowball. But most of the other creatures just don't care about this. So you must avoid them.
+msgid "The target of the game is to reach the target door of each of the 8 towers in currently 2 missions with this little green animal. This door is usually at the very top of the tower.  But finding the way by using elevators and walking trough a maze of doors and platforms is not the only problem you have to solve. There is a bunch of other creatures living on the tower that will hinder you to reach your target by pushing you over the edge of the platforms.  The only weapon of defence you have is to throw a little snowball. But most of the other creatures just don't care about this. So you must avoid them."
+msgstr ""
+
+#: Desktop Files - Trackballs is a simple game similar to the classical game Marble Madness on the Amiga in the 80's. By steering a marble ball through a labyrinth filled with vicious hammers, pools of acid and other obstacles the player collects points. When the ball reaches the destination it continues at the next, more difficult level - unless the time runs out.   It should be noted that this game is not intended to be a replica of  marble madness but rather inspired by it. For instance the game uses  advanced 3D graphics even though the original game had no real use for  it. Also we aim at making the game highly configurable by a scripting  extension (Guile) and provide a simple editor by which new levels easily  can be created. If you wish to cheat or simply are testing out a level you are currently designing you can give the command 'trackballs -l foo' which jumps to level "foo".
+msgid "Trackballs is a simple game similar to the classical game Marble Madness on the Amiga in the 80's. By steering a marble ball through a labyrinth filled with vicious hammers, pools of acid and other obstacles the player collects points. When the ball reaches the destination it continues at the next, more difficult level - unless the time runs out.   It should be noted that this game is not intended to be a replica of  marble madness but rather inspired by it. For instance the game uses  advanced 3D graphics even though the original game had no real use for  it. Also we aim at making the game highly configurable by a scripting  extension (Guile) and provide a simple editor by which new levels easily  can be created. If you wish to cheat or simply are testing out a level you are currently designing you can give the command 'trackballs -l foo' which jumps to level "foo"."
+msgstr ""
+
+#: Desktop Files - tuxtype is an educational typing tutorial game for children starring Tux, the Linux Penguin.
+msgid "tuxtype is an educational typing tutorial game for children starring Tux, the Linux Penguin."
+msgstr ""
+
+#: Desktop Files - Almost everyone has heard of the Worms(R) series of games, developed by Team17. Worms was created in 1990, the goal of the game consisting of a several teams of "worms" fighting to the death on a 2D map. Wormux is heavily influenced by all games in this genre, including Scorched Earth and Liero.  Wormux is free software clone of this game concept. Though currently under heavy development, it is already very playable, with lots of weapons (Dynamite, Baseball Bat, Teleportation, etc.). There are also lots of maps available for your battling pleasure! Wormux takes the genre to the next level, with great customisation options leading to great gameplay. There is a wide selection of teams, from the Aliens to the Chickens. Also, new battlefields can be downloaded from the Internet, making strategy an important part of each battle.  Renamed to WarMUX (WAR of Mascots from UniX):
+msgid "Almost everyone has heard of the Worms(R) series of games, developed by Team17. Worms was created in 1990, the goal of the game consisting of a several teams of "worms" fighting to the death on a 2D map. Wormux is heavily influenced by all games in this genre, including Scorched Earth and Liero.  Wormux is free software clone of this game concept. Though currently under heavy development, it is already very playable, with lots of weapons (Dynamite, Baseball Bat, Teleportation, etc.). There are also lots of maps available for your battling pleasure! Wormux takes the genre to the next level, with great customisation options leading to great gameplay. There is a wide selection of teams, from the Aliens to the Chickens. Also, new battlefields can be downloaded from the Internet, making strategy an important part of each battle.  Renamed to WarMUX (WAR of Mascots from UniX):"
+msgstr ""
+
+#: Desktop Files - WeeChat (Wee Enhanced Environment for Chat) is a fast and light IRC  client. Everything can be done with a keyboard, and it is customizable  and extensible with scripts. For the moment, only ncurse GUI is supported by this port.
+msgid "WeeChat (Wee Enhanced Environment for Chat) is a fast and light IRC  client. Everything can be done with a keyboard, and it is customizable  and extensible with scripts. For the moment, only ncurse GUI is supported by this port."
+msgstr ""
+
+#: Desktop Files - XQF is a game server browser and launcher for Unix/X11 for many popular games such as the Quake series, Unreal Tournament series, Half-Life etc. XQF is a front-end to QStat, a program by Steve Jankowski and uses the GTK+ toolkit.
+msgid "XQF is a game server browser and launcher for Unix/X11 for many popular games such as the Quake series, Unreal Tournament series, Half-Life etc. XQF is a front-end to QStat, a program by Steve Jankowski and uses the GTK+ toolkit."
+msgstr ""
+
+#: Desktop Files - xpuyopuyo is a UNIX port of a very big time sink :) . Puyo puyo is a puzzle game, somewhat like Tetris, where you strive to match up four "blobs" of the same color. Each match you make gives points, and also dumps gray rocks on the opponent which are irritating and troublesome to get rid of. Multiple matches at a time score more points, and dump more rocks on the opponent (a quintuple-match will dump around 20 rocks on the opponent, all at once).   We ported it overnight to Linux, so we could play whenever we felt like. The AI's evolved more slowly, over the course of a week or so. I welcome sugges- tions on how to make the AI's more difficult during the game currently, they are rather easy to beat on easy level, but more difficult on hard. There are still gaping holes in the game interface which should be fixed soon. Suggestions for improvements are welcome.
+msgid "xpuyopuyo is a UNIX port of a very big time sink :) . Puyo puyo is a puzzle game, somewhat like Tetris, where you strive to match up four "blobs" of the same color. Each match you make gives points, and also dumps gray rocks on the opponent which are irritating and troublesome to get rid of. Multiple matches at a time score more points, and dump more rocks on the opponent (a quintuple-match will dump around 20 rocks on the opponent, all at once).   We ported it overnight to Linux, so we could play whenever we felt like. The AI's evolved more slowly, over the course of a week or so. I welcome sugges- tions on how to make the AI's more difficult during the game currently, they are rather easy to beat on easy level, but more difficult on hard. There are still gaping holes in the game interface which should be fixed soon. Suggestions for improvements are welcome."
+msgstr ""
+
+#: Desktop Files - Zaz ain't Z*** is a puzzle game where the player has to arrange balls in triplets.
+msgid "Zaz ain't Z*** is a puzzle game where the player has to arrange balls in triplets."
+msgstr ""
+
+#: Desktop Files - Mnemosyne resembles a traditional flash-card program but with an important  twist: it uses a sophisticated algorithm to schedule the best time for  a card to come up for review.
+msgid "Mnemosyne resembles a traditional flash-card program but with an important  twist: it uses a sophisticated algorithm to schedule the best time for  a card to come up for review."
+msgstr ""
+
+#: Desktop Files - PyChess is a gnome-inspired chess client written in Python.  Features      * CECP and UCI Engine support     * Free on-line play on the FICS chess servers     * Read and writes the PGN, EPD and FEN chess file formats     * Built-in Python based engine     * Undo and pause functions     * Board and piece animation     * Drag and drop     * Tabbed interface     * Hints and spy arrows     * Opening book side panel using sqlite     * Scoreplot side panel     * "Enter game" in pgn dialog     * Internationalised or figure pieces in notation     * Optional sounds     * Legal move highlighting     * A nice and accessible look
+msgid "PyChess is a gnome-inspired chess client written in Python.  Features      * CECP and UCI Engine support     * Free on-line play on the FICS chess servers     * Read and writes the PGN, EPD and FEN chess file formats     * Built-in Python based engine     * Undo and pause functions     * Board and piece animation     * Drag and drop     * Tabbed interface     * Hints and spy arrows     * Opening book side panel using sqlite     * Scoreplot side panel     * "Enter game" in pgn dialog     * Internationalised or figure pieces in notation     * Optional sounds     * Legal move highlighting     * A nice and accessible look"
+msgstr ""
+
+#: Desktop Files - Hulu Desktop is a "lean-back viewing experince", providing streaming TV and movies directly from Hulu to your desktop without the need for a flash enabled web browser. Hulu Desktop provides full access to the Hulu Library. Signup not required except for viewing mature content.  Hulu content may not be available outside of the US.
+msgid "Hulu Desktop is a "lean-back viewing experince", providing streaming TV and movies directly from Hulu to your desktop without the need for a flash enabled web browser. Hulu Desktop provides full access to the Hulu Library. Signup not required except for viewing mature content.  Hulu content may not be available outside of the US."
+msgstr ""
+
+#: Desktop Files - Openfire (formerly Wildfire) is an enterprise instant messaging (EIM) server dual-licensed under the Open Source GPL and commercially. It uses the leading open protocol for instant messaging, XMPP (also called Jabber).  Openfire is incredibly easy to setup and administer, but offers rock-solid  security and performance.
+msgid "Openfire (formerly Wildfire) is an enterprise instant messaging (EIM) server dual-licensed under the Open Source GPL and commercially. It uses the leading open protocol for instant messaging, XMPP (also called Jabber).  Openfire is incredibly easy to setup and administer, but offers rock-solid  security and performance."
+msgstr ""
+
+#: Desktop Files - UMPlayer is the multimedia player that fills all your needs. With dozens of advanced features and built-in codecs it can handle any media format, and can play Audio CDs, DVDs, (S)VCDs, TV / Radio cards, YouTube" and SHOUTcast" streams and even incomplete or damaged media files.
+msgid "UMPlayer is the multimedia player that fills all your needs. With dozens of advanced features and built-in codecs it can handle any media format, and can play Audio CDs, DVDs, (S)VCDs, TV / Radio cards, YouTube" and SHOUTcast" streams and even incomplete or damaged media files."
+msgstr ""
+
+#: Desktop Files - Zoneminder is an all-in-one GPL'd security and surveillance camera solution. Fully web-based system for viewing and analyzing security camera feeds.  
+msgid "Zoneminder is an all-in-one GPL'd security and surveillance camera solution. Fully web-based system for viewing and analyzing security camera feeds.  "
+msgstr ""
+
+#: Desktop Files - F-Prot Antivirus for BSD Workstations utilizes the renowned F-Prot Antivirus scanning engine for primary scan but has in addition to that a system of internal heuristics devised to search for unknown viruses.  This version of F-Prot is a command line on-demand scanner.  Please note that the license explicitly permits that F-Prot Antivirus for BSD Workstations is free for personal users on personal workstations. For any other use please consult their website for licensing information.
+msgid "F-Prot Antivirus for BSD Workstations utilizes the renowned F-Prot Antivirus scanning engine for primary scan but has in addition to that a system of internal heuristics devised to search for unknown viruses.  This version of F-Prot is a command line on-demand scanner.  Please note that the license explicitly permits that F-Prot Antivirus for BSD Workstations is free for personal users on personal workstations. For any other use please consult their website for licensing information."
+msgstr ""
+
+#: Desktop Files - Think Puzzle Bobble, but with monkeys.  Monkeys that throw colourful things.  It's a game, except SO MUCH MORE, because it has monkeys.  It has sound and network play and a spiffy GTK+-2 interface, but that's all irrelevant because, come on... monkeys!
+msgid "Think Puzzle Bobble, but with monkeys.  Monkeys that throw colourful things.  It's a game, except SO MUCH MORE, because it has monkeys.  It has sound and network play and a spiffy GTK+-2 interface, but that's all irrelevant because, come on... monkeys!"
+msgstr ""
+
+#: Desktop Files - Foremost is a console program to recover files based on their headers    and footers. Foremost can work on image files, such as those generated    by dd, Safeback, Encase, etc, or directly on a drive. The headers and    footers are specified by a configuration file, so you can pick and    choose which headers you want to look for.
+msgid "Foremost is a console program to recover files based on their headers    and footers. Foremost can work on image files, such as those generated    by dd, Safeback, Encase, etc, or directly on a drive. The headers and    footers are specified by a configuration file, so you can pick and    choose which headers you want to look for."
+msgstr ""
+
+#: Desktop Files - Epiphany is a web browser designed to be as lightweight and fast as possible, at the expense of many of the features found in other browsers.
+msgid "Epiphany is a web browser designed to be as lightweight and fast as possible, at the expense of many of the features found in other browsers."
+msgstr ""
+
+#: Desktop Files - Gecko Media Player is a browser plugin that uses GNOME MPlayer to play media in a browser. It should  work with all browsers on Unix-ish systems (Linux, BSD, Solaris) and use the NS4 API (Mozilla, Firefox, Opera, etc.).
+msgid "Gecko Media Player is a browser plugin that uses GNOME MPlayer to play media in a browser. It should  work with all browsers on Unix-ish systems (Linux, BSD, Solaris) and use the NS4 API (Mozilla, Firefox, Opera, etc.)."
+msgstr ""
+
+#: Desktop Files - Given a URL, Getleft will try to download all links. As it goes, it modifies the original HTML pages so that the absolute links get changed to relative links, and links to active pages get changed to the resulting pages. It supports thirteen different languages.
+msgid "Given a URL, Getleft will try to download all links. As it goes, it modifies the original HTML pages so that the absolute links get changed to relative links, and links to active pages get changed to the resulting pages. It supports thirteen different languages."
+msgstr ""
+
+#: Desktop Files - Midori is a lightweight web browser.  * Full integration with GTK+2. * Fast rendering with WebKit. * Tabs, windows and session management. * Bookmarks are stored with XBEL. * Searchbox based on OpenSearch. * Custom context menu actions. * User scripts and user styles support. * Extensible via Lua scripts.
+msgid "Midori is a lightweight web browser.  * Full integration with GTK+2. * Fast rendering with WebKit. * Tabs, windows and session management. * Bookmarks are stored with XBEL. * Searchbox based on OpenSearch. * Custom context menu actions. * User scripts and user styles support. * Extensible via Lua scripts."
+msgstr ""
+
+#: Desktop Files - NScache is simple program for viewing and amanging contents of Netscape(tm) browsers cache directory.  It have very easy user interface writen by using of GTK+1.2 widget libraries. It shows 3 levels tree of cache contents. At first level are protocols, at  second level are servers and at third level are regular documents.  For each document there is shown its URL, name of cache file, its size,  MIME type, encoding type, character set for HTML documents, modification time, access time and time when document expires.  When you press right mouse button inside tree list, you can make any action on selected item. You can save file from cache to other location, you can  remove files and entries from chache (one or all entries for server), or you can compute numbers of documents in subtrees and size of all documets in  subtree. You can launch any viewer command on cache file or on source URL. The viewers you can assign to any MIME type. You can also copy selected URL to clipboard.
+msgid "NScache is simple program for viewing and amanging contents of Netscape(tm) browsers cache directory.  It have very easy user interface writen by using of GTK+1.2 widget libraries. It shows 3 levels tree of cache contents. At first level are protocols, at  second level are servers and at third level are regular documents.  For each document there is shown its URL, name of cache file, its size,  MIME type, encoding type, character set for HTML documents, modification time, access time and time when document expires.  When you press right mouse button inside tree list, you can make any action on selected item. You can save file from cache to other location, you can  remove files and entries from chache (one or all entries for server), or you can compute numbers of documents in subtrees and size of all documets in  subtree. You can launch any viewer command on cache file or on source URL. The viewers you can assign to any MIME type. You can also copy selected URL to clipboard."
+msgstr ""
+
+#: Desktop Files - NetSurf is a lightweight cross-platform Web browser. It supports the HTML 4 and CSS standards and provides a small, fast, and comprehensive Web browsing solution. NetSurf was originally written for RISC OS.
+msgid "NetSurf is a lightweight cross-platform Web browser. It supports the HTML 4 and CSS standards and provides a small, fast, and comprehensive Web browsing solution. NetSurf was originally written for RISC OS."
+msgstr ""
+
+#: Desktop Files - Red5 is an Open Source Flash Server written in Java that supports: - Streaming Audio/Video: FLV, MP3, F4V, MP4, AAC, M4A  - Recording Client Streams (FLV only) - Shared Objects - Live Stream Publishing: Sorenson, VP6, h.264, Nelly Moser,    MP3, Speex, AAC, NSV  - Remoting 
+msgid "Red5 is an Open Source Flash Server written in Java that supports: - Streaming Audio/Video: FLV, MP3, F4V, MP4, AAC, M4A  - Recording Client Streams (FLV only) - Shared Objects - Live Stream Publishing: Sorenson, VP6, h.264, Nelly Moser,    MP3, Speex, AAC, NSV  - Remoting "
+msgstr ""
+
+#: Desktop Files - Sigil is a multi-platform WYSIWYG ebook editor. It is designed to edit books in ePub format.  * Free and open source software under GPLv3 * Multi-platform: runs on Windows, FreeBSD, Linux and Mac * Full Unicode support: everything you see in Sigil is in UTF-16 * Full EPUB spec support * WYSIWYG editing * Multiple Views: Book View, Code View and Split View * Metadata editor with full support for all possible metadata entries (more than 200) with full descriptions for each * Table Of Contents editor * Multi-level TOC support * Book View fully supports the display of any XHTML document possible under the OPS spec * SVG support * Basic XPGT support * Advanced automatic conversion of all imported documents to Unicode * Currently imports TXT, HTML and EPUB files more will be added with time * Embedded HTML Tidy all imported documents are thoroughly cleaned   changing views cleans the document so no matter how much you screw   up your code, it will fix it (usually) * An actually usable user interface
+msgid "Sigil is a multi-platform WYSIWYG ebook editor. It is designed to edit books in ePub format.  * Free and open source software under GPLv3 * Multi-platform: runs on Windows, FreeBSD, Linux and Mac * Full Unicode support: everything you see in Sigil is in UTF-16 * Full EPUB spec support * WYSIWYG editing * Multiple Views: Book View, Code View and Split View * Metadata editor with full support for all possible metadata entries (more than 200) with full descriptions for each * Table Of Contents editor * Multi-level TOC support * Book View fully supports the display of any XHTML document possible under the OPS spec * SVG support * Basic XPGT support * Advanced automatic conversion of all imported documents to Unicode * Currently imports TXT, HTML and EPUB files more will be added with time * Embedded HTML Tidy all imported documents are thoroughly cleaned   changing views cleans the document so no matter how much you screw   up your code, it will fix it (usually) * An actually usable user interface"
+msgstr ""
+
+#: Desktop Files - xxxterm is a minimalists web browser. It strives to be vi-like for heavy keyboard users while maintaining traditional web browser behaviour. It is ISC licensed. It is based on webkit using GTK+. 
+msgid "xxxterm is a minimalists web browser. It strives to be vi-like for heavy keyboard users while maintaining traditional web browser behaviour. It is ISC licensed. It is based on webkit using GTK+. "
+msgstr ""
+
+#: Desktop Files - X File Explorer (Xfe) is an MS-Explorer like file manager for X. It is based on the popular, but discontinued, X Win Commander, which was developed by Maxim Baranov.  Xfe aims to be the file manager of choice for all the Unix addicts!
+msgid "X File Explorer (Xfe) is an MS-Explorer like file manager for X. It is based on the popular, but discontinued, X Win Commander, which was developed by Maxim Baranov.  Xfe aims to be the file manager of choice for all the Unix addicts!"
+msgstr ""
+
+#: Desktop Files - Password Gorilla is cross-platform Password Manager. It is  compatible with 
+msgid "Password Gorilla is cross-platform Password Manager. It is  compatible with "
+msgstr ""
+
+#: Desktop Files - Kamikaze is a Bomberman-style game for KDE with support  for multiplayer games.  * contains a level editor * allows for level uploads and downloads using the KDE   Get Hot New Stuff (GHNS) framework * multiplayer games via GGZ are possible * comes with 4 different themes, more can be created  The goal of the game is to run around in labyrinths and place some bombs to fend off your enemies, while trying to collect various items.
+msgid "Kamikaze is a Bomberman-style game for KDE with support  for multiplayer games.  * contains a level editor * allows for level uploads and downloads using the KDE   Get Hot New Stuff (GHNS) framework * multiplayer games via GGZ are possible * comes with 4 different themes, more can be created  The goal of the game is to run around in labyrinths and place some bombs to fend off your enemies, while trying to collect various items."
+msgstr ""
+
+#: Desktop Files - LogJam is a GTK2 client for the LiveJournal API.  It sits unobtrusively in the corner of your screen, waiting for you to have something worthwhile to tell the world.  It can read your current music from XMMS, spellcheck with gtkspell, and offers preview capabilities using gtkhtml3.  It will interface with any site running LiveJournal, not just www.livejournal.com, and can create offline copies of your journal.
+msgid "LogJam is a GTK2 client for the LiveJournal API.  It sits unobtrusively in the corner of your screen, waiting for you to have something worthwhile to tell the world.  It can read your current music from XMMS, spellcheck with gtkspell, and offers preview capabilities using gtkhtml3.  It will interface with any site running LiveJournal, not just www.livejournal.com, and can create offline copies of your journal."
+msgstr ""
+
+#: Desktop Files - The goal of semantik is to help to structure ideas and concepts by associating them into a tree. The tree is there to help to see how the ideas interact, and then to develop them further (add ramifications).  An idea is represented by a shape which can be a text or a picture. The ideas can be connected, but there is a constraint: an idea cannot have more than one parent.  A semantik mind-map can be exported as a picture, or used to generate documents. Templates include pdflatex (article, book) and html file formats.  Semantik is the replacement for kdissert and requires KDE 4.
+msgid "The goal of semantik is to help to structure ideas and concepts by associating them into a tree. The tree is there to help to see how the ideas interact, and then to develop them further (add ramifications).  An idea is represented by a shape which can be a text or a picture. The ideas can be connected, but there is a constraint: an idea cannot have more than one parent.  A semantik mind-map can be exported as a picture, or used to generate documents. Templates include pdflatex (article, book) and html file formats.  Semantik is the replacement for kdissert and requires KDE 4."
 msgstr ""
