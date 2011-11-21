@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-18 12:24-0700\n"
-"PO-Revision-Date: 2011-11-21 18:43+0200\n"
+"PO-Revision-Date: 2011-11-21 20:23+0200\n"
 "Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -401,7 +401,7 @@ msgstr ""
 #: Desktop Files - Firefox is an award winning, free, open-source web browser for many platforms and is based on the Mozilla codebase. It is small, fast and easy to use, and offers many advanced features.
 msgid "Firefox is an award winning, free, open-source web browser for many platforms and is based on the Mozilla codebase. It is small, fast and easy to use, and offers many advanced features."
 msgstr ""
-"Firefox je nagrađivan, besplatan, otvorenog koda web preglednik za mnoge "
+"Firefox je nagrađivan, besplatan, web preglednik otvorenog koda za mnoge "
 "platforme i zasnivan je na Mozillinom kodu. Mali je, brz i jednostavan za "
 "korištenje, te pruža mnoge napredne značajke."
 
@@ -422,6 +422,9 @@ msgstr ""
 #: Desktop Files - The Java SE Development Kit (JDK) includes the Java Runtime Environment (JRE) and command-line development tools that are useful for developing applets and applications.
 msgid "The Java SE Development Kit (JDK) includes the Java Runtime Environment (JRE) and command-line development tools that are useful for developing applets and applications."
 msgstr ""
+"Java SE Development Kit (JDK) uključuje Java Runtime Environment (JRE) i "
+"naredbeno-linijske razvojne alate koji su korisni pri razvoju appleta i "
+"aplikacija."
 
 #: Desktop Files - KBackup is a backup program for UNIX machines. It supports any OS supported tape drive. It can use tar or afio to create the archives. It can even compress using gzip. It supports include lists, exclude lists, and even backing up to a file.
 msgid "KBackup is a backup program for UNIX machines. It supports any OS supported tape drive. It can use tar or afio to create the archives. It can even compress using gzip. It supports include lists, exclude lists, and even backing up to a file."
@@ -845,6 +848,10 @@ msgstr ""
 #: Desktop Files - Ekiga is a free Voice over IP phone allowing you to do free calls over the Internet.  Ekiga is the first Open Source application to support both H.323 and SIP, as well as audio and video. Ekiga was formerly known as GnomeMeeting.
 msgid "Ekiga is a free Voice over IP phone allowing you to do free calls over the Internet.  Ekiga is the first Open Source application to support both H.323 and SIP, as well as audio and video. Ekiga was formerly known as GnomeMeeting."
 msgstr ""
+"Ekiga je besplatan Voice over IP telefon koji vam omogućava besplatne pozive "
+"preko interneta.  Ekiga je prva aplikacija otvorenog koda sa podrškom i za "
+"H.323 i za SIP, kao i za zvuk i video.Ekiga je odprije poznata kao "
+"GnomeMetting."
 
 #: Desktop Files - GNU Emacs is a self-documenting, customizable, extensible real-time display editor.  Users new to Emacs will be able to use basic features fairly rapidly by studying the tutorial and using the self-documentation features. Emacs also has an extensive interactive manual browser.  It is easily extensible since its editing commands are written in Lisp.  GNU Emacs's many special packages handle mail reading (RMail) and sending (Mail), outline editing (Outline), compiling (Compile), running subshells within Emacs windows (Shell), running a Lisp read-eval-print loop (Lisp-Interaction-Mode), automated psychotherapy (Doctor :-) and many more.
 msgid "GNU Emacs is a self-documenting, customizable, extensible real-time display editor.  Users new to Emacs will be able to use basic features fairly rapidly by studying the tutorial and using the self-documentation features. Emacs also has an extensive interactive manual browser.  It is easily extensible since its editing commands are written in Lisp.  GNU Emacs's many special packages handle mail reading (RMail) and sending (Mail), outline editing (Outline), compiling (Compile), running subshells within Emacs windows (Shell), running a Lisp read-eval-print loop (Lisp-Interaction-Mode), automated psychotherapy (Doctor :-) and many more."
@@ -857,6 +864,9 @@ msgstr ""
 #: Desktop Files - The Emilia Pinball project is an open source pinball simulator for linux and other unix systems. There is both an hardware accelerated version using SDL and OpenGL as well as an software version using Allegro available.
 msgid "The Emilia Pinball project is an open source pinball simulator for linux and other unix systems. There is both an hardware accelerated version using SDL and OpenGL as well as an software version using Allegro available."
 msgstr ""
+"Emilia Pinball projekt je pinball simulator otvorenog koda za uniksoide. "
+"Uključuje hardversku akceleraciju preko SDL i OpenGL kao i softversku preko "
+"Allegro."
 
 #: Desktop Files - Empathy consists of a rich set of reusable instant messaging widgets, and a GNOME client using those widgets. It uses Telepathy and Nokia's Mission Control, and reuses Gossip's UI. The main goal is to permit desktop integration by providing libempathy and libempathy-gtk libraries. libempathy-gtk is a set of powerful widgets that can be embeded into any GNOME application.
 msgid "Empathy consists of a rich set of reusable instant messaging widgets, and a GNOME client using those widgets. It uses Telepathy and Nokia's Mission Control, and reuses Gossip's UI. The main goal is to permit desktop integration by providing libempathy and libempathy-gtk libraries. libempathy-gtk is a set of powerful widgets that can be embeded into any GNOME application."
@@ -881,6 +891,8 @@ msgstr ""
 #: Desktop Files - Extreme Tux Racer is an open-source downhill racing game starring Tux, the Linux mascot. It follows in the path of Tux Racer and its derivatives.
 msgid "Extreme Tux Racer is an open-source downhill racing game starring Tux, the Linux mascot. It follows in the path of Tux Racer and its derivatives."
 msgstr ""
+"Extreme Tux Racer je igra utrkivanja sa Tux-om, maskotom Linuxa. Igra "
+"slijedi Tux Racer i njegove derivate."
 
 #: Desktop Files - It is a file manager for UNIX-like operating systems. It uses a simple and efficient interface pioneered by Norton Commander, in the 1980s. The main window is divided into three parts, described as "panes" or "panels". Two of those (side-by-side or top-to-bottom) show the contents of selected filesystem directories. The third pane, at the bottom of the window, shows the output of commands executed within the program. Those panes can be resized, and any one or two of them can be hidden and unhidden, on request. A built-in command-line, toolbar buttons or assigned keys can be used to initiate commands.
 msgid "It is a file manager for UNIX-like operating systems. It uses a simple and efficient interface pioneered by Norton Commander, in the 1980s. The main window is divided into three parts, described as "panes" or "panels". Two of those (side-by-side or top-to-bottom) show the contents of selected filesystem directories. The third pane, at the bottom of the window, shows the output of commands executed within the program. Those panes can be resized, and any one or two of them can be hidden and unhidden, on request. A built-in command-line, toolbar buttons or assigned keys can be used to initiate commands."
@@ -971,6 +983,8 @@ msgstr ""
 #: Desktop Files - Gens is a free Sega Genesis emulator. Lots of features and a very good compatibility over 90%.
 msgid "Gens is a free Sega Genesis emulator. Lots of features and a very good compatibility over 90%."
 msgstr ""
+"Gens je besplatan Sega Genesis emulator. Ima mnogo značajki i vro dobru "
+"kompatibilnost koja je preko 90%."
 
 #: Desktop Files - GIMPshop is a fork of GIMP which changes the layout of the user interface to resemble Adobe Photoshop.  The Gimp's menu structure and naming conventions are a constant source of frustration for those who are familiar with Photoshop. The main purpose for GIMPshop is to make the Gimp accessible to the many Adobe Photoshop users out there. GIMP's tools, options, windows, and menus have been renamed and reorganized to closely resemble Adobe Photoshop's menu structure and naming conventions. Many of the menu options and even whole menus were recreated to faithfully reproduce a Photoshop-like experience. After running GIMPshop, you'll find that Photoshop and the GIMP are strikingly similar.  Longtime Photoshop users should feel very comfortable using GIMPshop.
 msgid "GIMPshop is a fork of GIMP which changes the layout of the user interface to resemble Adobe Photoshop.  The Gimp's menu structure and naming conventions are a constant source of frustration for those who are familiar with Photoshop. The main purpose for GIMPshop is to make the Gimp accessible to the many Adobe Photoshop users out there. GIMP's tools, options, windows, and menus have been renamed and reorganized to closely resemble Adobe Photoshop's menu structure and naming conventions. Many of the menu options and even whole menus were recreated to faithfully reproduce a Photoshop-like experience. After running GIMPshop, you'll find that Photoshop and the GIMP are strikingly similar.  Longtime Photoshop users should feel very comfortable using GIMPshop."
@@ -1019,6 +1033,12 @@ msgstr ""
 #: Desktop Files - GNOME MPlayer is a simple GUI for MPlayer. It is intended to be a nice tight player and provide a simple and clean interface to MPlayer. GNOME MPlayer has a rich API that is exposed via DBus. Using DBus you can control a single or multiple instances of GNOME MPlayer from a single command.  The player can be used to play media on websites when used with Gecko Mediaplayer
 msgid "GNOME MPlayer is a simple GUI for MPlayer. It is intended to be a nice tight player and provide a simple and clean interface to MPlayer. GNOME MPlayer has a rich API that is exposed via DBus. Using DBus you can control a single or multiple instances of GNOME MPlayer from a single command.  The player can be used to play media on websites when used with Gecko Mediaplayer"
 msgstr ""
+"GNOME Mplayer je jednostavno grafičko okruženje za MPlayer. Namijenjen da "
+"bude lijep izvođač i pruža jednostavno i pregledno sučelje prema MPlayer-u. "
+"GNOME MPlayer ima bogat API koji je dostupan preko DBus protokola. Koristeći "
+"DBus možete kontrolirati jedno ili više instanci GNOME MPlayer-a iz jedne "
+"naredbe.  Izvođač se može koristiti za pregledavanje medije na web "
+"stranicama kad se koristi zajedno sa Gecko Mediaplayer-om"
 
 #: Desktop Files - Gnucash is the next generation of money manager created from a merger of X-Accountant and GnoMoney.  Its features include:  * Ability to import Quicken files ( a must )  * Reports, Graphs, and all of those goodies that you find in Quicken.  * Gnome compliant ( if that is the correct way to put it )  * Separate the GUI from the actual "account/transaction engine"  * Multiple accounts ( Check, Credit, Cash, Mutual Funds, etc.. )
 msgid "Gnucash is the next generation of money manager created from a merger of X-Accountant and GnoMoney.  Its features include:  * Ability to import Quicken files ( a must )  * Reports, Graphs, and all of those goodies that you find in Quicken.  * Gnome compliant ( if that is the correct way to put it )  * Separate the GUI from the actual "account/transaction engine"  * Multiple accounts ( Check, Credit, Cash, Mutual Funds, etc.. )"
@@ -1071,6 +1091,8 @@ msgstr ""
 #: Desktop Files - Imagination is a simple DVD slide show maker. It uses sox and ffmpeg to create slide shows containing images and audio tracks.
 msgid "Imagination is a simple DVD slide show maker. It uses sox and ffmpeg to create slide shows containing images and audio tracks."
 msgstr ""
+"Imagination je jednostavan DVD slide show kreator. Koristi sox i ffmpeg za "
+"stvaranje slide shows koji se sastoje od slika i zvuka."
 
 #: Desktop Files - An Open Source vector graphics editor, with capabilities similar to Illustrator, CorelDraw, or Xara X, using the W3C standard Scalable Vector Graphics (SVG) file format.  Inkscape supports many advanced SVG features (markers, clones, alpha blending, etc.) and great care is taken in designing a streamlined interface. It is very easy to edit nodes, perform complex path operations, trace bitmaps and much more. We also aim to maintain a thriving user and developer community by using open, community-oriented development.
 msgid "An Open Source vector graphics editor, with capabilities similar to Illustrator, CorelDraw, or Xara X, using the W3C standard Scalable Vector Graphics (SVG) file format.  Inkscape supports many advanced SVG features (markers, clones, alpha blending, etc.) and great care is taken in designing a streamlined interface. It is very easy to edit nodes, perform complex path operations, trace bitmaps and much more. We also aim to maintain a thriving user and developer community by using open, community-oriented development."
@@ -1115,10 +1137,20 @@ msgstr ""
 #: Desktop Files - Jokosher is a simple yet powerful multi-track studio. With it you can create and record music, podcasts and more, all from an integrated simple environment.
 msgid "Jokosher is a simple yet powerful multi-track studio. With it you can create and record music, podcasts and more, all from an integrated simple environment."
 msgstr ""
+"Jokosher je jednostavan ali ipak moćan muli-track studio. Sa njime možete "
+"stvarati i snimati glazbu, podcastove i više, sve iz integriranog i "
+"jednostavnog okruženja."
 
 #: Desktop Files - Urban Terror is a realism based total conversion mod for Quake III Arena which no longer requires this game to be played.   It only uses its engine, which is open sourced through the GPL and may be distributed freely. Urban Terror plays in about the same setting as Counter Strike, but is less focused on realism and plays much faster, which among other things, is caused by the ability to strafe jump, which combined with wall jumping can lead to very quick movement and nice jumps.   Urban Terror has 7 game modes, 25 maps and 15 weapons.
 msgid "Urban Terror is a realism based total conversion mod for Quake III Arena which no longer requires this game to be played.   It only uses its engine, which is open sourced through the GPL and may be distributed freely. Urban Terror plays in about the same setting as Counter Strike, but is less focused on realism and plays much faster, which among other things, is caused by the ability to strafe jump, which combined with wall jumping can lead to very quick movement and nice jumps.   Urban Terror has 7 game modes, 25 maps and 15 weapons."
 msgstr ""
+"Urban Terror je totalna konverzija za Quake III Arena koja više ne zahtjeva "
+"tu igru za pokretanje.   Koristi svoj vlastiti engine, koji je otvorenog "
+"koda pod GPL-om i može se slobodno distribuirati. Urban Terror je sličan "
+"Counter Strike, ali je manje fokusiran na realizam i igra se brže, što je "
+"omogućeno sa strafe skakanjem, koji kad se kombinira sa skakanjem po "
+"zidovima može dovesti do vrlo brzog kretanja i prekrasnih skokova.   Urban "
+"Terror ima 7 modova igre, 25 mapa i 15 oružja."
 
 #: Desktop Files - gFTP is a free multithreaded file transfer client for *NIX based machines.   It has the following features:      * Distributed under the terms of the GNU Public License Agreement.      * Written in C and has a text interface and a GTK+ 1.2/2.x interface.      * Supports the FTP, FTPS (control connection only), HTTP, HTTPS, SSH and FSP protocols.      * FTP and HTTP proxy server support.      * Supports FXP file transfers (transferring files between 2 remote servers via FTP).      * Supports UNIX, EPLF, Novell, MacOS, VMS, MVS and NT (DOS) style directory listings.      * Bookmarks menu to allow you to quickly connect to remote sites.      * Fully Internationalized. Here are the following translations of gFTP that are available: Albanian (sq), Amharic (am), Arabic (ar), Azerbaijan (az), Bangla (bn), Belarusian (be), Bulgarian (bg), Catalan (ca), Chinese (zh_TW,zh_CN), Croatian (hr), Czech (cs), Danish (da), Dutch (nl), English (en_CA, en_GB, en_US), Finnish (fi), French (fr), German (de), Greek (el), Hebrew (he), Hungarian (hu), Irish (ga), Italian (it), Korean (ko), Japanese (ja), Macedonian (mk), Malayalam (ml), Malay (ms), Norwegian (no), Polish (pl), Portuguese (pt,pt_BR), Punjabi (pa), Romanian (ro), Russian (ru), Serbian (sr,sr@Latn), Slovak (sk), Spanish (es), Swedish (sv), Tamil (ta), Thai (th), Turkish (tr) and Ukrainian (uk) translations available.
 msgid "gFTP is a free multithreaded file transfer client for *NIX based machines.   It has the following features:      * Distributed under the terms of the GNU Public License Agreement.      * Written in C and has a text interface and a GTK+ 1.2/2.x interface.      * Supports the FTP, FTPS (control connection only), HTTP, HTTPS, SSH and FSP protocols.      * FTP and HTTP proxy server support.      * Supports FXP file transfers (transferring files between 2 remote servers via FTP).      * Supports UNIX, EPLF, Novell, MacOS, VMS, MVS and NT (DOS) style directory listings.      * Bookmarks menu to allow you to quickly connect to remote sites.      * Fully Internationalized. Here are the following translations of gFTP that are available: Albanian (sq), Amharic (am), Arabic (ar), Azerbaijan (az), Bangla (bn), Belarusian (be), Bulgarian (bg), Catalan (ca), Chinese (zh_TW,zh_CN), Croatian (hr), Czech (cs), Danish (da), Dutch (nl), English (en_CA, en_GB, en_US), Finnish (fi), French (fr), German (de), Greek (el), Hebrew (he), Hungarian (hu), Irish (ga), Italian (it), Korean (ko), Japanese (ja), Macedonian (mk), Malayalam (ml), Malay (ms), Norwegian (no), Polish (pl), Portuguese (pt,pt_BR), Punjabi (pa), Romanian (ro), Russian (ru), Serbian (sr,sr@Latn), Slovak (sk), Spanish (es), Swedish (sv), Tamil (ta), Thai (th), Turkish (tr) and Ukrainian (uk) translations available."
@@ -1147,6 +1179,8 @@ msgstr ""
 #: Desktop Files - K9Copy is a small utility which allows the copy of DVD on Linux. The DVD video stream is compressed by the program Vamps.
 msgid "K9Copy is a small utility which allows the copy of DVD on Linux. The DVD video stream is compressed by the program Vamps."
 msgstr ""
+"K9Copy je mali alat za kopiranje DVD-a. DVD video je kompresiran sa Vamps "
+"programom."
 
 #: Desktop Files - The KB contest logging computer program runs on the Linux operating system with the Gnome desktop. The program is under development, and currently supports the CQ WW, CQ WPX, and ARRL DX contests, plus Field Day.
 msgid "The KB contest logging computer program runs on the Linux operating system with the Gnome desktop. The program is under development, and currently supports the CQ WW, CQ WPX, and ARRL DX contests, plus Field Day."
@@ -1299,18 +1333,33 @@ msgstr "Lynx je tekstualni web preglednik."
 #: Desktop Files - LyX is a document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG).  LyX combines the power and flexibility of TeX/LaTeX with the ease of use of a graphical interface.
 msgid "LyX is a document processor that encourages an approach to writing based on the structure of your documents (WYSIWYM) and not simply their appearance (WYSIWYG).  LyX combines the power and flexibility of TeX/LaTeX with the ease of use of a graphical interface."
 msgstr ""
+"Lyx je procesor dokumenta koji stimulira pisanje bazirano na strukturi "
+"dokumenta (WYSIWYM) a ne jednostavno po izgledu (WYSIWYG).  Lyx combinira "
+"moć i fleksibilnost TeX/LaTeX sa grafičkim okruženjem koji je jednostavan za "
+"korištenje."
 
 #: Desktop Files - MAME stands for Multiple Arcade Machine Emulator. When used in conjunction with images of the original arcade game's ROM and disk data, MAME attempts to reproduce that game as faithfully as possible on a more modern general-purpose computer. MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era.
 msgid "MAME stands for Multiple Arcade Machine Emulator. When used in conjunction with images of the original arcade game's ROM and disk data, MAME attempts to reproduce that game as faithfully as possible on a more modern general-purpose computer. MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era."
 msgstr ""
+"MAME stoji za Multiple Arcade Machine Emulator. Kad se koristi zajedno sa "
+"preslikama originalnih ROM arkadnih igara i disk podacima, MAME reproducira "
+"tu igru što je moguće sa većom vjerodostojnošću na modernim osobnim "
+"računalima. MAME trenutačno može emulirati nekoliko tisuća različitih "
+"klasičnih arkadnih igara od kasnih sedamdesetih do današnjih dana."
 
 #: Desktop Files - MESS is an acronym that stands for Multi Emulator Super System. MESS will more or less faithfully reproduce computer and console systems on a PC. MESS can currently emulate over 250 systems from the last 5 decades.  MESS emulates the hardware of the systems and sometimes utilizes ROM images to load programs and games. Therefore, these systems are NOT simulations, but the actual emulations of the hardware.
 msgid "MESS is an acronym that stands for Multi Emulator Super System. MESS will more or less faithfully reproduce computer and console systems on a PC. MESS can currently emulate over 250 systems from the last 5 decades.  MESS emulates the hardware of the systems and sometimes utilizes ROM images to load programs and games. Therefore, these systems are NOT simulations, but the actual emulations of the hardware."
 msgstr ""
+"MESS je akronim koji stoji za Multi Emulator Super System. MESS će više ili "
+"manje vjerodostojno reproducirati računalo i konzolne na PC-u. MESS "
+"trenutačno može emulirati preko 250 sistema od prethodnih 5 dekada.  MESS "
+"emulira hardver sistem i ponekad koristi preslike ROM diskova za pokretanje "
+"programa i igara. Dakle, takvi sistemi NISU simulacije, već aktualne "
+"emulacije hardvera."
 
 #: Desktop Files - MLdonkey is the most powerful peer2peer application for the edonkey2000 network!  It is running on PC-BSD, Linux/Unix, Windows and MacOS.
 msgid "MLdonkey is the most powerful peer2peer application for the edonkey2000 network!  It is running on PC-BSD, Linux/Unix, Windows and MacOS."
-msgstr ""
+msgstr "MLdonkey je najmoćnija peer2peer aplikacija za edonkey2000 mrežu!"
 
 #: Desktop Files - This pbi will install in your PC-BSD Operating System the Microsoft TrueType Fonts:  *  Andale Mono *  Arial Black *  Arial (Bold, Italic, Bold Italic) *  Comic Sans MS (Bold) *  Courier New (Bold, Italic, Bold Italic) *  Georgia (Bold, Italic, Bold Italic) *  Impact *  Times New Roman (Bold, Italic, Bold Italic) *  Trebuchet (Bold, Italic, Bold Italic) *  Verdana (Bold, Italic, Bold Italic) *  Webdings
 msgid "This pbi will install in your PC-BSD Operating System the Microsoft TrueType Fonts:  *  Andale Mono *  Arial Black *  Arial (Bold, Italic, Bold Italic) *  Comic Sans MS (Bold) *  Courier New (Bold, Italic, Bold Italic) *  Georgia (Bold, Italic, Bold Italic) *  Impact *  Times New Roman (Bold, Italic, Bold Italic) *  Trebuchet (Bold, Italic, Bold Italic) *  Verdana (Bold, Italic, Bold Italic) *  Webdings"
@@ -2763,6 +2812,10 @@ msgstr ""
 #: Desktop Files - UMPlayer is the multimedia player that fills all your needs. With dozens of advanced features and built-in codecs it can handle any media format, and can play Audio CDs, DVDs, (S)VCDs, TV / Radio cards, YouTube" and SHOUTcast" streams and even incomplete or damaged media files.
 msgid "UMPlayer is the multimedia player that fills all your needs. With dozens of advanced features and built-in codecs it can handle any media format, and can play Audio CDs, DVDs, (S)VCDs, TV / Radio cards, YouTube" and SHOUTcast" streams and even incomplete or damaged media files."
 msgstr ""
+"UMPlayer je multimedijski izvođač koje ispunjava sve vaše zahtjeve. Sa "
+"pregršt naprednih značajki i ugrađenih kodeka može izvoditi bilo koji "
+"medijski format, i može izvoditi Audio CD-e, DVD-e, SVCD-e, TV / Radio "
+"kartice, YouTube tokove i čak nepotpune ili oštećene medijske datoteke."
 
 #: Desktop Files - Zoneminder is an all-in-one GPL'd security and surveillance camera solution. Fully web-based system for viewing and analyzing security camera feeds.  
 msgid "Zoneminder is an all-in-one GPL'd security and surveillance camera solution. Fully web-based system for viewing and analyzing security camera feeds.  "
@@ -2783,10 +2836,16 @@ msgstr ""
 #: Desktop Files - Epiphany is a web browser designed to be as lightweight and fast as possible, at the expense of many of the features found in other browsers.
 msgid "Epiphany is a web browser designed to be as lightweight and fast as possible, at the expense of many of the features found in other browsers."
 msgstr ""
+"Epiphany je web preglednik dizajniran da bude što laganiji i brži, nauštrb "
+"mnogih značajkih dostupnih kod drugih preglednika."
 
 #: Desktop Files - Gecko Media Player is a browser plugin that uses GNOME MPlayer to play media in a browser. It should  work with all browsers on Unix-ish systems (Linux, BSD, Solaris) and use the NS4 API (Mozilla, Firefox, Opera, etc.).
 msgid "Gecko Media Player is a browser plugin that uses GNOME MPlayer to play media in a browser. It should  work with all browsers on Unix-ish systems (Linux, BSD, Solaris) and use the NS4 API (Mozilla, Firefox, Opera, etc.)."
 msgstr ""
+"Gecko Media Player je dodatak za preglednik koji koristi GNOME MPlayer za "
+"izvođenje multimedije u pregledniku. Trebao bi raditi sa svim preglednicima "
+"na Uniksoidnim sustavima (Linux, BSD, Solaris) koji koriste NS4 API "
+"(Mozilla, Firefox, Opera, itd.)."
 
 #: Desktop Files - Given a URL, Getleft will try to download all links. As it goes, it modifies the original HTML pages so that the absolute links get changed to relative links, and links to active pages get changed to the resulting pages. It supports thirteen different languages.
 msgid "Given a URL, Getleft will try to download all links. As it goes, it modifies the original HTML pages so that the absolute links get changed to relative links, and links to active pages get changed to the resulting pages. It supports thirteen different languages."
@@ -2795,6 +2854,11 @@ msgstr ""
 #: Desktop Files - Midori is a lightweight web browser.  * Full integration with GTK+2. * Fast rendering with WebKit. * Tabs, windows and session management. * Bookmarks are stored with XBEL. * Searchbox based on OpenSearch. * Custom context menu actions. * User scripts and user styles support. * Extensible via Lua scripts.
 msgid "Midori is a lightweight web browser.  * Full integration with GTK+2. * Fast rendering with WebKit. * Tabs, windows and session management. * Bookmarks are stored with XBEL. * Searchbox based on OpenSearch. * Custom context menu actions. * User scripts and user styles support. * Extensible via Lua scripts."
 msgstr ""
+"Midori je lagan web preglednik.  * Potpuna integracija sa GTK+2. * Brzo "
+"prikazivanje sa WebKit. * Tabovi, prozori i sesije. * Oznake su spremljene "
+"sa XBEL. * Traženje bazirano na OpenSearch. * Prilagodljiv kotekstualni "
+"akcijski meni. * Podrška za korisničke skripte i stilove. * Proširive "
+"mogućnosti sa Lua sktriptama."
 
 #: Desktop Files - NScache is simple program for viewing and amanging contents of Netscape(tm) browsers cache directory.  It have very easy user interface writen by using of GTK+1.2 widget libraries. It shows 3 levels tree of cache contents. At first level are protocols, at  second level are servers and at third level are regular documents.  For each document there is shown its URL, name of cache file, its size,  MIME type, encoding type, character set for HTML documents, modification time, access time and time when document expires.  When you press right mouse button inside tree list, you can make any action on selected item. You can save file from cache to other location, you can  remove files and entries from chache (one or all entries for server), or you can compute numbers of documents in subtrees and size of all documets in  subtree. You can launch any viewer command on cache file or on source URL. The viewers you can assign to any MIME type. You can also copy selected URL to clipboard.
 msgid "NScache is simple program for viewing and amanging contents of Netscape(tm) browsers cache directory.  It have very easy user interface writen by using of GTK+1.2 widget libraries. It shows 3 levels tree of cache contents. At first level are protocols, at  second level are servers and at third level are regular documents.  For each document there is shown its URL, name of cache file, its size,  MIME type, encoding type, character set for HTML documents, modification time, access time and time when document expires.  When you press right mouse button inside tree list, you can make any action on selected item. You can save file from cache to other location, you can  remove files and entries from chache (one or all entries for server), or you can compute numbers of documents in subtrees and size of all documets in  subtree. You can launch any viewer command on cache file or on source URL. The viewers you can assign to any MIME type. You can also copy selected URL to clipboard."
