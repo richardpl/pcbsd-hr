@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-18 12:24-0700\n"
-"PO-Revision-Date: 2011-11-21 20:23+0200\n"
+"PO-Revision-Date: 2011-11-23 21:58+0200\n"
 "Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -156,6 +156,11 @@ msgstr ""
 #: Desktop Files - This is a port of Atomic Tanks, a 2D tank game where small tanks use cartoonishly large weapons to blow up each other. Atomic Tanks is loosely based on the classic DOS game, Scorched Earth. The game is very flexible, allowing anywhere from two to ten players, variable environments and a wide range of weapons and other items.
 msgid "This is a port of Atomic Tanks, a 2D tank game where small tanks use cartoonishly large weapons to blow up each other. Atomic Tanks is loosely based on the classic DOS game, Scorched Earth. The game is very flexible, allowing anywhere from two to ten players, variable environments and a wide range of weapons and other items."
 msgstr ""
+"Ovo je port od Atomic Tanks, 2D igra tenkova gdje mali tenkovi koriste "
+"velika oružja kako bi raznijeli jedni druge. Atomic Tanks se uglavnom bazira "
+"na klasičnoj DOS igri, Scorched Earth. Igre je vrlo fleksibilna, "
+"dozvoljavajući od dva do deset igrača, različita okruženja i širok izbor "
+"oružja i ostalog."
 
 #: Desktop Files - Audacious is a GUI-based free software media player for PC-BSD. It is a fork of Beep Media Player 0.9.7.1, which is a fork of XMMS.  Audacious owes a large portion of its features to plugins, including all codecs. On most systems, a useful set of plugins is installed by default. This includes, for instance, the ability to play MP3, Ogg Vorbis and FLAC files.
 msgid "Audacious is a GUI-based free software media player for PC-BSD. It is a fork of Beep Media Player 0.9.7.1, which is a fork of XMMS.  Audacious owes a large portion of its features to plugins, including all codecs. On most systems, a useful set of plugins is installed by default. This includes, for instance, the ability to play MP3, Ogg Vorbis and FLAC files."
@@ -338,6 +343,11 @@ msgstr ""
 #: Desktop Files - Clementine is a modern music player and library organiser. Clementine is a port of Amarok 1.4, with some features rewritten to take advantage of Qt4.  Features: - Listen to internet radio from Last.fm and SomaFM  - Load M3U and XSPF playlists  - Edit tags on MP3 and OGG files, organise your music  - Download missing album cover art from Last.fm
 msgid "Clementine is a modern music player and library organiser. Clementine is a port of Amarok 1.4, with some features rewritten to take advantage of Qt4.  Features: - Listen to internet radio from Last.fm and SomaFM  - Load M3U and XSPF playlists  - Edit tags on MP3 and OGG files, organise your music  - Download missing album cover art from Last.fm"
 msgstr ""
+"Clementine je moderan izvođač glazbe i organizator zbirke. Clementine je "
+"port od Amarok 1.4, sa nekim prepisanim značajkama kako bi bolje iskoristili "
+"Qt4.  Značajke: - Slušanje internet radija SomaFM  - Učitavanje M3U i XSPF "
+"lista.  - Uređivanje tagova na MP3 i OGG datotekama, organiziranje vaše "
+"glazbe  - Skidanje album omota iz Last.fm"
 
 #: Desktop Files - ClipGrab doesn't only allow you to download videos from sites like Youtube, Dailymotion or Veoh but also gives you the ability to convert them at a single blow into "usable" formats like WMV, MPEG or MP3. So you'll be able to watch (or listen to) your favorite Youtube clips wherever you are. ClipGrab currently supports these sites:  -YouTube -Dailymotion -Vimeo -MyVideo -MySpass
 msgid "ClipGrab doesn't only allow you to download videos from sites like Youtube, Dailymotion or Veoh but also gives you the ability to convert them at a single blow into "usable" formats like WMV, MPEG or MP3. So you'll be able to watch (or listen to) your favorite Youtube clips wherever you are. ClipGrab currently supports these sites:  -YouTube -Dailymotion -Vimeo -MyVideo -MySpass"
@@ -454,6 +464,9 @@ msgstr ""
 #: Desktop Files - LibreOffice is the free power-packed Open Source personal productivity suite for Windows, Macintosh and Linux, that gives you six feature-rich applications for all your document production and data processing needs: Writer, Calc, Impress, Draw, Math and Base.
 msgid "LibreOffice is the free power-packed Open Source personal productivity suite for Windows, Macintosh and Linux, that gives you six feature-rich applications for all your document production and data processing needs: Writer, Calc, Impress, Draw, Math and Base."
 msgstr ""
+"LibreOffice je besplatan i moćan paket otvorenog koda, koji vam nudi 6 "
+"aplikacija sa pregršt značajki za stvaranje dokumenata i procesiranje "
+"podataka: Writer, Calc, Impress, Draw, Math i Base."
 
 #: Desktop Files - Nexuiz is a 3d deathmatch game project, created online by a team of developers called Alientrap.  Requirements: 200mb of hard drive space
 msgid "Nexuiz is a 3d deathmatch game project, created online by a team of developers called Alientrap.  Requirements: 200mb of hard drive space"
@@ -468,6 +481,11 @@ msgstr ""
 #: Desktop Files - OpenOffice.org is an Open Source, community-developed, multi-platform office productivity suite. It includes the key desktop applications, such as a word processor, spreadsheet, presentation manager, and drawing program, with a user interface and feature set similar to other office suites.
 msgid "OpenOffice.org is an Open Source, community-developed, multi-platform office productivity suite. It includes the key desktop applications, such as a word processor, spreadsheet, presentation manager, and drawing program, with a user interface and feature set similar to other office suites."
 msgstr ""
+"OpenOffice.org je otvorenog koda, razvijen od strane zajednice, više "
+"platformski uredski paket aplikacija. Uključuje značajne aplikacije za radnu "
+"površinu, kao što su procesor teksta, proračunske tablice, upravitelj "
+"prezentacija, i program za slikanje, sa korisničkim sučeljem i skupom "
+"značajki sličnim sa drugim uredskim paketima."
 
 #: Desktop Files - Pidgin is a multi-protocol Instant Messaging client that allows you to use all of your IM accounts at once.  Pidgin is free software. It is licensed under the GNU General Public License (GPL) version 2. This means you are free to use it and to modify it, but if you distribute your modifications you must distribute the modified source code as well.
 msgid "Pidgin is a multi-protocol Instant Messaging client that allows you to use all of your IM accounts at once.  Pidgin is free software. It is licensed under the GNU General Public License (GPL) version 2. This means you are free to use it and to modify it, but if you distribute your modifications you must distribute the modified source code as well."
@@ -530,6 +548,12 @@ msgstr ""
 #: Desktop Files - Wine is a Microsoft Windows compatibility layer (or program loader) capable of running Windows applications on i386 and compatible CPUs. Windows programs running in Wine act as native programs would, running without the performance or memory usage penalties of an emulator, with a similar look and feel to other applications on your desktop.  Many applications already work, more or less, including versions of Microsoft Office and several games.
 msgid "Wine is a Microsoft Windows compatibility layer (or program loader) capable of running Windows applications on i386 and compatible CPUs. Windows programs running in Wine act as native programs would, running without the performance or memory usage penalties of an emulator, with a similar look and feel to other applications on your desktop.  Many applications already work, more or less, including versions of Microsoft Office and several games."
 msgstr ""
+"Wine je emulator za Microsoft Windows (učitavač programa) sposoban pokretati "
+"Windows aplikacije na i386 i kompatibilnim procesorima. Windows programi "
+"pokrenuti u Wine-u se ponašaju kao što bi se izvorni ponašali, izvršavani "
+"bez gubitaka performansi, sa sličnim izgledom kao i druge aplikacije na "
+"vašoj radnoj površini.  Mnogo aplikacija već rade, više ili manje, "
+"uključujući Microsoft Office pakete i pregršt igara."
 
 #: Desktop Files - Wireshark is the world's foremost network protocol analyzer. It lets you capture and interactively browse the traffic running on a computer network. It is the de facto (and often de jure) standard across many industries and educational institutions. 
 msgid "Wireshark is the world's foremost network protocol analyzer. It lets you capture and interactively browse the traffic running on a computer network. It is the de facto (and often de jure) standard across many industries and educational institutions. "
@@ -925,6 +949,7 @@ msgstr ""
 #: Desktop Files - The FlightGear flight simulator project is an open-source, multi-platform, cooperative flight simulator development project. Source code for the entire project is available and licensed under the GNU General Public License.
 msgid "The FlightGear flight simulator project is an open-source, multi-platform, cooperative flight simulator development project. Source code for the entire project is available and licensed under the GNU General Public License."
 msgstr ""
+"FlightGear je simulator leta otvorenog koda koji podržava više platformi."
 
 #: Desktop Files - Flock is a social browser, cross platform, open source, and based on Mozilla technologies. Flock includes such features as blogging tools, feed handling, and integrated del.icio.us favorites and Flickr and Photobucket photo sharing.
 msgid "Flock is a social browser, cross platform, open source, and based on Mozilla technologies. Flock includes such features as blogging tools, feed handling, and integrated del.icio.us favorites and Flickr and Photobucket photo sharing."
@@ -1075,6 +1100,9 @@ msgstr ""
 #: Desktop Files - HEYU is a text-based console program for remotely controlling lights and  appliances in the home or office.   It is made available under a free and open  source license.
 msgid "HEYU is a text-based console program for remotely controlling lights and  appliances in the home or office.   It is made available under a free and open  source license."
 msgstr ""
+"HEYU je tekstualno zasnivan konzolni program za udaljeno kontroliranje "
+"svijetla i   uređaja u kućanstvu ili uredu.   Dostupan je pod licencom "
+"besplatnog i   otvorenog koda."
 
 #: Desktop Files - A GUI for Panorama Tools, to stitch panoramic images.  With hugin you can assemble a mosaic of photographs into a complete immersive panorama, stitch any series of overlapping pictures and much more.
 msgid "A GUI for Panorama Tools, to stitch panoramic images.  With hugin you can assemble a mosaic of photographs into a complete immersive panorama, stitch any series of overlapping pictures and much more."
@@ -1119,6 +1147,9 @@ msgstr ""
 #: Desktop Files - JAG is an arcade-puzzle 2D game similar to KDiamonds, Cradle of Rome, Big Kahuna Reef etc.  The aim of JAG is to break all of the target pieces on each level, and to do this before the time runs out.
 msgid "JAG is an arcade-puzzle 2D game similar to KDiamonds, Cradle of Rome, Big Kahuna Reef etc.  The aim of JAG is to break all of the target pieces on each level, and to do this before the time runs out."
 msgstr ""
+"JAG is arkadna 2D puzle igra slična KDiamonds, Cradle of Rome, Big Kahuna "
+"Reef itd.  Cilj JAG-a je uništiti sve mete na svakom nivou, i to napraviti "
+"unutar određenog vremena."
 
 #: Desktop Files - This photo gallery software makes web albums of your digital images. JAlbum aims to be the easiest to use and most powerful tool in this category - and free!  JAlbum is written after numerous disappointments with existing photo gallery software. With JAlbum you have full control of the look of the generated album, not just color theme and basic layout, still making an album is just a matter of drag and drop + a button click if you prefer to use one of the many existing looks. JAlbum will process your images, make index pages and slide show pages and even upload the final album to the Internet for your friends to see. No extra software is needed to view the albums, -just your web browser. Unlike "server side" album scripts, JAlbum albums can be served from a plain web server without scripting support. You can also share your albums on CD-ROM.
 msgid "This photo gallery software makes web albums of your digital images. JAlbum aims to be the easiest to use and most powerful tool in this category - and free!  JAlbum is written after numerous disappointments with existing photo gallery software. With JAlbum you have full control of the look of the generated album, not just color theme and basic layout, still making an album is just a matter of drag and drop + a button click if you prefer to use one of the many existing looks. JAlbum will process your images, make index pages and slide show pages and even upload the final album to the Internet for your friends to see. No extra software is needed to view the albums, -just your web browser. Unlike "server side" album scripts, JAlbum albums can be served from a plain web server without scripting support. You can also share your albums on CD-ROM."
@@ -1380,6 +1411,8 @@ msgstr ""
 #: Desktop Files - Minitunes is just another music player, only better. Minitunes unclutters your music listening experience with a clean and innovative interface.
 msgid "Minitunes is just another music player, only better. Minitunes unclutters your music listening experience with a clean and innovative interface."
 msgstr ""
+"Minitunes je još jedan izvođač glazbe, ali bolji. Minitunes pruža "
+"jedinstveno iskustvo slušanje glazbe sa jasnim i inovativnim okruženjem."
 
 #: Desktop Files - Miro is a free HD video player. It can play almost any video file and offers over 6,000 free internet TV shows and video podcasts.  Miro has a simple, gorgeous interface designed for fullscreen HD video. Since Miro downloads most videos, you can take your shows with you, even on an airplane. Quite simply, Miro is a better way to watch all the video you care about.  Best of all, Miro is 100% free and open source, developed by a non-profit organization and volunteers around the world.
 msgid "Miro is a free HD video player. It can play almost any video file and offers over 6,000 free internet TV shows and video podcasts.  Miro has a simple, gorgeous interface designed for fullscreen HD video. Since Miro downloads most videos, you can take your shows with you, even on an airplane. Quite simply, Miro is a better way to watch all the video you care about.  Best of all, Miro is 100% free and open source, developed by a non-profit organization and volunteers around the world."
@@ -1408,6 +1441,8 @@ msgstr ""
 #: Desktop Files - Mupen64 is a Nintendo 64 emulator with all the sound and graphics plugins necessary for use.
 msgid "Mupen64 is a Nintendo 64 emulator with all the sound and graphics plugins necessary for use."
 msgstr ""
+"Mupen64 je Nintendo 64 emulator sa svim zvukovnim i grafičkim dodatcima "
+"potrebnim za korištenje."
 
 #: Desktop Files - Music Player Daemon (MPD) allows remote access for playing music (MP3, MP4, Ogg, Flac, and more) and managing playlists.  The design focus is on integrating a computer into a stereo system that provides control for music playback over a local network.
 msgid "Music Player Daemon (MPD) allows remote access for playing music (MP3, MP4, Ogg, Flac, and more) and managing playlists.  The design focus is on integrating a computer into a stereo system that provides control for music playback over a local network."
@@ -1931,12 +1966,12 @@ msgstr ""
 #: Desktop Files - VLC - the cross-platform media player and streaming server  VLC media player is a highly portable multimedia player for various audio and video formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...) as well as DVDs, VCDs, and various streaming protocols. It can also be used as a server to stream in unicast or multicast in IPv4 or IPv6 on a high-bandwidth network.
 msgid "VLC - the cross-platform media player and streaming server  VLC media player is a highly portable multimedia player for various audio and video formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...) as well as DVDs, VCDs, and various streaming protocols. It can also be used as a server to stream in unicast or multicast in IPv4 or IPv6 on a high-bandwidth network."
 msgstr ""
-"VLC - više platformski media izvođač i poslužitelj streama.  VLC media "
-"izvođač je visoko portabilan multimedia izvođač za različite audio i video "
-"sadržaje (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...) kao i DVD-ove, VCD-"
-"ove i različite stream protokole. Također se može koristiti kao poslužitelj "
-"stream-a u unicast-u i multicast-u u IPv4 ili IPv6 na široko pojasnim "
-"mrežama."
+"VLC - više platformski izvođač medije i poslužitelj streama.  VLC media "
+"izvođač je visoko portabilan multimedijski izvođač za različite audio i "
+"video sadržaje (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...) kao i DVD-ove, "
+"VCD-ove i različite stream protokole. Također se može koristiti kao "
+"poslužitelj stream-a u unicast-u i multicast-u u IPv4 ili IPv6 na široko "
+"pojasnim mrežama."
 
 #: Desktop Files - Valgrind is a system for debugging and profiling un*x programs. With the tools that come with Valgrind, you can automatically detect many memory management and threading bugs, avoiding hours of frustrating bug-hunting, making your programs more stable. You can also perform detailed profiling, to speed up and reduce memory use of your programs.  The Valgrind distribution includes five tools: two memory error detectors, a thread error detector, a cache profiler and a heap profiler. Several other tools have been built with Valgrind.  Valgrind was initially ported to FreeBSD by Doug Rabson (http://www.rabson.org/).
 msgid "Valgrind is a system for debugging and profiling un*x programs. With the tools that come with Valgrind, you can automatically detect many memory management and threading bugs, avoiding hours of frustrating bug-hunting, making your programs more stable. You can also perform detailed profiling, to speed up and reduce memory use of your programs.  The Valgrind distribution includes five tools: two memory error detectors, a thread error detector, a cache profiler and a heap profiler. Several other tools have been built with Valgrind.  Valgrind was initially ported to FreeBSD by Doug Rabson (http://www.rabson.org/)."
@@ -2123,11 +2158,13 @@ msgstr ""
 
 #: Desktop Files - An Infiniminer/Minecraft inspired game
 msgid "An Infiniminer/Minecraft inspired game"
-msgstr ""
+msgstr "Igra inspirirana Infiniminer/Minecraft"
 
 #: Desktop Files - OpenSSN is a modern submarine simulator which focuses on keeping control of the submarine simple, letting the player focus on the tactical situation.
 msgid "OpenSSN is a modern submarine simulator which focuses on keeping control of the submarine simple, letting the player focus on the tactical situation."
 msgstr ""
+"OpenSSN je moderan simulator podmornice koji je fokusiran na jednostavno "
+"kontroliranje podmornice, puštajući da se igrač fokusira na taktiku."
 
 #: Desktop Files - The Warden is a powerful, yet easy to use tool which makes creating / managing jails easy. The Warden has features such as exporting / importing jails, automatic startup, and easy installation of packages or "Inmates".   The Warden includes a GUI for PC-BSD desktops, as well as a command-line menu / syntax for remote administration via SSH. Inmate packages, such as AMP (Apache, MySQL, PHP) and others may be also downloaded from PBIDir and installed into jails managed by The Warden.  Questions or Problems? Please let us know via The Warden [url=http://lists.pcbsd.org/mailman/listinfo/pcbsd-warden]Mailing List[/url]
 msgid "The Warden is a powerful, yet easy to use tool which makes creating / managing jails easy. The Warden has features such as exporting / importing jails, automatic startup, and easy installation of packages or "Inmates".   The Warden includes a GUI for PC-BSD desktops, as well as a command-line menu / syntax for remote administration via SSH. Inmate packages, such as AMP (Apache, MySQL, PHP) and others may be also downloaded from PBIDir and installed into jails managed by The Warden.  Questions or Problems? Please let us know via The Warden [url=http://lists.pcbsd.org/mailman/listinfo/pcbsd-warden]Mailing List[/url]"
@@ -2224,6 +2261,8 @@ msgstr ""
 #: Desktop Files - Lightspark is an alternative Flash Player implementation with llvm-based ActionScript JIT compiler and support for hardware accelerated rendering.
 msgid "Lightspark is an alternative Flash Player implementation with llvm-based ActionScript JIT compiler and support for hardware accelerated rendering."
 msgstr ""
+"Lightspark je alternativan Flash Player implementiran sa llvm-zasnivanim "
+"ActionScript JIT kompajlerom i podrškom za hardversko renderiranje."
 
 #: Desktop Files - MyPaint is a fast painting/scribbling program. It supports pressure sensitive graphic tablets and comes with an easy to use brush collection. There is a complex interface for creating your own brushes, focusing on brush dynamics (changes with speed, pressure, or randomly). The canvas size is unlimited and undo is supported, but not layers.
 msgid "MyPaint is a fast painting/scribbling program. It supports pressure sensitive graphic tablets and comes with an easy to use brush collection. There is a complex interface for creating your own brushes, focusing on brush dynamics (changes with speed, pressure, or randomly). The canvas size is unlimited and undo is supported, but not layers."
@@ -2320,6 +2359,8 @@ msgstr ""
 #: Desktop Files - ePSXe is a Sony Playstation emulator. It takes advantage of the popular PSEmu Pro plugin system.  This is the Linux version.
 msgid "ePSXe is a Sony Playstation emulator. It takes advantage of the popular PSEmu Pro plugin system.  This is the Linux version."
 msgstr ""
+"ePSXe je Sony Playstation emulator. Koristi popularan PSEmu Pro plugin "
+"sustav.  Ovo je Linux verzija."
 
 #: Desktop Files - The Mana World (TMW) is a serious effort to create an innovative free and  open source MMORPG. TMW uses 2D graphics and aims to create a large and  diverse interactive world. It is licensed under the GPL, making sure this  game can't ever run away from you.  The project includes the development of both a client and a server,  as well as the development of an online world. 
 msgid "The Mana World (TMW) is a serious effort to create an innovative free and  open source MMORPG. TMW uses 2D graphics and aims to create a large and  diverse interactive world. It is licensed under the GPL, making sure this  game can't ever run away from you.  The project includes the development of both a client and a server,  as well as the development of an online world. "
@@ -2355,7 +2396,7 @@ msgstr ""
 
 #: Desktop Files - Chromium B.S.U. is a fast paced, arcade-style, top-scrolling space shooter.
 msgid "Chromium B.S.U. is a fast paced, arcade-style, top-scrolling space shooter."
-msgstr ""
+msgstr "Chromium B.S.U. je svemirska arkadna pucačina sa brzim tempom."
 
 #: Desktop Files - Cosmosmash is a game where you control a base that must destroy rocks before they hit the ground, or you lose points. You must also prevent "spinners" from touching the ground, or your base will explode. This game is a clone of the 1981 Astrosmash(TM) video game by Mattel Electronics(TM).
 msgid "Cosmosmash is a game where you control a base that must destroy rocks before they hit the ground, or you lose points. You must also prevent "spinners" from touching the ground, or your base will explode. This game is a clone of the 1981 Astrosmash(TM) video game by Mattel Electronics(TM)."
@@ -2368,10 +2409,14 @@ msgstr ""
 #: Desktop Files - Cuyo is a tetris-like game which is suprisingly innovative, sometimes challenging, and has a very nice look.
 msgid "Cuyo is a tetris-like game which is suprisingly innovative, sometimes challenging, and has a very nice look."
 msgstr ""
+"Cuyo je tetris igra koja je iznenađujuće inovativna, ponekad izazovna, i sa "
+"prekrasnim izgledom."
 
 #: Desktop Files - bluedj contains many popular online games in China, such as mahjong, poker and chess. It has a large number of games and game players.
 msgid "bluedj contains many popular online games in China, such as mahjong, poker and chess. It has a large number of games and game players."
 msgstr ""
+"bluedj sadrži mnogo popularnih online igara iz Kine, kao što su mahjong, "
+"poker i šah. Ima golem izbor igara i igrača."
 
 #: Desktop Files - The idea of dopewars is to deal drugs on the streets of New York,  amassing a huge fortune and paying off the loan shark, while avoiding the ever-annoying police.  The UNIX rewrite, as well as featuring a so-called "antique" mode which closely follows the original, introduces new features such as the ability to take part in multi-player games.
 msgid "The idea of dopewars is to deal drugs on the streets of New York,  amassing a huge fortune and paying off the loan shark, while avoiding the ever-annoying police.  The UNIX rewrite, as well as featuring a so-called "antique" mode which closely follows the original, introduces new features such as the ability to take part in multi-player games."
@@ -2404,6 +2449,8 @@ msgstr ""
 #: Desktop Files - A GUI chess front-end to crafty, for the GNOME Desktop Environment  It works with chess programs and chess servers - it is also a PGN viewer.
 msgid "A GUI chess front-end to crafty, for the GNOME Desktop Environment  It works with chess programs and chess servers - it is also a PGN viewer."
 msgstr ""
+"Grafičko sučelje za crafty, za GNOME okruženje.  Radi sa šahovskim "
+"programima i serverima - također je PGN preglednik."
 
 #: Desktop Files - GnomeKiss is an implementation of French-KiSS for the GNOME desktop environment, using GNOME, GTK+ and the X Window System. French KiSS is an enhanced KiSS/GS for scriptable dolls, where KiSS is an abbreviation for Kisekae Set System (or something).
 msgid "GnomeKiss is an implementation of French-KiSS for the GNOME desktop environment, using GNOME, GTK+ and the X Window System. French KiSS is an enhanced KiSS/GS for scriptable dolls, where KiSS is an abbreviation for Kisekae Set System (or something)."
@@ -2412,6 +2459,8 @@ msgstr ""
 #: Desktop Files - This is Gnome version of the memory blocks' game, which originally came from Semantec game pack for Windows 3.11.
 msgid "This is Gnome version of the memory blocks' game, which originally came from Semantec game pack for Windows 3.11."
 msgstr ""
+"Ovo je Gnome verzija igre memoriranja blokova, koja je originalno došla iz "
+"Semantec kolekcije igara za Windows 3.11."
 
 #: Desktop Files - GnomerMind is a puzzle game for Gnome, loosely based on the classic MasterMind game. The author always been fascinated by this game, and spent an heap of time playing the version (Logic) implemented on some Nokia cellular phones... So he told himself, why not to make it available also for PC's?
 msgid "GnomerMind is a puzzle game for Gnome, loosely based on the classic MasterMind game. The author always been fascinated by this game, and spent an heap of time playing the version (Logic) implemented on some Nokia cellular phones... So he told himself, why not to make it available also for PC's?"
@@ -2440,6 +2489,8 @@ msgstr ""
 #: Desktop Files - Collection of games usually included with the KDE4 desktop environment. This collection includes card games, arcade games, strategy games, and other miscellaneous games.
 msgid "Collection of games usually included with the KDE4 desktop environment. This collection includes card games, arcade games, strategy games, and other miscellaneous games."
 msgstr ""
+"Kolekcije igara koje obično dolaze u paketu sa KDE4 okruženjem. Ova "
+"kolekcija uključuje kartaške, strateške, arkadne, i ostale igre."
 
 #: Desktop Files - During test the Kanatest displays randomly selected kana char (respecting mode and lesson) and waits for user answer expected as romaji equivalent. This process continues until all questions will be answered or all questions will be answered correctly (depends on options). At the end of test a short info about drilling time and correctness ratio is displayed. The results are stored and user can review his performance in any time.
 msgid "During test the Kanatest displays randomly selected kana char (respecting mode and lesson) and waits for user answer expected as romaji equivalent. This process continues until all questions will be answered or all questions will be answered correctly (depends on options). At the end of test a short info about drilling time and correctness ratio is displayed. The results are stored and user can review his performance in any time."
@@ -2456,6 +2507,9 @@ msgstr ""
 #: Desktop Files - LMarbles is a game similar to Atomix and was heavily inspired by it. The goal is to arrange a figure out of single marbles within a time limit to reach the next level.
 msgid "LMarbles is a game similar to Atomix and was heavily inspired by it. The goal is to arrange a figure out of single marbles within a time limit to reach the next level."
 msgstr ""
+"LMarbles je igra nalik na Atomix i inpirirana je njome. Cilj je razmjestiti "
+"figuru od pojedinačnih komada u ograničenom vremenu kako bi dosegli sljedeći "
+"nivo."
 
 #: Desktop Files - LTris is just another clone of Tetris but IMHO a good one, so if you like Tetris, download and play it!  Features:      Tetris clone using SDL      Sound      Menu      Controls can be redefined      Block preview      Starting level between 0 and 9      Various backgrounds      HighScores      Nice graphics      Smooth gameplay      Cool effects (transparency, animations)      Two player mode      Two game modes  Two game modes?  Yes.  The "normal" mode is the one everbody knows well.  You play as long as you can while the blocks are getting faster.  The second one called "advanced" has some additional features.  First there is a new figure in each new level and second later on there are suddenly appearing tiles and rows.
 msgid "LTris is just another clone of Tetris but IMHO a good one, so if you like Tetris, download and play it!  Features:      Tetris clone using SDL      Sound      Menu      Controls can be redefined      Block preview      Starting level between 0 and 9      Various backgrounds      HighScores      Nice graphics      Smooth gameplay      Cool effects (transparency, animations)      Two player mode      Two game modes  Two game modes?  Yes.  The "normal" mode is the one everbody knows well.  You play as long as you can while the blocks are getting faster.  The second one called "advanced" has some additional features.  First there is a new figure in each new level and second later on there are suddenly appearing tiles and rows."
@@ -2679,7 +2733,7 @@ msgstr ""
 
 #: Desktop Files - Gbrainy is a brain teaser game and trainer to have fun and to keep your brain trained.
 msgid "Gbrainy is a brain teaser game and trainer to have fun and to keep your brain trained."
-msgstr ""
+msgstr "Gbrainy je zabavna mozgalica."
 
 #: Desktop Files - Task Coach is a simple open source todo manager to manage personal tasks and todo lists. It grew out of a frustration that well-known task managers, such as those provided with Outlook or Lotus Notes, do not provide facilities for composite tasks.
 msgid "Task Coach is a simple open source todo manager to manage personal tasks and todo lists. It grew out of a frustration that well-known task managers, such as those provided with Outlook or Lotus Notes, do not provide facilities for composite tasks."
@@ -2703,19 +2757,24 @@ msgstr ""
 
 #: Desktop Files - KFreeRings is a small puzzle game
 msgid "KFreeRings is a small puzzle game"
-msgstr ""
+msgstr "KFreeRings je mala puzzle igra"
 
 #: Desktop Files - KPicFramer is a small card game for the K Desktop Environment.
 msgid "KPicFramer is a small card game for the K Desktop Environment."
-msgstr ""
+msgstr "KPicFramer je mala kartaška igra za K desktop okruženje."
 
 #: Desktop Files - KPuzzle is a jigsaw puzzle game for the KDE environment.
 msgid "KPuzzle is a jigsaw puzzle game for the KDE environment."
-msgstr ""
+msgstr "KPuzzle je jigsaw puzle igra za KDE okruženje."
 
 #: Desktop Files - KSudoku is a 2D and 3D Sudoku puzzle generator and solver for KDE.  Among its features are:  * 2D boards of various sizes: 9x9, 16x16, 25x25 * 3D boards of various sizes: 3x3x3, 4x4x4, 5x5x5 * Cutom 2D boards, including: 4x4, Jigsaw, Samurai, XSudoku * GUI for playing, saving, printing, solving and dubbing puzzles * Automatic solver that can provide hints should you get stuck
 msgid "KSudoku is a 2D and 3D Sudoku puzzle generator and solver for KDE.  Among its features are:  * 2D boards of various sizes: 9x9, 16x16, 25x25 * 3D boards of various sizes: 3x3x3, 4x4x4, 5x5x5 * Cutom 2D boards, including: 4x4, Jigsaw, Samurai, XSudoku * GUI for playing, saving, printing, solving and dubbing puzzles * Automatic solver that can provide hints should you get stuck"
 msgstr ""
+"KSudoku je 2D i 3D sudoku puzle generator i riješavač za KDE.  Među "
+"značajkama su:  * 2D table raznih veličina: 9x9, 16x16, 25x25 * 3D table "
+"raznih veličina: 3x3x3, 4x4x4, 5x5x5 * Namjestive 2D table, uključujući 4x4, "
+"Jigsaw, Samurai, XSudoku * GUI za igranje, spremanje, printanje, rješavanje "
+"i sinkronizaciju puzli * Automatski riješavač sa savjetima ako ste zapeli"
 
 #: Desktop Files - This is a one or two player boardgame for KDE.  One or two player try to occupy a game board of 9 fields containing 9 holes.  Each of the fields as well as the game itself is won by placing 3 pieces of  the same color into one row, coloumn or diagonal (ala Tic-Tac-Toe). However,  the places where to place your pieces is determined by dice adding a  random luck factor to the game.
 msgid "This is a one or two player boardgame for KDE.  One or two player try to occupy a game board of 9 fields containing 9 holes.  Each of the fields as well as the game itself is won by placing 3 pieces of  the same color into one row, coloumn or diagonal (ala Tic-Tac-Toe). However,  the places where to place your pieces is determined by dice adding a  random luck factor to the game."
@@ -2756,6 +2815,8 @@ msgstr ""
 #: Desktop Files - TaxiPilot is based on the Spacetaxi C64game.  The objective is to pick up passengers waiting on a number of platforms and  to drop them where they want to go.
 msgid "TaxiPilot is based on the Spacetaxi C64game.  The objective is to pick up passengers waiting on a number of platforms and  to drop them where they want to go."
 msgstr ""
+"TaxiPilot je zasnivana na Spacetaxi C64 igri.  Cilj je pokupiti putnike koji "
+"čekaju na nekoliko platformi i  voziti ih do odredišta do kojeg žele stići."
 
 #: Desktop Files - A jigsaw puzzle game that uses tetrominoes for the pieces. Any image can be imported and used to create puzzles with a wide range of sizes. Games are saved automatically, and you can select between currently in progress games.
 msgid "A jigsaw puzzle game that uses tetrominoes for the pieces. Any image can be imported and used to create puzzles with a wide range of sizes. Games are saved automatically, and you can select between currently in progress games."
@@ -2772,6 +2833,8 @@ msgstr ""
 #: Desktop Files - tuxtype is an educational typing tutorial game for children starring Tux, the Linux Penguin.
 msgid "tuxtype is an educational typing tutorial game for children starring Tux, the Linux Penguin."
 msgstr ""
+"tuxtype je obrazovna igra tipkanja za djecu u kojoj je zvijezda Tux, Linux "
+"pingvin."
 
 #: Desktop Files - Almost everyone has heard of the Worms(R) series of games, developed by Team17. Worms was created in 1990, the goal of the game consisting of a several teams of "worms" fighting to the death on a 2D map. Wormux is heavily influenced by all games in this genre, including Scorched Earth and Liero.  Wormux is free software clone of this game concept. Though currently under heavy development, it is already very playable, with lots of weapons (Dynamite, Baseball Bat, Teleportation, etc.). There are also lots of maps available for your battling pleasure! Wormux takes the genre to the next level, with great customisation options leading to great gameplay. There is a wide selection of teams, from the Aliens to the Chickens. Also, new battlefields can be downloaded from the Internet, making strategy an important part of each battle.  Renamed to WarMUX (WAR of Mascots from UniX):
 msgid "Almost everyone has heard of the Worms(R) series of games, developed by Team17. Worms was created in 1990, the goal of the game consisting of a several teams of "worms" fighting to the death on a 2D map. Wormux is heavily influenced by all games in this genre, including Scorched Earth and Liero.  Wormux is free software clone of this game concept. Though currently under heavy development, it is already very playable, with lots of weapons (Dynamite, Baseball Bat, Teleportation, etc.). There are also lots of maps available for your battling pleasure! Wormux takes the genre to the next level, with great customisation options leading to great gameplay. There is a wide selection of teams, from the Aliens to the Chickens. Also, new battlefields can be downloaded from the Internet, making strategy an important part of each battle.  Renamed to WarMUX (WAR of Mascots from UniX):"
@@ -2792,6 +2855,7 @@ msgstr ""
 #: Desktop Files - Zaz ain't Z*** is a puzzle game where the player has to arrange balls in triplets.
 msgid "Zaz ain't Z*** is a puzzle game where the player has to arrange balls in triplets."
 msgstr ""
+"Zaz ain't Z*** je puzle igra gdje igrač mora razmjestiti lopte u trojke."
 
 #: Desktop Files - Mnemosyne resembles a traditional flash-card program but with an important  twist: it uses a sophisticated algorithm to schedule the best time for  a card to come up for review.
 msgid "Mnemosyne resembles a traditional flash-card program but with an important  twist: it uses a sophisticated algorithm to schedule the best time for  a card to come up for review."
@@ -2820,6 +2884,8 @@ msgstr ""
 #: Desktop Files - Zoneminder is an all-in-one GPL'd security and surveillance camera solution. Fully web-based system for viewing and analyzing security camera feeds.  
 msgid "Zoneminder is an all-in-one GPL'd security and surveillance camera solution. Fully web-based system for viewing and analyzing security camera feeds.  "
 msgstr ""
+"Zoneminder je GPL rješenje za sigurnosne i nadzorne kamere. Potpuno web-"
+"zasnivano sučelje za pregedavanje i analiziranje sigurnosnih kamera.  "
 
 #: Desktop Files - F-Prot Antivirus for BSD Workstations utilizes the renowned F-Prot Antivirus scanning engine for primary scan but has in addition to that a system of internal heuristics devised to search for unknown viruses.  This version of F-Prot is a command line on-demand scanner.  Please note that the license explicitly permits that F-Prot Antivirus for BSD Workstations is free for personal users on personal workstations. For any other use please consult their website for licensing information.
 msgid "F-Prot Antivirus for BSD Workstations utilizes the renowned F-Prot Antivirus scanning engine for primary scan but has in addition to that a system of internal heuristics devised to search for unknown viruses.  This version of F-Prot is a command line on-demand scanner.  Please note that the license explicitly permits that F-Prot Antivirus for BSD Workstations is free for personal users on personal workstations. For any other use please consult their website for licensing information."
@@ -2867,6 +2933,9 @@ msgstr ""
 #: Desktop Files - NetSurf is a lightweight cross-platform Web browser. It supports the HTML 4 and CSS standards and provides a small, fast, and comprehensive Web browsing solution. NetSurf was originally written for RISC OS.
 msgid "NetSurf is a lightweight cross-platform Web browser. It supports the HTML 4 and CSS standards and provides a small, fast, and comprehensive Web browsing solution. NetSurf was originally written for RISC OS."
 msgstr ""
+"NetSurf je lagan i više platformski web preglednik. Podržava HTML 4 i CSS "
+"standarde i pruža maleno, brzo, i opsežno rješenje za web preglednik. "
+"NetSurf je originalno napisan za RISC OS."
 
 #: Desktop Files - Red5 is an Open Source Flash Server written in Java that supports: - Streaming Audio/Video: FLV, MP3, F4V, MP4, AAC, M4A  - Recording Client Streams (FLV only) - Shared Objects - Live Stream Publishing: Sorenson, VP6, h.264, Nelly Moser,    MP3, Speex, AAC, NSV  - Remoting 
 msgid "Red5 is an Open Source Flash Server written in Java that supports: - Streaming Audio/Video: FLV, MP3, F4V, MP4, AAC, M4A  - Recording Client Streams (FLV only) - Shared Objects - Live Stream Publishing: Sorenson, VP6, h.264, Nelly Moser,    MP3, Speex, AAC, NSV  - Remoting "
@@ -2879,6 +2948,10 @@ msgstr ""
 #: Desktop Files - xxxterm is a minimalists web browser. It strives to be vi-like for heavy keyboard users while maintaining traditional web browser behaviour. It is ISC licensed. It is based on webkit using GTK+. 
 msgid "xxxterm is a minimalists web browser. It strives to be vi-like for heavy keyboard users while maintaining traditional web browser behaviour. It is ISC licensed. It is based on webkit using GTK+. "
 msgstr ""
+"xxxterm je minimalističan web preglednik. Teži da bude poput vi-a za "
+"korisnike koji koriste najviše tipkovnicu a da pritom i dalje održava "
+"tradicionalno ponašanje web preglednika. Licenciran pod ISC. Koristi webkit "
+"i GTK+. "
 
 #: Desktop Files - X File Explorer (Xfe) is an MS-Explorer like file manager for X. It is based on the popular, but discontinued, X Win Commander, which was developed by Maxim Baranov.  Xfe aims to be the file manager of choice for all the Unix addicts!
 msgid "X File Explorer (Xfe) is an MS-Explorer like file manager for X. It is based on the popular, but discontinued, X Win Commander, which was developed by Maxim Baranov.  Xfe aims to be the file manager of choice for all the Unix addicts!"
@@ -2887,6 +2960,7 @@ msgstr ""
 #: Desktop Files - Password Gorilla is cross-platform Password Manager. It is  compatible with 
 msgid "Password Gorilla is cross-platform Password Manager. It is  compatible with "
 msgstr ""
+"Password Gorilla je više platformski upravitelj lozinki. Kompatibilan je sa "
 
 #: Desktop Files - Kamikaze is a Bomberman-style game for KDE with support  for multiplayer games.  * contains a level editor * allows for level uploads and downloads using the KDE   Get Hot New Stuff (GHNS) framework * multiplayer games via GGZ are possible * comes with 4 different themes, more can be created  The goal of the game is to run around in labyrinths and place some bombs to fend off your enemies, while trying to collect various items.
 msgid "Kamikaze is a Bomberman-style game for KDE with support  for multiplayer games.  * contains a level editor * allows for level uploads and downloads using the KDE   Get Hot New Stuff (GHNS) framework * multiplayer games via GGZ are possible * comes with 4 different themes, more can be created  The goal of the game is to run around in labyrinths and place some bombs to fend off your enemies, while trying to collect various items."
