@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-05 03:37-0700\n"
+"PO-Revision-Date: 2012-03-05 23:07+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: dialogConfig#1
+msgctxt "dialogConfig#1"
+msgid "Configuration"
+msgstr "Postavke"
+
+#: dialogConfig#2
+msgctxt "dialogConfig#2"
+msgid "&Save"
+msgstr "&Sačuvaj"
+
+#: dialogConfig#3
+msgctxt "dialogConfig#3"
+msgid "Alt+S"
+msgstr "Alt+S"
+
+#: dialogConfig#4
+msgctxt "dialogConfig#4"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: dialogConfig#5
+msgctxt "dialogConfig#5"
+msgid "Alt+C"
+msgstr "Alt+O"
+
+#: dialogConfig#6
+msgid "Jail Network Interface"
+msgstr "Jail mrežno sučelje"
+
+#: dialogConfig#7
+msgid "Jail Directory"
+msgstr "Jail direktorij"
+
+#: dialogConfig#8
+msgid "Temp Directory"
+msgstr "Temp direktorij"
+
+#: dialogConfig#9
+msgid "Select Jail Directory"
+msgstr "Izaberi Jail direktorij"
+
+#: dialogConfig#10
+msgid "Select Temp Directory"
+msgstr "Izaberi Temp direktorij"
+
+#: dialogCreateJail#1
+msgid "Create new Jail"
+msgstr "Napravi novi Jail"
+
+#: dialogCreateJail#2
+msgid "Create"
+msgstr "Napravi"
+
+#: dialogCreateJail#3
+msgctxt "dialogCreateJail#3"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: dialogCreateJail#4
+msgctxt "dialogCreateJail#4"
+msgid "Alt+C"
+msgstr "Alt+O"
+
+#: dialogCreateJail#5
+msgctxt "dialogCreateJail#5"
+msgid "New Jail"
+msgstr "Novi Jail"
+
+#: dialogCreateJail#6
+msgid "IP Address"
+msgstr "IP adresa"
+
+#: dialogCreateJail#7
+msgctxt "dialogCreateJail#7"
+msgid "999\\.999\\.999\\.999; "
+msgstr "999\\.999\\.999\\.999; "
+
+#: dialogCreateJail#8
+msgctxt "dialogCreateJail#8"
+msgid "Hostname"
+msgstr "Hostname"
+
+#: dialogCreateJail#9
+msgid "Jailbird"
+msgstr "Jailbird"
+
+#: dialogCreateJail#10
+msgid "Include system source"
+msgstr "Uključi izvorni kod sustava"
+
+#: dialogCreateJail#11
+msgid "Include ports tree"
+msgstr "Uključi ports stablo"
+
+#: dialogCreateJail#12
+msgid "Start jail at system bootup"
+msgstr "Pokreni Jail pri podizanju sustava"
+
+#: dialogDisplayOutput#1
+msgid "Command Output"
+msgstr "Izlaz naredbe"
+
+#: dialogDisplayOutput#2
+msgid "&Close"
+msgstr "&Zatvori"
+
+#: dialogDisplayOutput#3
+msgctxt "dialogDisplayOutput#3"
+msgid "Alt+C"
+msgstr "Alt+Z"
+
+#: dialogImport#1
+msgctxt "dialogImport#1"
+msgid "Import Jail"
+msgstr "Uvezi Jail"
+
+#: dialogImport#2
+msgid ""
+"You have the option to change the IP / Hostname of the imported jail. Any "
+"internal references to the old IP / hostname may still need to be changed "
+"after importing. "
+msgstr ""
+"Imate priliku promijeniti IP / Hostname uvezenog jail-a. Bilo koje interne "
+"reference na stari IP / hostname možda i dalje trebate promijeniti nakon "
+"uvoza. "
+
+#: dialogImport#3
+msgid "Change IP Address"
+msgstr "Promijeni IP adresu"
+
+#: dialogImport#4
+msgctxt "dialogImport#4"
+msgid "999\\.999\\.999\\.999; "
+msgstr "999\\.999\\.999\\.999; "
+
+#: dialogImport#5
+msgid "..."
+msgstr "..."
+
+#: dialogImport#6
+msgid "Change Hostname"
+msgstr "Promijeni Hostname"
+
+#: dialogImport#7
+msgid "&Ok"
+msgstr "&U redu"
+
+#: dialogImport#8
+msgctxt "dialogImport#8"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: dialogSetupUser#1
+msgid "Setup Users"
+msgstr "Postavi korisnike"
+
+#: dialogSetupUser#2
+msgctxt "dialogSetupUser#2"
+msgid "&Save"
+msgstr "&Sačuvaj"
+
+#: dialogSetupUser#3
+msgctxt "dialogSetupUser#3"
+msgid "Alt+S"
+msgstr "Alt+S"
+
+#: dialogSetupUser#4
+msgctxt "dialogSetupUser#4"
+msgid "&Cancel"
+msgstr "&Odustani"
+
+#: dialogSetupUser#5
+msgctxt "dialogSetupUser#5"
+msgid "Alt+C"
+msgstr "Alt+O"
+
+#: dialogSetupUser#6
+msgid "Root and User setup"
+msgstr "Root i korisničke postavke"
+
+#: dialogSetupUser#7
+msgid "Please enter a password for root:"
+msgstr "Molimo unesite zaporku za root:"
+
+#: dialogSetupUser#8
+msgid "Root Password"
+msgstr "Root zaporka"
+
+#: dialogSetupUser#9
+msgid "Root Password (Confirm)"
+msgstr "Root zaporka (potvrda)"
+
+#: dialogSetupUser#10
+msgid ""
+"Please enter a username & password to create:\n"
+"(This is required to ssh into this jail and 'su' to root)"
+msgstr ""
+"Molimo unesite korisničko ime & zaporku:\n"
+"(Ovo je potrebno za ssh pristup u ovaj Jail i za 'su' u root)"
+
+#: dialogSetupUser#11
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: dialogSetupUser#12
+msgid "Password"
+msgstr "Zaporka"
+
+#: dialogSetupUser#13
+msgid "Password (Confirm)"
+msgstr "Zaporka (potvrda)"
+
+#: dialogWarden#1
+msgid "The Warden"
+msgstr "The Warden"
+
+#: dialogWarden#2
+msgid "Available Jails"
+msgstr "Dostupni Jail"
+
+#: dialogWarden#3
+msgid "IP"
+msgstr "IP"
+
+#: dialogWarden#4
+msgctxt "dialogWarden#4"
+msgid "Hostname"
+msgstr "Hostname"
+
+#: dialogWarden#5
+msgid "Autostart"
+msgstr "Automatsko pokretanje"
+
+#: dialogWarden#6
+msgid "Status"
+msgstr "Status"
+
+#: dialogWarden#7
+msgid "&File"
+msgstr "&Datoteka"
+
+#: dialogWarden#8
+msgid "Jails"
+msgstr "Jails"
+
+#: dialogWarden#9
+msgid "E&xit"
+msgstr "I&zlaz"
+
+#: dialogWarden#10
+msgid "Exit"
+msgstr "Izlaz"
+
+#: dialogWarden#11
+msgid "fileExitAction"
+msgstr "fileExitAction"
+
+#: dialogWarden#12
+msgctxt "dialogWarden#12"
+msgid "New Jail"
+msgstr "Novi Jail"
+
+#: dialogWarden#13
+msgid "fileCreate_JailAction"
+msgstr "fileCreate_JailAction"
+
+#: dialogWarden#14
+msgid "Refresh"
+msgstr "Osvježi"
+
+#: dialogWarden#15
+msgid "jailsRefreshAction"
+msgstr "jailsRefreshAction"
+
+#: dialogWarden#16
+msgctxt "dialogWarden#16"
+msgid "Configuration"
+msgstr "Postavke"
+
+#: dialogWarden#17
+msgid "jailsConfigurationAction"
+msgstr "jailsConfigurationAction"
+
+#: dialogWarden#18
+msgctxt "dialogWarden#18"
+msgid "Import Jail"
+msgstr "Uvezi Jail"
+
+#: dialogWarden#19
+msgid "fileImport_JailAction"
+msgstr "fileImport_JailAction"
+
+#: dialogWarden#20
+msgid "Running"
+msgstr "Pokrenut"
+
+#: dialogWarden#21
+msgid "Stopped"
+msgstr "Zaustavljen"
+
+#: dialogWarden#22
+msgid "Stop this Jail"
+msgstr "Zaustavi ovaj Jail"
+
+#: dialogWarden#23
+msgid "Toggle Autostart"
+msgstr "Prekidač automatskog pokretanja"
+
+#: dialogWarden#24
+msgid "Install Inmate into jail"
+msgstr "Instaliraj Inmate u Jail"
+
+#: dialogWarden#25
+msgid "View installed packages"
+msgstr "Pregled instaliranih paketa"
+
+#: dialogWarden#26
+msgid "Export jail to .wdn file"
+msgstr "Izvezi jail u .wdn datoteku"
+
+#: dialogWarden#27
+msgid "Delete Jail"
+msgstr "Izbriši Jail"
+
+#: dialogWarden#28
+msgid "Start this Jail"
+msgstr "Pokreni ovaj Jail"
+
+#: dialogWarden#29
+msgid "Stopping Jail"
+msgstr "Zaustavljam Jail"
+
+#: dialogWarden#30
+msgid "Stopping Jail:"
+msgstr "Zaustavljam Jail:"
+
+#: dialogWarden#31
+msgid "Starting Jail"
+msgstr "Pokrećem Jail"
+
+#: dialogWarden#32
+msgid "Starting Jail:"
+msgstr "Pokrećem Jail:"
+
+#: dialogWarden#33
+msgid "Choose a directory to save the finished .wdn file:"
+msgstr "Izaberite direktorij za spremanje .wdn datoteke:"
+
+#: dialogWarden#34
+msgid "Exporting Jail"
+msgstr "Izvozim Jail"
+
+#: dialogWarden#35
+msgid "Exporting Jail:"
+msgstr "Izvozim Jail:"
+
+#: dialogWarden#36
+msgid "Deleting Jail"
+msgstr "Brišem Jail"
+
+#: dialogWarden#37
+msgid "Deleting Jail:"
+msgstr "Brišem Jail:"
+
+#: dialogWarden#38
+msgid "Select warden jail package"
+msgstr "Izaberite paket za warden jail"
+
+#: dialogWarden#39
+msgid "open file dialog"
+msgstr "otvor dijalog"
+
+#: dialogWorking#1
+msgid "Working"
+msgstr "Radim"

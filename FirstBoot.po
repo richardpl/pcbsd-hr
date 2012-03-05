@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-05 03:37-0700\n"
+"PO-Revision-Date: 2012-03-05 23:54+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: Installer#1
+msgid "System Installation"
+msgstr "Instalacija sustava"
+
+#: Installer#2
+msgid "On-Screen Keyboard"
+msgstr "Zaslonska tipkovnica"
+
+#: Installer#3
+msgid "Switch between US layout and user selected layout"
+msgstr "Prebacivanje između US rasporeda i korisnički odabranog rasporeda"
+
+#: Installer#4
+msgid "&Back"
+msgstr "&Nazad"
+
+#: Installer#5
+msgid "&Next"
+msgstr "&Dalje"
+
+#: Installer#6
+msgid ""
+"Welcome to your new PC-BSD system! You may change your language above, and "
+"click next to begin the setup process."
+msgstr ""
+"Dobrodošli u vaš novi PC-BSD sustav! Iznad možete promijeniti vaš jezik. i "
+"kliknite dalje za početak instalacije."
+
+#: Installer#7
+msgid "System Timezone"
+msgstr "Vremenska zona sustava"
+
+#: Installer#8
+msgid "Where are you located? Please select the timezone for your location."
+msgstr "Gdje se nalazite? Molimo odaberite vremensku zonu vaše lokacije."
+
+#: Installer#9
+msgid "Root Password"
+msgstr "Root zaporka"
+
+#: Installer#10
+msgid "Password"
+msgstr "Zaporka"
+
+#: Installer#11
+msgid "Password (Repeat)"
+msgstr "Zaporka (ponovno)"
+
+#: Installer#12
+msgid ""
+"The system or \"root\" password allows you to make changes to your operating "
+"system, and should be kept from non-trusted users. "
+msgstr ""
+"Sistemska ili \"root\" zaporka vam omogućava promjene na vašem sustavu, i "
+"trebate je čuvati od korisnika kojima ne vjerujete. "
+
+#: Installer#13
+msgid "Create a User"
+msgstr "Napravi korisnika"
+
+#: Installer#14
+msgid "Name"
+msgstr "Ime"
+
+#: Installer#15
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: Installer#16
+msgid ""
+"Now you may create a desktop user for this system. After you login, "
+"additional users can easily be created in the Control Panel. "
+msgstr ""
+"Sada možete napraviti korisnika radne površine za ovaj sustav. Nakon "
+"prijave, dodatni korisnici se mogu napraviti u Kontrolnoj ploči. "
+
+#: Installer#17
+msgid "Connect to a Wireless Network"
+msgstr "Spoji se na bežičnu mrežu"
+
+#: Installer#18
+msgid "&Rescan"
+msgstr "&Pretraži"
+
+#: Installer#19
+msgid ""
+"The following wireless networks were found. Click the one you wish to "
+"connect to. If you wish to skip, click \"Next\" below. "
+msgstr ""
+"Sljedeće bežične mreže su pronađene. Kliknite na onu na koju se želite "
+"spojiti. Ako želite ovo preskočiti, kliknite \"Dalje\". "
+
+#: Installer#20
+msgid "Setup is now complete! Press Finish to login to your new desktop."
+msgstr ""
+"Postavke su gotove! Pritisnite Završi za prijavu na vašu novu radnu "
+"površinu."
+
+#: QObject#1
+msgid ""
+"This screen allows you to setup your system language and local "
+"timezone.<br><br>Enabling the option for NTP will keep your computers date "
+"and time in sync via the internet."
+msgstr ""
+"Ovaj ekran vam omogućava postavljanje jezika sustava i lokalnu vremensku "
+"zonu.<br><br>Omogućavanjem NTP opcije vrijeme i datum vaših računala će biti "
+"sinkronizirano preko interneta."
+
+#: QObject#2
+msgid ""
+"On this screen please take a moment to setup and test your keyboard. The "
+"pc104 keyboard is common, although you should select your keyboard model / "
+"layout if it exists as an option."
+msgstr ""
+"Na ovom ekranu molimo testirajte i namjestite vašu tipkovnicu. pc104 "
+"tipkovnica je najzastupljenija, inače trebate odabrati vaš model/raspored "
+"tipaka ako je isti ponuđen."
+
+#: QObject#3
+msgid ""
+"Please select the type of installation you want to perform. If doing an "
+"upgrade please make sure you have created a backup of your files beforehand. "
+"<br><br>Next select if you are installing PC-BSD or FreeBSD. PC-BSD is "
+"recommended for new users and people wanting to run a desktop. FreeBSD does "
+"NOT include a graphical interface by default, and should be installed by "
+"more experienced users.<br><br>If you are booting from a installation or "
+"live DVD/USB/CD then the fastest option is to install from DVD / USB. "
+"Network installation is required when booting from a boot-only media. NOTE: "
+"Network installation is for wired ethernet only, wifi configuration is not "
+"supported at this time."
+msgstr ""
+"Molimo odaberite tip instalacije koju želite izvesti. Ako radite nadogradnju "
+"molimo budite sigurni da ste prethodno napravili sigurnosnu kopiju vaših "
+"podataka. <br><br>Nadalje, odaberite dali želite instalirati PC-BSD ili "
+"FreeBSD. PC-BSD se preporuča za nove korisnike i ljude koji žele koristiti "
+"radnu površinu. FreeBSD ne uključuje zadano grafičko okruženje, i trebao bi "
+"se instalirati od strane iskusnijih korisnika.<br><br>Ako podižete sustav sa "
+"instalacije ili sa live DVD/USB/CD onda je najbrža opcija instalacija sa "
+"DVD / USB. Mrežna instalacija je potrebna pri podizanju sa medija "
+"namijenjenog samo za podizanje sustava. NAPOMENA: Mrežna instalacija je za "
+"žične ethernet uređaje, wifi postavke nisu trenutačno podržane."
+
+#: QObject#4
+msgid ""
+"Please select the disk or partition you wish to use for installation. If you "
+"plan to dual-boot with another operating system you will need a MBR primary "
+"partition available. If you want to format the disk with GPT (Required for "
+"greater than 2TB disks) then you will need to select 'Use Entire "
+"Disk'.<br><br>The default file-system is UFS with Journaling, but advanced "
+"users may want to install with the ZFS filesystem.<br><br>The option for "
+"'Encrypt user data' will encrypt the /usr file-system, which includes your "
+"home directories."
+msgstr ""
+"Molimo odaberite disk ili particiju koju želite koristiti za instalaciju. "
+"Ako planirate dual-boot sa drugim operacijskim sustavom trebati će te "
+"slobodnu MBR primarnu particiju. Ako želite formatirati disk sa GPT-om "
+"(Nužno za diskove veće od 2TB) onda trebate označiti 'Koristi cijeli "
+"disk'.<br><br>Zadani datotečni sustav je UFS sa journalingom, ali napredni "
+"korisnici mogu instalirati ZFS.<br><br>Opcija 'Enkriptiraj korisničke "
+"podatke' će enkriptirati /usr datotečni sustav, koji uključuje vaše početne "
+"direktorije."
+
+#: QObject#5
+msgid ""
+"On this screen you will need to set the password for the system (root) user. "
+"It is also recommended to setup at least one regular user, which is "
+"required for login on PC-BSD. <br><br>If you wish to name this system, "
+"enable the option 'Custom System Hostname' and enter the system nickname. "
+"Otherwise the default pcbsd-xxxx or freebsd-xxxx will be used."
+msgstr ""
+"Na ovom ekranu će te unijeit zaporku za sustav (root) korisnika. Također se "
+"preporuča postavjanje najmanje jednog običnog korisnika, koji je potreban za "
+"prijavu u PC-BSD. <br><br>Ako želite dati ime ovom računalu, odaberite "
+"opciju 'Korisnički zadano ime računala' i unesite ime. Inače zadani pcbsd-"
+"xxxx ili freebsd-xxxx će se koristiti."
+
+#: QObject#6
+msgid ""
+"PC-BSD gives you the option of customizing your system with a variety of "
+"Desktops and other 'Meta-pkgs'. If you are unsure what these are, then "
+"please accept the defaults. You are always able to add / remove these "
+"packages post-installation via the 'System Manager' in the PC-BSD control "
+"panel."
+msgstr ""
+"PC-BSD vam omogućava prilagođavanje vašeg sustava sa raznim paketima. Ako "
+"niste sigurni što su isti, onda molimo prihvatite zadane. Uvijek će te moći "
+"dodati / ukloniti ove pakete nakon instalacije preko Upravljača sustava iz "
+"PC-BSD kontrolne ploče."
+
+#: QObject#7
+msgid ""
+"Please select any optional components you wish to have installed on this "
+"system. These may also be added post-installation via the AppCafe or System "
+"Manager."
+msgstr ""
+"Molimo odaberite bilo koju neobaveznu komponentu koju želite instalirati. "
+"Iste se mogu dodati nakon instalacija preko AppCafe-a ili upravljača "
+"sustava."
+
+#: QObject#8
+msgid ""
+"This screen will display a summary of your installation options. Please "
+"confirm these are correct before hitting Next. This is your last chance to "
+"cancel before changes are made to your disk."
+msgstr ""
+"Ovaj ekran će prikazati sažeti pregled vaših instalacijskih opcija. Molimo "
+"potvrdite iste kao točne prije nego što kliknete Dalje. Ovo je vaša zadnja "
+"prilika za odustajanje prije nego se promjene naprave na vašem disku."
+
+#: QObject#9
+msgid ""
+"The system is now installing! This process may take a while depending upon "
+"the options chosen and the system speed."
+msgstr ""
+"Sustav se sada instalira! Ovaj proces može potrajati zavisno o odabranim "
+"opcijama i o brzini računala."
+
+#: QObject#10
+msgid ""
+"Success! The system is now installed, you may remove any DVD/CD/USB from the "
+"system and reboot into your new operating system."
+msgstr ""
+"Sustav je sada instaliran, možete ukloniti DVD/CD/USB iz vašeg računala i "
+"ponovno pokrenuti računalo u vaš novi operacijski sustav."
+
+#: dialogHelp#1
+msgid "Help"
+msgstr "Pomoć"
+
+#: dialogHelp#2
+msgctxt "dialogHelp#2"
+msgid "&Close"
+msgstr "&Zatvori"
+
+#: dialogInfoBox#1
+msgid "Dialog"
+msgstr "Dijalog"
+
+#: dialogInfoBox#2
+msgctxt "dialogInfoBox#2"
+msgid "&Close"
+msgstr "&Zatvori"
+
+#: netKey#1
+msgid "Please Enter Network Key"
+msgstr "Molimo unesite mrežni ključ"
+
+#: netKey#2
+msgid "SSID"
+msgstr "SSID"
+
+#: netKey#3
+msgid "Network Key"
+msgstr "Mrežni ključ"
+
+#: netKey#4
+msgid "Network Key (Repeat)"
+msgstr "Mrežni ključ (ponovno)"
+
+#: netKey#5
+msgid "Show network key as text"
+msgstr "Prikaži mrežni ključ kao tekst"
+
+#: netKey#6
+msgid "Apply"
+msgstr "Primijeni"
+
+#: netKey#7
+msgid "Cancel"
+msgstr "Odustani"
+
+#: netKey#8
+msgid "Network Key Error"
+msgstr "Greška mrežnog ključa"
+
+#: netKey#9
+msgid "Error: The entered network keys do not match!\n"
+msgstr "Greška: Uneseni mrežni ključevi se ne podudaraju!\n"
+
+#: widgetKeyboard#1
+msgid "Keyboard Settings"
+msgstr "Postavke tipkovnice"
+
+#: widgetKeyboard#2
+msgid "Key Layout"
+msgstr "Raspored tipaka"
+
+#: widgetKeyboard#3
+msgid "Variant"
+msgstr "Varijanta"
+
+#: widgetKeyboard#4
+msgid "Keyboard Model"
+msgstr "Model tipkovnice"
+
+#: widgetKeyboard#5
+msgid "( you may type into the space below to test your selected settings. )"
+msgstr ""
+"( možete tipkati u prazan prostor niže kako bi testirali izabrane postavke. "
+")"
+
+#: widgetKeyboard#6
+msgid "&Apply"
+msgstr "&Primijeni"
+
+#: widgetKeyboard#7
+msgctxt "widgetKeyboard#7"
+msgid "&Close"
+msgstr "&Zatvori"

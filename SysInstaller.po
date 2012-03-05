@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-12-08 03:48-0700\n"
-"PO-Revision-Date: 2011-11-23 22:00+0200\n"
+"POT-Creation-Date: 2012-03-05 03:37-0700\n"
+"PO-Revision-Date: 2012-03-06 00:09+0200\n"
 "Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -14,6 +14,228 @@ msgstr ""
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.1.6\n"
 
+#: Installer#1
+msgid "System Installation"
+msgstr "Instalacija sustava"
+
+#: Installer#2
+msgid "On-Screen Keyboard"
+msgstr "Tipkovnica na zaslonu"
+
+#: Installer#3
+msgid "Switch between US layout and user selected layout"
+msgstr "Promjena između US i korisnički odabranog rasporeda tipkovnice"
+
+#: Installer#4
+msgid "Ab&ort"
+msgstr "P&rekini"
+
+#: Installer#5
+msgid "&Back"
+msgstr "&Nazad"
+
+#: Installer#6
+msgid "&Next"
+msgstr "&Dalje"
+
+#: Installer#7
+msgid ""
+"Welcome to PC-BSD! Please select your language and click next to continue."
+msgstr ""
+"Dobrodošli u PC-BSD! Molimo odaberite vaš jezik i kliknite dalje za "
+"nastavak."
+
+#: Installer#8
+msgid "Desktop Selection"
+msgstr "Odabir radne površine"
+
+#: Installer#9
+msgid "&Customize"
+msgstr "&Prilagodi"
+
+#: Installer#10
+msgid "Summary"
+msgstr "Pregled"
+
+#: Installer#11
+msgid "Disk Selection"
+msgstr "Odabir diska"
+
+#: Installer#12
+msgid "Installation"
+msgstr "Instalacija"
+
+#: Installer#13
+msgid ""
+"Your system is now being installed! This process may take a while, depending "
+"upon the installation options chosen, and system speed. You will be "
+"notified when the installation is finished."
+msgstr ""
+"Vaš sustav se sada instalira! Ovaj proces može potrajati, ovisno o odabranim "
+"opcijama i brzini računala. Obavjetiti ćemo vas kada instalacija bude "
+"gotova."
+
+#: Installer#14
+msgid ""
+"Your system is now installed! You may eject any install media, and click "
+"Finish to reboot. "
+msgstr ""
+"Vaš sustav je sada instaliran! Možete izvaditi vaš instalacijski medij, i "
+"kliknite Završi za ponovno pokretanje. "
+
+#: Installer#15
+msgctxt "Installer#15"
+msgid "Installing to file-system mounted at /mnt"
+msgstr "Instaliranje na datotečni sustav namješten na /mnt"
+
+#: Installer#16
+msgctxt "Installer#16"
+msgid "The disk will be setup with the following configuration:"
+msgstr "Ovaj disk će se namjestiti sa sljedećim postavkama:"
+
+#: Installer#17
+msgctxt "Installer#17"
+msgid "Disk:"
+msgstr "Disk:"
+
+#: Installer#18
+msgctxt "Installer#18"
+msgid "Mirroring:"
+msgstr "Zrcaljenje:"
+
+#: Installer#19
+msgctxt "Installer#19"
+msgid "Partition:"
+msgstr "Particija:"
+
+#: Installer#20
+msgctxt "Installer#20"
+msgid "FileSystem:"
+msgstr "Datotečni sustav:"
+
+#: Installer#21
+msgctxt "Installer#21"
+msgid "Size:"
+msgstr "Veličina:"
+
+#: Installer#22
+msgctxt "Installer#22"
+msgid "Mount:"
+msgstr "Mount:"
+
+#: Installer#23
+msgid "Custom Package Selection"
+msgstr "Odabir paketa"
+
+#: Installer#24
+msgid "The following meta-pkgs will be installed:"
+msgstr "Sljedeći meta-paketi će biti instalirani:"
+
+#: Installer#25
+msgid "PC-BSD Installer"
+msgstr "PC-BSD Instaler"
+
+#: Installer#26
+msgid ""
+"You currently have a custom package set configured. Continue changing to a "
+"default set?"
+msgstr ""
+"Postavili ste vlastiti skup paketa. Ipak nastaviti sa zadanim skupom paketa?"
+
+#: Installer#27
+msgid ""
+"FreeBSD is an advanced operating system for modern server, desktop, and "
+"embedded computer platforms. FreeBSD's code base has undergone over thirty "
+"years of continuous development, improvement, and optimization. It is "
+"developed and maintained by a large team of individuals. FreeBSD provides "
+"advanced networking, impressive security features, and world class "
+"performance and is used by some of the world's busiest web sites and most "
+"pervasive embedded networking and storage devices."
+msgstr ""
+"FreeBSD je napredan operacijski sustav za moderan server, desktop, i "
+"embedded računalne platforme. FreeBSD kod se kontinuirano razvija, "
+"poboljšava, i optimizira više od trideset godina. Razvijan i održavan od "
+"velikog tima pojedinaca. FreeBSD nudi napredne mrežne alate, impresivne "
+"sigurnosne značajke, te najbolje performanse i koriste ga neka od svjetskih "
+"najprometnijih web sjedišta kao i naj prožetiji embedded mrežni uređaji te "
+"uređaji za pohranu podataka."
+
+#: Installer#28
+msgid ""
+"KDE is a full-featured desktop environment, which includes support for 3D "
+"desktop effects, multiple desktops, and a variety of built-in tools and "
+"utilities for both new and power-desktop users.<br><br>* Recommended for "
+"higher-end systems with 2GB of RAM or more *"
+msgstr ""
+"KDE je okruženje radne površine. koje uključuje podršku za 3D efekte, "
+"višestruke radne površine, i varijacije ugrađenih alata kao za nove tako i "
+"ta napredne korisnike. <br><br>* Preporuča se za sustave sa 2GB RAM ili više "
+"*"
+
+#: Installer#29
+msgid ""
+"LXDE is a lightweight desktop, minimalist in nature, with support for "
+"multiple-desktops, a system tray, application menu and more.<br><br>* "
+"Recommended for netbooks, or lower-end systems * "
+msgstr ""
+"LXDE je lagano okruženje radne površine, minimalno, sa podrškom za više "
+"radnih površina, sistemsku traku, meni sa aplikacijama i više.<br><br>* "
+"Preporuča se za netbook-ove, i slabija računala * "
+
+#: Installer#30
+msgid ""
+"GNOME is a full-featured desktop environment, complete with a large number "
+"of integrated utilities and tools for desktop users."
+msgstr ""
+"GNOME je okruženje radne površine, sa velikim brojem integriranih alata za "
+"desktop korisnike."
+
+#: Installer#31
+msgid ""
+"XFCE is a light and modular desktop, with a number of features to enhance "
+"customizing the desktop to your liking."
+msgstr "XFCE je lagan i modularan desktop."
+
+#: Installer#32
+msgid "Start the installation now?"
+msgstr "Započni instalaciju sada?"
+
+#: Installer#33
+msgid "Are you sure you want to abort this installation?"
+msgstr "Sigurni ste da želite prekinuti instalaciju?"
+
+#: Installer#34
+msgid "Failed!"
+msgstr "Neuspješno!"
+
+#: Installer#35
+msgid "The installer has encountered an error and has been halted."
+msgstr "Pojavila se greška prilikom instalacije i ista je zaustavljena."
+
+#: Installer#36
+msgid "Do you want to generate an error report?"
+msgstr "Želite li napraviti izvještaj o grešci?"
+
+#: Installer#37
+msgid "Restart the system now?"
+msgstr "Ponovno pokrenuti računalo?"
+
+#: Installer#38
+msgid "Finish"
+msgstr "Završi"
+
+#: Installer#39
+msgid "Extracting system image..."
+msgstr "Izdvajam sistemski odraz..."
+
+#: Installer#40
+msgid "Installing system... This may take a while..."
+msgstr "Instaliranje sistema... Ovo može potrajati..."
+
+#: Installer#41
+msgid "Installing Desktop-Packages... This may take a while..."
+msgstr "Instaliranje paketa radne površine.. Ovo može potrajati..."
+
 #: QObject#1
 msgid ""
 "This screen allows you to setup your system language and local "
@@ -21,7 +243,7 @@ msgid ""
 "and time in sync via the internet."
 msgstr ""
 "Ovaj ekran vam omogućava postavljanje jezika sustava i lokalnu vremensku "
-"zonu. <br><br>Omogućavanjem NTP opcije će održavati datum i vrijeme vaših "
+"zonu. <br><br>Omogućavanjem NTP opcije će te održavati datum i vrijeme vaših "
 "računala sinkronizirano preko interneta."
 
 #: QObject#2
@@ -103,7 +325,7 @@ msgid ""
 msgstr ""
 "PC-BSD nudi opciju namještanja vašeg sustava sa raznolikim radnim površinama "
 "i ostalim 'Meta-paketima'. Ako niste sigurni što su isti, onda molimo "
-"prihvatite početne opcije. Uvije možete dodati/ukloniti te pakete nakon "
+"prihvatite zadane opcije. Uvijek možete dodati/ukloniti te pakete nakon "
 "instalacije preko 'Upravitelja sustava' u PC-BSD upravljačkoj ploči."
 
 #: QObject#7
@@ -131,8 +353,8 @@ msgid ""
 "The system is now installing! This process may take a while depending upon "
 "the options chosen and the system speed."
 msgstr ""
-"Sustava se sada instalira! Ovaj process može trajati nekoliko minuta ovisno "
-"o odabranim opcijama i brzini računala."
+"Sustav se sada instalira! Ovaj process može trajati nekoliko minuta ovisno o "
+"odabranim opcijama i brzini računala."
 
 #: QObject#10
 msgid ""
@@ -142,514 +364,19 @@ msgstr ""
 "Uspjeh! Vaš sustav je sada instaliran, možete odvojiti bilo koji DVD/CD/USB "
 "od sustava i ponovno pokrenite vaš novi operacijski sustav."
 
-#: SysInstaller#1
-msgid "Language"
-msgstr "Jezik"
-
-#: SysInstaller#2
-msgid "Welcome & Language selection"
-msgstr "Dobrodošli & odabir jezika"
-
-#: SysInstaller#3
-msgid "Keyboard"
-msgstr "Tipkovnica"
-
-#: SysInstaller#4
-msgid "Keyboard setup"
-msgstr "Podešavanje tipkovnice"
-
-#: SysInstaller#5
-msgid "Select installation type"
-msgstr "Izaberi način instaliranja"
-
-#: SysInstaller#6
-msgid "System"
-msgstr "Sustav"
-
-#: SysInstaller#7
-msgid "Disk setup"
-msgstr "Podešavanje diska"
-
-#: SysInstaller#8
-msgid "Disk"
-msgstr "Disk"
-
-#: SysInstaller#9
-msgid "Users"
-msgstr "Korisnici"
-
-#: SysInstaller#10
-msgid "User Creation"
-msgstr "Stvaranje Korisnika"
-
-#: SysInstaller#11
-msgid "Summary"
-msgstr "Pregled"
-
-#: SysInstaller#12
-msgid "Pre-Install Summary"
-msgstr "Pregled pred-instalaciju"
-
-#: SysInstaller#13
-msgid "Installation"
-msgstr "Instalacija"
-
-#: SysInstaller#14
-msgid "Installation Progress"
-msgstr "Napredak instaliranja"
-
-#: SysInstaller#15
-msgid "Finished"
-msgstr "Završeno"
-
-#: SysInstaller#16
-msgid "Installation Finished"
-msgstr "Instalacija je završena"
-
-#: SysInstaller#17
-msgid "Time Setup"
-msgstr "Podešavanje vremena"
-
-#: SysInstaller#18
-msgid "Time and Region setup"
-msgstr "Podešavanje vremena i regije"
-
-#: SysInstaller#19
-msgid "Configuration Finished"
-msgstr "Podešavanje završeno"
-
-#: SysInstaller#20
-msgid "The system will be installed with the following options:"
-msgstr "Sustav će biti instaliran sa sljedećim opcijama:"
-
-#: SysInstaller#21
-msgid "Performing a fresh install of PC-BSD"
-msgstr "Izvođenje svježe instalacije PC-BSD-a"
-
-#: SysInstaller#22
-msgid "Performing a fresh install of FreeBSD"
-msgstr "Izvođenje svježe instalacije FreeBSD-a"
-
-#: SysInstaller#23
-msgid "Installing From:"
-msgstr "Instaliranje iz:"
-
-#: SysInstaller#24
-msgid "DVD/USB"
-msgstr "DVD/USB"
-
-#: SysInstaller#25
-msgid "PC-BSD Installer"
-msgstr "PC-BSD Instaler"
-
-#: SysInstaller#26
-msgid "Finish"
-msgstr "Završi"
-
-#: SysInstaller#27
-msgid "Start the installation now?"
-msgstr "Započni instalaciju sada?"
-
-#: SysInstaller#28
-msgid "Are you sure you want to abort this installation?"
-msgstr "Sigurni ste da želite prekinuti instalaciju?"
-
-#: SysInstaller#29
-msgid "TextLabel"
-msgstr "Tekstualna oznaka"
-
-#: SysInstaller#30
-msgid "Language Selection"
-msgstr "Odabir jezika"
-
-#: SysInstaller#31
-msgid "Welcome"
-msgstr "Dobrodošli"
-
-#: SysInstaller#32
-msgid "Preferred Layout"
-msgstr "Željeni razmještaj"
-
-#: SysInstaller#33
-msgid "Preferred Variant"
-msgstr "Željena varijacija"
-
-#: SysInstaller#34
-msgid "( you may type into the space below to test your selected settings. )"
-msgstr ""
-"( možete tipkati u slobodnom prostoru niže kako biste testirali svoje "
-"postavke. )"
-
-#: SysInstaller#35
-msgid "DVD / USB"
-msgstr "DVD / USB"
-
-#: SysInstaller#36
-msgid "Network / Internet"
-msgstr "Mreža / Internet"
-
-#: SysInstaller#37
-msgid "IP Address"
-msgstr "IP adresa"
-
-#: SysInstaller#38
-msgid "000.000.000.000; "
-msgstr "000.000.000.000; "
-
-#: SysInstaller#39
-msgid "Netmask"
-msgstr "Netmask"
-
-#: SysInstaller#40
-msgid "Nameserver (DNS)"
-msgstr "Imenski poslužitelj (DNS)"
-
-#: SysInstaller#41
-msgid "Gateway"
-msgstr "Gateway"
-
-#: SysInstaller#42
-msgid "Use Entire Disk"
-msgstr "Koristi cijeli disk"
-
-#: SysInstaller#43
-msgid "ID"
-msgstr "ID"
-
-#: SysInstaller#44
-msgid "Slice"
-msgstr "Slice"
-
-#: SysInstaller#45
-msgid "Mount"
-msgstr "Mount"
-
-#: SysInstaller#46
-msgid "Size"
-msgstr "Veličina"
-
-#: SysInstaller#47
-msgctxt "SysInstaller#47"
-msgid "Type"
-msgstr "Tip"
-
-#: SysInstaller#48
-msgid "Password:"
-msgstr "Zaporka:"
-
-#: SysInstaller#49
-msgid "Verify password:"
-msgstr "Potvrdi zaporku:"
-
-#: SysInstaller#50
-msgid "Username:"
-msgstr "Korisničko ime:"
-
-#: SysInstaller#51
-msgid "Full name:"
-msgstr "Ime i prezime:"
-
-#: SysInstaller#52
-msgid "Shell:"
-msgstr "Ljuska:"
-
-#: SysInstaller#53
-msgctxt "SysInstaller#53"
-msgid "Add"
-msgstr "Dodaj"
-
-#: SysInstaller#54
-msgctxt "SysInstaller#54"
-msgid "Remove"
-msgstr "Ukloni"
-
-#: SysInstaller#55
-msgid "Local TimeZone"
-msgstr "Lokalna vremenska zona"
-
-#: SysInstaller#56
-msgid "Installation Summary"
-msgstr "Instalacijski pregled"
-
-#: SysInstaller#57
-msgid ""
-"Please check the summary above, and click 'back' to make any corrections."
-msgstr "Molimo provjerite gornji pregled, i kliknite 'nazad' za ispravak."
-
-#: SysInstaller#58
-msgid ""
-"Your system is now being installed! This process may take a while, depending "
-"upon the installation options chosen, and system speed. You will be "
-"notified when the installation is finished."
-msgstr ""
-"Vaš sustav se sada instalira! Ovaj proces može potrajati, ovisno o odabranim "
-"opcijama i brzini računala. Obavjetiti ćemo vas kada instalacija bude "
-"gotova."
-
-#: SysInstaller#59
-msgid "Installation Complete"
-msgstr "Instalacija završena"
-
-#: SysInstaller#60
-msgid ""
-"The installation is now complete! You may now remove any boot media, and "
-"reboot the system to finish."
-msgstr ""
-"Instalacija je završena! Sada možete izbaciti medije za pokretanje iz "
-"raćunala, i ponovno pokrenuti računalo za kraj."
-
-#: SysInstaller#61
-msgid "Selected Components:"
-msgstr "Odabrane komponente:"
-
-#: SysInstaller#62
-msgid "PC-BSD Installer Error"
-msgstr "PC-BSD Instalacijska greška"
-
-#: SysInstaller#63
-msgid "This install requires a disk/slice with at least"
-msgstr "Za instalaciju je potreban disk/slice sa najmanje"
-
-#: SysInstaller#64
-msgid "of disk space."
-msgstr "disk prostora."
-
-#: SysInstaller#65
-msgid "The disk will be setup with the following configuration:"
-msgstr "Ovaj disk će se namjestiti sa sljedećim postavkama:"
-
-#: SysInstaller#66
-msgid "Disk:"
-msgstr "Disk:"
-
-#: SysInstaller#67
-msgid "Mirroring:"
-msgstr "Zrcaljenje:"
-
-#: SysInstaller#68
-msgid "Partition:"
-msgstr "Particija:"
-
-#: SysInstaller#69
-msgid "FileSystem:"
-msgstr "Datotečni sustav:"
-
-#: SysInstaller#70
-msgctxt "SysInstaller#70"
-msgid "Size:"
-msgstr "Veličina:"
-
-#: SysInstaller#71
-msgid "Mount:"
-msgstr "Mount:"
-
-#: SysInstaller#72
-msgid "Root passwords do not match!"
-msgstr "Root zaporke se ne podudarajue!"
-
-#: SysInstaller#73
-msgid "Error: User passwords do not match!"
-msgstr "Greška: Korisničke zaporke se ne podudaraju!"
-
-#: SysInstaller#74
-msgid "Username may contain only letters and numbers!"
-msgstr "Korisničko ime može sadržavati samo slova i brojke!"
-
-#: SysInstaller#75
-msgid "Error: The username"
-msgstr "Greška: Korisničko ime"
-
-#: SysInstaller#76
-msgid "is reserved."
-msgstr "je u upotrebi."
-
-#: SysInstaller#77
-msgid "Error: Root password must be set to continue. "
-msgstr "Greška: Root zaporka mora biti postavljena za nastavak. "
-
-#: SysInstaller#78
-msgid "The following users will be created:"
-msgstr "Slijedeći korisnici će biti napravljeni:"
-
-#: SysInstaller#79
-msgid "Network Interface"
-msgstr "Mrežno sučelje"
-
-#: SysInstaller#80
-msgid "The following partitions will be created during the installation:"
-msgstr "Slijedeće particije će se napraviti prilikom instalacije:"
-
-#: SysInstaller#81
-msgid "Ab&ort"
-msgstr "P&rekini"
-
-#: SysInstaller#82
-msgid "&Back"
-msgstr "&Nazad"
-
-#: SysInstaller#83
-msgid "&Next"
-msgstr "&Dalje"
-
-#: SysInstaller#84
-msgid "The installer has encountered an error and has been halted."
-msgstr "Pojavila se greška prilikom instalacije i ista je zaustavljena."
-
-#: SysInstaller#85
-msgid "Do you want to generate an error report?"
-msgstr "Želite li napraviti izvještaj o grešci?"
-
-#: SysInstaller#86
-msgid "Automatic synchronization with Internet Time Servers (NTP)"
-msgstr "Automatko usklađivanje sa Internet Vremenskim Poslužiteljima (NTP)"
-
-#: SysInstaller#87
-msgid "Downloading:"
-msgstr "Skidanje:"
-
-#: SysInstaller#88
-msgid "Installing system... This may take a while..."
-msgstr "Instaliranje sistema... Ovo može potrajati..."
-
-#: SysInstaller#89
-msgid "PC-BSD Install"
-msgstr "PC-BSD Instalacija"
-
-#: SysInstaller#90
-msgid "Add Failed"
-msgstr "Dodavanje neuspješno"
-
-#: SysInstaller#91
-msgid "The slice creation failed with the following message:"
-msgstr "Neuspješno stvaranje slice-a sa popratnom porukom:"
-
-#: SysInstaller#92
-msgid "Not enough free space to create a new slice!"
-msgstr "Nema dovoljno slobodnog prostora za novi slice!"
-
-#: SysInstaller#93
-msgid "Delete Failed"
-msgstr "Brisanje neuspješno"
-
-#: SysInstaller#94
-msgid "The slice deletion failed with the following message:"
-msgstr "Brisanje slice-a neuspješno sa popratnom porukom:"
-
-#: SysInstaller#95
-msgid "Reload Disk Data"
-msgstr "Ponovno učitaj diskovne podatke"
-
-#: SysInstaller#96
-msgid "No SWAP space has been setup, are you sure you want to continue?"
-msgstr "SWAP nije postavljen, dali ste sigurni da želite nastaviti?"
-
-#: SysInstaller#97
-msgid "No usernames have been specified. Are you sure you want to continue?"
-msgstr "Nije postavljen niti jedan korisnik. Sigurni ste da želite nastaviti?"
-
-#: SysInstaller#98
-msgid "Encrypt the /usr partition or ZFS zpool."
-msgstr "Enkriptiraj /usr particiju ili ZFS zpool."
-
-#: SysInstaller#99
-msgid "Encrypt user data"
-msgstr "Enkriptiraj korisničke podatke"
-
-#: SysInstaller#100
-msgid ""
-"Check to use GPT/EFI partition scheme for dedicated disks.\n"
-"Warning: May not work with older BIOS / Motherboards."
-msgstr ""
-"Provjerite korištenje GPT/EFI particijske sheme za namjenske diskove.\n"
-"Upozorenje: Možda neće raditi sa starijim BIOS / Matičnim pločama."
-
-#: SysInstaller#101
-msgid ""
-"Encryption is enabled! In addition to using passphrase, key files are "
-"randomly generated and will be stored in /boot/keys/ on the system. After "
-"installing and rebooting, you should immediately make a backup copy of these "
-"keys, or else data loss could occur should they be lost or corrupted."
-msgstr ""
-"Enkripcija je omogućena! Uz dodatak korištenja zaporki, datoteke ključeva su "
-"nasumično napravljene i biti će sačuvane u /boot/keys/ na sistemu. Poslije "
-"instalacije i ponovnog pokretanja, trebali bi ste odmah napravit sigurnosnu "
-"kopiju ovih ključeva, ili će u suprotnom doći do gubitka podataka ako se "
-"isti izgubu ili pokvare."
-
-#: SysInstaller#102
-msgid "Disk Encryption"
-msgstr "Enkripcija Diska"
-
-#: SysInstaller#103
-msgid "Do you want to use a passphrase to access the encrypted volume?"
-msgstr "Dali želite koristiti zaporku za pristup enkriptiranom uređaju?"
-
-#: SysInstaller#104
-msgctxt "SysInstaller#104"
-msgid "Enter Passphrase"
-msgstr "Unesite zaporku"
-
-#: SysInstaller#105
-msgctxt "SysInstaller#105"
-msgid "Enter Passphrase (Confirm)"
-msgstr "Unesite zaporku (Potvrdite)"
-
-#: SysInstaller#106
-msgctxt "SysInstaller#106"
-msgid "Confirm the Passphrase for this encrypted disk"
-msgstr "Potvrdite zaporku za ovaj enkriptirani disk"
-
-#: SysInstaller#107
-msgctxt "SysInstaller#107"
-msgid "Passphrase mismatch"
-msgstr "Zaporke se ne podudaraju"
-
-#: SysInstaller#108
-msgctxt "SysInstaller#108"
-msgid "The entered passphrases do not match!"
-msgstr "Unesene zaporke se ne podudaraju!"
-
-#: SysInstaller#109
-msgid ""
-"Please create a partition using the 'Add Partition' button below, to install "
-"using free space."
-msgstr ""
-"Molimo naprative particiju koristeći dugme 'Dodaj particiju' niže, kako bi "
-"instalirali koristeći slobodan prostor."
-
-#: SysInstaller#110
-msgid "Invalid Hostname"
-msgstr "Neispravno ime računala"
-
-#: SysInstaller#111
-msgid "You must specify a hostname between 2-250 characters!"
-msgstr "Morate navesti ime računala između 2-250 znakova!"
-
-#: SysInstaller#112
-msgid "Using custom hostname:"
-msgstr "Koristim korisničko ime računala:"
-
-#: SysInstaller#113
-msgid "Invalid Password"
-msgstr "Neispravna zaporka"
-
-#: SysInstaller#114
-msgid "The password must be at least 6 characters."
-msgstr "Zaporka mora biti duga najmanje 6 znakova."
-
-#: SysInstaller#115
-msgid "Root password must be at least 4 characters."
-msgstr "Root zaporka mora biti duga najmanje 4 znaka."
-
-#: SysInstaller#116
-msgid "User password must be at least 4 characters."
-msgstr "Korisnička zaporka mora biti duga barem 4 znaka."
-
-#: SysInstaller#117
+#: desktopSelection#1
+msgid "Form"
+msgstr "Obrazac"
+
+#: desktopSelection#2
+msgid "System Package Configuration"
+msgstr "Namještanje sistemskih paketa"
+
+#: desktopSelection#3
 msgid "Available System Packages"
 msgstr "Dostupni sistemski paketi"
 
-#: SysInstaller#118
+#: desktopSelection#4
 msgid ""
 "Please select the software you wish to have installed. At least one desktop "
 "must be selected, and changes may be made after installation."
@@ -657,47 +384,20 @@ msgstr ""
 "Molimo označite softver koji želite instalirati. Najmanje jedna radna "
 "površina mora biti označena, i promjene se mogu napraviti nakon instalacije."
 
-#: SysInstaller#119
-msgid "System Package Configuration"
-msgstr "Namještanje sistemskih paketa"
+#: desktopSelection#5
+msgid "&Save"
+msgstr "&Sačuvaj"
 
-#: SysInstaller#120
-msgid "&Help"
-msgstr "&Pomoć"
+#: desktopSelection#6
+msgctxt "desktopSelection#6"
+msgid "&Cancel"
+msgstr "&Odustani"
 
-#: SysInstaller#121
-msgid "Enter the Passphrase for this encrypted disk. (6 Characters Minimum)"
-msgstr "Unesite zaporku za ovaj enkriptirani disk. (Minimalno 6 znakova)"
-
-#: SysInstaller#122
-msgid "Enter the size for this new slice in Megabytes."
-msgstr "Unesite veličinu za novi slice u megabajtima."
-
-#: SysInstaller#123
-msgid ""
-"Missing '/' filesystem, please add a filesystem for mount-point '/' to "
-"continue."
-msgstr ""
-"Nedostaje '/' datotečni sustav, molimo dodajte ga za mount točku '/' za "
-"nastavak."
-
-#: SysInstaller#124
-msgid "filesystem is below the required minimum:"
-msgstr "datotečni sustav je ispod neophodnog minimuma:"
-
-#: SysInstaller#125
-msgid "Extracting system image..."
-msgstr "Izdvajam sistemski odraz..."
-
-#: SysInstaller#126
-msgid "Installing Desktop-Packages... This may take a while..."
-msgstr "Instaliranje paketa radne površine.. Ovo može potrajati..."
-
-#: SysInstaller#127
+#: desktopSelection#7
 msgid "No Desktop"
 msgstr "Bez radne površine"
 
-#: SysInstaller#128
+#: desktopSelection#8
 msgid ""
 "No desktops have been selected! Please choose at least one desktop to "
 "continue."
@@ -705,331 +405,35 @@ msgstr ""
 "Niti jedno grafičko sučelje nije odabrano! Molimo odaberite bar jedno za "
 "nastavak."
 
-#: SysInstaller#129
-msgid "The following packages will be installed:"
-msgstr "Slijedeći paketi će biti instalirani:"
-
-#: SysInstaller#130
-msgid "Desktop"
-msgstr "Radna površina"
-
-#: SysInstaller#131
-msgid "Meta Package Selection"
-msgstr "Odabir meta paketa"
-
-#: SysInstaller#132
-msgid "Custom System Hostname"
-msgstr "Korisnički navedeno ime računala"
-
-#: SysInstaller#133
-msgid "Save Changes"
-msgstr "Sačuvaj izmjene"
-
-#: SysInstaller#134
-msgid "Please select the disk for system installation"
-msgstr "Molimo odaberite disk za instalaciju sistema"
-
-#: SysInstaller#135
-msgid "Basic Mode"
-msgstr "Osnovni način"
-
-#: SysInstaller#136
-msgid "If installing as the only operating system, check \"Use Entire Disk\"."
-msgstr ""
-"Ako instalirate kao jedini operacijski sustav, označite \"Koristi cijeli "
-"disk\"."
-
-#: SysInstaller#137
-msgid "Add Partition"
-msgstr "Dodaj particiju"
-
-#: SysInstaller#138
-msgid "Delete Partition"
-msgstr "Izbriši particiju"
-
-#: SysInstaller#139
-msgid "Additional Options"
-msgstr "Dodatne opcije"
-
-#: SysInstaller#140
-msgid "UFS Filesystem"
-msgstr "UFS datotečni sustav"
-
-#: SysInstaller#141
-msgid "ZFS Filesystem (64bit with 4GB RAM recommended)"
-msgstr "ZFS datotečni sustav (preporučeno: 64bitan sa 4GB radne memorije)"
-
-#: SysInstaller#142
-msgid "Partition disk with GPT"
-msgstr "Particioniraj disk sa GPT-om"
-
-#: SysInstaller#143
-msgid "Advanced Mode"
-msgstr "Napredni način"
-
-#: SysInstaller#144
-msgid "Edit"
-msgstr "Uredi"
-
-#: SysInstaller#145
-msgid "Use default layout"
-msgstr "Koristi početni raspored"
-
-#: SysInstaller#146
-msgid "Partition disks with GPT"
-msgstr "Particiraj disk sa GPT-om"
-
-#: SysInstaller#147
-msgid "System password"
-msgstr "Sistemska zaporka"
-
-#: SysInstaller#148
-msgid "User accounts"
-msgstr "Korisnički računi"
-
-#: SysInstaller#149
-msgid "IPv6 Address"
-msgstr "IPv6 adresa"
-
-#: SysInstaller#150
-msgid "IPv6 Gateway"
-msgstr "IPv6 Gateway"
-
-#: SysInstaller#151
-msgid "IPv6 Nameserver"
-msgstr "IPv6 Imenski poslužitelj"
-
-#: SysInstaller#152
-msgid "Select the system to install"
-msgstr "Odaberite sistem za instalaciju"
-
-#: SysInstaller#153
-msgid "Select your Installation Source"
-msgstr "Izaberite ishodište instalacije"
-
-#: SysInstaller#154
-msgid "Keyboard Settings"
-msgstr "Postavke tipkovnice"
-
-#: SysInstaller#155
-msgid "Model"
-msgstr "Model"
-
-#: SysInstaller#156
-msgid "Users Setup"
-msgstr "Korisničke postavke"
-
-#: SysInstaller#157
-msgid "System Options"
-msgstr "Sistemske opcije"
-
-#: SysInstaller#158
-msgid "Available"
-msgstr "Dostupno"
-
-#: SysInstaller#159
-msgid "Selected"
-msgstr "Izabrano"
-
-#: SysInstaller#160
-msgid ""
-"The default FreeBSD UFS filesystem, with Softupdates and Journaling enabled."
-msgstr ""
-"Podrazumijevan FreeBSD UFS datotečni sustav, sa Softupdates i omogućenim "
-"Journaling-om."
-
-#: SysInstaller#161
-msgid "Often a good choice for servers or high-end systems."
-msgstr "Često dobar izbor za poslužitelje ili zahtjevne sustave."
-
-#: SysInstaller#162
-msgid "PC-BSD (Desktop)"
-msgstr "PC-BSD (Stolno)"
-
-#: SysInstaller#163
-msgid "FreeBSD (Server)"
-msgstr "FreeBSD (Poslužitelj)"
-
-#: SysInstaller#164
+#: desktopSelection#9
 msgid "View Packages"
 msgstr "Pregledaj pakete"
 
-#: SysInstaller#165
+#: desktopSelection#10
 msgid "Package Listing for:"
 msgstr "Lista paketa za:"
 
-#: SysInstaller#166
-msgid "Switch between US layout and user selected layout"
-msgstr "Promjena između US i korisnički odabranog rasporeda tipkovnice"
+#: dialogFSSize#1
+msgid "Adjust Filesystem Size"
+msgstr "Prilagodi veličinu datotečnog sustava"
 
-#: SysInstaller#167
-msgid "On-Screen Keyboard"
-msgstr "Tipkovnica na zaslonu"
-
-#: SysInstaller#168
-msgid "Username must contain less than 512 characters!"
-msgstr "Korisničko ime mora imati manje od 512 znakova!"
-
-#: SysInstaller#169
-msgid "Are you sure you want to immediately delete:"
-msgstr "Jeste li sigurni da želite odmah obrisati:"
-
-#: SysInstaller#170
-msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
-"html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Bitstream Vera Sans'; font-size:10pt;\">Welcome to PC-BSD! You may "
-"get started above, or click the Help button for more information on each "
-"screen. </span></p></body></html>"
-msgstr ""
-
-#: SysInstaller#171
-msgid "FreeBSD Sources and Ports tree"
-msgstr ""
-
-#: SysInstaller#172
-msgid "Sources"
-msgstr ""
-
-#: SysInstaller#173
-msgid "Failed!"
-msgstr ""
-
-#: SysInstaller#174
-msgid "Restart the system now?"
-msgstr ""
-
-#: dialogFileSystem#1
-msgid "Error: Invalid Mount Point."
-msgstr "Greška: Neispravna Mount Točka."
-
-#: dialogFileSystem#2
-msgid "Error: This partition already has a valid swap."
-msgstr "Greška: Ova particija već ima valjan swap."
-
-#: dialogFileSystem#3
-msgid "Error: No more available partitions for this disk/slice."
-msgstr "Greška: Nema više dostupnih particija za ovaj disk/slice."
-
-#: dialogFileSystem#4
-msgid "Error: Drive cannot mirror itself."
-msgstr "Greška: Pogon ne može zrcaliti sebe."
-
-#: dialogFileSystem#5
-msgid "File System"
-msgstr "Datotečni sustav"
-
-#: dialogFileSystem#6
-msgid "Disk / Slice"
-msgstr "Disk / Slice"
-
-#: dialogFileSystem#7
-msgctxt "dialogFileSystem#7"
-msgid "Type"
-msgstr "Tip"
-
-#: dialogFileSystem#8
-msgid "Mount Point:"
-msgstr "Mount Točka:"
-
-#: dialogFileSystem#9
-msgctxt "dialogFileSystem#9"
+#: dialogFSSize#2
+msgctxt "dialogFSSize#2"
 msgid "Size:"
 msgstr "Veličina:"
 
-#: dialogFileSystem#10
+#: dialogFSSize#3
 msgid "MB"
 msgstr "MB"
 
-#: dialogFileSystem#11
-msgid "Enable Encryption"
-msgstr "Omogući enkripciju"
+#: dialogFSSize#4
+msgid "&Ok"
+msgstr "&U redu"
 
-#: dialogFileSystem#12
-msgid "Disk to Mirror"
-msgstr "Disk za zrcaljenje"
-
-#: dialogFileSystem#13
-msgid "Mirror Method"
-msgstr "Postupak zrcaljenja"
-
-#: dialogFileSystem#14
-msgctxt "dialogFileSystem#14"
+#: dialogFSSize#5
+msgctxt "dialogFSSize#5"
 msgid "&Cancel"
 msgstr "&Odustani"
-
-#: dialogFileSystem#15
-msgid "&Save"
-msgstr "&Sačuvaj"
-
-#: dialogFileSystem#16
-msgid "ZFS Pool Type"
-msgstr "ZFS Pool tip"
-
-#: dialogFileSystem#17
-msgid "Additional ZFS Pool Devices"
-msgstr "Dodatni ZFS Pool uređaji"
-
-#: dialogFileSystem#18
-msgid "ZFS File Systems / Mount Points"
-msgstr "ZFS datotečni sustav / Mount točke"
-
-#: dialogFileSystem#19
-msgctxt "dialogFileSystem#19"
-msgid "Add"
-msgstr "Dodaj"
-
-#: dialogFileSystem#20
-msgctxt "dialogFileSystem#20"
-msgid "Remove"
-msgstr "Ukloni"
-
-#: dialogFileSystem#21
-msgid "Error: A partition with this mount point already exists!"
-msgstr "Greška: Particija sa tom mount točkom već postoji!"
-
-#: dialogFileSystem#22
-msgid "Error: This mount point already exists!"
-msgstr "Greška: Ova mount točka već postoji!"
-
-#: dialogFileSystem#23
-msgctxt "dialogFileSystem#23"
-msgid "Enter Passphrase"
-msgstr "Unesite zaporku"
-
-#: dialogFileSystem#24
-msgid "Enter the Passphrase for this encrypted disk"
-msgstr "Unesite zaporku za ovaj enkriptirani disk"
-
-#: dialogFileSystem#25
-msgctxt "dialogFileSystem#25"
-msgid "Enter Passphrase (Confirm)"
-msgstr "Unestite zaporku (Potvrdi)"
-
-#: dialogFileSystem#26
-msgctxt "dialogFileSystem#26"
-msgid "Confirm the Passphrase for this encrypted disk"
-msgstr "Potvrdite zaporku za ovaj enkriptirani disk"
-
-#: dialogFileSystem#27
-msgctxt "dialogFileSystem#27"
-msgid "Passphrase mismatch"
-msgstr "Nepodudaranje zaporki"
-
-#: dialogFileSystem#28
-msgctxt "dialogFileSystem#28"
-msgid "The entered passphrases do not match!"
-msgstr "Unesene zaporke se ne podudaraju!"
-
-#: dialogFileSystem#29
-msgid "Error: Need a at least one ZFS filesystem mount point."
-msgstr "Greška: Potrebna najmanje jedna mount točka ZFS datotečnog sustava."
 
 #: dialogHelp#1
 msgid "Help"
@@ -1049,84 +453,401 @@ msgctxt "dialogInfoBox#2"
 msgid "&Close"
 msgstr "&Zatvori"
 
-#: dialogSelectNetServer#1
-msgid "Enabling Networking... Please Wait..."
-msgstr "Osposobljavanje mreže... Molim pričekajte..."
+#: widgetKeyboard#1
+msgid "Keyboard Settings"
+msgstr "Postavke tipkovnice"
 
-#: dialogSelectNetServer#2
-msgid "Selected backup:"
-msgstr "Odabrana sigurnosna kopija:"
+#: widgetKeyboard#2
+msgid "Key Layout"
+msgstr "Raspored tipki"
 
-#: dialogSelectNetServer#3
-msgid "Select Installation Source"
-msgstr "Odaberite ishodište instalacije"
+#: widgetKeyboard#3
+msgid "Variant"
+msgstr "Varijanta"
 
-#: dialogSelectNetServer#4
-msgid "Install from Internet "
-msgstr "Instaliraj preko Interneta "
+#: widgetKeyboard#4
+msgid "Keyboard Model"
+msgstr "Model tipkovnice"
 
-#: dialogSelectNetServer#5
-msgid "Install from specified server"
-msgstr "Instaliraj preko određenog poslužitelja"
+#: widgetKeyboard#5
+msgid "( you may type into the space below to test your selected settings. )"
+msgstr ""
+"( možete tipkati u slobodnom prostoru niže kako biste testirali svoje "
+"postavke. )"
 
-#: dialogSelectNetServer#6
-msgid "Local Network Install"
-msgstr "Instalacija preko lokalne mreže"
+#: widgetKeyboard#6
+msgid "&Apply"
+msgstr "&Primjeni"
 
-#: dialogSelectNetServer#7
-msgid "Enter the server name"
-msgstr "Unesi ime poslužitelja"
+#: widgetKeyboard#7
+msgctxt "widgetKeyboard#7"
+msgid "&Close"
+msgstr "&Zatvori"
 
-#: dialogSelectNetServer#8
-msgid "FTP"
-msgstr "FTP"
+#: wizardDisk#1
+msgid "Disk Setup Wizard"
+msgstr "Čarobnjak za disk postavke"
 
-#: dialogSelectNetServer#9
-msgid "HTTP"
-msgstr "HTTP"
+#: wizardDisk#2
+msgid ""
+"This wizard will walk you through the disk setup process. Please choose the "
+"setup mode you wish to use."
+msgstr ""
+"Ovaj čarobnjak vas vodi kroz proces postavljanja diska. Molimo odaberite mod "
+"koji želite koristiti."
 
-#: dialogSelectNetServer#10
-msgid "Enter the directory path"
-msgstr "Unesi put direktorija"
+#: wizardDisk#3
+msgid "Setup Mode"
+msgstr "Mod namještanja"
 
-#: dialogSelectNetServer#11
-msgid "&Select"
-msgstr "&Izaberi"
+#: wizardDisk#4
+msgid "Basic (New to BSD or disk partitioning)"
+msgstr "Osnovni (Početnici za BSD i disk particije)"
 
-#: dialogSelectNetServer#12
-msgctxt "dialogSelectNetServer#12"
-msgid "&Cancel"
-msgstr "&Odustani"
+#: wizardDisk#5
+msgid "Advanced (Experienced with file-systems)"
+msgstr "Napredni (Iskusni sa datotečnim sustavima)"
 
-#: dialogSelectNetServer#13
-msgid "Enabling NIC..."
-msgstr "Omogućavanje uređaja..."
+#: wizardDisk#6
+msgid "FreeBSD Experts (CLI manual mode)"
+msgstr "FreeBSD stručnjaci (ručni način u konzoli)"
 
-#: dialogZFSMount#1
-msgid "Invalid mount point, must begin with '/'."
-msgstr "Neispravna mount točka, mora započeti sa '/'."
+#: wizardDisk#7
+msgid ""
+"Please select the disk or partition you wish to install onto. Please note "
+"that BSD can only be installed to an entire disk, or primary partition "
+"larger than 10GB. "
+msgstr ""
+"Molimo označite disk ili particiju u koju želite instalirati. Molimo "
+"primijetite da se BSD može instalirati samo na cijeli disk ili na primarnu "
+"particiju veću od 10GB. "
 
-#: dialogZFSMount#2
-msgid "ZFS File System"
-msgstr "ZFS datotečni sustav"
+#: wizardDisk#8
+msgid "Selected Disk"
+msgstr "Označeni disk"
 
-#: dialogZFSMount#3
+#: wizardDisk#9
+msgid "Selected Partition"
+msgstr "Označena particija"
+
+#: wizardDisk#10
+msgid "Partition disk with GPT"
+msgstr "Particioniraj disk sa GPT-om"
+
+#: wizardDisk#11
+msgid ""
+"Do you wish to Encrypt your private data? You will need to enter a password "
+"at each system bootup."
+msgstr ""
+"Želite li enkriptirati vaše privatne datoteke? Morati će te unijeti zaporku "
+"prilikom svakog podizanja sustava."
+
+#: wizardDisk#12
+msgid "Encrypt user data"
+msgstr "Enkriptiraj korisničke podatke"
+
+#: wizardDisk#13
+msgid "Passphrase"
+msgstr "Zaporka"
+
+#: wizardDisk#14
+msgid "Passphrase (repeat)"
+msgstr "Zaporka (ponovno)"
+
+#: wizardDisk#15
+msgid ""
+"Please select the type of filesystem you want to use for this installation."
+msgstr ""
+"Molimo označite tip datotečnog sustava kojeg želite koristiti za ovu "
+"instalaciju."
+
+#: wizardDisk#16
+msgid "Filesystem"
+msgstr "Datotečni sustav"
+
+#: wizardDisk#17
+msgid "UFS (Recommended for systems < 4GB of RAM)"
+msgstr "UFS (Preporučeno za sustave sa < 4GB RAM)"
+
+#: wizardDisk#18
+msgid "ZFS (Servers or systems > 4GB RAM)"
+msgstr "ZFS (Serveri ili sustavi sa > 4GB RAM)"
+
+#: wizardDisk#19
+msgid "Install bootable MBR"
+msgstr "Instaliraj bootable MBR"
+
+#: wizardDisk#20
+msgid ""
+"Below you may adjust the file-system mount points. For most users the "
+"defaults will work best. "
+msgstr ""
+"Niže možete prilagoditi mount točke datotečnog sustava. Za većinu korisnika "
+"već zadane će raditi najbolje. "
+
+#: wizardDisk#21
+msgid "Free Space (MB)"
+msgstr "Slobodan prostor (MB)"
+
+#: wizardDisk#22
 msgid "&Add"
 msgstr "&Dodaj"
 
-#: dialogZFSMount#4
-msgctxt "dialogZFSMount#4"
-msgid "&Cancel"
-msgstr "&Odustani"
+#: wizardDisk#23
+msgid "Resize"
+msgstr "Smanji/Povećaj"
 
-#: dialogZFSMount#5
-msgid "Please enter the ZFS filesystem mount point."
-msgstr "Unesite mount točku ZFS datotečnog sustava."
+#: wizardDisk#24
+msgid "&Remove"
+msgstr "&Ukloni"
 
-#: dialogZFSMount#6
-msgid "ZFS Filesystem"
-msgstr "ZFS datotečni sustav"
+#: wizardDisk#25
+msgid ""
+"You have chosen Expert mode. In this mode you are able to launch a terminal "
+"window and use the command-line to manually partition your disk. When you "
+"are finished, make sure to mount your filesystems to /mnt to begin the "
+"installation. "
+msgstr ""
+"Izabrali ste mod za stručnjake. U ovom modu možete pokrenuti terminal i "
+"koristiti naredbenu liniju za ručno postavljanje particija na vašem disku. "
+"Kada ste gotovi, budite sigurni da ste mountali vaš datotečni sustav na /mnt "
+"kako bi započeli instalaciju. "
 
-#: dialogZFSMount#7
-msgid "Invalid mount point, whitespace disallowed."
-msgstr "Neispravna mount točka, razmaci nisu dozvoljeni."
+#: wizardDisk#26
+msgid "&Launch terminal"
+msgstr "&Pokreni terminal"
+
+#: wizardDisk#27
+msgid ""
+"Please check the disk summary below and click finish to save your settings. "
+msgstr ""
+"Molimo provjerite kratak pregled diska i kliknite završi za spremanje vaših "
+"postavki. "
+
+#: wizardDisk#28
+msgid "Use entire disk"
+msgstr "Koristi cijeli disk"
+
+#: wizardDisk#29
+msgid "Mount"
+msgstr "Mount"
+
+#: wizardDisk#30
+msgid "Size"
+msgstr "Veličina"
+
+#: wizardDisk#31
+msgid "Type"
+msgstr "Tip"
+
+#: wizardDisk#32
+msgid "ZFS Mounts"
+msgstr "ZFS Mounts"
+
+#: wizardDisk#33
+msgid "ZFS Options"
+msgstr "ZFS opcije"
+
+#: wizardDisk#34
+msgid "Resizing"
+msgstr "Promijeni veličinu"
+
+#: wizardDisk#35
+msgid "Remove mount-point"
+msgstr "Ukloni mount točku"
+
+#: wizardDisk#36
+msgid "Are you sure you want to remove this mount point?"
+msgstr "Da li ste sigurni da želite uklonite ovu mount točku?"
+
+#: wizardDisk#37
+msgid "Enter mount-point"
+msgstr "Unesite mount točku"
+
+#: wizardDisk#38
+msgid "Please enter the new mount-point:"
+msgstr "Molimo unesite novu mount točku:"
+
+#: wizardDisk#39
+msgid "Specify a size for the mount"
+msgstr "Unesite veličinu za mount"
+
+#: wizardDisk#40
+msgid "Editing:"
+msgstr "Uređivanje:"
+
+#: wizardDisk#41
+msgid "Disable compression"
+msgstr "Isključi kompresiju"
+
+#: wizardDisk#42
+msgid "Enable compression"
+msgstr "Uključi kompresiju"
+
+#: wizardDisk#43
+msgid "Enable checksum"
+msgstr "Uključi checksum"
+
+#: wizardDisk#44
+msgid "Disable checksum"
+msgstr "Isključi checksum"
+
+#: wizardDisk#45
+msgid "Enable atime"
+msgstr "Uključi atime"
+
+#: wizardDisk#46
+msgid "Disable atime"
+msgstr "Isključi atime"
+
+#: wizardDisk#47
+msgid "Enable exec"
+msgstr "Uključi exec"
+
+#: wizardDisk#48
+msgid "Disable exec"
+msgstr "Isključi exec"
+
+#: wizardDisk#49
+msgctxt "wizardDisk#49"
+msgid "Installing to file-system mounted at /mnt"
+msgstr "Instaliranje datotečnog sustava spojenog na /mnt"
+
+#: wizardDisk#50
+msgctxt "wizardDisk#50"
+msgid "The disk will be setup with the following configuration:"
+msgstr "Ovaj disk će se namjestiti sa sljedećim postavkama:"
+
+#: wizardDisk#51
+msgctxt "wizardDisk#51"
+msgid "Disk:"
+msgstr "Disk:"
+
+#: wizardDisk#52
+msgctxt "wizardDisk#52"
+msgid "Mirroring:"
+msgstr "Zrcaljenje:"
+
+#: wizardDisk#53
+msgctxt "wizardDisk#53"
+msgid "Partition:"
+msgstr "Particija:"
+
+#: wizardDisk#54
+msgctxt "wizardDisk#54"
+msgid "FileSystem:"
+msgstr "Datotečni sustav:"
+
+#: wizardDisk#55
+msgctxt "wizardDisk#55"
+msgid "Size:"
+msgstr "Veličina:"
+
+#: wizardDisk#56
+msgctxt "wizardDisk#56"
+msgid "Mount:"
+msgstr "Mount:"
+
+#: wizardFreeBSD#1
+msgid "FreeBSD Setup"
+msgstr "FreeBSD postavke"
+
+#: wizardFreeBSD#2
+msgid ""
+"This wizard will walk you though the setup of your new FreeBSD server. Click "
+"next to begin. "
+msgstr ""
+"Ovaj čarobnjak vas vodi preko postavljanja vašeg novog FreeBSD servera. "
+"Kliknite dalje za početak. "
+
+#: wizardFreeBSD#3
+msgid "Please enter the root password for this server"
+msgstr "Molimo unesite root zaporku za ovaj server"
+
+#: wizardFreeBSD#4
+msgid "Password"
+msgstr "Zaporka"
+
+#: wizardFreeBSD#5
+msgid "Password (Repeat)"
+msgstr "Zaporka (ponovno)"
+
+#: wizardFreeBSD#6
+msgid "Please create a user for this server"
+msgstr "Molimo napravite korisnika za ovaj server"
+
+#: wizardFreeBSD#7
+msgid "Name"
+msgstr "Ime"
+
+#: wizardFreeBSD#8
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: wizardFreeBSD#9
+msgid "Default shell"
+msgstr "Zadana ljuska"
+
+#: wizardFreeBSD#10
+msgid "Please enter a system hostname and remote login preference."
+msgstr "Molimo unesite hostname sustava i postavke udaljene prijave."
+
+#: wizardFreeBSD#11
+msgid "Hostname"
+msgstr "Ime računala"
+
+#: wizardFreeBSD#12
+msgid "Enable remote SSH login"
+msgstr "Omogući udaljenu SSH prijavu"
+
+#: wizardFreeBSD#13
+msgid "Please select a network device to configure for this system."
+msgstr "Molimo odaberite mrežni uređaj za postavljanje vašeg sustava."
+
+#: wizardFreeBSD#14
+msgid "Network Interface"
+msgstr "Mrežno sučelje"
+
+#: wizardFreeBSD#15
+msgid "IP Address"
+msgstr "IP adresa"
+
+#: wizardFreeBSD#16
+msgid "Netmask"
+msgstr "Netmask"
+
+#: wizardFreeBSD#17
+msgid "Nameserver (DNS)"
+msgstr "Imenski poslužitelj (DNS)"
+
+#: wizardFreeBSD#18
+msgid "Gateway"
+msgstr "Gateway"
+
+#: wizardFreeBSD#19
+msgid "IPv6 Address"
+msgstr "IPv6 adresa"
+
+#: wizardFreeBSD#20
+msgid "IPv6 Gateway"
+msgstr "IPv6 Gateway"
+
+#: wizardFreeBSD#21
+msgid "IPv6 Nameserver"
+msgstr "IPv6 Imenski poslužitelj"
+
+#: wizardFreeBSD#22
+msgid "000.000.000.000; "
+msgstr "000.000.000.000; "
+
+#: wizardFreeBSD#23
+msgid "Please select any optional features to install."
+msgstr "Molimo odaberite bilo koje neobavezne značajke koje želite instalirati."
+
+#: wizardFreeBSD#24
+msgid "Install system sources (/usr/src)"
+msgstr "Instaliraj izvorni kod sustava (/usr/src)"
+
+#: wizardFreeBSD#25
+msgid "Install ports tree (/usr/ports)"
+msgstr "Instaliraj ports stablo (/usr/ports)"

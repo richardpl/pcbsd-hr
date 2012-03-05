@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-18 12:24-0700\n"
-"PO-Revision-Date: 2011-11-23 21:58+0200\n"
+"PO-Revision-Date: 2012-03-06 00:06+0200\n"
 "Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -168,8 +168,8 @@ msgstr ""
 "Audacious je media izvođač sa grafičkim okruženjem za PC-BSD. Odvojio se od "
 "Beep Media Player-a 0.9.7.1. koji se pak odvojio od XMMS-a.  Većina značajki "
 "Audacious-a se zasniva na dodacima, uključujući sve kodeke, Na većini "
-"sistema, koristan skup dodataka je početno već instaliran. Uključujući, na "
-"primjer, mogućnost izvođenja MP3, Ogg Vorbis i FLAC datoteka."
+"sistema, koristan skup dodataka je već instaliran. Uključujući, na primjer, "
+"mogućnost izvođenja MP3, Ogg Vorbis i FLAC datoteka."
 
 #: Desktop Files - Audacity is a program that lets you manipulate digital audio waveforms. In addition to letting you record sounds directly from within the program, it imports many sound file formats, including WAV, AIFF, AU, IRCAM, MP3, and Ogg Vorbis. It supports all common editing operations such as Cut, Copy, and Paste, plus it will mix tracks and let you apply plug-in effects to any part of a sound. It also has a built-in amplitude envelope editor, a customizable spectrogram mode and a frequency analysis window for audio analysis applications.
 msgid "Audacity is a program that lets you manipulate digital audio waveforms. In addition to letting you record sounds directly from within the program, it imports many sound file formats, including WAV, AIFF, AU, IRCAM, MP3, and Ogg Vorbis. It supports all common editing operations such as Cut, Copy, and Paste, plus it will mix tracks and let you apply plug-in effects to any part of a sound. It also has a built-in amplitude envelope editor, a customizable spectrogram mode and a frequency analysis window for audio analysis applications."
@@ -2972,4 +2972,612 @@ msgstr ""
 
 #: Desktop Files - The goal of semantik is to help to structure ideas and concepts by associating them into a tree. The tree is there to help to see how the ideas interact, and then to develop them further (add ramifications).  An idea is represented by a shape which can be a text or a picture. The ideas can be connected, but there is a constraint: an idea cannot have more than one parent.  A semantik mind-map can be exported as a picture, or used to generate documents. Templates include pdflatex (article, book) and html file formats.  Semantik is the replacement for kdissert and requires KDE 4.
 msgid "The goal of semantik is to help to structure ideas and concepts by associating them into a tree. The tree is there to help to see how the ideas interact, and then to develop them further (add ramifications).  An idea is represented by a shape which can be a text or a picture. The ideas can be connected, but there is a constraint: an idea cannot have more than one parent.  A semantik mind-map can be exported as a picture, or used to generate documents. Templates include pdflatex (article, book) and html file formats.  Semantik is the replacement for kdissert and requires KDE 4."
+msgstr ""
+
+#: Desktop Files - Ario is a GTK2 client for MPD (Music player daemon). The interface used to browse the library is inspired by Rhythmbox but Ario aims to be much lighter and faster.
+msgid "Ario is a GTK2 client for MPD (Music player daemon). The interface used to browse the library is inspired by Rhythmbox but Ario aims to be much lighter and faster."
+msgstr ""
+
+#: Desktop Files - Beast is a powerful music composition and modular synthesis application. It supports a wide range of standards in the field, such as MIDI, WAV/AIFF/MP3/OggVorbis/etc audio files and LADSPA modules. It has excellent technical abilities like multitrack editing, unlimited undo/redo support, real-time synthesis support, 32bit audio rendering, full duplex support, multiprocessor support, precise timing down to sample granularity, on demand loading of partial wave files, on the fly decoding and full scriptability in scheme. The plugins, synthesis core and the user interface are actively being developed and translated into a variety of languages, regularly assimilating user feedback such as from our FeatureRequests page.
+msgid "Beast is a powerful music composition and modular synthesis application. It supports a wide range of standards in the field, such as MIDI, WAV/AIFF/MP3/OggVorbis/etc audio files and LADSPA modules. It has excellent technical abilities like multitrack editing, unlimited undo/redo support, real-time synthesis support, 32bit audio rendering, full duplex support, multiprocessor support, precise timing down to sample granularity, on demand loading of partial wave files, on the fly decoding and full scriptability in scheme. The plugins, synthesis core and the user interface are actively being developed and translated into a variety of languages, regularly assimilating user feedback such as from our FeatureRequests page."
+msgstr ""
+
+#: Desktop Files - Bombono DVD is a DVD authoring program. It is made easy to use and has nice and clean GUI (Gtk).  The main features of Bombono DVD are: +excellent MPEG viewer: Timeline and Monitor +real WYSIWYG Menu Editor with live thumbnails +comfortable Drag-n-Drop support +you can author to folder, make ISO-image or burn directly to DVD +reauthoring: you can import video from DVD discs. 
+msgid "Bombono DVD is a DVD authoring program. It is made easy to use and has nice and clean GUI (Gtk).  The main features of Bombono DVD are: +excellent MPEG viewer: Timeline and Monitor +real WYSIWYG Menu Editor with live thumbnails +comfortable Drag-n-Drop support +you can author to folder, make ISO-image or burn directly to DVD +reauthoring: you can import video from DVD discs. "
+msgstr ""
+
+#: Desktop Files - CLEX is a file manager with a full-screen user interface written in C with the curses library. It displays directory contents (including file status details) and provides features like command history, filename insertion, or name completion in order to help the user to construct commands to be executed by the shell (there are no built-in commands). CLEX is easily configurable and all its features are explained in the on-line help.
+msgid "CLEX is a file manager with a full-screen user interface written in C with the curses library. It displays directory contents (including file status details) and provides features like command history, filename insertion, or name completion in order to help the user to construct commands to be executed by the shell (there are no built-in commands). CLEX is easily configurable and all its features are explained in the on-line help."
+msgstr ""
+
+#: Desktop Files - Cheese is a Photobooth-inspired GNOME application for taking pictures and videos from a webcam. It also includes fancy graphical effects based on the gstreamer-backend.
+msgid "Cheese is a Photobooth-inspired GNOME application for taking pictures and videos from a webcam. It also includes fancy graphical effects based on the gstreamer-backend."
+msgstr ""
+
+#: Desktop Files - Childsplay is a 'suite' of educational games for young children, like gcompris, but without the overkill of GNOME environment.  Also the use of the SDL libraries makes smooth animation and the playing of sound very easy.
+msgid "Childsplay is a 'suite' of educational games for young children, like gcompris, but without the overkill of GNOME environment.  Also the use of the SDL libraries makes smooth animation and the playing of sound very easy."
+msgstr ""
+
+#: Desktop Files - Decibel audio player is a very fast GTK+ audio player with an emphasis on being very clean and user friendly.  * Utilizes the GStreamer plugins system * Lighter footprint than most audio players * Follows the Gnome Human Interface Guidelines * Has quite a few plugins of it's own
+msgid "Decibel audio player is a very fast GTK+ audio player with an emphasis on being very clean and user friendly.  * Utilizes the GStreamer plugins system * Lighter footprint than most audio players * Follows the Gnome Human Interface Guidelines * Has quite a few plugins of it's own"
+msgstr ""
+
+#: Desktop Files - Dovecot is a secure and compact IMAP server which is in the early stages of development. It supports Maildirs and mbox formats and much of the IMAP v4 protocol including SSL/TLS. IPv6 support is also included. Dovecot supports authentication with OpenLDAP, PostgreSQL, MySQL, vpopmail and PAM.
+msgid "Dovecot is a secure and compact IMAP server which is in the early stages of development. It supports Maildirs and mbox formats and much of the IMAP v4 protocol including SSL/TLS. IPv6 support is also included. Dovecot supports authentication with OpenLDAP, PostgreSQL, MySQL, vpopmail and PAM."
+msgstr ""
+
+#: Desktop Files - feh is a versatile and fast image viewer using imlib2, the premier image file handling library. feh has many features, from simple single file viewing, to multiple file modes using a slideshow or multiple windows. feh supports the creation of montages as index prints with many user-configurable options.
+msgid "feh is a versatile and fast image viewer using imlib2, the premier image file handling library. feh has many features, from simple single file viewing, to multiple file modes using a slideshow or multiple windows. feh supports the creation of montages as index prints with many user-configurable options."
+msgstr ""
+
+#: Desktop Files - Free Music Instrument Tuner.    Current features:   - Error history  - Volume history  - Wave shape  - Harmonic ratios  - Statistics  - Microtonal tuning (with Scala file support)  - Discrete Fourier Transform view  - JACK, OSS, ALSA, Portaudio support  - Translations for: french
+msgid "Free Music Instrument Tuner.    Current features:   - Error history  - Volume history  - Wave shape  - Harmonic ratios  - Statistics  - Microtonal tuning (with Scala file support)  - Discrete Fourier Transform view  - JACK, OSS, ALSA, Portaudio support  - Translations for: french"
+msgstr ""
+
+#: Desktop Files - Firefly (mt-daapd) is an open-source media server for the Roku SoundBridge and Apple iTunes. It runs on POSIX platforms as well as Win32. It supports server-side transcoding and other advanced features.
+msgid "Firefly (mt-daapd) is an open-source media server for the Roku SoundBridge and Apple iTunes. It runs on POSIX platforms as well as Win32. It supports server-side transcoding and other advanced features."
+msgstr ""
+
+#: Desktop Files - The Freedroid RPG is an extension/modification of the classical Freedroid  engine into an RPG. The main differences to the classical version are as  follows:   * The Tux is the main character of the rpg. * The game uses isometric viewpoint and animated pre-rendered 3d character    models for all characters inside the game. * Dialogs and chatting with friendly droids and humans:   Multiple-choice menus and voice samples (with subtitles for those   without sound).  * There is an item and inventory system that is modeled after some    popular standards of the industry :) * An automap feature was added. (this is currently a bit unmaintained   since part of the code needs to be re-written for proper OpenGL   support in the automap display) * Saving and loading of games. * Shops to trade things and skills to learn. * Controls are different:  Mouse is the input method of choice. * This is a graphically intense game.  Therefore the archive size is   comparably *huge* and not suitable for modem downloads with a dialup   connection.  
+msgid "The Freedroid RPG is an extension/modification of the classical Freedroid  engine into an RPG. The main differences to the classical version are as  follows:   * The Tux is the main character of the rpg. * The game uses isometric viewpoint and animated pre-rendered 3d character    models for all characters inside the game. * Dialogs and chatting with friendly droids and humans:   Multiple-choice menus and voice samples (with subtitles for those   without sound).  * There is an item and inventory system that is modeled after some    popular standards of the industry :) * An automap feature was added. (this is currently a bit unmaintained   since part of the code needs to be re-written for proper OpenGL   support in the automap display) * Saving and loading of games. * Shops to trade things and skills to learn. * Controls are different:  Mouse is the input method of choice. * This is a graphically intense game.  Therefore the archive size is   comparably *huge* and not suitable for modem downloads with a dialup   connection.  "
+msgstr ""
+
+#: Desktop Files - A GTK-based mp3 front-end.  Uses mpg123 for decoding and supports winamp themes.
+msgid "A GTK-based mp3 front-end.  Uses mpg123 for decoding and supports winamp themes."
+msgstr ""
+
+#: Desktop Files - Gspeakers is a loudspeaker enclosure and crossovernetwork designer for the GNOME2 desktop.
+msgid "Gspeakers is a loudspeaker enclosure and crossovernetwork designer for the GNOME2 desktop."
+msgstr ""
+
+#: Desktop Files - Gimmix is a graphical Music player daemon (MPD) client written in C using GTK+2.  Features: ========= * Simple and Clean Interface. * Library Browser. * Library search. (search by artist, album, filename, etc) * Playlist management (manage mpd playlists) * ID3v2 tag editing support. * System tray icon support. * Support for controlling gimmix through Keyboard. * Notification support (Displays the currently playing song in systray). * Small memory footprint.
+msgid "Gimmix is a graphical Music player daemon (MPD) client written in C using GTK+2.  Features: ========= * Simple and Clean Interface. * Library Browser. * Library search. (search by artist, album, filename, etc) * Playlist management (manage mpd playlists) * ID3v2 tag editing support. * System tray icon support. * Support for controlling gimmix through Keyboard. * Notification support (Displays the currently playing song in systray). * Small memory footprint."
+msgstr ""
+
+#: Desktop Files - Multimedia applications for the GNOME 2.0 desktop.  Includes gnome-cd, a CDDB aware CD player gnome-volume-control, for controlling the sound card's mixer  and VU-Meter, to slow down your desktop...
+msgid "Multimedia applications for the GNOME 2.0 desktop.  Includes gnome-cd, a CDDB aware CD player gnome-volume-control, for controlling the sound card's mixer  and VU-Meter, to slow down your desktop..."
+msgstr ""
+
+#: Desktop Files - Gnuplot is a command-driven interactive function plotting program.  Plots any number of functions, built up of C operators, C library functions, and some things C doesn't have like **, sgn(), etc.  Also support for plotting data files, to compare actual data to theoretical curves.  User-defined X and Y ranges (optional auto-ranging), smart axes scaling, smart tic marks.  Labelling of X and Y axes.  User-defined constants and functions.  Support through a generalized graphics driver for AED 512, AED 767, BBN BitGraph, Commodore Amiga, Roland DXY800A, EEPIC, TeXDraw, EmTeX, Epson 60dpi printers, Epson LX-800, Fig, HP2623, HP2648, HP75xx, HPGL, HP LaserJet II, Imagen, Iris 4D, MS-DOS Kermit, Kyocera laser printer, LaTeX, NEC CP6 pinwriter, PostScript, QMS QUIC, ReGis (VT125 and VT2xx), SCO Xenix CGI, Selanar, Star color printer, Tandy DMP-130 printer, Tek 401x, Tek 410x, Vectrix 384, VT like Tektronix emulator, Unix PC (ATT 3b1 or ATT 7300), unixplot, and X11.  The PC version compiled by Microsoft C supports IBM CGA, EGA, VGA, Hercules, ATT 6300, and Corona 325 graphics.  The PC version compiled by Borland C++ sup- ports IBM CGA, EGA, MCGA, VGA, Hercules and ATT 6300 graphics. Other devices can be added simply, but will require recompiling.  Shell escapes and command line substitution.  Output redirection.
+msgid "Gnuplot is a command-driven interactive function plotting program.  Plots any number of functions, built up of C operators, C library functions, and some things C doesn't have like **, sgn(), etc.  Also support for plotting data files, to compare actual data to theoretical curves.  User-defined X and Y ranges (optional auto-ranging), smart axes scaling, smart tic marks.  Labelling of X and Y axes.  User-defined constants and functions.  Support through a generalized graphics driver for AED 512, AED 767, BBN BitGraph, Commodore Amiga, Roland DXY800A, EEPIC, TeXDraw, EmTeX, Epson 60dpi printers, Epson LX-800, Fig, HP2623, HP2648, HP75xx, HPGL, HP LaserJet II, Imagen, Iris 4D, MS-DOS Kermit, Kyocera laser printer, LaTeX, NEC CP6 pinwriter, PostScript, QMS QUIC, ReGis (VT125 and VT2xx), SCO Xenix CGI, Selanar, Star color printer, Tandy DMP-130 printer, Tek 401x, Tek 410x, Vectrix 384, VT like Tektronix emulator, Unix PC (ATT 3b1 or ATT 7300), unixplot, and X11.  The PC version compiled by Microsoft C supports IBM CGA, EGA, VGA, Hercules, ATT 6300, and Corona 325 graphics.  The PC version compiled by Borland C++ sup- ports IBM CGA, EGA, MCGA, VGA, Hercules and ATT 6300 graphics. Other devices can be added simply, but will require recompiling.  Shell escapes and command line substitution.  Output redirection."
+msgstr ""
+
+#: Desktop Files - Goggles Music Manager is a music collection manager and player that automatically categorizes your music files based on genre, artist, album, and song. It supports gapless playback and features easy tag editing.
+msgid "Goggles Music Manager is a music collection manager and player that automatically categorizes your music files based on genre, artist, album, and song. It supports gapless playback and features easy tag editing."
+msgstr ""
+
+#: Desktop Files - Grip is a front-end to external cd audio rippers (such as dagrab or cdda2wav). It also provides an automated frontend for MP3 encoders, letting you take a disc and transform it easily straight into MP3s. The CDDB protocol is supported for retrieving track information from disc database servers. Grip works with DigitalDJ to provide a unified "computerized" version of your music collection.
+msgid "Grip is a front-end to external cd audio rippers (such as dagrab or cdda2wav). It also provides an automated frontend for MP3 encoders, letting you take a disc and transform it easily straight into MP3s. The CDDB protocol is supported for retrieving track information from disc database servers. Grip works with DigitalDJ to provide a unified "computerized" version of your music collection."
+msgstr ""
+
+#: Desktop Files - Grisbi is a personnal accounting application, written with Gnome and Gtk, and is released under the GPL licence.  Its aim is to provide you with the most simple and intuitive software for basic use, although it can be very powerful if you spend a little time on the setup.  Grisbi is an application written by french developpers, so it perfectly respects french accounting rules. Grisbi can manage multiple accounts, currencies and users. It manages third parties, expenditures and receipts categories, and also budgetary lines, financial years, and other information that make Grisbi adapted for associations (except those that require double entry accounting).
+msgid "Grisbi is a personnal accounting application, written with Gnome and Gtk, and is released under the GPL licence.  Its aim is to provide you with the most simple and intuitive software for basic use, although it can be very powerful if you spend a little time on the setup.  Grisbi is an application written by french developpers, so it perfectly respects french accounting rules. Grisbi can manage multiple accounts, currencies and users. It manages third parties, expenditures and receipts categories, and also budgetary lines, financial years, and other information that make Grisbi adapted for associations (except those that require double entry accounting)."
+msgstr ""
+
+#: Desktop Files - gbemol is a graphical frontend for the Music Player Daemon (MPD) it is written in C and uses the GTK+ toolkit for it's interface.
+msgid "gbemol is a graphical frontend for the Music Player Daemon (MPD) it is written in C and uses the GTK+ toolkit for it's interface."
+msgstr ""
+
+#: Desktop Files - CD/DVD mastering tool for the gnome desktop. It has been designed to be simple and easy to use.  Features: Data CD/DVD: - supports edition of discs contents - can burn data CD/DVD on the fly - supports multisession - supports joliet extension - can write the image to the hard drive Audio CD: - write CD-TEXT information (automatically found thanks to gstreamer) - supports the edition of CD-TEXT information - can burn audio CD on the fly - can use all audio files handled by Gstreamer local installation - can search for audio files inside dropped folders CD/DVD copy: - can copy a CD/DVD to the hard drive - can copy DVD and CD on the fly - supports single-session data DVD - supports any kind of CD
+msgid "CD/DVD mastering tool for the gnome desktop. It has been designed to be simple and easy to use.  Features: Data CD/DVD: - supports edition of discs contents - can burn data CD/DVD on the fly - supports multisession - supports joliet extension - can write the image to the hard drive Audio CD: - write CD-TEXT information (automatically found thanks to gstreamer) - supports the edition of CD-TEXT information - can burn audio CD on the fly - can use all audio files handled by Gstreamer local installation - can search for audio files inside dropped folders CD/DVD copy: - can copy a CD/DVD to the hard drive - can copy DVD and CD on the fly - supports single-session data DVD - supports any kind of CD"
+msgstr ""
+
+#: Desktop Files - Game based on the "Sonic the Hedgehog" universe. It introduces a different style of gameplay called cooperative play,  in which it's possible to control 3 characters simultaneously.  Unlike most similar games, Open Sonic provides a greater level of interaction  between the player and the levels. It's more than just a jump'n'run  the user must come up with some strategy in order to get through the levels.
+msgid "Game based on the "Sonic the Hedgehog" universe. It introduces a different style of gameplay called cooperative play,  in which it's possible to control 3 characters simultaneously.  Unlike most similar games, Open Sonic provides a greater level of interaction  between the player and the levels. It's more than just a jump'n'run  the user must come up with some strategy in order to get through the levels."
+msgstr ""
+
+#: Desktop Files - Audex is an audio CD ripping tool for KDE4.  Features include: - Extracting with CDDA Paranoia. So you have quite perfect audio quality. - Extracting and encoding run parallel. - Filename editing with local and remote CDDB/FreeDB database. - Metadata correction tools like capitalization. - Multi-profile extraction (with one commandline-encoder per profile). - Fetch covers from the internet and store them in the database. - Create playlists, cover and template-based-info files in target directory. - Creates extraction and encoding protocols. - Transfer files with KDE KIO-Slaves.
+msgid "Audex is an audio CD ripping tool for KDE4.  Features include: - Extracting with CDDA Paranoia. So you have quite perfect audio quality. - Extracting and encoding run parallel. - Filename editing with local and remote CDDB/FreeDB database. - Metadata correction tools like capitalization. - Multi-profile extraction (with one commandline-encoder per profile). - Fetch covers from the internet and store them in the database. - Create playlists, cover and template-based-info files in target directory. - Creates extraction and encoding protocols. - Transfer files with KDE KIO-Slaves."
+msgstr ""
+
+#: Desktop Files - BomberMaze is Bomberman clone for GNOME. It is a multiplayer action game in which players run around in a square-grid maze while dropping bombs and collecting power-ups. The bombs exlode after a short time delay, taking out any nearby bricks and players. For maximum effect, bombs can be arranged so as to cause a chain reaction of explosions. The last player left is the winner.
+msgid "BomberMaze is Bomberman clone for GNOME. It is a multiplayer action game in which players run around in a square-grid maze while dropping bombs and collecting power-ups. The bombs exlode after a short time delay, taking out any nearby bricks and players. For maximum effect, bombs can be arranged so as to cause a chain reaction of explosions. The last player left is the winner."
+msgstr ""
+
+#: Desktop Files - The Calf project aims at providing a set of high quality open source audio plugins for musicians. All the included plugins are designed to be used with multitrack software, as software replacement for instruments and guitar stomp boxes.  The plugins are available in following formats:   - DSSI (both synthesizers and effects, GTK+ GUI is included)   - Standalone JACK client application with GTK+-based GUI   - LADSPA (only effect plugins, GUI not available unless host supports    DSSI-style GUI for LADSPA), with LRDF. Note that use of LADSPA    is strongly discouraged, as the limitations of the standard may cause    serious inconvenience.
+msgid "The Calf project aims at providing a set of high quality open source audio plugins for musicians. All the included plugins are designed to be used with multitrack software, as software replacement for instruments and guitar stomp boxes.  The plugins are available in following formats:   - DSSI (both synthesizers and effects, GTK+ GUI is included)   - Standalone JACK client application with GTK+-based GUI   - LADSPA (only effect plugins, GUI not available unless host supports    DSSI-style GUI for LADSPA), with LRDF. Note that use of LADSPA    is strongly discouraged, as the limitations of the standard may cause    serious inconvenience."
+msgstr ""
+
+#: Desktop Files - Creox is a real-time sound processor.  You can plug your electric guitar or any other musical instrument directly to the PC's sound card and start experimenting with various sound effects.  Creox offers nice user-friendly KDE-based GUI, a preset support, a low-latency DSP engine, and each effect parameter can be altered "on the fly".  As Creox is a JACK application, the output sound can be routed to the other JACK-aware applications, and the audio input can be taken as the output from the other JACK client.
+msgid "Creox is a real-time sound processor.  You can plug your electric guitar or any other musical instrument directly to the PC's sound card and start experimenting with various sound effects.  Creox offers nice user-friendly KDE-based GUI, a preset support, a low-latency DSP engine, and each effect parameter can be altered "on the fly".  As Creox is a JACK application, the output sound can be routed to the other JACK-aware applications, and the audio input can be taken as the output from the other JACK client."
+msgstr ""
+
+#: Desktop Files - Cuberok is a music player and a collection manager based on Qt4. It has lightweight interface, music collection support and many features, e.g. music autorating and Last.FM scrobbler.  Features: -CUE support. Codepage selection for CUE sheets  -Shoutcast/icecast support (for GStreamer and Phonon)  -Support internet services Jamendo and MagnaTune (New in v.0.0.9)  -Last.FM and Libre.FM scrobblers  -Downloading images for albums and artists from Last.FM  -Loading artist and album info from Last.FM, loading lyrics from LyricWiki.org -Auto rating for songs. Rating for albums, artists and genres automatically calculated from rating of songs.  -Easy collection browsing. Just double click on genre to view all artist in this genre.  -Smart playlists (custom SQL requests)  -Support for AlbumArt as separate file on disk. Art can be assinged to genre and atrist too.  -And etc...
+msgid "Cuberok is a music player and a collection manager based on Qt4. It has lightweight interface, music collection support and many features, e.g. music autorating and Last.FM scrobbler.  Features: -CUE support. Codepage selection for CUE sheets  -Shoutcast/icecast support (for GStreamer and Phonon)  -Support internet services Jamendo and MagnaTune (New in v.0.0.9)  -Last.FM and Libre.FM scrobblers  -Downloading images for albums and artists from Last.FM  -Loading artist and album info from Last.FM, loading lyrics from LyricWiki.org -Auto rating for songs. Rating for albums, artists and genres automatically calculated from rating of songs.  -Easy collection browsing. Just double click on genre to view all artist in this genre.  -Smart playlists (custom SQL requests)  -Support for AlbumArt as separate file on disk. Art can be assinged to genre and atrist too.  -And etc..."
+msgstr ""
+
+#: Desktop Files - The GNOME Desktop Environment's games application package includes card games (including a solitaire package which knows 69 distinct solitaire variations) knockoffs of Minesweeper, Tetris, mahjongg, and Nibbles action games puzzle games and even more card games.
+msgid "The GNOME Desktop Environment's games application package includes card games (including a solitaire package which knows 69 distinct solitaire variations) knockoffs of Minesweeper, Tetris, mahjongg, and Nibbles action games puzzle games and even more card games."
+msgstr ""
+
+#: Desktop Files - DigiKam is an advanced digital photo management application for KDE, which makes importing and organizing digital photos a "snap". The photos are organized in albums which can be sorted chronologically, by folder layout or by custom collections.  An easy-to-use interface is provided that enables you to connect to your camera and preview, download and/or delete your images. Basic auto-transformations can be deployed on the fly during image downloading.  Digikam also uses the very flexible Kipi plugin architecture. Install the graphics/kipi-plugins port to extend Digikam's features.
+msgid "DigiKam is an advanced digital photo management application for KDE, which makes importing and organizing digital photos a "snap". The photos are organized in albums which can be sorted chronologically, by folder layout or by custom collections.  An easy-to-use interface is provided that enables you to connect to your camera and preview, download and/or delete your images. Basic auto-transformations can be deployed on the fly during image downloading.  Digikam also uses the very flexible Kipi plugin architecture. Install the graphics/kipi-plugins port to extend Digikam's features."
+msgstr ""
+
+#: Desktop Files - A set of tools for authoring and playback of unencrypted and uncompressed audio on DVD.
+msgid "A set of tools for authoring and playback of unencrypted and uncompressed audio on DVD."
+msgstr ""
+
+#: Desktop Files - ==================
+msgid "=================="
+msgstr ""
+
+#: Desktop Files - GLAME is meant to be the GIMP of audio processing. It is designed to be a powerful, fast, stable, and easily extensible sound editor for GNOME desktop.
+msgid "GLAME is meant to be the GIMP of audio processing. It is designed to be a powerful, fast, stable, and easily extensible sound editor for GNOME desktop."
+msgstr ""
+
+#: Desktop Files - GQradio interfaces with radio cards through the video4linux, or the FreeBSD bktr APIs. Stations can be tuned manually, set to presets, or auto seek can find the next available frequency. The application supports theming (skins), and includes a built-in skin editor.
+msgid "GQradio interfaces with radio cards through the video4linux, or the FreeBSD bktr APIs. Stations can be tuned manually, set to presets, or auto seek can find the next available frequency. The application supports theming (skins), and includes a built-in skin editor."
+msgstr ""
+
+#: Desktop Files - A very simple application for rolling dice. Intended for use by roleplayers.
+msgid "A very simple application for rolling dice. Intended for use by roleplayers."
+msgstr ""
+
+#: Desktop Files - Gnomoradio is quickly becoming a fully-featured music player and peer to peer file sharing system. Here is a quick outline of its current features that more or less work:  * Finds and plays mp3's and ogg's that are located on the   user's hard drive * Sorts songs in playlists, including search playlists for   songs that match a given criteria * Searches for, downloads and shares songs that are available   under a Creative Commons license * Recommends songs based on a user's listening preferences,   almost like a totally personalized radio broadcast
+msgid "Gnomoradio is quickly becoming a fully-featured music player and peer to peer file sharing system. Here is a quick outline of its current features that more or less work:  * Finds and plays mp3's and ogg's that are located on the   user's hard drive * Sorts songs in playlists, including search playlists for   songs that match a given criteria * Searches for, downloads and shares songs that are available   under a Creative Commons license * Recommends songs based on a user's listening preferences,   almost like a totally personalized radio broadcast"
+msgstr ""
+
+#: Desktop Files - KAudioCreator is an audio CD ripper, which uses cdparanoia as a backend to extract the tracks and later it encodes them to mp3 or ogg files (or many other formats supported).  Features:  - CDDB lookup to extract the album and track information  - Different encoding formats supported (ogg, mp3, flac)  - Different filename formats using tags
+msgid "KAudioCreator is an audio CD ripper, which uses cdparanoia as a backend to extract the tracks and later it encodes them to mp3 or ogg files (or many other formats supported).  Features:  - CDDB lookup to extract the album and track information  - Different encoding formats supported (ogg, mp3, flac)  - Different filename formats using tags"
+msgstr ""
+
+#: Desktop Files - Libcanberra is an implementation of the Freedesktop Sound Theme specification.  It allows developers to play sounds given a list of events.
+msgid "Libcanberra is an implementation of the Freedesktop Sound Theme specification.  It allows developers to play sounds given a list of events."
+msgstr ""
+
+#: Desktop Files - A light-weight music player for GNOME
+msgid "A light-weight music player for GNOME"
+msgstr ""
+
+#: Desktop Files - Mangler is an open source VOIP client capable of connecting to Ventrilo 3.x servers.
+msgid "Mangler is an open source VOIP client capable of connecting to Ventrilo 3.x servers."
+msgstr ""
+
+#: Desktop Files - MIDI Player Pro allows you to play any kind of MIDI music in seconds with your fingertips. List of supported features:  - Raw MIDI. - Jack MIDI. - Import from lyrics sites (chorded lyrics) - Import from GuitarPro v3 and v4 format. - Loading and saving from and to standard v1.0 MIDI files. - Live performancing. - Simple sequence looping. - Printing music like PDF.
+msgid "MIDI Player Pro allows you to play any kind of MIDI music in seconds with your fingertips. List of supported features:  - Raw MIDI. - Jack MIDI. - Import from lyrics sites (chorded lyrics) - Import from GuitarPro v3 and v4 format. - Loading and saving from and to standard v1.0 MIDI files. - Live performancing. - Simple sequence looping. - Printing music like PDF."
+msgstr ""
+
+#: Desktop Files - MultiSync is a free modular program to synchronize calendars, addressbooks and other PIM data between programs on your computer and other computers, mobile devices, PDAs or cell phones. MultiSync works on Gnome platform.
+msgid "MultiSync is a free modular program to synchronize calendars, addressbooks and other PIM data between programs on your computer and other computers, mobile devices, PDAs or cell phones. MultiSync works on Gnome platform."
+msgstr ""
+
+#: Desktop Files - PulseAudio Device Chooser (padevchooser) is a simple GTK tool which registers an icon in the tray area and allows quick access to some features of the PulseAudio sound server. Specifically it can do for you:   - Notify about new sink/sources becoming available on the LAN  - Quickly change the default PulseAudio sink/source/server assigned to the    current X11 display, selecting devices available on the LAN  - Start the auxiliary tools PulseAudio Volume Control, PulseAudio Volume    Meter, PulseAudio Manager, PulseAudio Preferences
+msgid "PulseAudio Device Chooser (padevchooser) is a simple GTK tool which registers an icon in the tray area and allows quick access to some features of the PulseAudio sound server. Specifically it can do for you:   - Notify about new sink/sources becoming available on the LAN  - Quickly change the default PulseAudio sink/source/server assigned to the    current X11 display, selecting devices available on the LAN  - Start the auxiliary tools PulseAudio Volume Control, PulseAudio Volume    Meter, PulseAudio Manager, PulseAudio Preferences"
+msgstr ""
+
+#: Desktop Files - QMPDClient is an easy to use MPD client written in Qt 4.  Features:  - Covers display - Lyrics display - Tag guessing - Internet radio - Storing & using playlists - Last.fm track submission - Tray notifications (Freedestop too) - Skinnable interface with iconsets - Shoutcast (unstable, see shoutcast branch in git) And more
+msgid "QMPDClient is an easy to use MPD client written in Qt 4.  Features:  - Covers display - Lyrics display - Tag guessing - Internet radio - Storing & using playlists - Last.fm track submission - Tray notifications (Freedestop too) - Skinnable interface with iconsets - Shoutcast (unstable, see shoutcast branch in git) And more"
+msgstr ""
+
+#: Desktop Files - Schism Tracker is a free reimplementation of Impulse Tracker, a program used to create high quality music without the requirements of specialized, expensive equipment, and with a unique 
+msgid "Schism Tracker is a free reimplementation of Impulse Tracker, a program used to create high quality music without the requirements of specialized, expensive equipment, and with a unique "
+msgstr ""
+
+#: Desktop Files - Cross-platform audio loop slicer designed to create sliced loops from WAV, MP3,  FLAC or AIFF files in seconds without a sequencer.   Effects include filter sweeps, phasing, flanging, delay, and distortion.
+msgid "Cross-platform audio loop slicer designed to create sliced loops from WAV, MP3,  FLAC or AIFF files in seconds without a sequencer.   Effects include filter sweeps, phasing, flanging, delay, and distortion."
+msgstr ""
+
+#: Desktop Files - Sonata is a lightweight GTK+ music client for the Music Player Daemon (MPD). It aims to be efficient (no toolbar, main menu, or statusbar), user-friendly, and clean.  FEATURES: + Expanded and collapsed views, fullscreen album art mode + Automatic remote and local album art + Library browsing by folders, or by genre/artist/album + User-configurable columns + Automatic fetching of lyrics + Playlist and stream support + Support for editing song tags + Drag-and-drop to copy files + Popup notification + Library and playlist searching, filter as you type + Audioscrobbler (last.fm) 1.2 support + Multiple MPD profiles + Keyboard friendly + Support for multimedia keys + Commandline control + Available in 24 languages
+msgid "Sonata is a lightweight GTK+ music client for the Music Player Daemon (MPD). It aims to be efficient (no toolbar, main menu, or statusbar), user-friendly, and clean.  FEATURES: + Expanded and collapsed views, fullscreen album art mode + Automatic remote and local album art + Library browsing by folders, or by genre/artist/album + User-configurable columns + Automatic fetching of lyrics + Playlist and stream support + Support for editing song tags + Drag-and-drop to copy files + Popup notification + Library and playlist searching, filter as you type + Audioscrobbler (last.fm) 1.2 support + Multiple MPD profiles + Keyboard friendly + Support for multimedia keys + Commandline control + Available in 24 languages"
+msgstr ""
+
+#: Desktop Files - Spek helps to analyse your audio files by showing their spectrogram. Spek supports all popular lossy and lossless audio file formats.
+msgid "Spek helps to analyse your audio files by showing their spectrogram. Spek supports all popular lossy and lossless audio file formats."
+msgstr ""
+
+#: Desktop Files - Sweep is an audio editor and live playback tool for GNU/Linux, BSD and compatible systems. It supports many music and voice formats including WAV, AIFF, Ogg Vorbis, Speex and MP3, with multichannel editing and LADSPA effects plugins.
+msgid "Sweep is an audio editor and live playback tool for GNU/Linux, BSD and compatible systems. It supports many music and voice formats including WAV, AIFF, Ogg Vorbis, Speex and MP3, with multichannel editing and LADSPA effects plugins."
+msgstr ""
+
+#: Desktop Files - Audio Tag Tool is a program to manage the information fields in MP3 and Ogg Vorbis files, commonly called tags. Tag Tool can be used to edit tags one-by-one, but the most useful features are the ability to easily tag or rename hundreds of files at once, in any desired format.  Tag Tool's features include:     * Tag Editor     * Multiple File Tagger     * Clear Tags     * Move/Rename Multiple Files     * Create Playlists  The mass tag and mass rename features can handle filenames in any format thanks to an easily configurable format template.
+msgid "Audio Tag Tool is a program to manage the information fields in MP3 and Ogg Vorbis files, commonly called tags. Tag Tool can be used to edit tags one-by-one, but the most useful features are the ability to easily tag or rename hundreds of files at once, in any desired format.  Tag Tool's features include:     * Tag Editor     * Multiple File Tagger     * Clear Tags     * Move/Rename Multiple Files     * Create Playlists  The mass tag and mass rename features can handle filenames in any format thanks to an easily configurable format template."
+msgstr ""
+
+#: Desktop Files - wavbreaker is a tool to take a wave file and break it up into multiple wave files. It makes a clean break at the correct position to burn the files to an audio CD without any dead space between the tracks. It will only read wave files, so use an appropriate tool to convert Ogg, MP3, etc. files and then break them up. The GUI displays a summary of the entire wave file being worked on at the top. There is also a command line tool to merge wave files together (wavmerge). This tool will only work on files that are alike. For example, 44100 khz sample rate, 16-bit sample size, etc. (use sox to convert files first if necessary).
+msgid "wavbreaker is a tool to take a wave file and break it up into multiple wave files. It makes a clean break at the correct position to burn the files to an audio CD without any dead space between the tracks. It will only read wave files, so use an appropriate tool to convert Ogg, MP3, etc. files and then break them up. The GUI displays a summary of the entire wave file being worked on at the top. There is also a command line tool to merge wave files together (wavmerge). This tool will only work on files that are alike. For example, 44100 khz sample rate, 16-bit sample size, etc. (use sox to convert files first if necessary)."
+msgstr ""
+
+#: Desktop Files - A simple program to help novice guitarist faster (and better) to tune your guitar.
+msgid "A simple program to help novice guitarist faster (and better) to tune your guitar."
+msgstr ""
+
+#: Desktop Files - EasyPBI makes creating Push Button Installer modules and packages a simple process with a simple point-n-click interface.
+msgid "EasyPBI makes creating Push Button Installer modules and packages a simple process with a simple point-n-click interface."
+msgstr ""
+
+#: Desktop Files - Vagalume is an GTK+-based client for the Last.fm online radio.  Although it works in standard PCs, it is specially designed to work in the Maemo platform. It has access to virtually all the same functions as the official client, including scrobbling, tagging, loving, banning etc.
+msgid "Vagalume is an GTK+-based client for the Last.fm online radio.  Although it works in standard PCs, it is specially designed to work in the Maemo platform. It has access to virtually all the same functions as the official client, including scrobbling, tagging, loving, banning etc."
+msgstr ""
+
+#: Desktop Files - This is xfce4-mixer, a volume control application for the Xfce Desktop Environment. This software package contains both a volume control plugin for the Xfce Panel and a standalone mixer application.
+msgid "This is xfce4-mixer, a volume control application for the Xfce Desktop Environment. This software package contains both a volume control plugin for the Xfce Panel and a standalone mixer application."
+msgstr ""
+
+#: Desktop Files - A graphical GTK+ MPD client focusing on low footprint.
+msgid "A graphical GTK+ MPD client focusing on low footprint."
+msgstr ""
+
+#: Desktop Files - XnView is a utility for viewing and converting graphic files. It has the features : - Import about 360 graphic file formats - Export about 40 graphic file formats - Multipage TIFF, Animated GIF, Animated ICO support - Resize - Copy/Cut/Crop - Adjust brigthness, contrast... - Modify number of colors - Apply filters (blur, average, emboss, ...) - Apply effects (lens, wave, ...) - Fullscreen mode - Slide show - Picture browser - Batch convert - Thumbnail create - Screen capture - Contact Sheet create - Multi-page file create (TIFF, DCX, LDF) - And many may other things...
+msgid "XnView is a utility for viewing and converting graphic files. It has the features : - Import about 360 graphic file formats - Export about 40 graphic file formats - Multipage TIFF, Animated GIF, Animated ICO support - Resize - Copy/Cut/Crop - Adjust brigthness, contrast... - Modify number of colors - Apply filters (blur, average, emboss, ...) - Apply effects (lens, wave, ...) - Fullscreen mode - Slide show - Picture browser - Batch convert - Thumbnail create - Screen capture - Contact Sheet create - Multi-page file create (TIFF, DCX, LDF) - And many may other things..."
+msgstr ""
+
+#: Desktop Files - Paintown is an open source fighting game in the same genre as Streets of Rage and Teenage Mutant Ninja Turtles.
+msgid "Paintown is an open source fighting game in the same genre as Streets of Rage and Teenage Mutant Ninja Turtles."
+msgstr ""
+
+#: Desktop Files - Ruby is the interpreted scripting language for quick and easy object-oriented programming.  It has many features to process text files and to do system management tasks (as in Perl).  It is simple, straight-forward, and extensible.  Features of Ruby are shown below.    + Simple Syntax   + *Normal* Object-Oriented features(ex. class, method calls)   + *Advanced* Object-Oriented features(ex. Mix-in, Singleton-method)   + Operator Overloading   + Exception Handling   + Iterators and Closures   + Garbage Collection   + Dynamic Loading of Object files(on some architecture)   + Highly Portable(works on many UNIX machines, and on DOS,     Windows, Mac, BeOS etc.)
+msgid "Ruby is the interpreted scripting language for quick and easy object-oriented programming.  It has many features to process text files and to do system management tasks (as in Perl).  It is simple, straight-forward, and extensible.  Features of Ruby are shown below.    + Simple Syntax   + *Normal* Object-Oriented features(ex. class, method calls)   + *Advanced* Object-Oriented features(ex. Mix-in, Singleton-method)   + Operator Overloading   + Exception Handling   + Iterators and Closures   + Garbage Collection   + Dynamic Loading of Object files(on some architecture)   + Highly Portable(works on many UNIX machines, and on DOS,     Windows, Mac, BeOS etc.)"
+msgstr ""
+
+#: Desktop Files - This is a port for UAE, the Universal Amiga Emulator. You will require a valid Amiga ROM file in order for this to be useful.
+msgid "This is a port for UAE, the Universal Amiga Emulator. You will require a valid Amiga ROM file in order for this to be useful."
+msgstr ""
+
+#: Desktop Files - Versatile Commodore 8-bit Emulator VICE, the multi-platform C64, C128, VIC20, PET and CBM-II emulator.  The following programs are included:   - x64, a C64 emulator   - x128, a C128 emulator   - xvic, a VIC20 emulator   - xpet, a PET emulator   - xcbm2, a CBM=II emulator   - c1541, a stand-alone disk image maintenance utility   - petcat, a CBM BASIC de-tokenizer  The ROM files are Copyright by Commodore Business Machines.
+msgid "Versatile Commodore 8-bit Emulator VICE, the multi-platform C64, C128, VIC20, PET and CBM-II emulator.  The following programs are included:   - x64, a C64 emulator   - x128, a C128 emulator   - xvic, a VIC20 emulator   - xpet, a PET emulator   - xcbm2, a CBM=II emulator   - c1541, a stand-alone disk image maintenance utility   - petcat, a CBM BASIC de-tokenizer  The ROM files are Copyright by Commodore Business Machines."
+msgstr ""
+
+#: Desktop Files - The Aegisub Project is a community-driven effort to write the BSDL licensed cross-platform subtitle editor Aegisub. Composed completely of volunteers passionate about subtitling, as a project it strives to be open, fair and most of all: free.
+msgid "The Aegisub Project is a community-driven effort to write the BSDL licensed cross-platform subtitle editor Aegisub. Composed completely of volunteers passionate about subtitling, as a project it strives to be open, fair and most of all: free."
+msgstr ""
+
+#: Desktop Files - This is Contacts, simple and efficient interface to contacts databases stored by Gnome internal Evolution data server. It was build primary  for non desktop devices, but serves its mission as well on bigger  computers.
+msgid "This is Contacts, simple and efficient interface to contacts databases stored by Gnome internal Evolution data server. It was build primary  for non desktop devices, but serves its mission as well on bigger  computers."
+msgstr ""
+
+#: Desktop Files - Cowbell is an elegant music organizer intended to make keeping your collection tidy both fun and easy.  Infused with Amazon Web Services SOAP-fu, Cowbell can whip your music platoon into shape without even getting your boots muddy. And, if that isn't enough to make you want to rush to the Download link, Cowbell can also snatch album art and rename your music files like a pro.
+msgid "Cowbell is an elegant music organizer intended to make keeping your collection tidy both fun and easy.  Infused with Amazon Web Services SOAP-fu, Cowbell can whip your music platoon into shape without even getting your boots muddy. And, if that isn't enough to make you want to rush to the Download link, Cowbell can also snatch album art and rename your music files like a pro."
+msgstr ""
+
+#: Desktop Files - jack-keyboard is a virtual keyboard that lets you play on softsynths (like audio/ghostess) using your computer's keyboard.  It's somewhat similar in purpose to vkeybd, except that jack-keyboard uses JACK MIDI instead of ALSA.  See the README file for keyboard mapping.
+msgid "jack-keyboard is a virtual keyboard that lets you play on softsynths (like audio/ghostess) using your computer's keyboard.  It's somewhat similar in purpose to vkeybd, except that jack-keyboard uses JACK MIDI instead of ALSA.  See the README file for keyboard mapping."
+msgstr ""
+
+#: Desktop Files - JasperServer is a business intelligence platform based on JasperReports. It is a Web and Web services based application for reporting, data analysis (OLAP UI and server) and data integration.
+msgid "JasperServer is a business intelligence platform based on JasperReports. It is a Web and Web services based application for reporting, data analysis (OLAP UI and server) and data integration."
+msgstr ""
+
+#: Desktop Files - Akonadi - The PIM Storage Service      * Common PIM data cache o Type agnostic design o Extensible o Generic offline access, change recording and replay o Generic conflict detection and resolution o Resources are groupable by profile o Items composed of independently retrievable multiple parts o Zero-copy retrieval possible      * Concurrent access allows background activity independent of UI client         o Syncing mail, calendar, addressbooks to remote servers o Syncing with mobile devices o Permits semantic desktop infrastructure to access PIM data o Archiving o Indexing o Out-of-process search     * Multi-process design         o Crash isolation o Large items can't block whole system o Linkage by IPC allows proprietary components o Thin client installations can share components for scalability
+msgid "Akonadi - The PIM Storage Service      * Common PIM data cache o Type agnostic design o Extensible o Generic offline access, change recording and replay o Generic conflict detection and resolution o Resources are groupable by profile o Items composed of independently retrievable multiple parts o Zero-copy retrieval possible      * Concurrent access allows background activity independent of UI client         o Syncing mail, calendar, addressbooks to remote servers o Syncing with mobile devices o Permits semantic desktop infrastructure to access PIM data o Archiving o Indexing o Out-of-process search     * Multi-process design         o Crash isolation o Large items can't block whole system o Linkage by IPC allows proprietary components o Thin client installations can share components for scalability"
+msgstr ""
+
+#: Desktop Files - GNAT AUX is based on the trunk version of Free Software Foundation's GNU Compiler Collection.  It carries with it the GMGPL license, the modified version of the GPL that exempts generic instantiation from resulting in a GPL-licensed executable.  This version of GNAT also carries with it the GCC Runtime Library Exception, so the resulting binaries have no licensing requirements.  Binaries produced by GNAT AUX should be handled the same as binaries produced by any FSF GNAT compiler.  GNAT AUX implements the full Ada-83, Ada-95, and Ada-2005 language standards. It also implements some features of the draft Ada-2012 standard, which are optionally accessible via the -gnat2012 switch or Ada_2012 pragma.
+msgid "GNAT AUX is based on the trunk version of Free Software Foundation's GNU Compiler Collection.  It carries with it the GMGPL license, the modified version of the GPL that exempts generic instantiation from resulting in a GPL-licensed executable.  This version of GNAT also carries with it the GCC Runtime Library Exception, so the resulting binaries have no licensing requirements.  Binaries produced by GNAT AUX should be handled the same as binaries produced by any FSF GNAT compiler.  GNAT AUX implements the full Ada-83, Ada-95, and Ada-2005 language standards. It also implements some features of the draft Ada-2012 standard, which are optionally accessible via the -gnat2012 switch or Ada_2012 pragma."
+msgstr ""
+
+#: Desktop Files - jack_mixer is a GTK+  JACK audio mixer app with a look similar to its hardware counterpart. It has lot of useful features, apart from being able to mix multiple JACK audio streams.
+msgid "jack_mixer is a GTK+  JACK audio mixer app with a look similar to its hardware counterpart. It has lot of useful features, apart from being able to mix multiple JACK audio streams."
+msgstr ""
+
+#: Desktop Files - Mono is an open source implementation of .NET Development Framework. Its objective is to enable UNIX developers to build and deploy cross-platform .NET Applications. The project implements various technologies developed by Microsoft that have now been submitted to the ECMA for standardization.  Mono provides the necessary software to develop and run .NET client and server applications on BSD, Linux, Solaris, Mac OS X, Windows, and Unix.
+msgid "Mono is an open source implementation of .NET Development Framework. Its objective is to enable UNIX developers to build and deploy cross-platform .NET Applications. The project implements various technologies developed by Microsoft that have now been submitted to the ECMA for standardization.  Mono provides the necessary software to develop and run .NET client and server applications on BSD, Linux, Solaris, Mac OS X, Windows, and Unix."
+msgstr ""
+
+#: Desktop Files - The Netwide Assembler (NASM) is an x86 and amd64 (x86-64) assembler designed for portability and modularity.  It will output flat-form binary files, a.out (Linux and *BSD), COFF, ELF32, ELF64, Mach-O, Microsoft OMF (OBJ), Win32, Win64, as86 (Minix/Linux bin86 v0.3), LADsoft IEEE-695, Intel hex, Motorola S-record, and a home-grown format called RDOFF.  NASM syntax is similar to Intel's, but is less complex.  It supports Pentium, P6, MMX, 3DNow!, SSE, SSE2, SSE3, SSE4.1, SSE4.2, XOP/FMA4/CVT16 (rev 3.03), and x64 opcodes, among others.  It has strong support for macro conventions.  The port also includes NDISASM, a binary file disassembler which uses the same instruction set as NASM.
+msgid "The Netwide Assembler (NASM) is an x86 and amd64 (x86-64) assembler designed for portability and modularity.  It will output flat-form binary files, a.out (Linux and *BSD), COFF, ELF32, ELF64, Mach-O, Microsoft OMF (OBJ), Win32, Win64, as86 (Minix/Linux bin86 v0.3), LADsoft IEEE-695, Intel hex, Motorola S-record, and a home-grown format called RDOFF.  NASM syntax is similar to Intel's, but is less complex.  It supports Pentium, P6, MMX, 3DNow!, SSE, SSE2, SSE3, SSE4.1, SSE4.2, XOP/FMA4/CVT16 (rev 3.03), and x64 opcodes, among others.  It has strong support for macro conventions.  The port also includes NDISASM, a binary file disassembler which uses the same instruction set as NASM."
+msgstr ""
+
+#: Desktop Files - Open Cubic Player first appeared around December 1994 as a DOS binary-only module player. It supported many sound cards and module formats.  At some point, the source code was released to the public under the terms of the GNU General Public License, and around 2003 Stian Skjelstad ported the code to Linux.  In addition to legacy tracker formats such as mod, xm and s3m, Open Cubic Player now also supports mp3, ogg and ay files and can be compiled with libadplug support.
+msgid "Open Cubic Player first appeared around December 1994 as a DOS binary-only module player. It supported many sound cards and module formats.  At some point, the source code was released to the public under the terms of the GNU General Public License, and around 2003 Stian Skjelstad ported the code to Linux.  In addition to legacy tracker formats such as mod, xm and s3m, Open Cubic Player now also supports mp3, ogg and ay files and can be compiled with libadplug support."
+msgstr ""
+
+#: Desktop Files - OpenLieroX is based and compatible to the famous LieroX. LieroX is a 2D shooter game. It is an unofficial sequel to Liero, and is the most popular of all the Liero clones. It features online play, fully customizable weapons, levels and characters. Liero Xtreme was created in C++ by Jason 'JasonB' Boettcher, an Australian programmer.  The game is based on a deathmatch setting, where multiple players face off in a closed level. Each player is equipped with five weapons selected out of all the weapons allowed, and with a ninja rope that allows the player to move in any direction. Players begin with a set amount of lives, and whilst the game records the number of kills, the last man standing is usually considered the winner. LieroX also allows team deathmatches, which has made it common for players to form clans.  Because of the huge community, there are dozens of levels and mods available. You also have no problem to find somebody on Internet to play with. Or if you want to play offline, you also can play with bots.
+msgid "OpenLieroX is based and compatible to the famous LieroX. LieroX is a 2D shooter game. It is an unofficial sequel to Liero, and is the most popular of all the Liero clones. It features online play, fully customizable weapons, levels and characters. Liero Xtreme was created in C++ by Jason 'JasonB' Boettcher, an Australian programmer.  The game is based on a deathmatch setting, where multiple players face off in a closed level. Each player is equipped with five weapons selected out of all the weapons allowed, and with a ninja rope that allows the player to move in any direction. Players begin with a set amount of lives, and whilst the game records the number of kills, the last man standing is usually considered the winner. LieroX also allows team deathmatches, which has made it common for players to form clans.  Because of the huge community, there are dozens of levels and mods available. You also have no problem to find somebody on Internet to play with. Or if you want to play offline, you also can play with bots."
+msgstr ""
+
+#: Desktop Files - MPD click & play client   mpdBrowser show your collection's covers and let you: - play an album with left click - Enqueue an album with left click and Control - Clear playlist with middle click - play a song with right click - enqueue a song with right click and Control
+msgid "MPD click & play client   mpdBrowser show your collection's covers and let you: - play an album with left click - Enqueue an album with left click and Control - Clear playlist with middle click - play a song with right click - enqueue a song with right click and Control"
+msgstr ""
+
+#: Desktop Files - OGMRip is an application and a set of libraries for ripping and encoding DVD into DivX/OGM files using a wide variety of codecs. It relies on mplayer, mencoder, ogmtools, oggenc and lame to perform its tasks.  The GUI features a clean HIG-compliant GNOME 2 interface and tries to minimize as much as possible esoteric settings.
+msgid "OGMRip is an application and a set of libraries for ripping and encoding DVD into DivX/OGM files using a wide variety of codecs. It relies on mplayer, mencoder, ogmtools, oggenc and lame to perform its tasks.  The GUI features a clean HIG-compliant GNOME 2 interface and tries to minimize as much as possible esoteric settings."
+msgstr ""
+
+#: Desktop Files - Patchage is a modular patch bay for audio and MIDI systems based on Jack and Lash audio systems.
+msgid "Patchage is a modular patch bay for audio and MIDI systems based on Jack and Lash audio systems."
+msgstr ""
+
+#: Desktop Files - PulseAudio, previously known as Polypaudio, is a sound server for POSIX and Win32 systems. A sound server is basically a proxy for your sound applications. It allows you to do advanced operations on your sound data as it passes between your application and your hardware. Things like transferring the audio to a different machine, changing the sample format or channel count and mixing several sounds into one are easily achieved using a sound server.
+msgid "PulseAudio, previously known as Polypaudio, is a sound server for POSIX and Win32 systems. A sound server is basically a proxy for your sound applications. It allows you to do advanced operations on your sound data as it passes between your application and your hardware. Things like transferring the audio to a different machine, changing the sample format or channel count and mixing several sounds into one are easily achieved using a sound server."
+msgstr ""
+
+#: Desktop Files - periscope is a subtitles searching module written in python that tries to find a correct match for a given video file. The goal behind periscope is that it will only return only correct subtitles so that you can simply relax and enjoy your video without having to double-check that the subtitles match your video before watching it. This is done by using as much info as available from your file and on the websites. Some websites allow you to use hash of the files, the size/length of the video or the exact file name.  As a python module, periscope should be easily integrated in many projects that allow plugins to be written in python. The fact that the plugin is shared between all the applications means that separate application and their plugin (file browser, video player, media center application, ...) don't have to maintain the code to search, parse and download subtitles and the user preference about languages.  The subtitles websites are handled as plugins.
+msgid "periscope is a subtitles searching module written in python that tries to find a correct match for a given video file. The goal behind periscope is that it will only return only correct subtitles so that you can simply relax and enjoy your video without having to double-check that the subtitles match your video before watching it. This is done by using as much info as available from your file and on the websites. Some websites allow you to use hash of the files, the size/length of the video or the exact file name.  As a python module, periscope should be easily integrated in many projects that allow plugins to be written in python. The fact that the plugin is shared between all the applications means that separate application and their plugin (file browser, video player, media center application, ...) don't have to maintain the code to search, parse and download subtitles and the user preference about languages.  The subtitles websites are handled as plugins."
+msgstr ""
+
+#: Desktop Files - PyPanel is a lightweight panel/taskbar written in Python and C for X11 window managers.  It can be easily customized to match any desktop theme or taste. PyPanel works with EWMH compliant WMs (Openbox, PekWM, FVWM, and many others).  Some of the customizable features include:    - Transparency with shading/tinting   - Panel dimensions, location, and layout   - Font type and colors with Xft and shadow support   - Button events/actions   - Clock and workspace name display   - System tray (notification area)   - Autohiding   - Application launcher   - Custom application icons
+msgid "PyPanel is a lightweight panel/taskbar written in Python and C for X11 window managers.  It can be easily customized to match any desktop theme or taste. PyPanel works with EWMH compliant WMs (Openbox, PekWM, FVWM, and many others).  Some of the customizable features include:    - Transparency with shading/tinting   - Panel dimensions, location, and layout   - Font type and colors with Xft and shadow support   - Button events/actions   - Clock and workspace name display   - System tray (notification area)   - Autohiding   - Application launcher   - Custom application icons"
+msgstr ""
+
+#: Desktop Files - Pyjama is a frontend to the Jamendo network, providing free, legal and unlimited music published under Creative Commons license.
+msgid "Pyjama is a frontend to the Jamendo network, providing free, legal and unlimited music published under Creative Commons license."
+msgstr ""
+
+#: Desktop Files - This program is an audio-player, written with help of Qt library. Supported formats: MPEG1 layer 2/3, Ogg Vorbis, Native FLAC, Ogg FLAC, Musepack, WavePack, tracker modules (mod, s3m, it, xm, etc.), ADTS AAC, CD Audio, MIDI, WMA-Monkey's Audio (and other formats provided by FFmpeg library), PCM Wave (and other formats provided by libsndfile library), and chiptune formats (AY, GBS, GYM, HES, KSS, NSF, NSFE, SAP, SPC, VGM, VGZ, VTX) DSP effects: Bauer Stereophonic-to-Binaural effect, sample rate conversion,     LADSPA effects, extra stereo effect, and crossfade effect Visual effects: Spectrum Analyzer, and projectM audio visulaliser Output system support: PulseAudio, OSS, OSS4, jack, and ALSA Other features: 10-band equalizer, Last.fm/Libre.fm scrobbler, MMS support, global hotkey, streaming (MP3, Vorbis, AAC, AAC+ via IceCast/ShoutCast), CDDB support, removable device detection (via HAL or UDisks), MPRIS, cover art support, multiple playlists, ReplayGain support, CUE sheet support, embedded CUE support (for FLAC and WavPack), MPRIS (1.0 and 2.0), automatic charset detection for cue files and ShoutCast metadata, video playback via Mplayer, lyrics (using lyrics.wikia.com), and skinned UI (supports all skins for XMMS and Winamp 2.x)
+msgid "This program is an audio-player, written with help of Qt library. Supported formats: MPEG1 layer 2/3, Ogg Vorbis, Native FLAC, Ogg FLAC, Musepack, WavePack, tracker modules (mod, s3m, it, xm, etc.), ADTS AAC, CD Audio, MIDI, WMA-Monkey's Audio (and other formats provided by FFmpeg library), PCM Wave (and other formats provided by libsndfile library), and chiptune formats (AY, GBS, GYM, HES, KSS, NSF, NSFE, SAP, SPC, VGM, VGZ, VTX) DSP effects: Bauer Stereophonic-to-Binaural effect, sample rate conversion,     LADSPA effects, extra stereo effect, and crossfade effect Visual effects: Spectrum Analyzer, and projectM audio visulaliser Output system support: PulseAudio, OSS, OSS4, jack, and ALSA Other features: 10-band equalizer, Last.fm/Libre.fm scrobbler, MMS support, global hotkey, streaming (MP3, Vorbis, AAC, AAC+ via IceCast/ShoutCast), CDDB support, removable device detection (via HAL or UDisks), MPRIS, cover art support, multiple playlists, ReplayGain support, CUE sheet support, embedded CUE support (for FLAC and WavPack), MPRIS (1.0 and 2.0), automatic charset detection for cue files and ShoutCast metadata, video playback via Mplayer, lyrics (using lyrics.wikia.com), and skinned UI (supports all skins for XMMS and Winamp 2.x)"
+msgstr ""
+
+#: Desktop Files - Quark is an audio player, for geeks, by geeks. It runs in the background with access provided via a FIFO in the filesystem. It uses Xine-lib for playing music, and can therefore play any file format supported  by Xine.   Quark comes with a couple front-ends to make it more useful.   - charm-quark - a CLI interface  - strange-quark - a GTK System Tray interface 
+msgid "Quark is an audio player, for geeks, by geeks. It runs in the background with access provided via a FIFO in the filesystem. It uses Xine-lib for playing music, and can therefore play any file format supported  by Xine.   Quark comes with a couple front-ends to make it more useful.   - charm-quark - a CLI interface  - strange-quark - a GTK System Tray interface "
+msgstr ""
+
+#: Desktop Files - smplayer intents to be a complete front-end for mplayer,from basic features like playing videos, dvds, vcdsto more advancing features like support for mplayer filters,edl lists, and more.
+msgid "smplayer intents to be a complete front-end for mplayer,from basic features like playing videos, dvds, vcdsto more advancing features like support for mplayer filters,edl lists, and more."
+msgstr ""
+
+#: Desktop Files - Subtitle Composer supports the basic operations (text, time, and style edition) as well as real time preview, spell checking and more aiming to become an improved version of Subtitle Workshop for UNIX-like OSes.
+msgid "Subtitle Composer supports the basic operations (text, time, and style edition) as well as real time preview, spell checking and more aiming to become an improved version of Subtitle Workshop for UNIX-like OSes."
+msgstr ""
+
+#: Desktop Files - Subtitle Editor is a GTK+2 tool to edit subtitles. It can be used for new subtitles or as a tool to transform, edit, correct and refine existing subtitle. This program also shows sound waves, which makes it easier to synchronise subtitles to voices.
+msgid "Subtitle Editor is a GTK+2 tool to edit subtitles. It can be used for new subtitles or as a tool to transform, edit, correct and refine existing subtitle. This program also shows sound waves, which makes it easier to synchronise subtitles to voices."
+msgstr ""
+
+#: Desktop Files - Swfdec is a library for rendering Flash animations and games. It was originally designed as a basis library for creating Flash plugins for GStreamer, but it is a fully standalone library which only use the libart library for drawing.
+msgid "Swfdec is a library for rendering Flash animations and games. It was originally designed as a basis library for creating Flash plugins for GStreamer, but it is a fully standalone library which only use the libart library for drawing."
+msgstr ""
+
+#: Desktop Files - Texmaker is a program, that integrates many tools needed to develop documents with LaTeX, in just one application.  Features :     * an editor to write your LaTeX source files     * the principal LaTex tags can be inserted directly     * 370 mathematical symbols can be inserted in just one click     * wizards to generate code     * LaTeX-related programs can be launched via the "Tools" menu     * the standard Bibtex entry types can be inserted in the ".bib" file     * a "structure view" of the document for easier navigation of a document     * extensive LaTeX documentation     * in the "Messages / Log File" frame, you can see information about       processes and the logfile after a LaTeX compilation     * the "Next Latex Error" and "Previous Latex Error" commands let you reach       the LaTeX errors detected by Kile in the log file     * by clicking on the number of a line in the log file, the cursor jumps to       the corresponding line in the editor
+msgid "Texmaker is a program, that integrates many tools needed to develop documents with LaTeX, in just one application.  Features :     * an editor to write your LaTeX source files     * the principal LaTex tags can be inserted directly     * 370 mathematical symbols can be inserted in just one click     * wizards to generate code     * LaTeX-related programs can be launched via the "Tools" menu     * the standard Bibtex entry types can be inserted in the ".bib" file     * a "structure view" of the document for easier navigation of a document     * extensive LaTeX documentation     * in the "Messages / Log File" frame, you can see information about       processes and the logfile after a LaTeX compilation     * the "Next Latex Error" and "Previous Latex Error" commands let you reach       the LaTeX errors detected by Kile in the log file     * by clicking on the number of a line in the log file, the cursor jumps to       the corresponding line in the editor"
+msgstr ""
+
+#: Desktop Files - Totem is simple movie player for the Gnome 2 desktop based on xine. It features a simple playlist, a full-screen mode, seek and volume controls, as well as a pretty complete keyboard navigation.
+msgid "Totem is simple movie player for the Gnome 2 desktop based on xine. It features a simple playlist, a full-screen mode, seek and volume controls, as well as a pretty complete keyboard navigation."
+msgstr ""
+
+#: Desktop Files - To run:  Simply type xscrabble. This will bring up the setup box which will allow you to enter the names and displays and other info for the game to wish to play. Then click on the Start Game button, (or Load Previous if you're restarting a game). The main program, xscrab, will then be automatically called with the appropriate options.  The game is saved after every turn (in "~/.xscrabble.save" of the person running it) and can be restarted by running xscrabble, entering exactly the same info, and hitting the Load Previous button.  This was a student project, and there are not likely to be any future releases.
+msgid "To run:  Simply type xscrabble. This will bring up the setup box which will allow you to enter the names and displays and other info for the game to wish to play. Then click on the Start Game button, (or Load Previous if you're restarting a game). The main program, xscrab, will then be automatically called with the appropriate options.  The game is saved after every turn (in "~/.xscrabble.save" of the person running it) and can be restarted by running xscrabble, entering exactly the same info, and hitting the Load Previous button.  This was a student project, and there are not likely to be any future releases."
+msgstr ""
+
+#: Desktop Files - Gmerlin is a multimedia framework, which allows you to quickly develop multimedia applications. It is built upon gavl (for low level Audio/Video things) and libxml2 (for loading and saving configuration data and other things). The gmerlin API can be used at multiple levels: Either you take the basic things like plugins, fifos, message-queues and gavl audio/video converters and build your own media engine. The other possibility is to use the player or transcoder engines directly. The latter approach is probably easier, but you'll have less freedom in controlling the process.  Gmerlin includes GUI player with mediatree and a GUI transcoder among other things.
+msgid "Gmerlin is a multimedia framework, which allows you to quickly develop multimedia applications. It is built upon gavl (for low level Audio/Video things) and libxml2 (for loading and saving configuration data and other things). The gmerlin API can be used at multiple levels: Either you take the basic things like plugins, fifos, message-queues and gavl audio/video converters and build your own media engine. The other possibility is to use the player or transcoder engines directly. The latter approach is probably easier, but you'll have less freedom in controlling the process.  Gmerlin includes GUI player with mediatree and a GUI transcoder among other things."
+msgstr ""
+
+#: Desktop Files - GSubEdit, or GNOME Subtitle Editor, is a tool for editing and converting video subtitles. It currently features read/write of SubRip (.srt) and MicroDVD (.sub) subtitles. Framerate conversion and frame displacement (Increase/decrease all frames by a given offset) is also supported.
+msgid "GSubEdit, or GNOME Subtitle Editor, is a tool for editing and converting video subtitles. It currently features read/write of SubRip (.srt) and MicroDVD (.sub) subtitles. Framerate conversion and frame displacement (Increase/decrease all frames by a given offset) is also supported."
+msgstr ""
+
+#: Desktop Files - gxine is a simple but effective GUI for the Xine media player. It uses the GTK toolkit, so it nicely fits in into a GNOME desktop.
+msgid "gxine is a simple but effective GUI for the Xine media player. It uses the GTK toolkit, so it nicely fits in into a GNOME desktop."
+msgstr ""
+
+#: Desktop Files - Gnome Subtitles is a subtitle editor for the GNOME desktop. It supports the most common text-based subtitle formats and allows for subtitle editing, translation and synchronization.
+msgid "Gnome Subtitles is a subtitle editor for the GNOME desktop. It supports the most common text-based subtitle formats and allows for subtitle editing, translation and synchronization."
+msgstr ""
+
+#: Desktop Files - A cross-platform frontend to mencoder designed to facilitate the conversion of almost any video format to one that is playable on various multimedia players.
+msgid "A cross-platform frontend to mencoder designed to facilitate the conversion of almost any video format to one that is playable on various multimedia players."
+msgstr ""
+
+#: Desktop Files - KPlayer is a KDE media player based on MPlayer, www.mplayerhq.hu.  Features include video, audio and subtitle playback from file, URL, DVD, VCD, audio CD, TV, etc. volume, contrast, brightness, hue and saturation controls zooming, full screen and fixed aspect options status and progress display and seeking user friendly interface.  Among planned enhancements are configuration dialog, global and per-file options, playlist, further KDE integration, MPlayer config file handling, support for media encoding.
+msgid "KPlayer is a KDE media player based on MPlayer, www.mplayerhq.hu.  Features include video, audio and subtitle playback from file, URL, DVD, VCD, audio CD, TV, etc. volume, contrast, brightness, hue and saturation controls zooming, full screen and fixed aspect options status and progress display and seeking user friendly interface.  Among planned enhancements are configuration dialog, global and per-file options, playlist, further KDE integration, MPlayer config file handling, support for media encoding."
+msgstr ""
+
+#: Desktop Files - ksubeditor is a video subtitle editor for KDE. It is able to edit and convert subtitles between different subtitle formats. It is able to easily change the time of the subtitle and fit it to the movie.
+msgid "ksubeditor is a video subtitle editor for KDE. It is able to edit and convert subtitles between different subtitle formats. It is able to easily change the time of the subtitle and fit it to the movie."
+msgstr ""
+
+#: Desktop Files - The RealPlayer for Linux is built on top of the Helix Player for Linux and includes support for several non-open source components including RealAudio/RealVideo, MP3 etc.
+msgid "The RealPlayer for Linux is built on top of the Helix Player for Linux and includes support for several non-open source components including RealAudio/RealVideo, MP3 etc."
+msgstr ""
+
+#: Desktop Files - MySQL Workbench is a cross-platform, visual database design tool developed  by MySQL. It is the highly anticipated successor application of the  DBDesigner4 project.
+msgid "MySQL Workbench is a cross-platform, visual database design tool developed  by MySQL. It is the highly anticipated successor application of the  DBDesigner4 project."
+msgstr ""
+
+#: Desktop Files - terminatorX is a realtime audio synthesizer that allows you to "scratch" on digitally sampled audio data (*.wav, *.au, *.mp3, etc.) the way hiphop-DJs scratch on vinyl records.  It features multiple turntables, realtime effects (built-in as well as LADSPA plugin effects), a sequencer and an easy-to-use gtk+ GUI.
+msgid "terminatorX is a realtime audio synthesizer that allows you to "scratch" on digitally sampled audio data (*.wav, *.au, *.mp3, etc.) the way hiphop-DJs scratch on vinyl records.  It features multiple turntables, realtime effects (built-in as well as LADSPA plugin effects), a sequencer and an easy-to-use gtk+ GUI."
+msgstr ""
+
+#: Desktop Files - Apache Tomcat is a web server written in 100% Pure Java.  Apache Tomcat version 7.0 implements the Servlet 3.0 and JavaServer Pages 2.2 specifications from the Java Community Process, and includes many additional features that make it a useful platform for developing and deploying web applications and web services.
+msgid "Apache Tomcat is a web server written in 100% Pure Java.  Apache Tomcat version 7.0 implements the Servlet 3.0 and JavaServer Pages 2.2 specifications from the Java Community Process, and includes many additional features that make it a useful platform for developing and deploying web applications and web services."
+msgstr ""
+
+#: Desktop Files - OpenShot Video Editor is a program designed to create videos on Linux.  It can easily combine multiple video clips, audio clips, and images into a single project, and then export the video into many common video formats.  OpenShot is a non-linear video editor, which means any frame of video can be accessed at any time, and thus the video clips can be layered, mixed, and arranged in very creative ways.  All video clip edits (trimming, cutting, etc...) are non-destructive, meaning that the original video clips are never modified.
+msgid "OpenShot Video Editor is a program designed to create videos on Linux.  It can easily combine multiple video clips, audio clips, and images into a single project, and then export the video into many common video formats.  OpenShot is a non-linear video editor, which means any frame of video can be accessed at any time, and thus the video clips can be layered, mixed, and arranged in very creative ways.  All video clip edits (trimming, cutting, etc...) are non-destructive, meaning that the original video clips are never modified."
+msgstr ""
+
+#: Desktop Files - gPodder is a GTK2 media aggregator written in Python.  A user can subscribe to RSS feeds for podcasts, videocasts, and other similiar content and download media files found in those feeds.  gPodder also supports optional iPod synchronization support, MP3/OGG id3 tag editing, and Ogg-to-iPod synchronization.
+msgid "gPodder is a GTK2 media aggregator written in Python.  A user can subscribe to RSS feeds for podcasts, videocasts, and other similiar content and download media files found in those feeds.  gPodder also supports optional iPod synchronization support, MP3/OGG id3 tag editing, and Ogg-to-iPod synchronization."
+msgstr ""
+
+#: Desktop Files - Terminator is a Python terminal program, using the same widget as gnome-terminal to provide a tiled set of terminals in as little space as possible.
+msgid "Terminator is a Python terminal program, using the same widget as gnome-terminal to provide a tiled set of terminals in as little space as possible."
+msgstr ""
+
+#: Desktop Files - Thunar is a new modern file manager for the Xfce Desktop Environment. Thunar has been designed from the ground up to be fast and easy-to-use. Its user interface is clean and intuitive, and does not include any confusing or useless options. Thunar is fast and responsive with a good start up time and directory load time. Thunar is accessible using Assistive Technologies and is fully standards compliant.
+msgid "Thunar is a new modern file manager for the Xfce Desktop Environment. Thunar has been designed from the ground up to be fast and easy-to-use. Its user interface is clean and intuitive, and does not include any confusing or useless options. Thunar is fast and responsive with a good start up time and directory load time. Thunar is accessible using Assistive Technologies and is fully standards compliant."
+msgstr ""
+
+#: Desktop Files - Tint is a simple panel/taskbar/systray intentionally made for openbox3, but should also work with other window managers.  The goal is to keep a clean and unintrusive look with lightweight code and compliance with freedesktop specifications.  Tint taskbar features     * color/transparency on font, icon, border and background     * customize mouse event     * drag and drop task between desktop and switch desktop   Tint panel features     * clock with font, color and transparency     * multi-monitor : panel position adjust to monitor, taskbar by monitor
+msgid "Tint is a simple panel/taskbar/systray intentionally made for openbox3, but should also work with other window managers.  The goal is to keep a clean and unintrusive look with lightweight code and compliance with freedesktop specifications.  Tint taskbar features     * color/transparency on font, icon, border and background     * customize mouse event     * drag and drop task between desktop and switch desktop   Tint panel features     * clock with font, color and transparency     * multi-monitor : panel position adjust to monitor, taskbar by monitor"
+msgstr ""
+
+#: Desktop Files - Tmux is a terminal multiplexer, it enables a number of terminals to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen.
+msgid "Tmux is a terminal multiplexer, it enables a number of terminals to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen."
+msgstr ""
+
+#: Desktop Files - TrafShow continuously displays the information regarding packet traffic on the configured network interface that matches the boolean expression. It periodically sorts and updates this information. It may be useful for locating suspicious network traffic on the net.
+msgid "TrafShow continuously displays the information regarding packet traffic on the configured network interface that matches the boolean expression. It periodically sorts and updates this information. It may be useful for locating suspicious network traffic on the net."
+msgstr ""
+
+#: Desktop Files - xbindkeys is a program that allows you to launch shell commands under X with your keyboard. It links commands to keys, using a configuration file.
+msgid "xbindkeys is a program that allows you to launch shell commands under X with your keyboard. It links commands to keys, using a configuration file."
+msgstr ""
+
+#: Desktop Files - Xfburn is a simple CD/DVD burning tool based on libburnia libraries. It can blank CD/DVD-RWs, burn and create iso images, as well as burn personal compositions of data to either CD or DVD. It Is currently under heavy development.
+msgid "Xfburn is a simple CD/DVD burning tool based on libburnia libraries. It can blank CD/DVD-RWs, burn and create iso images, as well as burn personal compositions of data to either CD or DVD. It Is currently under heavy development."
+msgstr ""
+
+#: Desktop Files - Zabbix is an enterprise-class open source distributed monitoring solution.  Zabbix is software that monitors numerous parameters of a network and the health and integrity of servers. Zabbix uses a flexible notification mechanism that allows users to configure e-mail based alerts for virtually any event. This allows a fast reaction to server problems. Zabbix offers excellent reporting and data visualisation features based on the stored data. This makes Zabbix ideal for capacity planning.
+msgid "Zabbix is an enterprise-class open source distributed monitoring solution.  Zabbix is software that monitors numerous parameters of a network and the health and integrity of servers. Zabbix uses a flexible notification mechanism that allows users to configure e-mail based alerts for virtually any event. This allows a fast reaction to server problems. Zabbix offers excellent reporting and data visualisation features based on the stored data. This makes Zabbix ideal for capacity planning."
+msgstr ""
+
+#: Desktop Files - x11vnc is a VNC server for real X displays.  VNC (Virtual Network Computing) is a very useful network graphics protocol which allows multiple simple remote viewers to watch and control a single desktop.  x11vnc differs from traditional UNIX VNC servers in that it is accessing a real X displays that may already be in progress rather than creating its own X server for clients to connect to.
+msgid "x11vnc is a VNC server for real X displays.  VNC (Virtual Network Computing) is a very useful network graphics protocol which allows multiple simple remote viewers to watch and control a single desktop.  x11vnc differs from traditional UNIX VNC servers in that it is accessing a real X displays that may already be in progress rather than creating its own X server for clients to connect to."
+msgstr ""
+
+#: Desktop Files - MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows. They do for Matroska what the OGMtools do for the OGM format and then some.
+msgid "MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows. They do for Matroska what the OGMtools do for the OGM format and then some."
+msgstr ""
+
+#: Desktop Files - NZBGet is a binary newsgrabber, which downloads files from usenet based on information given in nzb-files. Descriptino of nzb format is available at http://docs.newzbin.com/
+msgid "NZBGet is a binary newsgrabber, which downloads files from usenet based on information given in nzb-files. Descriptino of nzb format is available at http://docs.newzbin.com/"
+msgstr ""
+
+#: Desktop Files - Netatalk is an OpenSource software package, that can be used to turn an inexpensive *NIX machine into an extremely high-performance and reliable file server for Macintosh computers.  Using Netatalk's AFP 3.2 compliant file-server leads to significantly higher transmission speeds compared with Macs accessing a server via SaMBa/NFS while providing clients with the best possible user experience (full support for Macintosh metadata, flawlessly supporting mixed environments of classic MacOS and MacOS X clients)  Due to Netatalk speaking AppleTalk, the print-server task can provide printing clients with full AppleTalk support as well as the server itself with printing capabilities for AppleTalk-only printers.  Starting with version 2.0, Netatalk seamlessly interacts with CUPS on the server.  After all, Netatalk can be used to act as an AppleTalk router, providing both segmentation and zone names in Macintosh networks.
+msgid "Netatalk is an OpenSource software package, that can be used to turn an inexpensive *NIX machine into an extremely high-performance and reliable file server for Macintosh computers.  Using Netatalk's AFP 3.2 compliant file-server leads to significantly higher transmission speeds compared with Macs accessing a server via SaMBa/NFS while providing clients with the best possible user experience (full support for Macintosh metadata, flawlessly supporting mixed environments of classic MacOS and MacOS X clients)  Due to Netatalk speaking AppleTalk, the print-server task can provide printing clients with full AppleTalk support as well as the server itself with printing capabilities for AppleTalk-only printers.  Starting with version 2.0, Netatalk seamlessly interacts with CUPS on the server.  After all, Netatalk can be used to act as an AppleTalk router, providing both segmentation and zone names in Macintosh networks."
+msgstr ""
+
+#: Desktop Files - Nitrogen is a background browser and setter for X windows. It is written in C++ using the gtkmm toolkit.
+msgid "Nitrogen is a background browser and setter for X windows. It is written in C++ using the gtkmm toolkit."
+msgstr ""
+
+#: Desktop Files - Perl Audio Converter (PAC) is a tool for converting multiple audio types from one format to another. It supports MP2, MP3, Ogg Vorbis, FLAC, Shorten, Monkey Audio, FAAC (AAC/M4A/MP4), Musepack (MPC), Wavpack (WV), OptimFrog (OFR/OFS), TTA, LPAC, Kexis (KXS), AIFF, AC3, Lossless Audio (LA), BONK, AU, SND, RAW, VOC, SMP, RealAudio (RA/RAM), WAV, and WMA. It can also convert audio from the following video formats/extensions: RM, RV, ASF, DivX, MPG, MKV, MPEG, AVI, MOV, OGM, QT, VCD, VOB, and WMV. A CD ripping function with CDDB support, batch and playlist conversion, tag preservation for most supported formats, independent tag reading/ writing, and extensions for Konqueror and Amarok are also provided.
+msgid "Perl Audio Converter (PAC) is a tool for converting multiple audio types from one format to another. It supports MP2, MP3, Ogg Vorbis, FLAC, Shorten, Monkey Audio, FAAC (AAC/M4A/MP4), Musepack (MPC), Wavpack (WV), OptimFrog (OFR/OFS), TTA, LPAC, Kexis (KXS), AIFF, AC3, Lossless Audio (LA), BONK, AU, SND, RAW, VOC, SMP, RealAudio (RA/RAM), WAV, and WMA. It can also convert audio from the following video formats/extensions: RM, RV, ASF, DivX, MPG, MKV, MPEG, AVI, MOV, OGM, QT, VCD, VOB, and WMV. A CD ripping function with CDDB support, batch and playlist conversion, tag preservation for most supported formats, independent tag reading/ writing, and extensions for Konqueror and Amarok are also provided."
+msgstr ""
+
+#: Desktop Files - PulseAudio Volume Control (pavucontrol) is a simple GTK based volume control tool ("mixer") for the PulseAudio sound server. In contrast to classic mixer tools this one allows you to control both the volume of hardware devices and of each playback stream separately.
+msgid "PulseAudio Volume Control (pavucontrol) is a simple GTK based volume control tool ("mixer") for the PulseAudio sound server. In contrast to classic mixer tools this one allows you to control both the volume of hardware devices and of each playback stream separately."
+msgstr ""
+
+#: Desktop Files - PulseAudio Volume Meter (pavumeter) is a simple GTK volume meter for the PulseAudio sound server.
+msgid "PulseAudio Volume Meter (pavumeter) is a simple GTK volume meter for the PulseAudio sound server."
+msgstr ""
+
+#: Desktop Files - An extremly fast and lightweight file manager which features tabbed browsing and user-friendly interface.  Features: o Extremely fast and lightweight o Can be started in one second on normal machine o Tabbed browsing (Similar to Firefox) o Built-in volume management (mount/umount/eject through HAL) o Drag & Drop support o Files can be dragged among tabs o Load large directories in reasonable time o File association support (Default application) o Thumbnail for image files o Bookmarks support o Handles non-UTF-8 encoded filenames correctly o Provide icon view and detailed list view o Standard compliant (Follows FreeDesktop.org) o Clean and user-friendly interface (GTK+ 2)
+msgid "An extremly fast and lightweight file manager which features tabbed browsing and user-friendly interface.  Features: o Extremely fast and lightweight o Can be started in one second on normal machine o Tabbed browsing (Similar to Firefox) o Built-in volume management (mount/umount/eject through HAL) o Drag & Drop support o Files can be dragged among tabs o Load large directories in reasonable time o File association support (Default application) o Thumbnail for image files o Bookmarks support o Handles non-UTF-8 encoded filenames correctly o Provide icon view and detailed list view o Standard compliant (Follows FreeDesktop.org) o Clean and user-friendly interface (GTK+ 2)"
+msgstr ""
+
+#: Desktop Files - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. Privoxy has a flexible configuration and can be customized to suit individual needs and tastes. It may be used in both stand-alone systems and multi-user networks.
+msgid "Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. Privoxy has a flexible configuration and can be customized to suit individual needs and tastes. It may be used in both stand-alone systems and multi-user networks."
+msgstr ""
+
+#: Desktop Files - Puddletag is a audio tag editor similar to Windows program Mp3tag. Unlike most taggers, it uses a spreadsheet-like layout so that all the tags you want to  edit by hand are visible and easily editable.  Supported formats: ID3v1, ID3v2 (mp3), MP4 (mp4, m4a, etc.), VorbisComments (ogg, flac), Musepack (mpc), Monkey's Audio (.ape) and WavPack (wv)
+msgid "Puddletag is a audio tag editor similar to Windows program Mp3tag. Unlike most taggers, it uses a spreadsheet-like layout so that all the tags you want to  edit by hand are visible and easily editable.  Supported formats: ID3v1, ID3v2 (mp3), MP4 (mp4, m4a, etc.), VorbisComments (ogg, flac), Musepack (mpc), Monkey's Audio (.ape) and WavPack (wv)"
+msgstr ""
+
+#: Desktop Files - CenterIM is a fork of CenterICQ.  CenterIM is a text mode menu- and window-driven IM interface that supports the ICQ2000, Yahoo!, MSN, AIM, Gadu-Gadu and IRC protocols as well as posting to LiveJournal aggregating RSS feeds.  It allows you to send, receive, and forward messages, URLs, SMSes, contacts, and email express messages. It also lets you set your own and fetch others' away messages, and define external handlers for incoming events. You can mass message-send, search for users, view users' details, maintain your contact list directly from the program, view the message history, register a new UIN and update your details, be informed upon receipt of email messages, automatically set away after the defined period of inactivity, and have your own ignore, visible, and invisible lists.  It can also associate events with sounds, make log of events, and allows arrangement of contacts into groups.  The development of CenterIM is currently quite active, but is still happy to find more users helping with contributing bug reports, suggestions, feedback and code. If you're interested in joining our community, feel free to inform about our mailing lists on the CenterIM homepage or on #centerim at the Freenode IRC.
+msgid "CenterIM is a fork of CenterICQ.  CenterIM is a text mode menu- and window-driven IM interface that supports the ICQ2000, Yahoo!, MSN, AIM, Gadu-Gadu and IRC protocols as well as posting to LiveJournal aggregating RSS feeds.  It allows you to send, receive, and forward messages, URLs, SMSes, contacts, and email express messages. It also lets you set your own and fetch others' away messages, and define external handlers for incoming events. You can mass message-send, search for users, view users' details, maintain your contact list directly from the program, view the message history, register a new UIN and update your details, be informed upon receipt of email messages, automatically set away after the defined period of inactivity, and have your own ignore, visible, and invisible lists.  It can also associate events with sounds, make log of events, and allows arrangement of contacts into groups.  The development of CenterIM is currently quite active, but is still happy to find more users helping with contributing bug reports, suggestions, feedback and code. If you're interested in joining our community, feel free to inform about our mailing lists on the CenterIM homepage or on #centerim at the Freenode IRC."
+msgstr ""
+
+#: Desktop Files - Clamz is a little command-line program to download MP3 files from Amazon.com's music store. It is intended to serve as a substitute for Amazon's official MP3 Downloader, which is not free software (and therefore is only available in binary form for a limited set of platforms.)  Clamz can be used to download either individual songs or complete albums that you have purchased from Amazon.
+msgid "Clamz is a little command-line program to download MP3 files from Amazon.com's music store. It is intended to serve as a substitute for Amazon's official MP3 Downloader, which is not free software (and therefore is only available in binary form for a limited set of platforms.)  Clamz can be used to download either individual songs or complete albums that you have purchased from Amazon."
+msgstr ""
+
+#: Desktop Files - DVDStyler is a crossplatform GUI frontend to the dvd authoring and recording programs.  The main DVDStyler features are:  o drag and drop MPEG files directly  o import image file for background  o create NTSC/PAL menu  o place text and images anywhere on the menu screen  o change font/color  o put basic text buttons, change font/color and background color  o set chapters for each movie  o change post command for each movie
+msgid "DVDStyler is a crossplatform GUI frontend to the dvd authoring and recording programs.  The main DVDStyler features are:  o drag and drop MPEG files directly  o import image file for background  o create NTSC/PAL menu  o place text and images anywhere on the menu screen  o change font/color  o put basic text buttons, change font/color and background color  o set chapters for each movie  o change post command for each movie"
+msgstr ""
+
+#: Desktop Files - Flare (Free Libre Action Roleplaying Engine) is a simple game engine built to handle a very specific kind of game: single-player 2D action RPGs. Flare is not a reimplementation of an existing game or engine. It is a tribute to and exploration of the action RPG genre.  Rather than building a very abstract, robust game engine, the goal of this project is to build several real games and harvest an engine from the common, reusable code. The first game, in progress, is a fantasy dungeon crawl.
+msgid "Flare (Free Libre Action Roleplaying Engine) is a simple game engine built to handle a very specific kind of game: single-player 2D action RPGs. Flare is not a reimplementation of an existing game or engine. It is a tribute to and exploration of the action RPG genre.  Rather than building a very abstract, robust game engine, the goal of this project is to build several real games and harvest an engine from the common, reusable code. The first game, in progress, is a fantasy dungeon crawl."
+msgstr ""
+
+#: Desktop Files - fluxconf is a tiny GTK based configuration tool for the fluxbox window manager. It allows basic manipulation of the window manager behaviour:      o Slit configuration     o Window placement     o Focus model     o Workspace configuration
+msgid "fluxconf is a tiny GTK based configuration tool for the fluxbox window manager. It allows basic manipulation of the window manager behaviour:      o Slit configuration     o Window placement     o Focus model     o Workspace configuration"
+msgstr ""
+
+#: Desktop Files - FreeRDP is a fork of the rdesktop project that intends to rapidly start moving forward and implement features that rdesktop lacks the most.  Improvements:   * Support for cursors on Windows Server 2008 R2  * Support for bitmap caching, which provides a good performance boost  * Support for Windows Server 2008 Terminal Services Session Broker Load    Balancing  * New keyboard input system based on the XKB database, providing better support    for international keyboards
+msgid "FreeRDP is a fork of the rdesktop project that intends to rapidly start moving forward and implement features that rdesktop lacks the most.  Improvements:   * Support for cursors on Windows Server 2008 R2  * Support for bitmap caching, which provides a good performance boost  * Support for Windows Server 2008 Terminal Services Session Broker Load    Balancing  * New keyboard input system based on the XKB database, providing better support    for international keyboards"
+msgstr ""
+
+#: Desktop Files - Gretools is a vocabulary building tool for GNOME. Its wordlist is comprised of about 4000 words, and it has a synonym quiz and a word-guessing game.
+msgid "Gretools is a vocabulary building tool for GNOME. Its wordlist is comprised of about 4000 words, and it has a synonym quiz and a word-guessing game."
+msgstr ""
+
+#: Desktop Files - GTK based Gnutella client which supports the standard Gnutella operations.  Search, download, file sharing, bandwidth limiting, host caching, as well as some basic statistics. Now with enhanced features, such as PARQ queueing, PFSP, DHT, push-proxies, UPnP, NAT-PMP and others, making it a stable and fully functional graphical gnutella client for *nix systems.  An excellent way to find that hidden file on the internet that you know exists but standard search engines do not seem to carry.
+msgid "GTK based Gnutella client which supports the standard Gnutella operations.  Search, download, file sharing, bandwidth limiting, host caching, as well as some basic statistics. Now with enhanced features, such as PARQ queueing, PFSP, DHT, push-proxies, UPnP, NAT-PMP and others, making it a stable and fully functional graphical gnutella client for *nix systems.  An excellent way to find that hidden file on the internet that you know exists but standard search engines do not seem to carry."
+msgstr ""
+
+#: Desktop Files - GTorrentViewer is a GTK2-based viewer and editor for BitTorrent meta files. It is able to retrieve information from trackers, check files, show detailed information, and modify .torrent files without having to start downloading.
+msgid "GTorrentViewer is a GTK2-based viewer and editor for BitTorrent meta files. It is able to retrieve information from trackers, check files, show detailed information, and modify .torrent files without having to start downloading."
+msgstr ""
+
+#: Desktop Files - Grdesktop is a GNOME frontend, for the remote desktop client (rdesktop). It can save several connections (including their options), and browse the network for available terminal servers.
+msgid "Grdesktop is a GNOME frontend, for the remote desktop client (rdesktop). It can save several connections (including their options), and browse the network for available terminal servers."
+msgstr ""
+
+#: Desktop Files - Hamachi is a zero-configuration virtual private networking tool.
+msgid "Hamachi is a zero-configuration virtual private networking tool."
+msgstr ""
+
+#: Desktop Files - HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder, available for MacOS X, Linux and Windows (...and FreeBSD).  Supported sources:      * Any DVD-like source: VIDEO_TS folder, DVD image or real DVD     (unencrypted--protection methods including CSS are not supported internally     and must be handled externally with third-party software and libraries), and     some .VOB and .TS files      * Most any multimedia file it can get libavformat to     read and libavcodec to decode.  Outputs:      * File format: MP4, MKV, AVI or OGM      * Video: MPEG-4, H.264, or Theora (1 or 2 passes or constant quantizer/rate       encoding)      * Audio: AAC, MP3, Vorbis or AC-3 pass-through (supports encoding of several       audio tracks)
+msgid "HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder, available for MacOS X, Linux and Windows (...and FreeBSD).  Supported sources:      * Any DVD-like source: VIDEO_TS folder, DVD image or real DVD     (unencrypted--protection methods including CSS are not supported internally     and must be handled externally with third-party software and libraries), and     some .VOB and .TS files      * Most any multimedia file it can get libavformat to     read and libavcodec to decode.  Outputs:      * File format: MP4, MKV, AVI or OGM      * Video: MPEG-4, H.264, or Theora (1 or 2 passes or constant quantizer/rate       encoding)      * Audio: AAC, MP3, Vorbis or AC-3 pass-through (supports encoding of several       audio tracks)"
+msgstr ""
+
+#: Desktop Files - Jags is a Gtk+ based windows network neighbourhood browser. The program parses the output from smbclient ( part of the samba-package ) and use this to display a graphic view of the network. This program does the parsing with help from shell- scripts. This means that it's easy to change the functionality of the program and you can edit this without touching the source-code.
+msgid "Jags is a Gtk+ based windows network neighbourhood browser. The program parses the output from smbclient ( part of the samba-package ) and use this to display a graphic view of the network. This program does the parsing with help from shell- scripts. This means that it's easy to change the functionality of the program and you can edit this without touching the source-code."
+msgstr ""
+
+#: Desktop Files - jrdesktop is an open source software for viewing and/or controlling a distance PC. Besides then screenshots, keyboard and mouse events transfer, jrdesktop includes many additional features(file transfer, data compression, color conversion, ...).
+msgid "jrdesktop is an open source software for viewing and/or controlling a distance PC. Besides then screenshots, keyboard and mouse events transfer, jrdesktop includes many additional features(file transfer, data compression, color conversion, ...)."
+msgstr ""
+
+#: Desktop Files - Kmess, the Live Messenger alternative!  With KMess, chatting with friends using Live Messenger has never been so good - enjoy our great features: * Display picture transfers * Fast file transfers * Custom emoticons, nudges and winks * Offline messaging and chatting while invisible * Rich and colorful chat styles and logs * Chat logging and logs browsing * Messenger Plus Live text coloring and formatting * Live Mail notifications * Block annoying custom emoticons * Connectivity from behind firewalls and proxies * Good-looking and friendly user interface
+msgid "Kmess, the Live Messenger alternative!  With KMess, chatting with friends using Live Messenger has never been so good - enjoy our great features: * Display picture transfers * Fast file transfers * Custom emoticons, nudges and winks * Offline messaging and chatting while invisible * Rich and colorful chat styles and logs * Chat logging and logs browsing * Messenger Plus Live text coloring and formatting * Live Mail notifications * Block annoying custom emoticons * Connectivity from behind firewalls and proxies * Good-looking and friendly user interface"
+msgstr ""
+
+#: Desktop Files - KDE frontend to MPlayer, Xine, GStreamer
+msgid "KDE frontend to MPlayer, Xine, GStreamer"
+msgstr ""
+
+#: Desktop Files - The LDAP Browser/Editor provides a user-friendly Windows Explorer-like interface to LDAP directories with tightly integrated browsing and editing capabilities. It is entirely written in Java with the help of the JFC (SwingSet) and JNDI class libraries. It connects to LDAP v2 and v3 servers.
+msgid "The LDAP Browser/Editor provides a user-friendly Windows Explorer-like interface to LDAP directories with tightly integrated browsing and editing capabilities. It is entirely written in Java with the help of the JFC (SwingSet) and JNDI class libraries. It connects to LDAP v2 and v3 servers."
+msgstr ""
+
+#: Desktop Files - Lynx-like WWW browser with text and graphics modes with many features like displaying tables, menus, etc.
+msgid "Lynx-like WWW browser with text and graphics modes with many features like displaying tables, menus, etc."
+msgstr ""
+
+#: Desktop Files - Redshift adjusts the color temperature of your screen according  to your surroundings. This may help your eyes hurt less if you  are working in front of the screen at night.
+msgid "Redshift adjusts the color temperature of your screen according  to your surroundings. This may help your eyes hurt less if you  are working in front of the screen at night."
+msgstr ""
+
+#: Desktop Files - evilvte is a terminal emulator.  It supports almost everything VTE provides. It also supports tabs, tabbar autohide, and switch encoding at runtime. Configuration is via editing source code and recompilation.
+msgid "evilvte is a terminal emulator.  It supports almost everything VTE provides. It also supports tabs, tabbar autohide, and switch encoding at runtime. Configuration is via editing source code and recompilation."
+msgstr ""
+
+#: Desktop Files - Fail2ban scans log files like /var/log/pwdfail or /var/log/apache/error_log  and bans IP that makes too many password failures. It updates  firewall rules to reject the IP address. 
+msgid "Fail2ban scans log files like /var/log/pwdfail or /var/log/apache/error_log  and bans IP that makes too many password failures. It updates  firewall rules to reject the IP address. "
+msgstr ""
+
+#: Desktop Files - Utilities to ease computer usage
+msgid "Utilities to ease computer usage"
+msgstr ""
+
+#: Desktop Files - BackupPC is a high-performance, enterprise-grade system for backing up Linux, WinXX and MacOSX PCs and laptops to a server's disk. BackupPC is highly configurable and easy to install and maintain.
+msgid "BackupPC is a high-performance, enterprise-grade system for backing up Linux, WinXX and MacOSX PCs and laptops to a server's disk. BackupPC is highly configurable and easy to install and maintain."
+msgstr ""
+
+#: Desktop Files - recordMyDesktop is a  desktop session recorder for GNU / linux  that attemps to be easy to use, yet also effective at it's primary task. As such, the program is separated in two parts a simple command line tool that performs the basic tasks of capturing and encoding and an interface that exposes the program functionality in a usable way.
+msgid "recordMyDesktop is a  desktop session recorder for GNU / linux  that attemps to be easy to use, yet also effective at it's primary task. As such, the program is separated in two parts a simple command line tool that performs the basic tasks of capturing and encoding and an interface that exposes the program functionality in a usable way."
+msgstr ""
+
+#: Desktop Files - Konverter is a KDE MEncoder frontend for easy video conversions, scaling and cropping. Just select any common input format and select your favourite output format, codec and size (cropped or scaled). It also features videosplitting, videomerging and a preview mode. Just simple and powerful :-)
+msgid "Konverter is a KDE MEncoder frontend for easy video conversions, scaling and cropping. Just select any common input format and select your favourite output format, codec and size (cropped or scaled). It also features videosplitting, videomerging and a preview mode. Just simple and powerful :-)"
+msgstr ""
+
+#: Desktop Files - LCDproc controls various LCD and VFD devices in a standardized way, and ships with a client to display various system statistics. like CPU load, system load, memory usage, uptime, and a lot more. Client/server model allows multiple clients to use one display. 
+msgid "LCDproc controls various LCD and VFD devices in a standardized way, and ships with a client to display various system statistics. like CPU load, system load, memory usage, uptime, and a lot more. Client/server model allows multiple clients to use one display. "
+msgstr ""
+
+#: Desktop Files - Rdesktop is an open source client for Windows NT/2000/2003 Terminal Server, capable of natively speaking its Remote Desktop Protocol (RDP) in order to present the user's Windows desktop.  Unlike Citrix ICA, no server extensions are required.
+msgid "Rdesktop is an open source client for Windows NT/2000/2003 Terminal Server, capable of natively speaking its Remote Desktop Protocol (RDP) in order to present the user's Windows desktop.  Unlike Citrix ICA, no server extensions are required."
+msgstr ""
+
+#: Desktop Files - Remmina is a remote desktop client written in GTK+, aiming to be useful for system administrators and travellers, who need to work with lots of remote computers in front of either large monitors or tiny netbooks. Remmina supports multiple network protocols in an integrated and consistant user interface.  The Remmina main program:   * A pure GTK+ 2.0 application!  * Maintain a list of remote desktop files, organized by groups  * Make quick connections by directly putting in the server name  * Remote desktops with higher resolutions are scrollable/scalable in both    window and fullscreen mode  * Viewport fullscreen mode: remote desktop automatically scrolls when the    mouse moves over the screen edge.  * Floating toolbar in fullscreen mode, allows you to switch between modes,    toggle keyboard grabbing, minimize, etc.  * Tabbed interface, optionally managed by groups  * Supported network protocols: RDP, NX, Telepathy, VNC, XDMCP, SSH, Avahi
+msgid "Remmina is a remote desktop client written in GTK+, aiming to be useful for system administrators and travellers, who need to work with lots of remote computers in front of either large monitors or tiny netbooks. Remmina supports multiple network protocols in an integrated and consistant user interface.  The Remmina main program:   * A pure GTK+ 2.0 application!  * Maintain a list of remote desktop files, organized by groups  * Make quick connections by directly putting in the server name  * Remote desktops with higher resolutions are scrollable/scalable in both    window and fullscreen mode  * Viewport fullscreen mode: remote desktop automatically scrolls when the    mouse moves over the screen edge.  * Floating toolbar in fullscreen mode, allows you to switch between modes,    toggle keyboard grabbing, minimize, etc.  * Tabbed interface, optionally managed by groups  * Supported network protocols: RDP, NX, Telepathy, VNC, XDMCP, SSH, Avahi"
+msgstr ""
+
+#: Desktop Files - This is a SILC network client  Q: What is SILC?  A: SILC (Secure Internet Live Conferencing) is a protocol which provides secure conferencing services in the Internet over insecure channel. SILC is IRC like although internally they are very different. Biggest similarity between SILC and IRC is that they both provide conferencing services and that SILC has almost same commands as IRC. Other than that they are nothing alike.  Biggest differences are that SILC is secure what IRC is not in any way.  The network model is also entirely different compared to IRC.
+msgid "This is a SILC network client  Q: What is SILC?  A: SILC (Secure Internet Live Conferencing) is a protocol which provides secure conferencing services in the Internet over insecure channel. SILC is IRC like although internally they are very different. Biggest similarity between SILC and IRC is that they both provide conferencing services and that SILC has almost same commands as IRC. Other than that they are nothing alike.  Biggest differences are that SILC is secure what IRC is not in any way.  The network model is also entirely different compared to IRC."
+msgstr ""
+
+#: Desktop Files - Stellarium is a free open source planetarium for your computer.  It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars, or a telescope.  It is being used in planetarium projectors.  Just set your coordinates and go.
+msgid "Stellarium is a free open source planetarium for your computer.  It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars, or a telescope.  It is being used in planetarium projectors.  Just set your coordinates and go."
+msgstr ""
+
+#: Desktop Files - streamtuner is a stream directory browser. Through the use of a plugin system, it offers an intuitive GTK+ 2.0 interface to Internet radio directories such as SHOUTcast and Live365.
+msgid "streamtuner is a stream directory browser. Through the use of a plugin system, it offers an intuitive GTK+ 2.0 interface to Internet radio directories such as SHOUTcast and Live365."
 msgstr ""

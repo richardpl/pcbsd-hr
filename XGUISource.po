@@ -2,14 +2,31 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-23 03:35-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2012-03-05 03:35-0700\n"
+"PO-Revision-Date: 2012-03-05 21:00+0200\n"
+"Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: QObject#1
+msgid "Keep these display settings?"
+msgstr "Zadrži ove postavke zaslona?"
+
+#: QObject#2
+msgid "The previous attempt failed, please check your settings and try again."
+msgstr ""
+"Prethodni pokušaj nije bio uspješan, molimo provjerite vaše postavke i "
+"pokušajte ponovno."
+
+#: QObject#3
+msgid "Your display has been automatically configured. Keep these settings?"
+msgstr "Zaslon se automatski postavio. Zadrži ove postavke?"
 
 #: XGUI#1
 msgid "Display Settings"

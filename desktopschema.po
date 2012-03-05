@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-18 12:24-0700\n"
-"PO-Revision-Date: 2011-11-21 18:13+0200\n"
+"PO-Revision-Date: 2012-03-05 20:51+0200\n"
 "Last-Translator: Paul <onemda@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -706,7 +706,7 @@ msgstr "Preferirane aplikacije"
 
 #: Desktop Files - Select your default applications
 msgid "Select your default applications"
-msgstr "Odaberite vaše uobičajne aplikacije"
+msgstr "Odaberite vaše zadane aplikacije"
 
 #: Desktop Files - Startup Applications
 msgid "Startup Applications"
@@ -915,3 +915,7 @@ msgstr "BPM"
 #: Desktop Files - A BSD ports collection manager
 msgid "A BSD ports collection manager"
 msgstr "Upravljač zbirkom BSD portova"
+
+#: Desktop Files - GDM configuration
+msgid "GDM configuration"
+msgstr "GDM postavke"
